@@ -1269,7 +1269,7 @@
 	    </lg>
 	  </quote>
 	  <p>
-	    <s>hē <app><lem>vistīrṇākṣi</lem><rdg wit="#A #B">vistīrnatākṣiḥ</rdg></app> yasyāḥ pañca mātragaṇadvayaṁ paśyasi gurvantēna vi ( tri) mātrēṇa sahitaṁ tāṁ jyōtsna<lb/>     jā<choice><orig>ṇī</orig><reg>nī</reg></choice>hi.</s>
+	    <s>hē <app><lem>vistīrṇākṣi</lem><rdg wit="#A #B">vistīrnatākṣiḥ</rdg></app> yasyāḥ pañca mātragaṇadvayaṁ paśyasi gurvantēna <choice><orig>vi</orig><reg>tri</reg></choice> mātrēṇa sahitaṁ tāṁ jyōtsnāṁ<lb/> jā<choice><orig>ṇī</orig><reg>nī</reg></choice>hi.</s>
 	    <s>rathāṅgaṁ cakram.</s>
 	    <s>cāpaṁ dhanuḥ.</s>
 	  </p>
@@ -1342,7 +1342,7 @@
 	    </lg>
 	  </quote>
 	  <p>
-	    <s>caturmātragaṇadvayēna [gurudvayēna ] ca pragītā śōbhatē.</s>
+	    <s>caturmātragaṇadvayēna <add resp="#HDV">gurudvayēna</add> ca pragītā śōbhatē.</s>
 	    <s>syandanō rathaḥ.</s>
 	    <s><app><lem>ahētyētadō</lem><rdg wit="#A #B">ahōnyētadō</rdg></app> vācakō<lb/> dēśīpadō nipātaḥ.</s>
 	  </p>
@@ -2006,16 +2006,31 @@
 	<p>
 	  <s><q type="pratīka">jīa duē</q> iti.</s>
 	</p>
-      jīa duē vāraṇaā dō turaā jōhaō a
-      tāṇa rpurō ṇiamiau (ō) aṁtiaō suragaō a ।
-      pēcchijasu caṁdavaaṇiē suisuhavattaṇammi
-      lakkhaṇaē kaiaṇaō bhai a [] mēhaaṁti ॥ 31 ॥ mēdhā |
-<lg n="31">
-  <l>yasyā dvau vāraṇau <add resp="#HDV">at</add> turagau yōdhaśca tēṣāṁ punarniyamitō'ntimaḥ suragajaśca</l>
-  <l>paśya candravadanē śrutisukhavartanē lakṣaṇē kavijanō bhaṇati ca tāṁ mēdhēti </l>
-</lg>
-      hē rā ( candravadanē paśya trilōkaya । śrutau sukhaṁ vartayati yattasmillakṣaṇē । kavijanastamēva bhaṇati
-      [ mēdhāmiti ] । kiṁbhūtām । yasya dvau rbhāṇau (vāraṇau ) caturmātrī punarapi dvāvēva tau turagākhyā (vaśvā ? )-
+	<quote type="base-text">
+	  <lg n="31">
+	    <l>jīa duē vāraṇaā dō turaā jōhaō a</l>
+	    <l>tāṇa rpurō ṇiamia<choice><orig>u</orig><reg>ō</reg></choice> aṁtiaō suragaō a</l>
+	    <l>pēcchijasu caṁdavaaṇiē suisuhavattaṇammi</l>
+	    <l>lakkhaṇaē kaiaṇaō bhai a [] mēhaaṁti</l>
+	    <label>mēghā</label>
+	    <note type="chāya">
+	      <lg n="31">
+		<l>yasyā dvau vāraṇau <add resp="#HDV">at</add> turagau yōdhaśca tēṣāṁ punarniyamitō'ntimaḥ suragajaśca</l>
+		<l>paśya candravadanē śrutisukhavartanē lakṣaṇē kavijanō bhaṇati ca tāṁ mēghēti </l>
+	      </lg>
+	    </note>
+	  </lg>
+	</quote>
+	<p>
+	  <s>hē rā ( candravadanē paśya trilōkaya.</s>
+	  <s>śrutau sukhaṁ vartayati yattasmillakṣaṇē.</s>
+	  <s>kavijanas tam ēva bhaṇati<lb/> <add resp="#HDV">mēghām iti</add>.</s>
+	  <s>kiṁbhūtām.</s>
+	  <s>yasya dvau <choice><orig>rbhāṇau</orig><reg>vāraṇau</reg></choice> caturmātrī punarapi dvāvēva tau turagākhyā (vaśvā ? )<pb break="no"/><lb break="no"/
+
+	  <!-- UP TO HERE !-->
+
+
       1 śubhayā ? Com. has bhūtayā for this word. 2 The words prathamasthānaniyukta from next line are
       repeated before tr̥tīyacaturtha0 in both AB 3 yādhēkayāsya AB. 4 puraō puraō a AB. 5 ucchuaṁ Com.
       6puṇō Com.
