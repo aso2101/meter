@@ -1,0 +1,4130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+ref="/sarit.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"
+type="application/xml"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="san-Latn">Jānāśrayī Chandōvicitiḥ</title>
+	<title xml:lang="san-Deva">जानाश्रयी छन्दोविचितिः</title>
+	<respStmt>
+	  <persName>Andrew Ollett</persName>
+	  <resp>OCR of Narayana Pillai’s edition</resp>
+	</respStmt>
+	<respStmt>
+	  <persName xml:id="TR">Teo Ruskov</persName>
+	  <resp>TEI structure</resp>
+	</respStmt>
+      </titleStmt>
+      <publicationStmt>
+	<p>Placeholder</p>
+      </publicationStmt>
+      <sourceDesc>
+	<listBibl>
+	  <bibl>P. K. Narayana Pillai’s edition</bibl>
+	</listBibl>
+	<listWit>
+	  <witness xml:id="ka">
+	    <label xml:lang="san-Deva">क</label>
+	    A paper manuscript supplied by Pandit V. Venkatarama Sharma, University College, Trivandrum. The Manuscript is neatly written and the sūtra and the vṛtti for the most part are separately indicated.
+	  </witness>
+	  <witness xml:id="kha">Transcript No. 170 belonging to the Curator’s collection in this Library. It contains numerous mistakes, and the sūtra and the vṛtti are not distinguished.
+	  <label xml:lang="san-Deva">ख</label>
+	  </witness>m
+	  <witness xml:id="ga">No. 12835 F. Palm leaf. Size – 14" x 2". No. of folios – 26. No. of lines per page – 9; No. of letters per line – 58. Malayalam script. Procured from Kaladi Mana, Kottayam, North Travancore. The writing is old but legible. Mistakes are numerous and the sūtra and the vṛtti are written together.
+	  <label xml:lang="san-Deva">ग</label>
+	  </witness>
+	</listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>This file is based on an original printed book in the Devanagari script.</p>
+    </encodingDesc>
+  </teiHeader>
+  <text xml:lang="san-Latn">
+    <body>
+
+      <pb n="1"/>
+
+      <head>॥ śrīḥ ॥<lb/> jānāśrayī<lb/> chandōvicitiḥ</head>
+      <div n="1">
+	<head>prathamō ’dhyāyaḥ</head>
+	<div type="nonsūtra">
+	  <lg n="1">
+	    <l>sa bhūpatirudāradhīrjayati sampadēkāśrayō</l>
+	    <l><name>janāśraya</name> iti śriyā vahati nāma sārthaṁ vibhuḥ</l>
+	    <l>jitā vijitaśatruṇā jagati yēna ruddhā <app><lem>ciraṁ</lem><rdg wit="#ka #kha">carat</rdg></app></l>
+	    <l>makhairurubhiradbhutairmaghavatō jayaśrīrapi<note xml:lang="eng"><p><s><foreign xml:lang="san-Latn">ka</foreign> interchanges the order of the last two lines.</s></p></note></l>
+	  </lg>
+	  <p>
+	    <s>athātaḥ chandō-vr̥tta-jātīnāṁ tattvajijñāsavē śiṣyāya<lb/> paurāṇikīṣu <app><lem>paiṅgalādicchandō</lem><rdg wit="#ka">paiṅgalādiṣu chandō</rdg></app>vicitiṣu yathāsambhavaṁ nyūnā<lb break="no"/>tirēkaṁ <app><lem>parīkṣya</lem><rdg wit="#ga">samīkṣya</rdg></app> parihr̥tya taddōṣaparihr̥tāmimāmaprapañcāmanākulāṁ<lb/> jānāśrayīṁ chandōvicitiṁ gaṇasvāmiviracitavyākhyāṁ<lb/> vyākhyāsyāmaḥ.</s>
+	  </p>
+	</div>
+
+	<pb n="2"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="1">tatra tāvacchandāṁsi ṣaḍviṁśatiḥ</ab>
+	  <p>
+	    <s>avadyānyāścaryatayā chādayantīti chandāṁsi.</s>
+	    <s>tāni<lb/> ṣaḍviṁśatir iti jñēyāni.</s>
+	  </p>
+	</div>
+	<div type="sūtra">
+	  <ab type="sūtra" n="2">tannāmāni svavr̥ttēṣu</ab>
+	  <p>
+	    <s>tēṣāṁ chandasāṁ nāmāni <app><lem>tēṣu tēṣu vr̥ttēṣū</lem><rdg wit="ga">svēṣu vr̥ttēṣu</rdg></app>ttaratra vakṣya<lb break="no"/>māṇēṣu ādyāt prabhr̥tyanukramēṇa vakṣyantē.</s>
+	    <s>tadyathā —</s>
+	    <list>
+	      <item>uktam</item>
+	      <item>atyuktam</item>
+	      <item>madhyamam</item>
+	      <item>pratiṣṭhā</item>
+	      <item>supra<lb break="no"/>tiṣṭhā</item>
+	      <item>gāyatrī</item>
+	      <item>uṣṇik</item>
+	      <item>anuṣṭup</item>
+	      <item>br̥hatī</item><lb/>
+	      <item>paṅktiḥ</item>
+	      <item>triṣṭup</item>
+	      <item>jagatī</item>
+	      <item>atijagatī</item>
+	      <item>śakvarī</item><lb/>
+	      <item>atiśakvarī</item>
+	      <item>aṣṭiḥ</item>
+	      <item>atyaṣṭiḥ</item>
+	      <item>dhr̥tiḥ</item>
+	      <item>ati<lb break="no"/>dhr̥tiḥ</item>
+	      <item>kr̥tiḥ</item>
+	      <item>prakr̥tiḥ</item>
+	      <item>ākr̥tiḥ</item>
+	      <item>vikr̥tiḥ</item><lb/>
+	      <item>salaṅkr̥tiḥ</item>
+	      <item>abhikr̥tiḥ</item>
+	      <item>utkr̥tiḥ</item>
+	    </list>
+	  </p>
+	</div>
+	<div type="sūtra">
+	  <ab type="sūtra" n="3"><app><lem>catvāryādyākṣarāṇi</lem><rdg wit="#kha #ga">catvāryādyakṣarāṇi</rdg></app></ab>
+	  <p>
+	    <s>ādyasya uktākhyasya chandasaścatvāryakṣarāṇi bhavanti.</s>
+	  </p>
+
+	  <ab type="sūtra" n="4">catuścaturvr̥ddhiranyēṣām</ab>
+	  <p>
+	    <s>anyēṣāmatyuktādīnāṁ chandasāṁ caturbhiścaturbhirakṣarairanu<lb break="no"/>kramēṇa vr̥ddhirbhavati.</s>
+	    <s>tadyathā — atyuktasyāṣṭau, madhyamasya<lb/> dvādaśa, pratiṣṭhāyāḥ ṣōḍaśa ityēvamādi.</s>
+	  </p>
+
+	</div>
+
+	<pb n="3"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="5">utkr̥tēḥ</ab>
+	  <p>
+	    <s>tasyāḥ catuśśatānyakṣarāṇi bhavanti.</s>
+	  </p>
+	</div>
+	<div type="sūtra">
+	  <ab type="sūtra" n="6">dvyēkair ūnē virā<app><lem>ṇnivr̥tau</lem><rdg wit="#ga">ṇnittr̥tau</rdg></app></ab>
+	  <p>
+	    <s>dvē ēkañca dvyekāni, taiḥ dvyekair iti vigrahaḥ taiḥ.</s>
+	    <s>niya<lb break="no"/>mitākṣarāṇāṁ chandasāṁ dvābhyāmakṣarābhyāmūnā virāṭ nāma <lb/>bhavati.</s>
+	    <s>ēkēnōnā nivr̥d bhavati.</s>
+	    <s>vaidikārthō ’yamārambhaḥ.</s><lb/>
+	    <s>laukikaṁ ca viśēṣitalakṣaṇamēva vr̥ttaṁ vā jātirvā ēvaṁ bhavati.</s><lb/>
+	    <s>laukikavirāṭ yathā —</s>
+	    <quote>
+	      <lg>
+		<l>śūraḥ sumukhaḥ sadayaḥ śāntō dhīrastyāgī guṇavān bhaktaḥ</l>
+		<l>kulajō ’smākaṁ nityaṁ mitraṁ bhavatu ślāghyaṁ......<note xml:lang="eng"><p><s>The last letters are missing in all the Mss.</s></p></note></l>
+	      </lg>
+	    </quote>
+	    <s>laukikanivr̥d yathā —</s>
+	    <quote>
+	      <lg>
+		<l>ambhōdānāmasitānāṁ śrutvā śabdaṁ santatabarhaḥ</l>
+		<l>ambhōbhārānmandagatīnāmudgrīvō ’yaṁ rauti mayūraḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra">
+	  <ab type="sūtra" n="7">svarāḍbhurijāvadhikē</ab>
+	  <p>
+	    <s>dvyekair ity anuvartatē, taiḥ.</s>
+	    <s>niyamitākṣarāṇāṁ chandasāṁ<lb/> dvābhyāmakṣarābhyāmadhikā svarāṭ nāma bhavati.</s>
+	    <s>ēkēnādhikaḥ<lb/> bhurik nāma bhavati.</s>
+
+	    <pb n="4"/>
+
+	    <s>laukikasvarāḍ yathā —</s>
+	    <quote>
+	      <lg>
+		<l>atha tatra śucau latāgr̥hē</l>
+		<l>kusumōdgāriṇi tau niṣīdatuḥ</l>
+		<l>mr̥dubhirmr̥dumārutēritai-</l>
+		<l>rupagūḍhāviva bālapallavaiḥ</l>
+	      </lg>
+	    </quote>
+	    <s>laukikabhurig yathā —</s>
+	    <quote>
+	      <lg>
+		<l>manōjñamapi sinduvārataḥ</l>
+		<l>kunda kusumamagryaṁ ca ṣaṭpadaḥ</l>
+		<l>na marpati tuṣāraśaṅkita-</l>
+		<l>ścandrālōkaviśēṣaśītalam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra">
+	  <ab type="sūtra" n="8">caturbhāgaḥ pādaḥ</ab>
+	  <p>
+	    <s>yasya chandasō yāvantyakṣarāṇi tēṣāṁ yaścaturthō bhāgaḥ<lb/> sa pādasaṁjñō bhavati.</s>
+	    <s>tadyathā — uktasyaikamakṣaraṁ pādaḥ.</s><lb/>
+	    <s>atyuktasya dvē.</s>
+	    <s>madhyamasya trīṇi.</s>
+	    <s>ēvaṁ sarvēṣām <app><lem>api</lem><rdg wit="#ka #kha #ga">ādi</rdg></app>.</s>
+	  </p>
+	</div>
+	<div type="sūtra">
+	  <ab type="sūtra" n="9">utkr̥tēḥ</ab>
+	  <p>
+	    <s>utkr̥tēḥ ṣaḍviṁśatyakṣarāṇi pādaḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra">
+	  <ab type="sūtra" n="10">svarō ’kṣaram</ab>
+	  <p>
+	    <s><cit><quote>catvā<app><lem>ryādyākṣarāṇi</lem><rdg wit="#kha #ga">ryādyakṣarāṇi</rdg></app></quote> <ref target="Jānā.1.3">(sū.1.3)</ref></cit>, <cit><quote>catuścatu<lb break="no"/>rvr̥ddhiranyēṣām</quote> <ref target="Jānā.1.4">(sū. 1. 4.)</ref></cit> iti sarvēṣāṁ chandasāmakṣara
+
+	    <pb n="5" break="no"/>
+
+	    pramāṇamuktam.</s><s>akṣaraśabdastu svaravyañjanasāmānyavācī,<lb/> varṇaparyāyatvāt.</s>
+	    <s>atō <app><lem>vyañjanavyudāsārtha</lem><rdg wit="#ga">vyañjanasāmānyavyudāsārtha</rdg></app>m āha — svarō-<lb break="no"/>’kṣaramiti.</s>
+	    <s>svara ēvākṣaraṁ chandōvicitiṣu na vyañjanam.</s><lb/>
+	    <s>vyañjanasyāpyakṣaratvē sati,<lb/>
+	    <quote>svayambhūrudrasēnānyau nārāyaṇapurandarau</quote><lb/>
+	    ityēvamādīnāmanuṣṭuptvaṁ hīyēta, uktapramāṇādhikākṣaratvāt.</s><lb/>
+	    <s>svarō vyañjanayuktō bhavati na kēvalaḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra"> 
+	  <ab type="sūtra" n="11">ukālō laghu</ab>
+	  <p>
+	    <s>u ityēvaṁkālaḥ svarō laghusaṁjñō bhavati.</s>
+	    <s>kālō<lb/> mātrā.</s>
+	    <s>sa tvakṣinimēṣaḥ aṅgulisphōṭō vā.</s>
+	  </p>
+	</div>
+	<div type="sūtra">
+	  <ab type="sūtra" n="12">saṁyōgāyōgavāhaparō guruḥ</ab>
+	  <p>
+	    <s>saṁyōgāś ca ayōgavāhāśca saṁyōgāyōgavāhāḥ.</s>
+	    <s>tē<lb/> parē yasya ukālasya sa saṁyōgāyōgavāhaparaḥ.</s>
+	    <s>sa guru<lb break="no"/>saṁjñō bhavati.</s>
+	    <s>kaḥ saṁyōgaḥ?</s>
+	    <s>vyañjanānyanantarāṇi bha<lb break="no"/>vanti.</s>
+	    <s>kē ayōgavāhāḥ?</s>
+	    <s>visarjanīya-jihvāmūlīyō-padhmā-<lb break="no"/>nīyā-nusvārāḥ.</s>
+	    <s>tatra <app><lem>saṁyōgaparāstāvat</lem><rdg wit="#kha #ga">saṁyōgāstāvat</rdg></app> — akṣaḥ kakṣaḥ<lb/> ityakāraḥ, r̥kṣaḥ vr̥kṣaḥ iti r̥kāraḥ.</s>
+	    <s>ayōgavāhaparō ’pi —<lb/> kaḥ karōti kax karōti, kaḥ pacati kaf pacati, vaṁ yāsi.</s>
+	  </p>
+	</div>
+
+	<pb n="6"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="13">pādāntē vā</ab>
+	  <p>
+	    <s>pādāntē vartamānaśca ukālō vā gurusaṁjñō bhavati.</s><lb/>
+	    <s>tadyathā —
+	    <quote>
+	      <lg>
+		<l>svādhīna sulabhamētannira-</l>
+		<l>vadyaṁ vidyatē mamaiva khalu</l>
+		<l>atithijanapratipūjana-</l>
+		<l>samartharūpaṁ śarīradhanam</l>
+	      </lg>
+	    </quote>
+	    <app><lem>asyāścāryāyā</lem><rdg wit="#ga">asyā āryāyā</rdg></app> ādyasyārghasyāntyasvarō ’nēna lakṣaṇēna guru<lb break="no"/>rbhavati.</s>
+	    <s>anyathā āryēyaṁ na syād, hīnamātratvāditi<lb/> vāśabdō vikalpavācī.</s>
+	    <s>kvacinna bhavati.</s>
+	    <s>tadyathā —<lb/>asyā ēva prathamatr̥tīyayōḥ pādayōḥ.</s>
+	    <s>yadi tatrāpi gurutvaṁ<lb/> syād āryaiveyaṁ na syād, adhikamātratvāditi.</s>
+	  </p>
+	  <ab type="sūtra" n="14">ūkālaḥ</ab>
+	  <p>
+	    <s>ūkālaśca svarō gurusaṁjñō bhavati.</s>
+	    <s>atrāha —<lb/> ūkālō dīrghē dvimātraḥ; trimātrastu plutaḥ kiṁ laghavō gurava<lb/> iti.</s>
+	    <s>tatrōcyatē — ū ityēvaṁ saṁhitākaraṇād dīrghaplutayō<lb break="no"/>rgrahaṇaṁ bhavati.</s>
+	  </p>
+	  <ab type="sūtra" n="15">tau habhau</ab>
+	  <p>
+	    <s>tau laghugurū yathākramēṇa 'ha', 'bha' ityēvaṁsaṁjñau<lb/> bhavataḥ.</s>
+	  </p>
+
+	  <pb n="7"/>
+
+	  <ab type="sūtra" n="16">tacchēdō ragavat</ab>
+	  <p>
+	    <s>tayōrlaghugurvōḥ chēdō ra iva gakāra iva ca bhavati.</s>
+	  </p>
+	  <ab type="sūtra" n="17">sō ’ṅgulē ’ṅgulē</ab>
+	  <p>
+	    <s>sa habhayōḥ chēdō ’ṅgulē ’ṅgulē kartavyaḥ.</s>
+	    <s>aṅgulyā <lb/>sammitamaṅgulam.</s>
+	    <s>asyārambhō hyuttarārthaḥ.</s>
+	  </p>
+	  <ab type="sūtra" n="18">gaṅgās (UU)</ab>
+	  <ab type="sūtra" n="19"><app><lem>nadīj</lem><rdg wit="#ka #kha">narīj</rdg></app> (|U) </ab>
+	  <ab type="sūtra" n="20">candrap (U|)</ab>
+	  <ab type="sūtra" n="21">nanur (||)</ab>
+	  <ab type="sūtra" n="22">nacaratid (||||)</ab>
+	  <ab type="sūtra" n="23">kamalinīy (|||U)</ab>
+	  <ab type="sūtra" n="24">jayanaravaraṇ (||||||)</ab>
+	  <ab type="sūtra" n="25">nūnaṁsāg (UUU)<note xml:lang="eng"><p><s>Corresponds to <foreign xml:lang="san-Latn">magaṇa</foreign>.</s></p></note></ab>
+	  <ab type="sūtra" n="26">kr̥śāṅgīṅ (|)<note xml:lang="eng"><p><s>Corresponds to <foreign xml:lang="san-Latn">yagaṇa</foreign>.</s></p></note></ab>
+	  <ab type="sūtra" n="27"><app><lem>dhīvarāś</lem><rdg wit="#kha #ga">dhīḥ varāś</rdg></app> (U|U)<note xml:lang="eng"><p><s>Corresponds to <foreign xml:lang="san-Latn">ragaṇa</foreign>.</s></p></note></ab>
+
+	  <pb n="8"/>
+
+	  <ab type="sūtra" n="28">kurutēl (||U)<note xml:lang="eng"><p><s>Corresponds to <foreign xml:lang="san-Latn">sagaṇa</foreign>.</s></p></note></ab>
+	  <ab type="sūtra" n="29">tēśrīḥkvab (UU|)<note xml:lang="eng"><p><s>Corresponds to <foreign xml:lang="san-Latn">tagaṇa</foreign>.</s></p></note></ab>
+	  <ab type="sūtra" n="30">vibhātik (|U|)<note xml:lang="eng"><p><s>Corresponds to <foreign xml:lang="san-Latn">jagaṇa</foreign>.</s></p></note></ab>
+	  <ab type="sūtra" n="31">sātavat (U||)<note xml:lang="eng"><p><s>Corresponds to <foreign xml:lang="san-Latn">bhagaṇa</foreign>.</s></p></note></ab>
+	  <ab type="sūtra" n="32">taratim (|||)<note xml:lang="eng"><p><s>Corresponds to <foreign xml:lang="san-Latn">nagaṇa</foreign>.</s></p></note></ab>
+	  <ab type="sūtra" n="33">lōlamālāṣ (U|UU)</ab>
+	  <ab type="sūtra" n="34">dhairyamastutēṭ (U|U|U)</ab>
+	  <ab type="sūtra" n="35">rautimayūrōñ (U||UU)</ab>
+	  <p>
+	    <s>tē dvika-catuṣka-ṣaṭka-trika- pañcaka-varṇakā vr̥ttavidhānē<lb/> granthalāghavārthaṁ parigr̥hītāḥ.</s>
+	  </p>
+	  <ab type="sūtra" n="36">antē ’nta uktāni vyañjanānyēṣāṁ saṁjñā</ab>
+	  <p>
+	    <s>uktānāṁ sūtrāṇāmantē ’ntē parigr̥hītāni vyañjanāni<lb/> vānyuktānāṁ varṇānāṁ tathāracaṁnānāṁ saṁjñā bhavanti.</s>
+	  </p>
+	  <ab type="sūtra" n="37">ādisvaraiśca gādisaṁjñāḥ</ab>
+	  <p>
+	    <s>gādayō <cit><quote>nūnaṁsāg</quote> <ref target="Jānā.1.25">(sū. 1. 25.)</ref></cit> ityēvamādayaḥ.</s>
+	    <s><app><lem>tēṣāṁ ya ādau</lem><rdg wit="#kha">tēṣāṁ ādau</rdg></app> vartamānāḥ svarā ādayaḥ.</s>
+	    <s>taiś cāntē ’ntē uktai<lb break="no"/>rvyañjanaiśca saṁjñā bhavanti.</s>
+	  </p>
+	  <ab type="sūtra" n="38">gaṇāścaturhāḥ</ab>
+	  <p>
+	    <s>yē caturlaghavō varṇasamūhāḥ tē gaṇasaṁjñā bhavanti.</s>
+	  </p>
+	  <ab type="sūtra" n="39">pañcahāśca</ab>
+	  <p>
+	    <s>pañcalaghavaśca gaṇasaṁjñā bhavanti.</s>
+	    <s>pañcalaghavastvaṣṭa<lb break="no"/>vidhāḥ.</s>
+	    <s>tadyathā — tryakṣarāstraya ādimadhyāntalaghavaḥ,<lb/> caturakṣarāścatvāraḥ ādidvitīyatr̥tīyāntaguravaḥ, pañcākṣara ēkaḥ<lb/> sarvalaghuḥ — kr̥śāṅgī (|UU) dhīvarā (U|U) tē śrīḥ<lb/> kva (UU|) candra nanu (U|||) nadī nanu (|U||) nanu <lb/>candra (||U|) kamalinī (|||U) nanu tarati (|||||) <lb/>pr̥thagārambha ētēṣāṁ vyavahārē prācuryajñāpanārtham.</s>
+	    <s>caśabdō<lb/> yasmin <app><lem>ādēśē</lem><rdg wit="#ka">ādēśē</rdg><rdg wit="#ga">pradēśē</rdg></app> svarūpēṇaitē parigr̥hītāstasminnēva tēṣāṁ pravēśō <lb/>bhavati nānyatrēti jñāpanārtham.</s>
+	    <s><cit><quote>catvārō nirdhāyikāḥ</quote><lb/> <ref target="Jānā.5.44">(sū. 5. 44.)</ref></cit>, <cit><quote>yī vāntyaḥ</quote> <ref target="Jānā.5.45">(sū. 5.45.)</ref></cit> iti vakṣyati.</s><lb/>
+	    <s>tatrāntya ēva sthānē yakāra īkārō vā bhavati.</s>
+	    <s>nānyatra.</s><lb/>
+	    <s>natvanyē ’pi pañcalaghava iti.</s>
+	  </p>
+	  <ab type="sūtra" n="40">yatiḥ padacchēdaḥ</ab>
+	  <p>
+	    <s>yatiravadhiḥ <app><lem>chēda</lem><rdg wit="#ga">vicchēda</rdg></app> iti paryāyāḥ.</s>
+	    <s>padasya chēdaḥ pada<lb break="no"/>cchēdaḥ.</s>
+	    <s>padasya chēdaḥ pada<lb break="no"/>cchēdaḥ.</s>
+	    <s>sa tu yatisaṁjñō bhavati.</s>
+	  </p>
+
+	  <pb n="10"/>
+
+	  <ab type="sūtra" n="41">sā pādāntē</ab>
+	  <p>
+	    <s>sā tu yatiḥ sarvasya pādasyāntē bhavati.</s>
+	  </p>
+	  <ab type="sūtra" n="42">jātiṣu yujō ’vaśyam</ab>
+	  <p>
+	    <s>sā tu yatirjātiṣvāryādiṣu yujaḥ samasyāvaśyaṁ<lb/> bhavati.</s>
+	    <s><app><lem>ayukpādāntē</lem><rdg wit="#ka">ayukpādāntē ॥ ayukpādāntē</rdg></app> niyamō nāstītyarthādāpādyaṁ bhavati.<lb/></s>
+	    <s>tadyathā —</s>
+	    <quote>
+	      <lg>
+		<l>svādhīna sulabhamētannira-</l>
+		<l>vadyaṁ vidyatē mamaiva khalu</l>
+		<l>atithijanapratipūjana-</l>
+		<l>samartharūpaṁ śarīradhanam</l>
+	      </lg>
+	    </quote>
+	    <s>iyaṁ punarāryā paṅktau chandasi.</s>
+	    <s>daśa-daśākṣarāṇyasyāḥ<lb/> pādānām.</s>
+	    <s>tatrāyujaḥ prathamasya pādasyāntē yatirna jātā.</s><lb/>
+	    <s>dvitīyasya yujaḥ pādasyāntē yatir jātā.</s>
+	    <s>tasmādyukpādānta<lb/> ēva jātiṣu niyamaḥ.</s>
+	  </p>
+	  <ab type="sūtra" n="43">svaraiḥ sanaiḥ</ab>
+	  <p>
+	    <s>sā tu yatiḥ svaraiḥ sanakāraiḥ granthēṣu vidhāsyamānēṣu<lb/> vakṣyatē.</s>
+	    <s>tadyathā <cit><quote>mandākrāntā sēruśōnīnū</quote> <ref target="Jānā.4.86">sū. 4. 86</ref></cit><lb/> iti.</s>
+	    <s>tatra caturthasvara īkārō nakārēṇa saha nī ityuktam<lb/> ṣaṣṭhaśca ūkārō nū iti.</s>
+	    <s>tatra ślōkō ’pi mandākrāntākhyaḥ, <lb/>caturthē ṣaṣṭhē cākṣarē yatirbhavati.</s>
+	    <s>udāharaṇam — 
+
+	    <pb n="11"/>
+
+	    <quote>kaścit kāntāvirahaguruṇā svādhikārapramattaḥ</quote><lb/> <app><lem>ityādi</lem><rdg wit="#ga">ityēvamādi</rdg></app>.</s>
+	  </p>
+	</div>
+	<div type="sūtra">
+	  <ab type="sūtra" n="44">dvirnāntaiḥ</ab>
+	  <p>
+	    <s>sā tu yatiḥ sanakārāntaiḥ yatrōcyatē tatra dviruktā <lb/>bhavati.</s>
+	    <s>tad yathā — nun ityuktē pañcamē ’kṣarē punaśca pañcamē <lb/>’kṣarē yatirbhavati.</s>
+	    <s>ēvaṁ śēṣēṣv api jñēyam.</s>
+	  </p>
+	</div>
+	<div type="sūtra">
+	  <ab type="sūtra" n="45">bhā hau</ab>
+	  <p>
+	    <s>ēkō bhā gururdvē laghū gaṇayitavyau.</s>
+	  </p>
+	</div>
+	<trailer>iti jānāśrayyāṁ chandōvicityāṁ<lb/> prathamō ’dhyāyaḥ</trailer>
+      </div>
+
+
+      <div n="2" type="adhyāya">
+
+	<pb n="12"/>
+
+	<head>atha dvitīyō ’dhyāyaḥ</head>
+	<div type="sūtra">
+	  <ab type="sūtra" n="1">vr̥ttāni</ab>
+	  <p>
+	    <s>adhikārō ’yam.</s>
+	    <s>ā caturthādhyāyaparisamāptēryāni<lb/> 	vakṣyamāṇāni tāni prāyaśō vr̥ttānīti jñēyāni.</s>
+	  </p>
+	</div>
+	<div type="sūtra">
+	  <ab type="sūtra" n="2">viṣamā-rdhasama-samāni</ab>
+	  <p>
+	    <s>tānyadhikr̥tāni viṣamavr̥ttāni ardhasamavr̥ttāni samavr̥<lb break="no"/>ttāni <app><lem>cēti</lem><rdg wit="#kha">ca</rdg></app>.</s>
+	    <s>tatra viṣamavr̥ttāni bhavanti caturṇāṁ pādānāṁ<lb/> mātrākṣarāṇāṁ vinyāsāsāmyāt, kvacit saṅkhyāvaiṣamyāt.</s><lb/>
+	    <s>ardhasamavr̥ttāni bhavanti pūrvārdhēna <app><lem>paścimārdhasya</lem><rdg wit="#ka #kha #ga">paścisārdhēna</rdg></app> sāmyāt.</s><lb/>
+	    <s>samavr̥ttāni bhavanti caturṇāṁ pādānāṁ sāmyāt.</s>
+	    <s>ēṣām udā<lb break="no"/>haraṇāny uttaratra vakṣyāmaḥ.</s>
+	    <s>lakṣaṇaṁ tv ēṣāṁ svasaṁjñayaiva jñāyata<lb/> 	iti na sūcitam.</s>
+	  </p>
+	</div>
+	<div type="sūtra">
+	  <ab type="sūtra" n="3">bhāhēti samānam</ab>
+	  <p>
+	    <s>yasya chandasō yāvantyakṣarāṇi tāni <app><lem>sarvāṇi<lb/> bhā</lem><rdg wit="#ka #kha">sarvāṇi ca bhā</rdg></app> (U) iti ca ha (|) iti ca (gurumādiṁ kr̥tvā) ēkānta<lb break="no"/> ritāni bhavanti cēt tasya chandasastathābhūtaṁ tad vr̥ttaṁ samāna<lb break="no"/>saṁjñaṁ bhavati.</s>
+	    <s>tad yathā —</s>
+
+	    <pb n="13"/>
+
+	    <quote>
+	      <lg>
+		<l>mīna<app><lem>jālaghaṭṭitāni</lem><rdg wit="#ka #kha #ga">jāpaghaṭṭitāni</rdg></app></l>
+		<l>sūryaraśmibōdhitāni</l>
+		<l>mattaṣaṭpadākulāni</l>
+		<l>paśya bhīru! paṅkajāni</l>
+	      </lg>
+	    </quote>
+	  </p>
+	  <p>
+	    <s>athavāyam anyō ’rthaḥ <q>bhāhēti samānam</q> iti.</s>
+	    <s>bhā <lb/>ity ēva sarvāṇyakṣarāṇi sarvasya chandasaḥ pravr̥ttāni bhavanti <lb/> cēt tad vr̥ttaṁ samānasaṁjñaṁ bhavati.</s><s>tathā ha iti ca pravr̥ttāni<lb/> cēt</s><s>tatra bhā (U) iti pravr̥ttaṁ yathā —</s> 
+	    <quote>
+	      <lg>  
+		<l>kādambākīrṇānāṁ</l>
+		<l>kāntē paśyātulyām</l>
+		<l>ambhōjairāḍhyānāṁ</l>
+		<l>tvaṁ tōyānāṁ śōbhām</l>
+	      </lg>
+	    </quote>
+	  </p>
+	  <p>
+	    <s>ha (|) iti pravr̥ttaṁ yathā —</s>
+	    <quote>
+	      <lg> 
+		<l>jina! madanamathana</l>
+		<l>janadamana kuśala</l>
+		<l>mama śaraṇamajara</l>
+		<l>bhava satatamamara</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra">
+	  <ab type="sūtra" n="4">habhēti pramāṇam</ab>
+	  <p>
+	    <s>sarvasya chandasaḥ sarvāṇyakṣarāṇi ha (|) iti bhā (U)
+
+	    <pb n="14"/>
+
+	    iti ca laghumādiṁ kr̥tvā ēkāntaritāni bhavanti cēt tad <lb/> vr̥ttaṁ pramāṇasaṁjñaṁ bhavati. </s><s><app><lem>tad yatha</lem><rdg wit="#kha #ga">yathā</rdg></app> —</s>
+	    <quote>
+	      <lg>
+		<l>saraḥ sarōruhātataṁ virājatē</l>
+		<l>sapuṣpapādapāyutaṁ vanaṁ <app><lem>khagaiḥ</lem><rdg wit="#ka #kha #ga">khagāyutaṁ</rdg></app></l>
+		<l>viśuddhadhīvarāṅganāyutaṁ kulaṁ</l>
+		<l>bahuśrutō naraśca śāntamānasaḥ</l>
+	      </lg>
+	    </quote>  
+	  </p>
+	</div>
+	<div type="sūtra">
+	  <ab type="sūtra" n="5">vitānamanyat</ab>
+	  <p>
+	    <s>yat samāna-pramāṇābhyāṁ bhinnalakṣaṇaṁ tadanyat,<lb/> tad vitānaṁ nāma vr̥ttaṁ bhavati</s><s><app><lem>tad yathā</lem><rdg wit="#kha #ga">yathā</rdg></app> -</s>
+	    <quote>
+	      <lg>
+		<l>buddhayā karuṇāpēśalayā</l>
+		<l>pacirājjīvitamiṣṭam<note xml:lang="eng"><p><s>The Mss. are defective at this place.</s></p></note></l>
+		<l>buddhō bhagavān lōkahitārthaṁ</l>
+		<l>śuddhaṁ tatavān kīrtivitānam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<!--Should this be marked as a header? It's smaller than the ones that head chapter.-->
+	<head>adhōdgatāprakaraṇam</head>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="6">udgatā rīri-mrai-taju-lirai-nēn</ab>
+	  <p>
+	    <s>atrōdgatāprakaraṇē pādavibhāgō nāstīti kēṣāñci<lb break="no"/>ddarśanam</s><s>tattu na samyak</s><s> bhagavatā piṅgalēna <cit><quote>udgatā<lb break="no"/>
+	    mēkataḥ</quote> <ref target="XXX.5.28">(piṅgalacchandassūtram. sū. 5.28.)</ref></cit> iti sūtra<pb n="15" break="no"/>karaṇēna sūcitam.</s><s> tasmāt kartavyō ’tra yatna ityatō ’syā<lb/>udgatāyāḥ pādavibhāgaḥ</s><s> rīri (<app><lem resp="#TR">nanur</lem><rdg wit="#ed">nanura</rdg></app>, dhīvarāś, nanur,<lb/>vibhātik) iti prathamaḥ pādaḥ.<s></s> mrai (taratim, nanur,<lb/> dhairyamastutēṭ ) iti dvitīyaḥ.</s><s> taju (sātavat, taratim,<lb/>narīj, kurutēl) iti tr̥tīyaḥ</s><s> lirai (kurutēl, vibhā<lb break="no"/>tik, nanur dhairyamastutēṭ ) iti caturthaḥ</s><s> nēn iti yati<lb break="no"/>lakṣaṇam.</s><s> nē iti nakārēṇa saha daśamasvara uktaḥ.</s><s> tataḥ<lb/>ślōkasyāpi daśamē ’kṣarē yatiḥ.</s><s> tasyaiva svarasya nakārānta<lb/>nirdēśāt punaś ca daśamē ’kṣarē yatiḥ.</s><s> udāharaṇam — </s>
+	    <quote>
+	      <lg>
+		<l>atha vāsavasya vacanēna
+		<note>
+		  <lg>
+		    <l>atha vāsavasya vacanēna ruciravadanāstrilōcanam</l>
+		    <l>klāntarahitamabhidhārayituṁ vidhivat tapāṁsi viddhē dhanañjayaḥ</l>
+		  </lg>
+		</note>
+		</l>
+	      </lg>
+	    </quote>
+	    <s>ityādi.</s>
+	  </p>
+	</div>
+	<div type="sūtra">
+	  <ab type="sūtra" n="7">tajusthānē śyu saurabhaktaṁ nēnnē</ab>
+	  <p>
+	    <s>tajusthānē iti tr̥tīyē pādē, śyu' (dhīvarāś, kama<lb break="no"/>linīy, kurutēl) ity akṣaravinyāsō bhavati cēt saurabhaktaṁ<lb/> nāma vr̥ttaṁ bhavati.</s>
+	    <s> nēnnē iti vacanād daśamē punaś ca<lb/> daśamē punarapi daśamē'kṣarē yatirbhavati.</s>
+	    <s> tadyathā — </s>
+	    <quote>
+	      <lg>
+		<l>asitāmalāyataviśāla</l>
+		<l>rucirataralōcanadvayam</l>
+		<l>bhīru! bhāti tava vaktramidaṁ</l>
+		<l>paripūrṇabimbamiva candramaṇḍalam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<pb n="16"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="8">amullalitaṁ nēnnai</ab>
+	  <p>
+	    <s>udgataiva tajusthānē amul ity akṣaravinyāsō (taratim,<lb/> taratim, kurutēl, kurutēl) bhavati cēt tat lalitaṁ<lb/> nāma vr̥ttaṁ bhavati.</s>
+	    <s> nēnnai iti vacanād daśamē punaśca<lb/> daśamē punar api dvādaśē ’kṣarē patir bhavati.</s>
+	    <s> tadyathā —</s> 
+	    <quote>
+	      <lg>
+		<l>kamalākarēṣu rucirēṣu</l>
+		<l>taruṇaravibōdhitēṣvamī</l>
+		<l>bhramaramadhukaragaṇā muditā</l>
+		<l>vicaranti paṅkajarajōvilōbhitāḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<head>athōpasthitapracupitaprakaraṇam</head>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="9">upasthitapracupitamādyaḥ pādō gukau</ab>
+	  <p>
+	    <s>upasthitapracupitaṁ nāma vr̥ttaṁ bhavati tasyādyapādē<lb/> gukau (nūnaṁsāg, kurutēl, vibhātik, rautimayūrōñ)<lb/> ityakṣaravinyāsō bhavati cēt.</s>
+	  </p>
+	</div>
+
+	<div>
+	  <ab type="sūtra" n="10">lakō dvitīyaḥ</ab>
+	  <p>
+	    <s>tasyaivōpasthitapracupitasya dvitīyapādē lakō (kuru<lb break="no"/>tēl, taratim, vibhātik, lōlamālāṣ) ity akṣaravinyāsō<lb/> bhavati.</s>
+	  </p>
+	</div>
+	<div>
+	  <ab type="sūtra" n="11">ṇu tr̥tīyaḥ</ab>
+	  <p>
+	    <s>tasyaiva tr̥tīyaḥ pādō ṇu (jayanaravaraṇ, kurutēl)<lb/>iti bhavati.</s>
+	  </p>
+	</div>
+
+	<pb n="17"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="12">caturthō madau</ab>
+	  <p>
+	    <s>tasyaiva caturthaḥ pādō madau (taratim, taratim, nacara<lb break="no"/>tid, rautimayūrōñ) iti bhavati.</s><s> tad yathā —</s>
+	    <quote>
+	      <lg>
+		<l>bhātīdaṁ gaganaṁ vinaṣṭavāridajālaṁ</l>
+		<l>śaradā viracitaśōbhamadya bhadrē</l>
+		<l>vitataruciratarabhaṁ</l>
+		<l>viśadatarakiraṇacayapūrṇaśaśāṅkam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="13">dvistr̥tīyō vardhamānam</ab>
+	  <p>
+	    <s>tasyaivōpasthitapracupitasya tr̥tīyē pādē ṇu (jayanara<lb break="no>"/>varaṇ, kurutēl) <app><lem>iti</lem><rdg wit="#ka #kha #ga">iti nyāso</rdg></app> dvirnyāsō bhavati cēdvardhamānaṁ nāma<lb/> vr̥ttaṁ bhavati.</s><s> tad yathā -</s>
+	    <quote>
+	      <lg>
+		<l>udvēgādapunarbhavē manaḥ <app><lem>praṇidhāya</lem><rdg wit="#ka #kha #ga">praṇidhānāt</rdg></app></l>
+		<l>sa yayau śayitavarāṅganādanāsthaḥ</l>
+		<l>niśi nr̥patinilayanād <app><lem>vanagamana kr̥tamanāḥ</lem><rdg wit="#kha #ga">vanagamana manāḥ</rdg></app></l>
+		<l>sarasa <app><lem>iva mathita</lem><rdg wit="#ka #kha #ga">imamato</rdg></app>nalināt kalahaṁsaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="14">strai śuddhavirāḍr̥ṣabham</ab>
+
+	  <pb n="18"/>
+
+	  <p>
+	    <s>tasyaiva tr̥tīyaḥ pādō stri (gaṅgās, nanur, dhairyamastu<lb break="no"/>tēṭ) ity akṣaravinyāsō bhavati cēt śuddhavirāḍr̥ṣabhaṁ nāma vr̥ttaṁ bhavati.</s><s> tad yathā -</s>
+	    <quote>
+	      <lg>
+		<l>ambhōdair anilōddhatōruparvatarūpaiḥ</l>
+		<l>sthagitaṁ gaganam aśēṣamadya ramyaiḥ</l>
+		<l>nīlair <app><lem>jalabhāra</lem><rdg wit="#kha">bharabhāra</rdg></app>tharai</l>
+		<l>rvitataruciraviśadaśacīpaticāpaiḥ </l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<head>atha padacaturūrdhvaprakaraṇam </head>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="15">āpīḍa ādyō mas</ab>
+	  <p>
+	    <s>āpīḍō nāma vr̥ttamudhyatē.</s><s>tasyādyaḥ pādō mas<lb/>(taratim, taratim, gaṅgās) ity akṣaravinyāsō bhavati<lb/>cēt.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="16">ādau <app><lem>dvr̥ddhir</lem><rdg wit="#ka #kha #ga">vr̥ddhir</rdg></app> anyēṣām</ab>
+	  <p>
+	    <s>anyēṣāṁ trayāṇāṁ pādānāmādipramāṇēna nyastākṣarā<lb break="no"/>ṇāmādau kramēṇa dakārēṇa dakārābhyāṁ dakārairvr̥ddhir bhavati<lb/>(nacaratid, taratim, taratim, gaṅgās; nacaratid, nacara<lb break="no"/>tid, taratim, taratim, gaṅgās; nacaratid, nacara<lb break="no"/>tid, nacaratid, taratim, taratim, gaṅgās).</s><s> ēvaṁ<lb/> satyaṣṭau dvādaśa ṣōḍaśa viṁśatyakṣarāṇi bhavanti pādānām. </s><s> tadyathā- </s>
+
+	    <pb n="19"/>
+
+	    <quote>
+	      <lg>
+		<l>praviśati ca nidāghaḥ</l>
+		<l>sabakulakuvalayakaravīraḥ</l>
+		<l>śukamukhavilikhitaphalagurusahakāraḥ</l>
+		<l>stanaṁtaṭavimr̥ditam aṇinibhasakamalasukhatōyaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra">
+	  <ab type="sūtra" n="17">ādyasya viparyāsē mañjarīlavalyamr̥tadhārāḥ</ab>
+	  <p>
+	    <s>asyaivāpīḍasyādyasyānyair viparyāsē sati yathākramaṁ<lb/> mañjarī, lavalī, amr̥tadhārā ityēvaṁsaṁjñitāni trīṇi vr̥ttā<lb break="no"/>ni bhavanti.</s><s> udāharaṇaślōkaḥ pūrvōkta ēva kramēṇa pāda<lb break="no"/>vyatyāsaṁ kr̥tvā draṣṭavyaḥ</s>
+	  </p>
+	</div>
+	
+	<div type="sūtra">
+	  <ab type="sūtra" n="18"> pratyāpīḍō ’nyathā</ab>
+	  <p>
+	    <s>āpīḍasyaiva pādānāmuktakramō yō vinyāsaḥ tēna<lb/> vinānyathā viparyāsē kr̥tē pratyāpīḍō nāma vr̥ttaṁ bhavati.</s>
+	  </p>
+	</div>
+
+	<head>athānuṣṭup prakaraṇam</head>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="19">anuṣṭup</ab>
+	  <p>
+	    <s>anuṣṭup nāma chandō ’dhikr̥tam.</s>
+	    <s>ita uttaraṁ yadva<lb break="no"/>kṣyāmaḥ ādhyāyaparisamāptēḥ tad anuṣṭupchandasi bhavatīti <app><lem>vēdi<lb break="no"/>tavyam</lem><rdg wit="#ga">vijñēyam</rdg></app>.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="20">vaktram</ab>
+	  <p>
+	    <s>tasminn anuṣṭupcchandasi vaktraṁ nāma vr̥ttam.</s><s>idānī yadvakṣyamāṇaṁ tattasya lakṣaṇamity ēvam avagantavyam.</s>
+	  </p>
+	</div>
+
+	<pb n="20"/>
+	
+	<div type="sūtra">
+	  <ab type="sūtra" n="21">mu nādyāt</ab>
+	  <p>
+	    <s>asya vaktrasya sarvēṣu pādēṣu <app><lem>ādyākṣarāt</lem><rdg wit="#ga">ādyādakṣarāt</rdg></app> paratō <lb/> makāraḥ (taratim) ukāraśca (kurutēl) na bhavataḥ.</s><s> ādyō<lb/> niyamāt <app><lem>laghurvā gururvā</lem><rdg wit="#kha #ga">gururvā laghurvā</rdg></app>bhavati.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="22">ṅupāntyam</ab>
+	  <p>
+	    <s>antyasya samīpamupāntyam.</s><s> tatra sarvatra ṅakāra<lb/>(kr̥śāṅgīṅ) ēva bhavati.</s><s> tadyathā -</s>
+	    <quote>
+	      <lg>
+		<l>vasantē puṣpamālaughē</l>
+		<l>dvijānāṁ bhramarāṇāṁ ca</l>
+		<l>atipānēna mattānām</l>
+		<l>api pānātyayō na syāt</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="23">yujōḥ k pathyā</ab>
+	  <p>
+	    <s>asminnēva vaktraniyamē antyākṣarasamīpē yujōḥ ka<lb break="no"/>kārō (vibhātik) bhavati cēt pathyā nāma vr̥ttaṁ bhavati.</s><s>tadyathā — </s>
+	    <quote>
+	      <lg>
+		<l>dakṣiṇānilaniḥśvāsō</l>
+		<l>vinidrakamalēkṣaṇaḥ</l>
+		<l>kōkilākhilavāgghōṣaḥ</l>
+		<l>kālō bhāti prabuddhavat</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	<pb n="21"/>
+	
+	<div type="sūtra">
+	  <ab type="sūtra" n="24">viparītapathyā ’yujoḥ k</ab>
+	  <p>
+	    <s>asminnēva vaktraniyamē <app><lem>ayujōr ubhayōḥ pādayōrantyāt</lem><rdg wit="#ka #ga">ayujōḥ pādayōrantyāt</rdg><rdg wit="#kha">antyākṣarasamīpe ayujor</rdg></app><lb/> pūrvaṁ kakārō (vibhātik) bhavati cēt viparītapathyā nāma<lb/> vr̥ttaṁ bhavati.</s>
+	    <s>yathā -</s>
+	    <quote>
+	      <lg>
+		<l>calatkisalayāṁśukō</l>
+		<l>bhāti cūtadrumō ramyaḥ</l>
+		<l>mañjarīmaṇḍanōjjvalō</l>
+		<l>rājāyatē samuttuṅgaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div> 
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="25">capalā m</ab>
+	  <p>
+	    <s>asminn ēva vaktraniyamē ayujōḥ pādayōrantyāt pūrvaṁ<lb/>makārō (taratim) bhavati cēt capalā nāma vr̥tthaṁ bhavati.</s>
+	    <s>yathā — </s>
+	    <quote>
+	      <lg>
+		<l>bhātyaśōkaḥ kisalaya-</l>
+		<l>kusuma??stadakai ramyaiḥ</l>
+		<l>śriyaṁ hastādharagatāṁ</l>
+		<l>lajjayanniva ca strīṇām ॥</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="26">vipulā ha yujōḥ</ab>
+	  <p>
+	    <s>asminnēva vaktraniyamē yujōḥ pādayōrantyāt pūrvaṁ<lb/> (ha) laghurbhavati cēt vipulā nāma vr̥ttaṁ bhavati</s><s> yathā — </s>
+
+	    <pb n="22"/>
+
+	    <quote>
+	      <lg>
+		<l>puṣpitāḥ kiṁśukāśōkāḥ</l>
+		<l>kōkilāśca valgusvanāḥ</l>
+		<l>vasantaṁ kathayantyētē</l>
+		<l><app><lem>vibuddhāṁśca</lem><rdg wit="#kha">vipulāṁśca</rdg></app> padmākarān</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="27">sarvatra <app><lem>saitavasya</lem><rdg wit="#ka #ga #kha">saivatasya</rdg></app></ab>
+	  <p>
+	    <s>asminnēva vaktraniyamē sarvēṣu pādēṣvantyāt pūrvaṁ<lb/> laghurbhavati cēt vipulā nāma vr̥ttaṁ bhavati (saitavasyācāryasya<lb/> matēna).</s><s> yathā — </s>
+	    <quote>
+	      <lg>
+		<l>vādyatē ca paṭusvanō</l>
+		<l>mēghadundubhirambarē</l>
+		<l>nr̥tyatīva ca kānanē</l>
+		<l>vāyuvēgavaśāllatāḥ</l>
+	      </lg>
+	    </quote> 
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="28">tīme ca</ab>
+	  <p>
+	    <s>asminnēva vaktraniyamē <app><lem>sarvēṣu pādēṣv</lem><rdg wit="#ka #ga">sarvapādeṣv</rdg></app> antyāt pūrvaṁ<lb/>takāraḥ (sātavat) īkāraśca (dhīvarāś) makāraśca (taratim)<lb/> ēkāraśca (tēśrīḥkvab) ēkaikaśō bhavati cēt vipulāsaṁjñi<lb break="no"/> tāni catvāri vr̥ttāni bhavanti.</s><s> tatra takāravipulā yathā — </s>
+	    <quote>
+	      <lg>
+		<l>nityaṁ na bhavēt puruṣō</l>
+		<l>duḥstrīṣu saktō matimān</l><pb n="23"/>
+		<l>dahanācchastrācca viṣād</l>
+		<l>ghōraṁ tu strīhr̥dayam</l>
+	      </lg>
+	    </quote> 
+	    <s>īkāravipulā yathā —</s>
+	    <quote>
+	      <lg>
+		<l>duṣṭātmanāṁ strījanānāṁ</l>
+		<l>duṣṭaṁ vākyaṁ <app><lem>nityamiṣṭam</lem><rdg wit="#ka #ga #kha">nityamēvēṣṭam</rdg></app></l>
+		<l>snigdhaṁ <app><lem>vaktumiṣṭamēṣāṁ</lem><rdg wit="#ka #ga #kha">vastumēṣāmiṣṭam</rdg></app></l>
+		<l><app><lem>naivānatiśikṣitatvāt</lem><rdg wit="#ga">naivātiśikṣitatvāt</rdg></app></l>
+	      </lg>
+	    </quote> 
+
+	    <s>makāravipulā yathā -</s>
+	    <quote>
+	      <lg>
+		<l>dr̥ṣṭāḥ khalāḥ na sadayāḥ</l>
+		<l>pramadā dōṣa<app><lem>rahitāḥ</lem><rdg wit="#ka #ga #kha">garhitāḥ</rdg></app></l>
+		<l>śītō ’nalaśca manujai</l>
+		<l>rlōke kadācidapi vā</l>
+	      </lg>
+	    </quote> 
+	    
+	    <s> ēkāravipulā yathā — </s>
+	    <quote>
+	      <lg>
+		<l>bahuśrutaḥ śīlānvitaḥ</l>
+		<l>prasūtō vikhyātē kulē</l>
+		<l>laghutvaṁ tu yācñaparaḥ</l>
+		<l>prayāti lōkē sāmpratam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<trailer>iti jānāśrayyāṁ chandōvicityāṁ<lb/> viṣamavr̥ttādhyāyō dvitīyaḥ</trailer>
+
+      </div>
+
+      <div n="3" type="adhyāya">
+
+	<pb n="24"/>
+
+	<head>atha tr̥tīyō ’dhyāyaḥ</head>
+	<div type="nonsūtra">
+	  <p>
+	    <s> dvitīyē ’dhyāyē trividhāni vr̥ttānyadhikr̥tāni.</s><s> tatra bāhulyēna viṣamavr̥ttalakṣaṇamuktam.</s><s> idānīṁ tāvadardha<lb break="no"/> samavr̥ttamucyatē.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="1">ardhē</ab>
+	  <p>
+	    <s>adhikārō ’yam.</s><s> ita <app><lem>ūrdhvaṁ</lem><rdg wit="#kha">uttaraṁ</rdg></app> yadvakṣyāmastadardhalakṣaṇa<lb break="no>"/> miti vijñēyam.</s><s> śēṣamapyardhamanēna tulyalakṣaṇamiti pr̥tha<lb break="no"/>ṅnōcyatē.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="2">upacitraṁ lurī tāñ</ab>
+	  <p>
+	    <s><app><lem>upacitraṁ</lem><rdg wit="#ka #ga #kha">upacitrakaṁ</rdg></app> nāmārdhasamavr̥ttaṁ bhavati/</s><s> tasya lurī<lb/> (kurutēl, kurutēl, nanur, dhīvarāś ) ityēkaḥ pādaḥ, tāñ<lb/> (sātavat, sātavat, rautimayūrōñ) itītaraḥ; dvāvētāvardham</s><lb/><s> śēṣamapyardhamanēna tulyalakṣaṇaṁ bhavati.</s><s> tadyathā — </s>
+	    <quote>
+	      <lg>
+		<l>haricandanamutpalayūthikā</l>
+		<l>kōkilanētranibhā madirā ca</l>
+		<l>tapasō na kr̥śasya phalaṁ nr̥ṇāṁ</l>
+		<l>rūpaguṇābhyadhikāśca yuvatyaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="3">drutamadhyā tau dāñ</ab>
+
+	  <pb n="25"/>
+
+	  <p>
+	    <s>ttau (sātavat, sātavat, rautimayūrōñ) ityēkaḥ<lb/> pādaḥ, dāñ (nacaratid, sātavat, rautimayūrōñ) iti<lb/> dvitīyaḥ, drutamadhyā nāma vr̥ttaṁ bhavati.</s><s> yathā — </s>
+	    <quote>
+	      <lg>
+		<l>yadyapi śīghragatirdhanabhāgī</l>
+		<l>bahudhanavānapi duḥkhamupaiti</l>
+		<l>bhōgavatī hi gatidrutamadhyā</l>
+		<l>nr̥patikulēṣu viśēṣamupaiti</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="4">vēgavatī rāñ tāñ</ab>
+	  <p>
+	    <s>vēgavatī nāma vr̥ttaṁ bhavati.</s><s> tasya rāñ (nanur,<lb/> sātavat, rautimayūrōñ) ity ēkaḥ pādaḥ,<lb/> tāñ (sātavat, <lb/> sātavat, rautimayūrōñ) iti dvitīyaḥ.</s><s> yathā — </s>
+	    <quote>
+	      <lg>
+		<l>sukalaṁ sulalāṭakapōlaṁ</l>
+		<l>dīrghabhujaṁ madhupiṅgalanētram</l>
+		<l>suvibhaktasamunnatanāsaṁ</l>
+		<l>śrīrapi vēgavatī na jahāti</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	<div type="sūtra">
+	  <ab type="sūtra" n="5">bhadraviraṭ strīṅ grīṅ</ab>
+	  <p>
+	    <s>(gaṅgās, nanur, dhīvarāś, kr̥śāṅgīṅ; nūnaṁsāg,<lb/> nanur, dhīvarāś, kr̥śāṅgīṅ).</s><s> yathā — </s>
+	    <quote>
+	      <lg>
+		<l>bālē! tava bhāti vakramēta</l>
+		<l>ccāruvyāyatalōlanīlanētram</l>
+		<l>śrīmacchubhagātri! puṇyagandhaṁ</l>
+		<l>prātarbhāskarabōdhitaṁ yathābjam</l>
+	      </lg>
+	    </quote>
+
+	    <pb n="26"/>
+
+	    <s> aupacchandasikajātiriyam.</s><s> <app><lem>laghuguruvinyāsa</lem><rdg wit="#kha">laghuguruviśēṣavinyāsa</rdg></app>viśē<lb break="no"/>ṣāpēkṣayā bhadravirāḍiti nāmanirdēśaḥ kr̥taḥ.</s>
+
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="6">kētumatī rīrr̥ tīrr̥</ab>
+	  <p>
+	    <s>(nanur, dhīvarāś, nanur, kr̥śāṅgīṅ; sātavat, <lb/>dhīvarāś, nanur, kr̥śāṅgīṅ).</s><s> yathā — </s>
+	    <quote>
+	      <lg>
+		<l>atilōmaśā kuṭilakēśī</l>
+		<l>vāyasajaṅghikā kr̥śakapōlā</l>
+		<l>ahitā nr̥ṇāṁ bhavati kanyā</l>
+		<l>kētumatīva dasyujanasēnā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="7">ākhyānikā bejr̥ kējr̥</ab>
+	  <p>
+	    <s>(tēśrīḥkvab, tēśrīḥkvab, nadīj, kr̥śāṅgīṅ, <lb/>vibhātik, tēśrīḥkvab, nadīj, kr̥śāṅgīṅ).</s><s> yathā — </s>
+	    <quote>
+	      <lg>
+		<l>anyōnyamutpīḍayadutpalākṣyāḥ</l>
+		<l>stanadvayaṁ pāṇḍu tathā pravr̥ddham</l>
+		<l>madhyē yathā śyāmamukhasya tasya</l>
+		<l>mr̥ṇālasūtrāntaram apy alabhyam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="8">viparītākhyānikā kējr̥ bējr̥</ab>
+	  <p>
+	    <s>(vibhātik, tēśrīḥkvab, nadīj, kr̥śāṅgīṅ<lb/> tēśrīḥkvab, tēśrīḥkvab, nadīj, kr̥śāṅgīṅ).</s><s> yathā - </s>
+
+	    <pb n="27"/>
+
+	    <quote>
+	      <lg>
+		<l>padaṁ tuṣārastrutidhautaraktaṁ</l>
+		<l>yasminnadr̥ṣṭvāpi hatadvipānām</l>
+		<l>vidanti mārgaṁ nakharandhramuktai</l>
+		<l>rmuktāphalaiḥ kēsariṇāṁ kirātāḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="9">hariṇaplutā lurī yurī</ab>
+	  <p>
+	    <s>(kurutēl, kurutēl, nanur, dhīvarāś; kamalinīy<lb/> kurutēl, nanur, dhīvarāś).</s><s> yathā - </s>
+	    <quote>
+	      <lg>
+		<l>gatirākulitā cyutamutpalaṁ</l>
+		<l>bhramati dr̥ṣṭirasaṁyutamaṁśukam</l>
+		<l>skhalitaṁ ca vacō hasitōttaraṁ</l>
+		<l>madaguṇairasi caṇḍi! vibhūṣitā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="10">aparavaktrā ṇai dāṭ</ab>
+	  <p>
+	    <s>(jayanaravaraṇ, dhairyamastutēṭ; nacaratid, sātavat,<lb/> dhairyamastutēṭ).</s><s> yathā -</s>
+	    <quote>
+	      <lg>
+		<l>maratakahasitaṁ ca yāsunaṁ</l>
+		<l>śaśikarapāṇḍura<app><lem>mambu jāhnavam</lem><rdg wit="#kha">mambujārṇavam</rdg></app></l>
+		<l>tadubhayamidamastu pāvanaṁ</l>
+		<l>hariharayōr iva saṅgataṁ vapuḥ</l>
+	      </lg>
+	    </quote>
+	    <s>vaitālīyajātir iyam.</s><s> gurulaghuvinyāsāpēkṣayātra.<lb/> prakṣēpa iti.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="11">puṣpitāgrā ṇīḍ dāśr̥</ab>
+	  <p>
+	    <s>(jayanaravaraṇ, dhīvarāś, kr̥śāṅgīṅ ; nacaratid,
+	    
+	    <pb n="28"/>
+
+	    sātavat, dhīvarāś, kr̥śāṅgīṅ).</s><s> yathā - </s>
+	    <quote>
+	      <lg>
+		<l>mr̥dusukhapavanēna vījyamānā</l>
+		<l>śithilitabandhanavipramuktabandhā</l>
+		<l>pravitatatimiraṁ samīkṣya kālaṁ</l>
+		<l>kulajavadhūr iva mallikā jahāsa</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="12">yamavatī śiśi kīkō</ab>
+	  <p>
+	    <s>(dhīvarāś, vibhātik, dhīvarāś, vibhātik; vi<lb break="no"/>bhātik, lōlamālāṣ dhīvarāś, vibhātik).</s><s> yathā -</s>
+	    <quote>
+	      <lg>
+		<l>cañcalāyatākṣamunnatāsitabhru</l>
+		<l>japānibhādharaṁ priyaṅgusāragauram</l>
+		<l>matpriyāmukhaṁ vicintya viklabasya</l>
+		<l>tathaiva jāgrataḥ prayānti rātrayō mē</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="13">dēvagītī paikai kaikō</ab>
+	  <p>
+	    <s>(candrap, dhairyamastutēṭ, vibhātik, dhairyamastutēṭ;<lb/> vibhātik, dhairyamastutēṭ, vibhātik, lōlamālāṣ).</s><lb/><s>yathā - </s>
+
+	    <quote>
+	      <lg>
+		<l>bhrātr̥mātr̥putramitrasauhr̥dōpaghātikāḥ</l>
+		<l>kulāpavādakārikā rajastamōvidhātryaḥ</l>
+		<l><app><lem>śīlaśaucaśaurya</lem><rdg wit="#ka #ga #kha">śīlaśauca</rdg></app> dhair yaśatravō manuṣyavā-</l>
+		<l>gurāḥ striyō na vētsi yēna tāsu rajyasi tvam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="14">śikhā ṇṇaṇaru ṇṇaṇadu</ab>
+	  
+	  <pb n="29"/>
+
+	  <p>
+	    <s>(jayanaravaraṇ, jayanaravaraṇ, taratim. jayanaravaraṇ,<lb/> taratim, nanur, kurutēl. jayanaravaraṇ, jayanaravaraṇ tara<lb break="no"/>tim, jayanaravaraṇ, taratim, nacaratid, kurutēl).</s><s>yathā — </s>
+	    <quote>
+	      <lg>
+		<l>vigatabhayamayamanamathanamubhayahitavacanamurutarakaruṇaṁ<note xml:lang="eng"><p><s>Two short syllables are wissing in this pada.</s></p></note></l>
+		<l>vividhavipulaguṇagaṇanilayanamatiśayarucirataravapuṣamakhilavidam</l>
+		<l>asurasurabhujagamanujavaramahitaguṇamahitanudamamaramajaraṁ</l>
+		<l>praṇamata munivaram iha daśabaladharam iti vipulavimalataravarayaśasam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="15">khañjā yujyayuji</ab>
+	  <p>
+	    <s>iyam ēva śikhā khañjā nāma vr̥ttaṁ bhavati yuji<lb/> pādē ayuji sati.</s><s> ētad uktaṁ bhavati — dvitīyacaturthapādau<lb/> prathamatr̥tīyau bhavataś cēt saiva śikhā khañjā nāma vr̥ttaṁ bhavati.</s><lb/><s> daṇḍakēṣvasyōpasaṁkhyānaṁ kartavyam.</s> <s> pūrvārdhēna paścimārdhasya<lb/> sāmyādatrōpanyāsaḥ kr̥taḥ.</s>
+	  </p>
+	</div>
+	
+	<trailer>iti jānāśrayyāṁ chandōvicityāṁ ardhasamavr̥ttādhyāyas tr̥tīyaḥ</trailer>
+
+      </div>
+
+      <div n="4" type="adhyāya">
+
+	<pb n="30"/>
+
+	<head>atha caturthō ’dhyāyaḥ </head>
+	<div type="nonsūtra">
+	  <p>
+	    <s>ataḥ paraṁ samavr̥ttāvasaraḥ.</s><s> dvitīyē ’dhyāyē trivi<lb break="no"/>dhāni vr̥ttānyadhikr̥tāni.</s><s> tatrānyatantrānuvr̥ttyā viṣamavr̥tta<lb break="no"/> lakṣaṇamuktam</s><s> tr̥tīyē ’rdhasamānām.</s><s>idānīṁ samavr̥ttāni<lb/> vakṣyantē.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="1">samāni</ab>
+	  <p>
+	    <s>vr̥ttānīty anuvartatē.</s><s> tataḥ samāni vr̥ttānīti dvayama<lb break="no"/>py adhikr̥taṁ vēditavyam.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="2">uktam</ab> 
+	  <p>
+	    <s>uktaṁ nāma caturakṣaramādyaṁ chandō vijñēyam.</s><s> anantara<lb break="no"/>m ēva vakṣyamāṇaṁ samavr̥ttamasmin chandasi bhavati.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="3">bhā śrīḥ</ab>
+	  <p>
+	    <s>bhā ity ēkō guruḥ pāde bhavati cēt śrīr nāmavr̥ttaṁ<lb/> bhavati.</s><s> katham ētadupalabhāmahē sūtrānuktatvāt pādē pāda<lb/> iti?</s><s> samastārdhayōrasambhavāt.</s><s> katham asambhavaḥ?</s><s> uktasya caturakṣaratvād ēkam akṣaraṁ samastam ardhaṁ ca na bhavati.</s><s> yathā </s>
+	    <quote>
+	      <lg>
+		<l>yā śrīḥ</l>
+		<l>sā gauḥ</l>
+	      </lg>
+	    </quote>
+	    <s>atraikasya pādasya lakṣaṇamucyatē.</s><s> śēṣāṇāṁ trayāṇāṁ<lb/> pādānāṁ tat tulyatvāt pādagrahaṇam iti yōjyamādhyāyapari<lb break="no"/>samāptēr iti.</s>
+	  </p>
+	</div>
+	
+	<pb n="31"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="4">atyuktam</ab>
+	  <p>
+	    <s>anantaram ēvōcyamānaṁ vr̥ttamasmin chandasi bhavati.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="5">sāśīḥ</ab>
+	  <p>
+	    <s>tasya pādē pādē sakārō (gaṅgām) bhavati cēt<lb/> āśīrnāma vr̥ttaṁ bhavati.</s><s> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>śāntiḥ ślāghyā</l>
+		<l>bhūṣā nr̥̄ṇām</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="6">madhyamam</ab>
+	  <p>
+	    <s>madhyamaṁ nāma dvādaśākṣaraṁ chandaḥ.</s>
+	  </p>
+	</div>
+	
+	<div type="sūtra">
+	  <ab type="sūtra" n="7">cañcalā ś</ab>
+	  <p>
+	    <s>tasya pādē pādē śakārō (dhīvarāś) bhavati cēt<lb/> cañcalā nāma vr̥ttaṁ bhavati.</s><s> yathā — </s>
+	    <quote>
+	      <lg>
+		<l>kālahā śūladhr̥k</l>
+		<l>śaṅkaraḥ pātu vaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div> 
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="8">pratiṣṭhā</ab>
+	  <p>
+	    <s>pratiṣṭhā nāma ṣōḍaśākṣaraṁ chandō ’dhikr̥tam.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="9">kusumitā y</ab>
+	  <p>
+	    <s>asya pādē pādē yakārō (kamalinīy) bhavati cēt<lb/> kusumitā nāma vr̥ttaṁ bhavati.</s><s> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>upavanē varatanō</l>
+		<l>kuravakāḥ kusumitāḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	<pb n="32"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="10">supratiṣṭhā</ab>
+	  <p>
+	    <s>supratiṣṭhā nāma viṁśatyakṣaraṁ chandō ’dhikr̥tam.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="11">śāmimī ṭ</ab>
+	  <p>
+	    <s>tasya pādē pādē ṭakārō (dhairyamastutēṭ) bhavati cēt<lb/>bhāminī <!--bhāminī or śāmimī?--> nāma vr̥ttaṁ bhavati.</s><s> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>mattakuñjaraṁ dr̥ptagōvr̥ṣam</l>
+		<l>hr̥ṣṭanāgara rājatē puram</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="12">gāyatrī</ab>
+	  <p>
+	    <s>gāyatrī nāma caturviṁśatyakṣaraṁ chandō ’dhikr̥taṁ vēdi<lb break="no"/>tavyam.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="13">tanumadhyā br̥</ab>
+	  <p>
+	    <s>tasya pādē pādē br̥ (tēśrī:kvab, kr̥śāṅgīṅ) bhavati<lb/> cēt tanumadhyā nāma vr̥ttaṁ bhavati.</s><s> yathā -</s>
+	    <quote>
+	      <lg>
+		<l><app><lem>dhanyātra</lem><rdg wit="#ka #ga #kha">dhanyā tatra</rdg></app>gabhīrā sūkṣmāṅgulakēśī</l>
+		<l>śrōṇīstanagurvī kanyā tanumadhyā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="14">uṣṇik</ab>
+	  <p>
+	    <s>uṣṇiṅanāmāṣṭāviṁśatyakṣaraṁ chandō ’dhikr̥taṁ vēditavyam.</s>
+	  </p>
+	</div>
+
+	<pb n="33"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="15">kumāralalitā jas</ab>
+	  <p>
+	    <s> tasya pādē pādē jakāraś cākāraś ca sakāraś ca (nadīj,<lb/> taratim, gaṅgās) bhavati cēt kumāralalitā nāma vr̥ttaṁ<lb/> bhavati.</s><s> yathā — </s>
+	    <quote>
+	      <lg>
+		<l>mr̥durmadhurāvādī pradānamadayuktaḥ</l>
+		<l>śuciḥ sulabhacitō narō naraviśēṣaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="16">sōpānaṁ pij</ab>
+	  <p>
+	    <s>(candrap, vibhātik, nadīj)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>janmamahāmbunidhēstārayitā tu nr̥ṇām</l>
+		<l>kāruṇikō bhagavān astu gatir jagataḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="17">udyatā pau</ab>
+	  <p>
+	    <s>(candrap, rautimayūrōñ)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>īśvaraḥ kurutē cēt pātakānyakhilāni</l>
+		<l>tasmin bhaktinivēśaḥ kaṁ <app><lem>guṇaṁ</lem><rdg wit="#ka #ga #kha">gaṇanu</rdg></app> nu samīkṣya</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	<div type="sūtra">
+	  <ab type="sūtra" n="18">anuṣṭup</ab>
+	  <p>
+	    <s>anuṣṭup nāma dvātriṁśadakṣaraṁ chandō ’dhikr̥tam.</s>
+	  </p>
+	</div>
+	
+	<pb n="34"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" no="19">māṇavakakrīḍitakaṁ ñu</ab>
+	  <p>
+	    <s>māṇavakakrīḍitakaṁ nāma vr̥ttaṁ bhavati, pādē pāde<lb/> ñakāraś ca ukāraśca (rautimayūrōñ ) kurutēl bhavati cēt.</s><s> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>yaḥ satataṁ śāntamanāḥ syāt sa kathaṁ pānarataḥ</l>
+		<l>pādaratistasya mataṁ māṇavakakrīḍitakam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" no="20">haṁsarutaṁ tau</ab>
+	  <p>
+	    <s>tau (sātavat, rautimayūrōñ) ityakṣaravinyāsō<lb/> bhavati cēt haṁsarutaṁ nāma vr̥ttaṁ bhavati.</s><s> yathā — </s>
+	    <quote>
+	      <lg>
+		<l>ṣaṭpadavr̥ndavikīrṇaḥ kōkilanāditaśākhaḥ</l>
+		<l>bhāmini bhāti vasante cūtataruḥ kusumāḍhyaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" no="21">padminī śīs</ab>
+	  <p>
+	    <s>(dhīvarāś, dhīvarāś, gaṅgās)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>śītalairambubhiḥ snigdhaiḥ paṅkajair utpalaiḥ phullaiḥ</l>
+		<l>ṣaṭpadairākulair hr̥ṣṭaiḥ padminī rājatē mahyām</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" no="22">bālagarbhiṇī jjjj</ab>
+	  <p>
+	    <s>(nadīj, nadīj, nadīj, nadīj)
+	    
+	    <pb n="35"/>
+
+	    yathā — </s>
+	    <quote> 
+	      <lg>
+		<l>purā, śarīramantakō bhinatti rōgasāyakaḥ</l>
+		<l>prasahya jīvitakṣayē śubhaṁ mahat samācarēt</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" np="23">br̥hatī</ab>
+	  <p>
+	    <s>br̥hatī nāma ṣaṭtriṁśadakṣaraṁ chandō ’dhikr̥tam.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" no="24">bhujaṅgaśiśusr̥tā ṇū</ab>
+	  <p>
+	    <s>(jayanaravaraṇ, nūnaṁsāg)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>maṇiharita phalāścūtāḥ kakubhasurabhayō vātāḥ</l>
+		<l>vikasitakamalā vāpyō drutamabhipatitō grīṣmaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" no="25">maṇimadhyaṁ tūl</ab>
+	  <p>
+	    <s>(sātavat, nūnaṁsāg, kurutēl)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>vyāyatanē samprēkṣya śivaṁ pūrṇaśaśāṅkaḥ prītamanāḥ</l>
+		<l>cārutaraṁ tē vaktramidaṁ bhāmini līnastōyadharē</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" no="26">paṅktiḥ</ab>
+	  <p>
+	    <s>paṅktir nāma catvāriṁśadakṣaraṁ chandō ’dhikr̥tam.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" no="27">śuddhavirāṭ sāpī</ab>
+	  <p>
+	    <s>(gaṅgās, sātavat, candrap, dhīvarāś)
+
+	    <pb n="36"/>
+
+	    yathā —</s>
+	    <quote>
+	      <lg>
+		<l>madhyāhnārkayugōpamēkṣaṇā</l>
+		<l>dīptātyujjvalaśūladhāriṇī</l>
+		<l>kruddhā sumbhanisumbhasūdinī</l>
+		<l>tva cchatrūnabhihantu kauśikī</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	<div type="sūtra">
+	  <ab type="sūtra" no="28">paṇalā gdū</ab>
+	  <p>
+	    <s>(nūnaṁsāg, nacaratid, nūnaṁsāg)<lb/> yathā — </s>
+	    <quote>
+	      <lg>
+		<l>niḥśaṅkō bhava khala! kā tē ’haṁ</l>
+		<l>sambandhē sati tu bhavētkōpaḥ</l>
+		<l>yasyāḥ syāttvayi khalu sambandhaḥ</l>
+		<l>tasyāḥ syātpraṇayavaśātkōpaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" no="29">upasthitā surī</ab>
+	  <p>
+	    <s>(gaṅgās, kurutēl, nanur, dhīvarāś)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>jyōtsnāprasarādhikapāṇḍarai-</l>
+		<l>rāpītakaraḥ kumudākaraiḥ</l>
+		<l>āvēdayatīva gatāmbudāṁ</l>
+		<l>candraḥ śaradaṁ samupasthitaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<pb n="37"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" no="30">rumavatī ñau</ab>
+	  <p>
+	    <s>(rautimayūrōñ, rautimayūrōñ)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>stōkadhanānāṁ samprati yūnaṁ</l>
+		<l>śōkanidānō vāti ca vāyuḥ</l>
+		<l>pāṭalagandhī nityamanōjñaḥ</l>
+		<l>kōkilasaṅghānāṁ madahētuḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	<div type="sūtra">
+	  <ab type="sūtra" no="31">mayūrasāriṇī śiṣ</ab>
+	  <p>
+	    <s>(dhīvarāś, vibhātik, lōlamālāṣ)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>sakthirōmadantakēśasūkṣmāṁ</l>
+		<l>pāṇipādatāluvaktratāmrām</l>
+		<l>tāṁ mayūrasāriṇīṁ tu kanyāṁ </l>
+		<l>yō labhēnnaraḥ sa nandatīha</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	<div type="sūtra">
+	  <ab type="sūtra" no="32">vilāsitā ssds</ab>
+	  <p>
+	    <s>(gaṅgās, gaṅgās, naścaratid, gaṅgās)<!--yathā?--></s>
+	    <quote>
+	      <lg>
+		<l>chatrākāraṁ yadi tu varāṅgaṁ</l>
+		<l>nētrē cōbhē kamaladalābhē</l>
+		<l>vakṣaḥ pīnaṁ karacaraṇau ca</l>
+		<l>śrīr mattēyaṁ vilasati tasmin</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	<pb n="38"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" no="33">triṣṭup</ab>
+	  <p>
+	    <s>triṣṭup nāma catuścatvāriṁśadakṣaraṁ chandō ’dhikr̥tam.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra">indravajrā bējr̥</ab>
+	  <p>
+	    <s>(tēśrīḥkvab, tēśrīḥkvab, nadīj, kr̥śāṅgīṅ) yathā —</s>
+	    <quote>
+	      <lg>
+		<l>bhrūkṣēpamandais tanubhis taraṅgaiḥ</l>
+		<l>kādambapakṣair avabhidyamānaiḥ</l>
+		<l>nadyaḥ śarat sambhr̥tasaukumāryāḥ</l>
+		<l>kālēna vidyā iva samprasēduḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" no="35">upēndravajrā kējr̥</ab>
+	  <p>
+	    <s>(vibhātik, tēśrīḥkvab, nadīj, kr̥śāṅgīṅ)<lb/> yathā — </s>
+	    <quote>
+	      <lg>
+		<l>natāmṣumāṁsīmalayōdbhavanāṁ</l>
+		<l>na vāraṇānāṁ .... .... .... ....</l>
+		<l>samāṁśayuktō madhuyōjitō ’yaṁ</l>
+		<l>śubhāṅgi dhūpō ratikēśapāśaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	<div type="sūtra">
+	  <ab type="sūtra" no="36">ubhayamiśrendramālā</ab>
+	  <p>
+	    <s>indravajrōpēndravajrābhyāṁ miśrā indramālā nāma vr̥ttaṁ<lb/> bhavati.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" no="37">sā caturdaśabhēdā</ab>
+	  <p>
+
+	    <pb n="39"/>
+
+	    <s>ākhyānikāviparītākhyānikāmyāṁ saha ardhasama<lb break="no"/> vr̥ttē dvē vyudasyānyēṣāṁ dvādaśavr̥ttānāmudāharaṇāni vakṣyantē.</s><s> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>candraṁ gatā padmaguṇānna bhuṅktē</l>
+		<l>padmāśritā cāndramasīmabhikhyām</l>
+		<l>umāmukhaṁ tu pratipadya lōlā</l>
+		<l>dvisaṁśrayāṁ prītimavāpa lakṣmīḥ</l>
+	      </lg>
+
+	      <lg>
+		<l>asambhr̥taṁ maṇḍanamaṅgayaṣṭē-</l>
+		<l>ranāsavākhyaṁ karaṇaṁ madasya</l>
+		<l>kāmasya puṣpavyatir iktamastraṁ</l>
+		<l>bālyātparaṁ sātha vayaḥ prapēdē</l>
+	      </lg>
+
+	      <lg>
+		<l>sā rājahaṁsairiṣa sannatāṅgī</l>
+		<l>gatēṣu līlāñcitavikramēṣuḥ</l>
+		<l>vyanīyata pratyupadēśalubdhai-</l>
+		<l>rāditsubhirnūpuraśiñjitāni</l>
+	      </lg>
+
+	      <lg>
+		<l><app><lem>kayāsi</lem><rdg wit="ga">kva yā</rdg></app>kāmin sahasāparāddhaḥ</l>
+		<l>pādānataḥ kōpanayāvadhūtaḥ</l>
+		<l>tasyāṁ kariṣyāmi dr̥ḍhānutāpaṁ</l>
+		<l>pravālaśayyāśaraṇaṁ śarīram</l>
+	      </lg>
+
+	      <lg>
+		<l>paryāptapuṣpastabakastanībhyaḥ</l>
+		<l>sphuratpravālōṣṭhamanōharābhyaḥ</l>
+
+		<pb n="40"/>
+
+		<l>latāvadhūmyastaravō ’pyavāpu-</l>
+		<l>rvinamraśākhābhujabandhanāni</l>
+	      </lg>
+
+	      <lg>
+		<l>atha prajānāmadhipaḥ prabhātē</l>
+		<l>jāyāpratigrāhitagandhamālyām</l>
+		<l>vanāya pītapratibaddhavatsāṁ</l>
+		<l>yaśōdhanō dhēnumr̥ṣērmumōca</l>
+	      </lg>
+
+	      <lg>
+		<l>anantaratnaprabhavasya yasya</l>
+		<l>himaṁ na saubhāgyavilōpi jātam</l>
+		<l>ēkō hi dōṣō guṇasannipātē</l>
+		<l>nimajjatīndōḥ kiraṇēṣvivāṅkaḥ</l>
+	      </lg>
+
+	      <lg>
+		<l>īyatpr̥thutvaṁ kuśadēhayaṣṭē
+		<note>
+		  <p>
+		    <cit>
+		      <quote>
+			<lg>
+			  <l>tathāhr̥taṁ tasya tathā pr̥thusvaṁ yathā bhavanmadhyamatikṣayiṣṇu</l>
+			  <l>itība baddhvā raśanāguṇēna śrōṇī punarvr̥ddhiniṣēdhahētōḥ </l>
+			</lg>
+		      </quote>
+		      <ref target="">jānakīharaṇam 1—30</ref>
+		    </cit>
+		    <s>iti mudritapāṭhaḥ.</s>
+		  </p>
+		</note>
+		</l>
+		<l>rnitambacakrasya paraṁ pramāṇam</l>
+		<l>itīva baddhā raśanāguṇēna</l>
+		<l>śrōṇī punarvr̥ddhiniṣēdhatō ’syāḥ</l>
+	      </lg>
+
+	      <lg>
+		<l>vivikṣurantaḥ sarasīmalaṅghayā-</l>
+		<l>māsādya haṁsaḥ samudīkṣya vapram</l>
+		<l>sasmāra nūnaṁ dr̥ḍhakauñcakuñja</l>
+		<l>bhāgacchidō bhārgavamārgaṇasya</l>
+	      </lg>
+
+	      <pb n="41"/>
+
+	      <lg>
+		<l>prākāramabhraṁlihaśr̥ṅgakōṭi-</l>
+		<l>mapāramullaṅghayituṁ purastāt</l>
+		<l>yatrāruṇaḥ saṁhr̥tavāharaśmi</l>
+		<l>stiryagvidhattē rathamuṣṇadhāmnaḥ</l>
+	      </lg>
+
+	      <lg>
+		<l>āsīdayaṁ candramasō viśēṣa</l>
+		<l>stvadvaktracandrasya ca bhāsurasya</l>
+		<l>babhārē pūrvaḥ sakalaṅkamaṅgaṁ
+		<note>
+		  <p>
+		    <cit>
+		      <quote>
+			<s>bibharti pūrvaḥ sakalaṁ kuraṅgaṁ.</s>
+		      </quote>
+		      <ref target="">jānakīharaṇam 1-37</ref>
+		    </cit>
+		    <s>iti mudritapāṭhaḥ</s>
+		  </p>
+		</note>
+		</l>
+		<l>tasyaiva nētradvitayaṁ dvitīyaḥ</l>
+	      </lg>
+
+	      <lg>
+		<l>yaṁ sarvaśailāḥ parikalpya vatsaṁ</l>
+		<l>mērau sthitē dōgdhari dōhadakṣē </l>
+		<l>bhāsvanti ratnāni mahauṣadhīś ca</l>
+		<l>pr̥thūpadiṣṭāṁ duduhurdharitrīm</l>
+	      </lg>
+	    </quote>
+
+	    <s>saṅgrahaślōkaḥ —</s>
+	    <lg>
+	      <l>ardhēna miśrāḥ ṣaṭ bhēdāḥ pādēnāṣṭau dvayōḥ kramāt</l>
+	      <l>indramālāvibhāgēna sarvāstāstu caturdaśa</l>
+	    </lg>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="38">dōdhakaṁ tāñ</ab>
+	  <p>
+	    <s>(sātavat, sātavat,rautimayūrōñ)
+
+	    <pb n="42"/>
+
+	    yathā — </s>
+
+	    <quote>
+	      <lg>
+		<l>yā<app><lem>ni vahanty</lem><rdg wit="#ga">ni bhavanty</rdg></app>ativarṣahatāni</l>
+		<l>vyākulakēsaraparṇamadhūni</l>
+		<l>ṣaṭcaraṇā api tāni visr̥jya</l>
+		<l>sphītamadhūni na yāni viśanti</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="39">śālinī gēsr̥ nī</ab>
+	  <p>
+	    <s>(nūnaṁsāg, tēśrīḥkkab, gaṅgās, kr̥śāṅgīṅa)<lb/>yathā — </s>
+	    <quote>
+	      <lg>
+		<l>snigdhacchāyā suprasannāyatākṣī</l>
+		<l>pīnaśrōṇī dakṣiṇāvartanābhiḥ </l>
+		<l>saṁkṣiptāṁsā nātirōmā natāṅgī</l>
+		<l>kanyā dhanyā nandinī bāndhavānām</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="40">jātōrmimālā gāsr̥ nī</ab>
+	  <p>
+	    <s>(nūnaṁsāg, sātavat, gaṅgās, kr̥śāṅgīṅ)<lb/>yathā —</s>
+	    <quote>
+	      <lg>
+		<l>hastē vaktraṁ paruṣā bhīru! kēśā</l>
+		<l>vāsaḥ kliṣṭaṁ malinaṁ tē ’dya gātram</l>
+		<l>nētrē śuklē tvadharō rāgahīnaḥ</l>
+		<l>cintāśūnyaṁ hr̥dayaṁ māṁ dahanti</l>
+	      </lg>
+	    </quote> 
+	  </p>
+	</div>
+
+	<pb n="43"/>
+
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="41">bhramaravilasitā gāru nī</ab>
+	  <p>
+	    <s>(nūnaṁsāg, sātavat, nanur, kurutēl)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>muktāḥ kēśāḥ praviralakusumāḥ</l>
+		<l>karṇāsaktaṁ kuvalayamasitam </l>
+		<l>vāsaś caikaṁ śaśarudhiranibhaṁ</l>
+		<l>vēṣastē ’yaṁ śr̥gayati ramaṇam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="42">rathōddhatā śmai</ab>
+	  <p>
+	    <s>(dhīvarāś, taratim, dhairyamastutēṭ)<lb/>yathā —</s>
+	    <quote>
+	      <lg>
+		<l>vyōmamadhyagatadīptamaṇḍalaḥ</l>
+		<l>prasphuratkaravikīrṇamaṇḍalaḥ</l>
+		<l>gāṁ didhakṣur iva cōgramaṇḍalaḥ</l>
+		<l>sāmprataṁ ravirudīrṇamaṇḍalaḥ</l>
+	      </lg>
+	    </quote> 
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="43">svāgatā śmau</ab>
+	  <p>
+	    <s>(dhīvarāś, taratim, rautimayūrōñ)<lb/> yathā — </s>
+	    <quote>
+	      <lg>
+		<l>snigdhadantamasitāyatanētraṁ</l>
+		<l>cārupīnaśukatuṇḍanibhōṣṭham</l>
+		<l>vaktramētadasitaṁ vinatabhru</l>
+		<l>prēkṣya kō hi manujaḥ svavaśaḥ syāt</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	<pb n="44"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="44">vr̥ttāṅgī ṇus</ab>
+	  <p>
+	    <s>(jayanaravaraṇ, kurutēl, gāṅgas)<lb/> yathā —</s>
+	    <quote> 
+	      <lg>
+		<l>śayanamr̥ditava purutsūryē</l>
+		<l>capalahr̥daya! kim asi prāptaḥ</l>
+		<l>prasara laghutaramayaṁ jāta</l>
+		<l>stava ca mama ca na kathā yuktā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="45">śyēnī śiṭ</ab>
+	  <p>
+	    <s>(dhīvarāś, vibhātik, dhairyamastutēṭ)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>gamyatāṁ yathēṣṭam ēṣa tē ’ñjali</l>
+		<l>stvāṁ cikitsituṁ kutō manōrathaḥ</l>
+		<l>tasya tē gr̥hītarōṣayā mayā</l>
+		<l>pādatāḍitasya dautyamāgatam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="46">saṅgatā kujī</ab>
+	  <p>
+	    <s>(vibhātik, kurutēl, nadīj, dhīvarāś)<lb/>yathā —</s>
+	    <quote>
+	      <lg>
+		<l>mahī haritaśāḍvalairāvr̥tā</l>
+		<l>ghanairurubhirākulāḥ parvatāḥ</l>
+		<l>jalaughahr̥tatīrajāḥ sindhavaḥ</l>
+		<l>priyē! ghanasamāgamō varttatē</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<pb n="45"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="47">jagatī</ab>
+	  <p>
+	    <s>jagatī nāmāṣṭacatvāriṁśadakṣaraṁ chandō ’dhikr̥tam</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="48">vaṁśasthaṁ kēkī</ab>
+	  <p>
+	    <s>(vibhātikū, tēśrīḥkvabū, vibhātikū, dhīvarāś)<lb/>yathā —</s>
+	    <quote>
+	      <lg>
+		<l>tavāsya nīlōtpalapatracakṣuṣō</l>
+		<l>mukhasya tadrēṇusamānagandhinaḥ</l>
+		<l>prasannacandrapriyadarśanasya mā</l>
+		<l>madarśanaṁ bhāmini <app><lem>kērśayiṣyati</lem><rdg wit="#kha">darśayiṣyati</rdg></app></l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div> 
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="49">indravaṁśā bēkī</ab>
+	  <p>
+	    <s>(tēśrīḥkvab, tēśrīḥkvab, vibhātika, dhīvarāś)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>lubdhāḥ śaṭhā naikr̥tikā guṇadviṣaḥ</l>
+		<l>kāmāturāḥ svārthaparā durāsadāḥ </l>
+		<l>varjyā narāḥ sadbhirudīritā hi tē</l>
+		<l>tvapīndravaṁśaprabhavō guṇapriyaiḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div> 
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="50"><app><lem>tōṭakaṁ</lem><rdg wit="#kha">troṭakaṁ</rdg></app>lulu</ab>
+	  <p>
+	    <s>(kurutēl, kurutēl, kurutēl, kurutēl) 
+
+	    <pb n="46"/>
+
+	    yathā —</s>
+	    <quote>
+	      <lg>
+		<l>dhruvamasti hi kanduka! tē hr̥dayaṁ</l>
+		<l>pramadāstanasaṅgamalubdha <app><lem>iva</lem><rdg wit="#ka">dhiyaḥ</rdg></app></l>
+		<l>vanitākaratāmarasābhihataḥ</l>
+		<l>patitaḥ patitaḥ punarutpatasi</l>
+	      </lg>
+	    </quote> 
+	  </p>
+	</div>
+
+	<div type="sūtra"> 
+	  <ab type="sūtra" n="51">puṭō ṇūṅ nr̥̄</ab>
+	  <p>
+	    <s>(jayanaravaraṇ, nūnaṁsāga, kr̥śāṅgī)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>upavanasalilānāṁ bālapadyaiḥ</l>
+		<l>bhramaramadhukarāṇāṁ kaṇṭhanādaiḥ</l>
+		<l>madanamadavilāsaiścāṅganānāṁ</l>
+		<l>janayati caturatvaṁ puṣpamāsaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="52">jalōddhatagatiḥ kuku nū</ab>
+	  <p>
+	    <s>(vibhātik, kurutēl, vibhātik, kurutēl)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>bhramanti hariṇāstr̥ṣāparigatā</l>
+		<l><app><lem>na </lem><rdg wit="#ka">vi</rdg></app>bhānti girayō ’pi śuṣkataravaḥ</l>
+		<l>davāgny upagamairmaṣīkr̥tatr̥ṇāṁ</l>
+		<l>punardahati gāṁ paṭurdinakaraḥ</l>
+	      </lg>
+	    </quote> 
+	  </p>
+	</div>
+
+	<pb n="47"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="53">kusumavicitrā mr̥mr̥ nū</ab>
+	  <p>
+	    <s>(taratim, kr̥śāṅgīṅ, taratim, kr̥śāṅgīṅ)<lb/>yathā —</s>
+	    <quote>
+	      <lg>
+		<l>kham iva satāraṁ kusumavikīrṇaṁ</l>
+		<l>salilamagādhaṁ śaśinibhavaktram</l>
+		<l>viyati śaśāṅkaṁ vipulatarākṣī</l>
+		<l>jalapihitāṅgī jayati tarantī</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="54">bhujaṅgaprayātaṁ ṅr̥ṅr̥ nū</ab>
+	  <p>
+	    <s>(kr̥śāṅgīṅ, kr̥śāṅgīṅ, kr̥śāṅgīṅ, kr̥śāṅgīṅ)<lb/>yathā —</s>
+	    <quote> 
+	      <lg>
+		<l>prahr̥ṣṭō mahēndraḥ pranaṣṭō nidāghaḥ</l>
+		<l>praviṣṭō ’nyapuṣṭaḥ prahr̥ṣṭā bhujaṅgāḥ</l>
+		<l>jalārdrā girīndrā madārdrā gajēndrāḥ</l>
+		<l>sadarpā vr̥ṣēndrā vivairā narēndrāḥ</l>
+	      </lg>
+	    </quote> 
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="55">pratimākṣarā lilu</ab>
+	  <p>
+	    <s>(kurutēl, vibhātik, kurutēl, kurutēl)<lb/>yathā —</s>
+	    <quote>
+	      <lg>
+		<l>madamānamōha bhu<app><lem>jagīva</lem><rdg wit="#kha #ga">lagāva</rdg></app>layaṁ</l>
+		<l>praśamābhirāmasukhavipralayam</l>
+		<l>ka <app><lem>iv</lem><rdg wit="#ka">ih</rdg></app>āśrayēdabhimukhaṁ vilayaṁ</l>
+		<l>bahuduḥkhatīvranilayaṁ nilayam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<pb n="48"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="56">drutavilambitaṁ mātī</ab>
+	  <p>
+	    <s>(taratim, sātavat, sātavat, dhīvarāś)<lb/>yathā —</s>
+	    <quote>
+	      <lg>
+		<l>upagatāpi karaṁ parivādinī</l>
+		<l>na vadati śravaṇīyavivāditā</l>
+		<l>puruṣa ēva hi vādayatē priyāṁ</l>
+		<l>para<app><lem>bhr̥tīm</lem><rdg wit="kha">bhr̥tām</rdg></app>iva cūtanavāṅkuraḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="57">vaiśvadēvī gūjō nu</ab>
+	  <p>
+	    <s>(nūnaṁsāg, nūnaṁsāg, nadīj, lōlamālāṣ)<lb/> yathā — </s>
+	    <quote>
+	      <lg>
+		<l>vēgādāyāntīṁ vīkṣya kēśāntalīnāṁ</l>
+		<l>paṅktiṁ mugdhānāṁ kūjatāṁ ṣaṭpadānām</l>
+		<l>lambaḥ sundaryā kiñcidākēkarākṣyā</l>
+		<l>trāsānniṣkr̥ṣya tyajyatē karṇapūraḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="58">navamālinī mitr̥</ab>
+	  <p>
+	    <s>(taratim, vibhātik, sātavat, kr̥śāṅgīṅ)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>nipatitamālyamākulitakēśaṁ</l>
+		<l>virahitamattamaṇḍalakapōlam</l>
+
+		<pb n="49"/>
+
+		<l>sakhi! vigatōṣṭharāgamapanidraṁ</l>
+		<l>kathayati tē vapuḥ karavimardam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	<div type="sūtra">
+	  <ab type="sūtra" n="59">pramuditavadanā ṇīś</ab>
+	  <p>
+	    <s>(jayanaravaraṇ, dhīvarāśū, dhīvarāś)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>aviditavibhavā dhruvā vyādhayaḥ</l>
+		<l>pratidinabhayadā tathōgrā jarā</l>
+		<l>aparimitajavō yamō ’pyantarē</l>
+		<l>śubham iha kimamutra mitraṁ vinā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="60">saudāminī gālū nī</ab>
+	  <p>
+	    <s>(nūnaṁsāg, sātavat, kurutēl, nūnaṁsāg)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>nāgāyantē madajaladhārāḥ śailāḥ</l>
+		<l>śailāyantē diśi diśi nīlā mēghāḥ</l>
+		<l>mēghāyantē vyupahatarūpāstārā-</l>
+		<l>stārāyantē diśi diśi saudāminyaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="61">atijagatī</ab>
+	  <p>
+	    <s>atijagatī nāma dvipañcāśadakṣaraṁ chandaḥ</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="62">praharṣiṇī gakō ni</ab>
+	  <p>
+	    <s>(nūnaṁsāg, taratim, vibhātik, lōlamālāṣ)
+
+	    <pb n="50"/>
+
+	    yathā —</s>
+	    <quote>
+	      <lg>
+		<l>tanmitraṁ tyajati vipatsu yanna mitraṁ</l>
+		<l>tajjñānaṁ praśamakaraṁ yadindriyāṇām</l>
+		<l>yaḥ paitrīṁ dhuramavalambatē sa putraḥ</l>
+		<l>sā bhāryā patihr̥dayapraharṣiṇī yā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="63">rucirā ktrai nī</ab>
+	  <p>
+	    <s>(vibhātik, sātavat, nanur, dhairyamastutēṭ)<lb/> yathā —</s>
+	    <cit>
+	      <quote>
+		<lg>
+		  <l>tataḥ śivaṁ kusumitabālapādapaṁ</l>
+		  <l>paribhramatpramuditamattakōkilam</l>
+		  <l><app><lem>nipā</lem><rdg wit="#ka #ga">vimā</rdg></app>navatsakamalacārudīrdhikaṁ</l>
+		  <l>dadarśa tadvanam iva nandanaṁ vainam</l>
+		</lg>
+	      </quote>
+	      <ref target="???">buddhacarita sa.3. ślō.64.</ref>
+	    </cit>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="64">mattamayūrō gējau</ab>
+	  <p>
+	    <s>(nūnaṁsāg, tēśrīḥkvab, nardīj, rautimayūrōñ)<lb/>yathā —</s>
+	    <quote>
+	      <lg>
+		<l>vātōddhūtaiḥ kōmalakaiḥ pallavahastaiḥ</l>
+		<l>padmaughānāṁ saṁvaraṇaṁ kartumaśaktā </l>
+		<l>gandhadravyaiḥ ṣaṭpadacōraiḥ hriyamāṇaiḥ</l>
+		<l>kōkūyantē kōkilanādaiḥ sahakārāḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="65">nandinī lirai</ab>
+	  <p>
+	    <s>(kurutēla, vibhātik, nanur, dhairyamastutēṭ)
+
+	    <pb n="51"/>
+
+	    yathā —</s>
+	    <quote>
+	      <lg>
+		<l>śayanōtthitasya śivamādadhātu tē</l>
+		<l>makarālayē timivivartitāmbhasi</l>
+		<l>vapur indranīlamaṇi<app><lem>bhaṅga</lem><rdg wit="#ka">bhaṅgi<!-- not certain !--></rdg></app>sannibhaṁ</l>
+		<l>puruṣasya śēṣaśayanādhiśāyinaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="66">bhadrā gādū nī</ab>
+	  <p>
+	    <s>(nūnaṁsāg, sātavat, nacaratid, nūnaṁsāg)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>ityēvaṁ dvau dviṣi samavayutau kr̥tvā</l>
+		<l>pañcōpāyair grahaṇavidhir ayaṁ prōktaḥ</l>
+		<l>asmādūrdhvaṁ vaśamupanayituṁ nāgān</l>
+		<l>karmaskandhēṣv ayam r̥ṣivihitō mārgaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="67">śakvarī</ab>
+	  <p>
+	    <s>śakvarī nāma ṣaṭpañcāśadakṣara chandaḥ</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="68">asambādhā sūṇū nu</ab>
+	  <p>
+	    <s>(gaṅgās, nūnaṁsāg, jayanaravaraṇ, nūnaṁsāg)<lb/>yathā —</s>
+	    <quote>
+	      <lg>
+		<l>hastāvaṣṭabdhaṁ mukhamidamanalaṅgāraṁ</l>
+		<l>sāstrē saṁraktē bhrukuṭivirahitē nētrē </l>
+		<l>svairaṁ cāsīnā pravadasi na ca mā kiñcid</l>
+		<l>bhāvaḥ kastē ’yaṁ sutanu! mayi ciraprāptē</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<pb n="52"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="69">aparājitā ṇīrī nr̥</ab>
+	  <p>
+	    <s>(jayanaravaraṇ, <app><lem resp="#TR">dhī</lem><rdg wit="#ed">dhā</rdg></app>varāś, nanur, dhīvarāś)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>anibhr̥tanayanaṁ savibhramamānanaṁ</l>
+		<l>kr̥śadaśanapadaṁ stanadvayamunnatam</l>
+		<l>praśithilaraśanaṁ mahajjaghanaṁ ca tē</l>
+		<l>sutanu na<note xml:lang="eng"><p><s><foreign xml:lang="san-Latn">ka, kha</foreign> omit this word.</s></p></note>kim alaṅkariṣyasi maṇḍanam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="70">praharaṇagalitā dudu nr̥</ab>
+	  <p>
+	    <s>(nacaratid, kurutēl, nacaratid, kurutēl)<lb/>yathā —</s>
+	    <quote>
+	      <lg>
+		<l>aniyataruditaṁ smitam iva hasavāg</l>
+		<l>jalagurunayanaṁ śubhavaśagatavat</l>
+		<l>paribhavabhavanaṁ bhavati ca niyataṁ</l>
+		<l>yadupahasamatistadidam iha ghaṭē </l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="71">vasantatilakam bākis</ab>
+	  <p>
+	    <s>(tēśrīḥkvab, sātavat, vibhātik, vibhātik,<lb/> gaṅgās)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>paśya bhruvōrgatimihāpy anusartum iccha-</l>
+		<l>nētadvibhāti nayanadvayamāyatākṣyāḥ</l>
+		<l>śrōṇīpayōdharagatāṁ gurutāṁ ca vibhra-</l>
+		<l>jjijñāsayā tulayatīva hi madhyamasyāḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<pb n="53"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="72">indumukhī <app><lem>saitavasya</lem><rdg wit="#ka #ga #kha">saivatasya</rdg></app></ab>
+	  <p>
+	    <s>idamēva vasantatilakam indumukhī nāma vr̥ttaṁ bhavati<lb/> <app><lem>saitava</lem><rdg wit="#ka #ga #kha">saivata</rdg></app>syācāryasya matēna.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="73">siṁhōnnatā kāśyapasya</ab>
+	  <p>
+	    <s>idamēva vasantatilakaṁ siṁhōnnatā nāma vr̥ttaṁ bhavati<lb/> kāśyapasyācāryasya matēna.</s> 
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="74">vilāsinī tilas</ab>
+	  <p>
+	    <s>(sātavat, vibhātik, kurutēl, taratim, gaṅgās)<lb/>yathā —</s>
+	    <quote>
+	      <lg>
+		<l>kuñjarakarōḍupabhujānanamanūnaṁ</l>
+		<l>mandaraśilātalasamaurasamudāram</l>
+		<l>añjananibhaikaruhakuñcitakēśaṁ</l>
+		<l>taṁ jinam ahaṁ jitakaliṁ sugatam īḍē</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="75">atiśakvarī</ab>
+	  <p>
+	    <s>atiśakvarī nāma ṣaṣṭyakṣaraṁ chandaḥ</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="76">candrāvarttā ṇṇu</ab>
+	  <p>
+	    <s>(jayanaravaraṇ, jayanaravaraṇ, kurutel)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>atirucirasamamasitaghanācikuraṁ <note xml:lang="eng"><p><s>Mss. omit <foreign xml:lang="san-Latn">cikura</foreign></s></p></note></l>
+		<l>vikasita kamaladalarucimadadharam </l>
+		<l>tava rucira<note xml:lang="eng"><p><s>Mss. omit <foreign xml:lang="san-Latn">rucira</foreign></s></p></note>mukhakamalam idam asitaṁ</l>
+		<l>janayati sutanu! mama madanam atulam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<pb n="54"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="77">mālā nū saiva</ab>
+	  <p>
+	    <s>saiva candrāvarttā ṣaṣṭhē ’kṣarē yatiś cēnmālā nāma vr̥ttaṁ<lb/> bhavati.</s><s> yathā -</s>
+	    <quote>
+	      <lg>
+		<l>śaśinibhamukhi! tava bhavatu saha mayā</l>
+		<l>katakaruciratanu! tanur api kalahaḥ</l>
+		<l>tava ca ramaṇi! kim aparicita iva māṁ</l>
+		<l>samasitadati paruṣayati parijanaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="78">maṇiguṇanikarō nr̥̄</ab>
+	  <p>
+	    <s>saiva candrāvarttā aṣṭamē ’kṣarē yatir bhavati cēt maṇi<lb break="no"/>guṇanikarō nāma vr̥ttaṁ bhavati.</s><s> yathā — </s>
+	    <quote>
+	      <lg>
+		<l>kamalaruciramukhi! guṇayasi subhr̥śaṁ</l>
+		<l>tvamasi ramaṇi! mayi suśithilahr̥dayam</l>
+		<l>kamalaruciratanu! kim idam asadr̥śaṁ</l>
+		<l>vimalaśikharadati! vada yad apakr̥tam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="79">mālinī ṇūṅr̥ nr̥̄</ab>
+	  <p>
+	    <s>(jayanaravaraṇ, nūnaṁsāg, kr̥śāṅgīṅ, kr̥śāṅgīṅ)<lb/>yathā —</s>
+	    <quote>
+	      <lg>
+		<l>parabhr̥takulanīlāḥ parvatōttuṅgaśrr̥ṅgāḥ<!--wtf?--></l>
+		<l>sphuradurutaravidyudbhaṅgapiṅgāṅgarāgāḥ</l>
+		<l>paṭahamadhuramandradhvāninaḥ sēndracāpā</l>
+		<l>nikhilamanilamārgaṁ nīradāḥ chādayanti</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<pb n="55"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="80">aṣṭiḥ</ab>
+	  <p>
+	    <s>aṣṭir nāma catuḥṣaṣṭyakṣara chandaḥ</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="81">r̥ṣabhagajavilasitā tadil nr̥</ab>
+	  <p>
+	    <s>(sātavat, dhīvarāś, nacatid, taratim, kurutēl)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>ēṣa saraḥ prasannamanavaratakhagarutaṁ</l>
+		<l>padmakr̥tōttarīyam ubhayataṭaruhavanam</l>
+		<l>yūthapatir vihartum abhipatati dinakarō-</l>
+		<l>py uddhatapāṁsurūkṣam apanayati gajakulam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="82">lalanā pāṇaj nr̥</ab>
+	  <p>
+	    <s>(candrap, sātavat, jayanaravaraṇ, taratim<lb/> nadījū)<lb/> yathā —</s>
+	    <quote>	
+	      <lg>
+		<l>cāru bhīru! niśitaśubhasitasamadaśanaṁ</l>
+		<l>lōkalōcanaharamabhinavakamalanibham</l>
+		<l>bhāti bhāmini! tava kuvalayadalanayanaṁ</l>
+		<l>sūnasubhru vadanam atiśubham idam amalam </l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="83">candralēkhā dīmīś</ab>
+	  <p>
+	    <s>(nacaratid, dhīvarāś, tarātim, dhīvarāś, dhīvarāś)<lb/> yathā —</s>
+	    <quote>	
+	      <lg>
+		<l>sara iva yaṁ śritādya nilayaṁ sphurat padmakaṁ</l>
+		<l>jarayati yasya ca stutiparō viṣaṁ padmakam </l>
+
+		<pb n="56"/>
+
+		<l>tamacalabhēdanis sr̥tamanaḥ śilākuṅkumaṁ</l>
+		<l>namata dadhānamāyataviṣāṇaśaṁkuṅkumam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="84">atyaṣṭiḥ</ab>
+	  <p>
+	    <s>atyaṣṭir nāmāṣṭaṣaṣṭyakṣaraṁ chandaḥ</s>
+	  </p>
+	</div>
+	
+	<div type="sūtra">
+	  <ab type="sūtra" n="85">hariṇī mlū śrī nūnī</ab>
+	  <p>
+	    <s>(taratim, kurutēla, nūnaṁsāg, dhīvarāś,<lb/> nanur, dhīvarāś)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>sphuradurughanacchatrābhōgaḥ sphuṭaś vasanadhvaniḥ</l>
+		<l>saviṣaviṣamō daṁṣṭrāṭōpaś caladviṣamēkṣaṇaḥ </l>
+		<l>vivr̥tadaśanaś caṇḍājihvō didhakṣurupāgatō</l>
+		<l>bhujagapatir atyuprakrōdhō munē! śamitastvayā </l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="86">śikhariṇī ḍūmlāj</ab>
+	  <p>
+	    <s>(kuśāṅgīṅ, nūnaṁsāg, taratim, kurutēl, <lb/> sātavat, nadīj)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>na vaktraṁ saṁrambhādadharamaṇisandaṁśakaluṣaṁ</l>
+		<l>na bāhurniṣkr̥ṣṭa sphuradasimayūkhair anusr̥taḥ</l>
+		<l>śarīraṁ nākarṇasthitaśaradhanur maṇḍalagataṁ</l>
+		<l>sa bhagnaś vānaṅgō jayati vidhipūrvō bhagavataḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="87">pr̥thvī kl̥j mśī</ab>
+	  <p>
+	    <s>(vibhātik, kurutēl, nadīj, taratim, dhīva<lb break="no"/>rāś, dhīvarāś)
+
+	    <pb n="57"/>
+
+	    yathā — </s>
+	    <quote>
+	      <lg>
+		<l>asambhr̥tapayōdharām amalacandrasaumyānanāṁ</l>
+		<l>śramēṇa mahatāgatō madanabāṇavēgāturaḥ </l>
+		<l>pariṣvajati pīḍitaṁ rahasi yaḥ prasuptāṁ priyāṁ</l>
+		<l>mr̥tō ’pi sa na bandhubhiḥ samanuśōcanīyō naraḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	<div type="sūtra">
+	  <ab type="sūtra" n="88">vaṁśapatrapatitaṁ tīmāru nū</ab>
+	  <p>
+	    <s>(sātavat, dhīvarāś, taratim, sātavat, nanur,<lb/> kurutēla)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>puṣpasamujjvalāḥ kuravakā nadati parabhr̥taḥ</l>
+		<l>kāntam aśōkapuṣpahasitaṁ calati kisalayaḥ </l>
+		<l>cūtasugandhayaś ca vipinē bhramararutavahāḥ</l>
+		<l>samprati kānanēṣu sadhanur vicarati madanaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="89">mandākrāntā sēruśō nīnūṁ</ab>
+	  <p>
+	    <s>(gaṅgās, tēśrīḥkvab, nanur, kurutēl, dhīva<lb break="no"/>rāś, lōlamālāṣ)<lb/> yathā — </s>
+	    <quote>
+	      <lg>
+		<l>bālā tanvī mr̥dur iyam iti tyajyatām atra śaṅkā</l>
+		<l>naiva bhramara<app><lem>bharatō</lem><rdg wit="#ka #kha">bhavat</rdg></app> mañjarī bhajyamānā </l>
+		<l>tasmād ēṣā rahasi bhavatā nirdayaṁ pīḍanīyā</l>
+		<l>mandākrāntā visr̥jati rasaṁ nēkṣuyaṣṭiḥ samastam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="90">dhr̥tiḥ</ab>
+
+	  <pb n="58"/>
+	  
+	  <p>
+	    <s>dhr̥tirnāma dvisaptatyakṣaraṁ chandaḥ</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="90">kusumitalatā ssāyśō nu</ab>
+	  <p>
+	    <s>(gaṅgās, gaṅgās, sātaval, kamalinīy, dhīva<lb break="no"/>rāś, lōlamālāṣ)<lb/> yathā — </s>
+	    <quote>
+	      <lg>
+		<l>āmōdāmattōdbhramaranayanā prasphuratpallavōṣṭhī</l>
+		<l>puṣpavyāpāṇḍuḥ parabhr̥tarutavyaktaraktapragītā</l>
+		<l>nr̥ttōtkṣiptāṁsā pracalitakarā bhāti kāntēva mattā</l>
+		<l>vāyuvyāghūrṇā kusumitalatāvēllitā cūtayaṣṭiḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	<div type="sūtra">
+	  <ab type="sūtra" n="92">atidhr̥tiḥ</ab>
+	  <p>
+	    <s>atidhr̥tir nāma ṣaṭsaptaty akṣaraṁ chandaḥ</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="93">śārdūlavikrīḍitaṁ gukusr̥j nau</ab>
+	  <p>
+	    <s><!--misprint? yathā before the definition of the meter instead of before quote-->yathā — <lb/> (nūnaṁsāg, kurutēl, vibhātik, kurutēl,<lb/>gaṅgās, kr̥śāṅgīṅ, nadīj )</s>
+	    <quote>
+	      <lg>
+		<l>yasyāṁ mattavarēbhakumbhadalanasthūlaprahārā raṇē</l>
+		<l>vīrāḥ saṁhatadantidantakaṣaṇakṣuṇṇōruvakṣaḥsthalāḥ </l>
+		<l>baddhācchādasidhēnusatkaṭitaṭā ramyōjjvaladbhūṣaṇā</l>
+		<l>rājadvāram upāgatā vidadhatē śārdūlavikrīḍitam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	
+	<div type="sūtra">
+	  <ab type="sūtra" n="94">vāyuvēgā mukudu nau</ab>
+	  <p>
+	    <s>(nūnaṁsāg, kurutēl, vibhātik, kurutēl, naca<lb break="no"/>ratid, kurutēl)
+
+	    <pb n="59"/>
+
+	    yathā — </s>
+	    <quote>
+	      <lg>
+		<l>nīlair vidyudalaṅkr̥tōruśikharaur vipula jaladharai-</l>
+		<l>rvyoma channamudāradhīraninadaiḥ kṣaradamr̥talavaiḥ </l>
+		<l>kēkārāvam idaṁ vimuñcati mudā bhujagaripukulaṁ</l>
+		<l>samprāptē jaladāgamē ’tiśiśirō <app><lem>vicarati</lem><rdg wit="#ka #ga #kha">viracati</rdg></app> pavanaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="95">kr̥tiḥ</ab>
+	  <p>
+	    <s>kr̥tir nāmāśītyakṣaraṁ chandaḥ</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="96">suvadanā svsr̥ṇūd nr̥nr̥</ab>
+	  <p>
+	    <s>(gaṅgās, gaṅgās, kr̥śāṅgīṅ, jayanakharaṇ,<lb/> nūnaṁsāg, nacaratid)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>tatpītaṁ hanti saṁjñāṁ kaluṣayati vacō buddhiṁ bhramayati</l>
+		<l>hīdharmau pracchinatti smr̥tim apaharati dvēṣaṁ janayati</l>
+		<l>muṣṇāti prītim agrayāṁ malinayati kulaṁ vr̥ttaṁ tulayati</l>
+		<l>tanmōhātpānasaṁjñaṁ yadi pibati narō mr̥tyuṁ sa pibati</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="97">vr̥ttaṁ śiśiśip</ab>
+	  <p>
+	    <s>(dhīvarāśa, vibhātika, dhīvarāśa, vibhātika, dhīva<lb break="no"/>rāś, vibhātik, candrap)<lb/>yathā — </s>
+	    <quote>
+	      <lg>
+		<l>puṣpapallavōjjvalēṣu padmaṣaṇḍamaṇḍitēṣu mattakōki-</l>
+		<l>lāḷivr̥ndakūjitēṣu sārdham ēva mādhavēna yō jaghāna ।</l>
+		<l>mīnaśatrum āyatēna māyatēna sāyakēna sannatāṅgi</l>
+		<l>sajyacāpabāṇapāṇir abjacārulōcanē sasambhramīva</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<pb n="60"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="98">prakr̥tiḥ</ab>
+	  <p>
+	    <s>prakr̥tir nāma caturaśītyakṣaraṁ chandaḥ</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="99">sragdharā gōduśō nr̥n</ab>
+	  <p>
+	    <s>(nūnaṁsāg, lōlamālāṣ, nacaratid, kurutēl,<lb/> dhīvarāś, lōlamālāṣ)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>dantāgraprōta<app><lem>cañcudyuti</lem><rdg wit="#ga #kha">cañcaddyuti</rdg></app>danutanayāsr̥gvasādigdhadēhō</l>
+		<l>yō bhātyājau pradhāvadrajatagiririvāvā sasandhyābhralēkhaḥ </l>
+		<l>sō ’vyādairāvatō vaḥ svakaṭaghaṭataṭaprakṣaraddānadhārā-</l>
+		<l>svādōnmattapra<app><lem>hr̥ṣṭabhra</lem><rdg wit="#kha">hr̥ṣyadbhra</rdg></app>maragumugumārāvakōlāha<app><lem>lāsyaḥ</lem><rdg wit="#ka">lākhyaḥ</rdg><rdg wit="#kha">lāḍhyaḥ</rdg></app></l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div> 
+
+	<div  type="sūtra">
+	  <ab type="sūtra" n="100">ākr̥tiḥ</ab>
+	  <p>
+	    <s>ākr̥tir nāmāṣṭāśītyakṣaraṁ chandaḥ</s>
+	  </p>
+	</div>
+	
+	<div type="sūtra">
+	  <ab type="sūtra" n="101">madrakam tīyilku nai</ab>
+	  <p>
+	    <s>(sātavat, dhīvarāś, kamalinīy, vibhātik,<lb/> kurutēl, vibhātik, kurutēl)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>mr̥tyuparāyaṇē paramadurbalē jagati tōyabudbudasamē</l>
+		<l>vyādhijarātmakē vyasanabhājanē ruditaśōkaśalyavihatē</l>
+
+		<pb n="61"/>
+
+		<l>kranditam ūrdhva bhōjavasinighnadhīriha ca yatra nōbhayatra śataṁ</l><note xml:lang="eng"><p><s>The latter half of this verse is detective in the Mss., and the third foot has one short syllable more and the fourth two short syllables less.</s></p></note>
+		<l>tatra gatavyathō viṣayagōcaraḥ śamayasīndriyāṇi naḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="102">asyaiva nē piṅgaḷasya</ab>
+	  <p>
+	    <s>asyaiva madrakasya daśamē ’kṣarē yatir bhavati piṅgaḷa<lb break="no"/>syācāryasya matēna</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="103">nikr̥tiḥ</ab>
+	  <p>
+	    <s>nikr̥tir nāma dvinavaty akṣaraṁ chandaḥ</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="104"><!--must be misprint in verse number: 104, not 108-->aśvalaḷitaṁ dīyilku nē</ab>
+	  <p>
+	    <s>(nacaratid, dhīvarāś, kamalinīy, vibhātik, <lb/>kurutēl, vibhātik, kurutēl)</s> yathā —
+	    <quote>
+	      <lg>
+		<l>maratakaśailabhittisadr̥śōrmipātacalitapravāḷaviṭapa-</l>
+		<l>prakupitabhīmanakramakarakṣutakṣubhitavārivāraṇajhaṣaḥ</l>
+		<l>vividhavikīrṇaratnakiraṇātapacchuritanirmalōdarajalaṁ</l>
+		<l>sajalapayōdagarjitaravaṁ sa pālayatu vaḥ kulaṁ jalanidhiḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="105">mattākrīḍā sguṇṇu nr̥̄</ab>
+	  <p>
+	    <s>(gaṅgās, nūnaṁsāg, nūnaṁsāg, jayanaravaraṇ<!--the two jayanakharaṇ must be misprints-->,<lb/> jayanaravaraṇ, kurutēl)
+	    
+	    <pb n="62"/>
+	    
+	    yathā —</s>
+	    <quote>
+	      <lg>
+		<l>vidyunnaddhaṁ khaṁ naṣṭārkaṁ sasurapatidhanur upanatajaladharaṁ</l>
+		<l>śaṣpaśyāmā ramyāḥ śailāḥ drutamupalavivaranipatitasalilāḥ</l>
+		<l>vr̥kṣākampō vāyuścaṇḍaḥ paripatana śiśirajalapr̥ṣatayutaḥ</l>
+		<l>phēnaiḥ śuklaiḥ kīrṇā nadyō navasalilavisara<app><lem>samupahata</lem><rdg wit="#ga #kha">samupahr̥ta</rdg></app>taṭāḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="106">saṅkr̥tiḥ</ab>
+	  <p>
+	    <s>saṅkr̥tir nāma ṣaṇṇavatyakṣaraṁ chandaḥ</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="106"><!--Two verses #106???-->tanvī tēsutāds nunr̥</ab>
+	  <p>
+	    <s>(sātavat, tēśrīḥkvab, taratim, kurutēl, sātavat, sātavat, nacaratid, gaṅgās)<lb/> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>kāmavaśārttas tava sastri! ramaṇaḥ samprati śuṣyati niśi śaśipādai-</l>
+		<l>rvihr̥lagātraḥ prapatati śayanē niḥśvasitākulavigalitadhairyaḥ </l>
+		<pb n="63"/>
+		<l>prāñjalinōktaḥ praṇamitaśirasā sādhvavadhāraya ramaṇavacas tvaṁ</l>
+		<l>mā tava kōpōjjvalavararipuhā dhakṣyati mām iti kathayati tanvī</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="107">mēghamālā ṇīśīśśī</ab>
+	  <p>
+	    <s>(jayanaravaraṇ, dhīvarāś, dhīvarāś, dhīvarāś, dhīva<lb break="no"/>rāś, dhīvarāś, dhīvarāś)<lb/> yathā — </s>
+	    <quote>
+	      <lg>
+		<l>calakisalayaśōbhitāśōkasālapriyālāmrapunnāganāgādibhi-</l>
+		<l>starubhir urubhir ujjvalair mattapuṁskōkilōnnāditair bhūṣitaṁ kānanam</l>
+		<l>vikasitakamalōtpalāmōdagandhōtkaṭō vātyayaṁ dākṣiṇātyō ’nilaḥ</l>
+		<l>tava sutanu samāgataḥ kāmasandīpanaḥ kāla ēṣa <app><lem>priyaḥ</lem><rdg wit="#ga">priye</rdg></app> sundari</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="109">abhikr̥tiḥ</ab>
+	  <p>
+	    <s>abhikr̥tir nāma śatākṣaraṁ chandaḥ</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="110">krauñcīpadā ñauṇṇu nun</ab>
+	  <p>
+	    <s>(rautimayūrōñ, rautimayūrōñ, jayanaravaraṇ, jayanara<lb break="no"/>varaṇ, kurutēl)<lb/>
+
+	    <pb n="64"/>
+	    
+	    yathā — </s>
+	    <quote>
+	      <lg>
+		<l>prōlbaṇadarpōdvr̥tta<app><lem>mamantraṁ</lem><rdg wit="#ka">mapi mitraṁ</rdg></app> bhramadururgha<note xml:lang="eng"> <p><s><foreign xml:lang="san-Latn">kha, ga</foreign> omit <foreign xml:lang="san-Latn">gha</foreign>.</s></p></note>nanibhakarivarakalilaṁ</l>
+		<l>prajvalitāstraprēṅkhitaraudradrutataragatipara<app><lem>bhr̥ta</lem><rdg wit="#ka">bhaya</rdg></app>kulabahulam</l>
+		<l>siṁhavigarjadvīpivikīrṇaṁ harir iva mr̥gagaṇam arigaṇamapabhīḥ</l>
+		<l>sa tvam ananyō drāvayasīti pracarati bhuvamuru tava nr̥vara! yaśaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="111">utkr̥tiḥ</ab>
+	  <p>
+	    <s>utkr̥tirnāma catuśśatākṣaraṁ chandaḥ</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="112">bhu<app><lem>jaṅgavi</lem><rdg wit="#ka">jagavi</rdg></app>jr̥mbhitaṁ sgūrṇujrī nr̥̄nai</ab>
+	  <p>
+	    <s>(gaṅgās, nūnaṁsāg, nūnaṁsāg, nanur, jayanaravaraṇ,<lb/> kurutēl, nadīj, nanur, dhīvarāś)<lb/> yathā—</s>
+	    <quote>
+	      <lg>
+		<l>kō ’si tvaṁ mē kā vāhaṁ tē visr̥ja śaṭha mama nivasanaṁ mukhaṁ kim avēkṣasē</l>
+		<l>na vyagrāhaṁ jānē hī hī tava subhaga daśanavasanaṁ priyādaśanāṅkitam</l>
+		<l>yā tē ruṣṭā sā tē nāhaṁ vraja capalahr̥daya nilayaṁ prasādaya kāminī-</l>
+		<l>mityēvaṁ vaḥ kandarpārttāḥ praṇayakr̥takalahakupitā vadantu varastriyaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="113">apavāhakaṁ gmmrṇṇū nunū</ab>
+	  
+	  <pb n="65"/>
+
+	  <p>
+	    <s>(nūnaṁsāg, taratim, taratim, nanur, jayanaravaraṇ, jaya<lb break="no"/>naravaraṇ, nūnaṁsāṁg)<lb/> yathā—</s>
+	    <quote>
+	      <lg>
+		<l>bhrājantē bhramadalikulamuditavihagamadhuravirutarucirā vāpyaḥ</l>
+		<l>haṁsaiḥ saṁkṣubhitakamalakuvalayaviluḷitavimalasusalilā: pūrṇāḥ</l>
+		<l>vātyēṣa pramadavanapavana<app><lem>hr̥ta</lem><rdg wit="#ka #ga #kha">javarata</rdg></app><app><lem>tarukusuma</lem><rdg wit="#ka #ga #kha">tarugabhakusuma</rdg></app>surabhiranilō mandaḥ</l>
+		<l>prāptō ’yaṁ samadati! samadama<app><lem>danajitamanu</lem><rdg wit="#ka #ga #kha">danamanu</rdg></app>jahr̥dayadayitaḥ kālaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	<div type="sūtra">
+	  <ab type="sūtra" n="114">daṇḍakāḥ</ab>
+	  <p>
+	    <s>adhikārō ’yam. </s><s>ita ūrdhvaṁ yadvakṣyāmaḥ taddaṇḍaka<lb break="no"/>saṁjñaṁ bhavati</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="115">sgūrṇṇśrī jaladaḥ</ab>
+	  <p>
+	    <s>jaladākhyō daṇḍakō bhavati pratipādaṁ sgurṇṇśrī (ga<lb break="no"/>ṅgās, nūnaṁsāga, nūnaṁsāg, nanur, jayanaravaraṇa, dhīvarāś<lb/> nanur, dhīvarāś) ity akṣaravinyāsō bhavati cēt</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="116">madhyē lalitāni dvr̥ddhyā mēgha-pipīlikā-paṇava-karabha<lb/>lalitāni</ab>
+	  
+	  <pb n="66"/>
+
+	  <p>
+	    <s>jaladākhyasya daṇḍakasya madhyē dakāravr̥ddhayā yathākramaṁ<lb/> mēghaḥ pipīlikā paṇavaḥ karabhaḥ lalitām iti ētē pañca daṇḍa<lb break="no"/>kāni.</s><s> ētaduktaṁ bhavati—jaladasyaikaḥ pādaḥ<lb/> triṁśadakṣaraḥ, mēghasya catustriṁśadakṣaraḥ, pipīlikāyā aṣṭatriṁśa<lb break="no"/>dakṣaraḥ, paṇavasya dvicatvāriṁśadakṣaraḥ, karabhasya ṣaḍcatvāriṁ<lb break="no"/>śadakṣaraḥ, lalitasya pañcāśadakṣaraḥ.</s><s> ēvaṁ ṣaṭ daṇḍakā bhavanti.</s><s> tēṣāmantyas yōdāharaṇam— </s>
+	    <quote>
+	      <lg>
+		<l>yēna prāṁśuṁ krauñcasyāgraṁ maṇikanakavimalanavarajatapaṭalaharavr̥ṣabhasakalaśaśikiraṇakumudasadr̥śaṁsitāmbujasannibham</l>
+		<l>bhinnaṁ śaktyā līlāvatyāstaṭaviṭapakuṭacasitapanasatimiśadhavakhadiratilakatarugahanalalitaśikharaṁ latāgr̥hasaṅkaṭam </l>
+		<l>krīḍābhūmir gandharvāṇāṁ gajagavayamahiṣarurupr̥ṣataśarabhamr̥gamithunaparamabahuvividhaśakunicaritaṁ <app><lem>vipaddruta</lem><rdg wit="#ka #ga #kha">vipradruta</rdg></app>kinnaram</l>
+		<l>sō ’rīn vō ’dbhir dēvō rōṣāttr̥ṣita iva pibatu dahana iva dahatu pavana iva vahatu taruṇaravisadr̥śavadanō mayūravaradhvajaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="117">tadadhikō nicitaḥ</ab>
+	  <p>
+	    <s>tēbhyō ’dhikastajjātīyō nicitākhyō daṇḍakō bhavati.</s>
+	  </p>
+	</div>
+	
+	<pb n="67"/>
+	
+	<div type="sūtra">
+	  <ab type="sūtra" n="118">caṇḍavr̥ṣṭiprayātō ṇīśśīśśī</ab>
+	  <p>
+	    <s>caṇḍavr̥ṣṭiprayātō nāma daṇḍakō bhavati pratipādaṁ ṇī<lb break="no"/>śśaśśī (jayanaravaraṇ, dhīvarāś,dhīvarāś, dhīvarāś,<lb/> dhīvarāś, dhīvarāś, dhīvarāś, dhīvarāś) ityakṣaravinyāsō<lb/> bhavati cēt.</s><s>  yathā— </s>
+	    <quote>
+	      <lg>
+		<l>muditajanapadākulā sphītasasyākulā bhūtadhātrī bhavantaṁ samabhyar cati</l>
+		<l>dviradakaraviluptahintālatālīvanāstvāṁ namasyanti vindhyādayaḥ parvatāḥ</l>
+		<l>sphuṭitavimalaśuktinirgīrṇam uktāphalair ūrmihastair namasyanti vaḥ sāgarāḥ</l>
+		<l>muditajana<app><lem>padais</lem><rdg wit="#ka #ga #kha">padā</rdg></app> samākīrṇakūlāśca tē kīrtayiṣyanti varṇa mahānimnagāḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="119"> śvr̥ddhyārṇavā-rṇa-plava-vyāla-jīmūta-līlakarōddā-masiṁha- samudra-bhujaṅgāḥ</ab>
+	  <p>
+	    <s>caṇḍavr̥ṣṭiprayātākhyasya daṇḍakasya pādē pādē kramaśaḥ<lb/> śakāra (dhīvarāś) vr̥ddhyā arṇavaḥ, arṇaḥ, plavaḥ, vyālaḥ, jī<lb break="no"/>mūtaḥ, līlākaraḥ, uddāmā,siṁhaḥ, samudraḥ, bhujaṅgaḥ,<lb/> ityētē daśa daṇḍakā bhavanti.</s><s> tatrārṇavasya pādē ṇakārāt<lb/> parataḥ aṣṭau śakārā bhavanti, arṇasya nava, plavasya daśa,<lb/> vyāḷasya ēkādaśa, jīmūtasya dvādaśa, līlākarasya trayō
+
+	    <pb n="68" break="no"/>
+
+	    daśa, uddāmnaś caturdaśa, siṁhasya paścadaśa, samudrasya ṣōḍaśa<lb/> bhujaṅgasya saptadaśa.</s><s>  ēvam ētē ca daśa daṇḍakā bhavanti</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="120">śēṣāḥ pracitāḥ</ab>
+	  <p>
+	    <s>uktēbhyō daṇḍakēbhyaḥ śakāravr̥ddhyā yē ’dhikā daṇḍakāḥ<lb/> pracitā nāma tē bhavanti.</s><s> yēṣāṁ pādē pādē aṣṭādaśa ēkōna<lb/> viṁśatiḥ tatō ’dhikā vā śakāravr̥ddhyā bhavēyuś cēt ta ēva śēṣāḥ<lb/> pracitākhyā daṇḍakā bhavantī ti.</s><s> tatrārṇavō yathā— </s>
+	    <quote>
+	      <lg>
+		<l>para iha na kariṣyati tvan nimittaṁ śubhaṁ nāpi cānyaiḥ kr̥taṁ labhyatē svaśramō bhujyatē</l>
+		<l>na ca bhavati kr̥tasya nāśō na caivākr̥tasyāgamō vidyatē bījamuptvā phalaṁ prāpyatē</l>
+		<l>kr̥tam iti hr̥dayēna tuṣṭēna mr̥tyuḥ sukhaṁ dr̥śyatē na hyakr̥tvā bhavēt svasti tasmin bhavē</l>
+		<l>kuru kuśalamalaṁ pramādēna gr̥hṇīṣva dīpaṁ pravēṣṭavyamēkēna dīrghaṁ hyanantaṁ tamaḥ</l>
+	      </lg>
+	    </quote>
+
+	    <s>arnō yathā— </s>
+	    <quote>
+	      <lg>
+		<l>śaraṇam analasūryavāyupratīghātanaṣṭārjavaṁ tarṣabhāc chēttumannaṁ kṣudhaṁ śaucamāgaṁ malaṁ</l>
+		<l>vasanam api śarīrakaupīnadōṣapraticchādanārthaṁ gatiklēśanāśāya yānādayō vistarāḥ</l>
+		<l>śiśiraśamanamuṣṇamuṣṇapraṇāśāya śītō vidhirgātraviśrāntihētōś ca śayyāsanāpāśrayāḥ</l>
+
+		<pb n="69"/>
+
+		<l>puruṣaguṇamimaṁ paritrātumāt taiś cikitsēyamārabhyatē yatra bhōgārthasaṁjñā nr̥ṇāṁ jāyatē</l>
+	      </lg>
+	    </quote>
+
+	    <s>plavō yathā— </s>
+	    <quote>
+	      <lg>
+		<l>jalanidhivasanāpi bhūryasya tasyaika ēvādhivāsaḥ puraṁ tatra caikaṁ gr̥haṁ tadgr̥hē caika ēvālayō</l>
+		<l>nivasanayugam ēkam ēvātsakaupī<app><lem>naśāṭyardhamēkaiva</lem><rdg wit="#ka #ga #kha">śāśārthamēkaiva</rdg></app> śālā<app><lem>nivr̥ttipravr̥ttyōs tu tatsarvathā</lem><rdg wit="#ka #ga #kha">nivr̥ttivr̥ttitatsarvathā</rdg></app> muktabhāvaḥ sukham<note xml:lang="eng"><p><s>The latter half of the verse is not seen in the Mss.</s></p></note></l>
+	      </lg>
+	    </quote>
+	  </p>
+	  <p>
+	    <s><app><lem resp="#AO">śēṣāṇām u</lem><rdg wit="#ed">śēṣāṇāsu</rdg></app>dāharaṇāni pranthavistarabhayānnōdāhr̥tāni.</s>
+	    <s>tāny api kāvyēṣu sūtrālaṅkārādiṣu draṣṭavyāni.</s>
+	  </p>
+	</div>
+	<trailer>iti jānāśrayyāṁ chandōvicityāṁ<lb/> ṣamavr̥ttādhyāyaścaturthaḥ</trailer>
+      </div>
+
+      <div n="5" type="adhyāya">
+
+	<pb n="70"/>
+
+	<head>atha pañcamō ’dhyāyaḥ</head>
+	<div type="nonsūtra">
+	  <p>
+	    <s>vr̥ttānyuktāni.</s><s>idānīṁ jātayō vakṣyantē.</s><s>vakṣyati<lb/> bhavān jatir iti.</s><s> idaṁ tāvad ucyatāṁ jātivr̥ttayōḥ kiṁ<lb/> nānātvam iti.</s><s>atrōcyatē— </s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="1">jātir ēkāpy anēkasmiñ chandasi bhavati vr̥ttam ēka<lb break="no"/>m ēkasminn ēva</ab>
+	  <p>
+	    <s>idam anayōr nānātvam.</s><s> sātvan ēkasmin chandasi varta<lb break="no"/>mānā pi mātrālakṣaṇatastulyajātīyaiva.</s><s> tata ēvōcyatē<lb/> jātir iti.</s>
+	  </p>
+	</div>
+
+	<head>atha vaitālīyaprakaraṇam</head>
+
+
+
+	<div type="sūtra">
+	  <p>
+	    <s>tatra tāvat —</s>
+	  </p>
+	  <ab type="sūtra" n="2">vaitālīyaṁ caturdaśāyuji hāḥ</ab>
+	  <p>
+	    <s>vaitālīyaṁ nāma jātir ucyatē.</s><s> tasya vaitālīyasyāyu<lb break="no"/>ji prathamatr̥tīyayōḥ pādayōś caturdaśa hakārā bhavanti.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="3">yuji ṣōḍaśa<note xml:lang="eng"><p><s>This sūtra and its vr̥tti are missing in <foreign xml:lang="san-Latn">kha</foreign></s></p></note></ab>
+	  <p>
+	    <s>tasyaiva yuji dvitīyacaturthayōḥ <app><lem>pādayōḥ ṣōḍaśa<lb/> hakārā bhavanti.</lem><rdg wit="#ka">pādayōr antē hakārō bhavati—tadyathā</rdg></app></s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="4">bha dvayōr antē</ab>
+	  <p>
+	    <s>dvayōr ayugyujōḥ pādayōr antē bhakārō bhavati.</s><lb/><s>tad yathā— </s>
+	    <quote>
+	      <lg>
+		<l>abhināditamambarād ghanair ghananādaiḥ pratigarjitō gajaḥ</l>
+		<l>gajar āvitakandarō girirgiritulyair abhiṣicyatē ’mbudaiḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<pb n="71"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="5">bhā caupacchanda<app><lem>si</lem><rdg wit="#ga">sa</rdg></app>kam</ab>
+	  <p>
+	    <s>tasyaiva dvayōr ayugyujōḥ pādayōr antē guruś cāparō<lb/> bhavati (cēdaupacchandasikaṁ nāma bhavati).</s><s> tadyathā— </s>
+	    <quote>
+	      <lg>
+		<l>salilaṁ vimalaṁ tamālanīlaṁ</l>
+		<l>svanilōddhūtataraṅgatuṅgaśr̥ṅgam</l>
+		<l>vilasat kalahaṁ salōlamālaṁ</l>
+		<l>vilasatkōkanadaṁ manō dunōti</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="6">ñāpātalikā</ab>
+	  <p>
+	    <s>tasyaiva vaitālīyasyāntē dvayōr ayugyujōḥ pādayōḥ<lb/>ñakārō (rautimayūrōñ) bhavati cēdāpātalikā nāma bhavati.</s><s>yathā- </s>
+	    <quote>
+	      <lg>
+		<l>ambhōdānāmas itānāṁ śrutvā śabdaṁ santatabarhaḥ </l>
+		<l>ambhō<app><lem>bhara</lem><rdg wit="#ka #kha #ga">bhārān</rdg></app>mandagatīnām udgrīvō ’yaṁ rauti mayūraḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="7">dve upajātī<note xml:lang="eng"><p><s>Mss. omit this sūtra</s></p></note></ab>
+	  <p>
+	    <s>jātau aupacchandasikāpātalikē upajātī ity u<pb n="72" break="no"/>cyētē.</s><s> vaitālīyajātim āśritya jātatvāt vaitālīyasyānta<lb break="no"/>rlakṣaṇam uktam</s><s> idānīm ādilakṣaṇam ucyatē.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="8">nādau parēṇa yuglaghavaḥ sārdham</ab>
+	  <p>
+	    <s>sōpajāter vaitālīyasyādau ayukpādē ṣaḍ laghavaḥ.</s><s>yukpādē aṣṭau laghavaḥ.</s><s> tatra parēṇa laghunā sārdhaṁ yuglaghurna<lb/> bhavati.</s><s> ubhāva pi miśrayitvā ēkō gururna prayōktavya<lb/> ityarthaḥ.</s>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="9">yukpādē na ṇaḥ</ab>
+	  <p>
+	    <s>sōpajātēr vaitālīyasyādau yukpādē naiva ṇakārō bhavati.</s><lb/><s> ayukpādē na vidhirna pratiṣēdhaḥ.</s><s> tasmāttatra bhavati vā na<lb/> vā.</s><s> yathā—</s>
+	    <quote>
+	      <lg>
+		<l>jaladharapaṭalāntanissr̥tas</l>
+		<l>samayē dīptamayūkhamaṇḍalaḥ</l>
+		<l>pravitatatimir <app><lem>aprabhēdakō</lem><rdg wit="#ga">aprabhēdakun</rdg></app></l>
+		<l>nabhasaḥ kruddha ivōtthitō raviḥ</l>
+	      </lg>
+	    </quote>
+
+	    <s>ayuji yasmin pakṣē ṇakārō na bhavati tasyō <lb break="no"/>dāharaṇaṁ yathā—</s>
+	    <quote>
+	      <lg>
+		<l>mr̥dutāmupayānti mārutāḥ</l>
+		<l>pralayaṁ yānti śanair valāhakāḥ</l>
+		<l>punar āgatahaṁsasārasā</l>
+		<l>śaradākrāmati vārṣikīṁ śriyam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<pb n="73"/>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="10">yuji caturthēnōttaraḥ sākaṁ prācyavr̥ttiḥ</ab>
+	  <p>
+	    <s>tasyaiva sōpajātair vaitālīyasyādau yukpādē caturthēna<lb/> laghunā sārdham uttarō laghur miśritō bhavati cēt prācyavr̥tti<lb break="no"/>rnāma bhavati.</s><s> yathā—</s>
+	    <quote>
+	      <lg>
+		<l>pulinaiḥ pratibhānti nimnagāḥ sārasāgracaraṇāṅkakardamaiḥ</l>
+		<l>kalahaṁsavikīrṇamēkhalāḥ kāntabhuktajaghanā iva striyaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	<div type="sūtra">
+	  <ab type="sūtra" n="11"><app><lem>ayujyapyaparāntikā</lem><rdg wit="#ka #kha #ga">ayujyaparāntikā</rdg></app></ab>
+	  <p>
+	    <s>tasyaiva vaitālīyasyādau ayukpādē ’pi <app><lem resp="#TR">caturthēna</lem><rdg source="#ed">ttaturthēna</rdg></app><lb/> laghunā sārdhamuttaraḥ pañcamō laghur miśritō bhavati cēdaparā<lb break="no"/>ntikā nāma bhavati</s><s> yathā—</s> 
+	    <quote>
+	      <lg>
+		<l>bhānti sāmprataṁ jalāśayā haṁsacakravākāṁsakampitaiḥ</l>
+		<l>sampradīptakānanōpamāḥ paṅkajair vibuddhaiḥ samākulāḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="12">dvitīyēnōdīcyavr̥ttiḥ</ab>
+	  <p>
+	    <s>tasyaiva sōpajātēr vaitālīyasyādāvayukpādē dvitīyēna<lb/> laghunā uttaras tr̥tīyō laghur miśritō bhavati cēd udīcyavr̥tti<lb break="no"/>rnīma bhavati.</s><s> yathā—</s>
+
+	    <pb n="74"/>
+
+	    <quote>
+	      <lg>
+		<l>manōjñam api sinduvārataḥ kundakusumamam agryaṁ ca ṣaṭpadaḥ</l>
+		<l>na sarpati tuṣāraśaṅkitaś candrālōkaviśēṣaśītalam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="13">yujyapi dakṣiṇāntikā</ab>
+	  <p>
+	    <s>tasyaiva sōpajātēr vaitālīyasyādau yukpādē ’pi dvitī<lb break="no"/>yēnōttarastr̥tīyō laghur bhavati cēt dakṣiṇāntikā nāma<lb/> bhavati.</s><s> yathā—</s>
+	    <quote>
+	      <lg>
+		<l>kadambagandhōlbaṇāvaniḥ pravānti kēsarayūthikānilāḥ</l>
+		<l>satōyabharalambinō ghanāḥ bhramanti muditaravā jaladāgamē<note xml:lang="eng"><p><s> This pāda contains one excess mātra.</s></p></note></l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sūtra">
+	  <ab type="sūtra" n="14">prasaktakaṁ prācyōdīcyavr̥ttibhyām</ab>
+	  <p>
+	    <s>prasaktakaṁ nāma bhavati prācyōdīcyavr̥ttibhyāṁ bhavati<lb/> cēt.</s><s> yathā—</s>
+	    <quote>
+	      <lg>
+		<l>vighāṭitapayōdharārgala nirmalojjvaśaśāṅkamaṇḍalam</l>
+		<l>divākaram arīcisaṁkṣayē dhautaharmyam iva lakṣyatē ’mbaram</l>
+	      </lg>
+	    </quote>
+
+	    <s>sōpajātēr vaitālīyasyōktatvāt prācyavr̥ttyaparāntikō<lb break="no"/>dīcyavr̥ttidakṣiṇāntikāprasaktakāni aupacchandasikāpātali<lb break="no"/>kayōr api bhavati/</s>
+
+	    <pb n="75"/>
+
+	    <s>tatraupacchandasikaprācyavr̥ttir yathā—</s>
+	    <quote>
+	      <lg>
+		<l>abhivīkṣya nitāntatāmrapadmaṁ sampradīpta iva kēcidambhaḥ<note xml:lang="eng"><p><s> This pāda is deficient in three mātrās</s></p></note></l>
+		<l>na bhayād upayanti vāraṇēndrā dāvavahnicakitāḥ samunnadantaḥ</l>
+	      </lg>
+	    </quote>
+
+	    <s>aupacchandasikā parāntikā yathā—</s>
+	    <quote>
+	      <lg>
+		<l>dyaur vibhāti pūrṇacandravaktrā prōnmiṣadvividhatārakākulākṣā</l>
+		<l>candrikā dukūlasaṁvr̥tāṅgī kanyakēva hi vivāhavēṣayuktā</l>
+	      </lg>
+	    </quote>
+
+	    <s>aupacchandasikōdīcyavr̥ttir yathā—</s>
+	    <quote>
+	      <lg>
+		<l>navāmbudharavr̥ndacumbitālakāgrāḥ jaladōnmattamayūrabhūṣitāgrāḥ</l>
+		<l><note xml:lang="eng"><p><s>Mss. are defective here.</s></p></note>bindvajitanīlavidrumāgrāḥ girayaḥ sarjakadambavāsitāgrāḥ </l>
+	      </lg>
+	    </quote>
+
+	    <s>aupacchandasikadakṣiṇāntikā yathā—</s>
+	    <quote>
+	      <lg>
+		<l>guṇair <app><lem>anupamō</lem><rdg wit="#kha #ga">pamairvasa</rdg></app> vasantakālō manō harati nr̥̄ṇāṁ manōjñarūpaḥ</l>
+		<l>prapuṣṭaparapuṣṭavr̥ndapōṣaḥ prabuddhakamalāmrabōdhitāliḥ</l>
+	      </lg>
+	    </quote>
+
+	    <pb n="76"/>
+
+	    <s>aupacchandasika<app><lem>prasaktakaṁ</lem><rdg wit="#kha">pravartakaṁ</rdg></app> yathā—</s>
+	    <quote>
+	      <lg>
+		<l>divākaramarīcisamprataptāḥ dāvavahnipa<app><lem>ridagdhagu</lem><rdg wit="#ka">ritaptahu</rdg></app>lmadhūmrāḥ</l>
+		<l>jalair navavāhakābhivr̥ṣṭairuchvasanta iva bhānti parvatēndrāḥ</l>
+	      </lg>
+	    </quote>
+
+	    <s>āpātalikāyāścōdāharaṇāny ēvaṁ jñēyāni.</s>
+	  </p>
+	</div>
+
+	<!--Stil not sure how to mark these headers-->
+	<trailer>iti vaitālīyaprakaraṇam</trailer>
+	
+	<head>atha mātrāsamakaprakaraṇam <note xml:lang="eng"><p><s>This section is found to be highly defective in the Mss. and the verses cit3ed seldom illustrate the rules and often contain less or more syllables than required.</s></p></note></head>
+
+	<div type="nonsūtra">
+	  <p>
+	    <s>vaitālīyajātiḥ sōpajātirukā.</s><s>idānīṁ mātrāsa<lb break="no"/>makajātir vakṣyatē.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="15">gaṇāścatvārō mātrāsamakam</ab>
+	  <p>
+	    <s>ayukpādē yukpādē ca gaṇāścatvārō bhavanti cēnmā<lb break="no"/>trāsamakaṁ nāma bhavati.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="16">su vāntyam</ab>
+	  <p>
+	    <s>tasyaiva mātrāsamakasyāntyō gaṇaḥ sakāraḥ (gaṅgās)<lb/> ukārō (kurutēl) vā bhavati.</s>
+	  </p>
+	</div>
+
+	<pb n="77"/>
+
+	<div type="sutra">
+	  <ab type="sutra" n="17">tr̥tīyō l</ab>
+	  <p>
+	    <s>tasyaiva mātrāsamakasyāyukpādē yukpādē ca gaṇastr̥tī<lb break="no"/>yō lakārō (kurutēl) bhavati.</s>
+	    <quote>
+	      <lg>
+		<l>aśmaśrumukhai viṣamair dantaiḥ gambhīrākṣair valinā<app><lem>sāgraiḥ</lem><rdg wit="#ka #kha #ga">sāgram</rdg></app></l>
+		<l>nirmāṁsahanusphuṭitaiḥ kēśair mātrāsamakaṁ labhatē duḥkham</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="18">dvā vānavāsikā</ab>
+	  <p>
+	    <s>tasyaiva mātrāsamakasyāyupādē yukpādē ca tr̥tīyō<lb/> gaṇō dakārō (nacaratid) vā bhavati cēd vānavāsikā nāma<lb/> bhavati.</s><s> yathā—</s>
+	    <quote>
+	      <lg>
+		<l>vada kiṁ kamalāsi bhīru lakṣmi mā candraprabhā ratir vāmatanur athāparāsi sākṣāt </l>
+		<l>pramadānyā vānavāsikā tvam (?) </l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="19">viślōkō <app><lem>didvitīyaḥ</lem><rdg wit="#ka #kha #ga"><!--Unreadable--></rdg></app></ab>
+	  <p>
+	    <s>tasyaiva mātrāsamakasyāyukpādē yukpādē ca (dvitīyaḥ)<lb/> dakāra ikārō vā bhavati cēdviślōkō nāma bhavati</s>
+	    
+	    
+	    <pb n="78"/>
+
+	    <s>yathā —</s>
+	    <quote> 
+	      <lg>
+		<l>naṣṭēndracāpavidyutpatanāndhakāraṁ vikīrṇatāraṁ samayē</l>
+		<l>nistōyatōyadharanaṣṭarakhaṁ rājati vr̥ttavimalaṁ gaganam (?)</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="20">tr̥tīyaśca dliśca</ab>
+	  <p>
+	    <s>tasyaiva mātrāsamakasya tr̥tīyō dvitīyaśca dakārō vā<lb/> lakārō vā ikārō vā bhavati cēt citrā nāma bhavati.</s><lb/><s>yathā —</s>
+	    <quote> 
+	      <lg>
+		<l>padmapriyāṅgunibhāmalāṅgī pīnastanī kr̥śacārumadhyā</l>
+		<l>vibhrājatē ’vanitalēndrayūnā citrā yathōḍupatinā citrā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra"> 
+	  <ab type="sutra" n="21">sācōpacitrā</ab>
+	  <p>
+	    <s>tasyaiva mātrāsamakasyāyukpādē yukpādē ca tr̥tīyō<lb/> gaṇō dvitīyaśca sakārō vā akārō vā bhavati cēd upacitrā<lb/> nāma bhavati.</s><s>yathā —</s>
+	    <quote> 
+	      <lg>
+		<l>pallavaśāṭakasaṁvr̥tāṅgī bhīmāmarakula kusumāḍhyā</l>
+		<l>śākhāvāhalatānilavēgā nr̥tyati vai sahakāralatēyam</l>
+	      </lg>
+	    </quote> 
+	  </p>
+	</div> 
+
+	<pb n="79"/>
+	
+	<div type="sutra">
+	  <ab type="sutra" n="22">ēbhiḥ pādākulakam</ab>
+	  <p>
+	    <s>ēbhir vānavāsikā-viślōka-citrō-pacitrālakṣaṇair ēka<lb break="no"/>smin rūpē saha sambhūtaiḥ pādākulakaṁ nāma bhavati.</s><lb/><s> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>ambhōbhārapralambavimbā vr̥ndaṁ prayānti gaganē jaladāḥ</l>
+		<l>nr̥tyachikhaṇḍikacitāḥ śailāḥ saṅkīrṇā bhūrgōpakasaṅghaiḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="23">abhā gītyāryā</ab>
+	  <p>
+	    <s>mātrāsamakasyaiva pādā guruvirahitā bhavanti cēd<lb/> gītyāryā nāma bhavati.</s><s> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>vakulakumudakuvalayanavapaṭumadhukaraviracitakamalamatimurabhi</l>
+		<l>salilamidamasitapaṭanibhamatitanuśikhara<app><lem>sahitadati</lem><rdg wit="#ka #kha #ga">dati</rdg></app> śaraditi kathayati</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	<div type="sutra">
+	  <ab type="sutra" n="24">śikhārdhē bhāḥ</ab>
+	  <p>
+	    <s>gītyāryāyā ēvārdhē guravō bhavanti cēc chikhā nāma <lb/> bhavati.</s><s> yathā -</s>
+	    <quote>
+	      <lg>
+		<l>	kādambānāṁ pakṣōddhūtaiḥ padmaiḥ kīrṇair ākrōśadbhiḥ</l>
+		<l>salilamidamasitapaṭanibhamatitanuśikharasahitadati ! śaraditi kathayati</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<pb n="80"/>
+
+	<div type="sutra">
+	  <ab type="sutra" n="25">cūḷikā ṇṇaṇay</ab>
+	  <p>
+	    <s>cūḷikā nāma bhavati ardhē ētē gaṇā bhavanti cēt</s><lb/><s> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>varayuvatihr̥tahr̥daya kimasitasuratasurabhi bhavasi mama gr̥ham</l>
+		<l>khala viramapurathavarayuvatijaghanagatamasi bhavati naya ca śubham</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="26">hādhikā tārā</ab>
+	  <p>
+	    <s>iyamēva cūḷikā ardhē ēkēna laghunādhikā bhavati <lb/> cēt tārā nāma bhavati.</s><s> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>calaśithiladhr̥tiṣu vahuvikr̥tagatiṣu dura<space type="vacat" unit="akṣara" quantity="3"/>kṣigamatiṣu śaṭhakr̥tiṣu</l>
+		<l>bahuvidham aśubhamu<space type="vacat" unit="akṣara" quantity="1"/>ñjahr̥daya kimiti vigaṇayasi karitayuvatiṣu</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<trailer>iti mātrāsamakaprakaraṇam </trailer>
+	
+	<pb n="81"/>
+
+	<head>atha āryāprakaraṇam</head>
+
+	<div type="nonsutra">
+	  <p>
+	    <s>mātrāsamakajātiḥ sōpajātir uktā.</s>
+	    <s>idānīm āryā<lb break="no"/>jātiḥ sōpajātir vakṣyatē.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="27">saptārdhaṁ cāryāyāḥ</ab>
+	  <p>
+	    <s>gaṇā iti ca ardha iti cānuvarttatē.</s>
+	    <s>atō ’rdhē<lb/> sapta gaṇāḥ gaṇasyārdhaṁ cāryayā bhavati.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="28">atrāyukk na</ab>
+	  <p>
+	    <s>atra punarāryāyā ardhē ayuggaṇaḥ kakārō na bhavati<lb/> yuggaṇō bhavatī ty arthaḥ.</s><s> atragrahaṇam asminn āryādhikārē vihi<lb break="no"/>tānāṁ vāmanikā-gītikā-ryāgītikānāmāryālakṣaṇa<app><lem>prāptya</lem><rdg wit="#kha #ga">prāpaṇā</rdg></app><lb break="no"/>rtham.</s><s> tasmāt sarvatrāyugguṇaḥ <app><lem>kakārō na bhavatī</lem><rdg wit="#ka #kha #ga">kakārō bhavatī</rdg></app> ty uktaṁ<lb/> bhavati.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="29">di vā ṣaṣṭhaḥ</ab>
+	  <p>
+	    <s>niyamārthaṁ vacanam.</s><s> āryāyāḥ pūrvārdhēdakāraḥ (naca<lb break="no"/>ratid) ikārō (vibhātik) vā bhavati.</s>
+	  </p>
+	</div>
+
+	<pb n="82"/>
+	
+	<div type="sutra">
+	  <ab type="sutra" n="30"><app><lem>dyadyādau</lem><rdg wit="#ka #kha #ga">dadyādau</rdg></app> yatiḥ</ab>
+	  <p>
+	    <s><app><lem>ṣaṣṭhō</lem><rdg wit="#ka #kha #ga">tatprathamākṣarē ṣaṣṭhō</rdg></app> gaṇō yadi dakārō bhavati tadā tasya gaṇasya<lb/> prathamākṣarē yatir bhavati.</s><s> yathā -</s>
+	    <quote> 
+	      <lg>
+		<l>āryā prasannarūpā gr̥hītaśubhavēṣavinayacāritrā</l>
+		<l>yasya kulīnā nārī priyamanukūlamanasaḥ śrīmān</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="31">saptamapūrvāntyē</ab>
+	  <p>
+	    <s>yadidyatir ityanuvartatē.</s><s> yadi saptamō gaṇō dakārō<lb/> bhavati tasya gaṇasya yaḥ pūrvō gaṇaḥ ṣaṣṭhaḥ tasyāntyē ’kṣarē<lb/> yatir bhavati.</s><s> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>vyākōśakumudvatārakavilīnavimalēndranīlasama<lb/>salilāḥ</l>
+		<l>haṁsakadambakacandrāḥ śarannalinyō dyuvadbhānti</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="32">parārdhē pañcamaś ca</ab>
+	  <p>
+	    <s>parārdhē paścamaś ca gaṇō yadi dukārō bhavati tasya<lb/> gaṇasya yaḥ pūrvō gaṇaś caturthaḥ tasyāntyē ’kṣarē yatir bhavati.</s><lb/><s> yathā -</s>
+	    <quote>
+	      <lg>
+		<l>dinakaradīdhitibōdhitasarsijamakarandasadaśanaḥ <lb/>śaradi</l>
+		<pb n="83"/>
+		<l>nūpuraravamanukurvan kūjati madamudita kalahaṁsaḥ</l>
+	      </lg>
+	    </quote> 
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="33">ṣaṣṭhō haḥ</ab>
+	  <p>
+	    <s>āryāyāḥ parārdhē ṣaṣṭhō gaṇō hakāra ēva kēvalō<lb/> bhavati.</s>
+	  </p>
+	</div>
+
+	<div type="sutra"> 
+	  <ab type="sutra" n="34">pathyōbhayōrniḥ</ab>
+	  <p>
+	    <s>yatir anuvartatē maṇḍūkaplutyā.</s><s> āryāyā ubhayō<lb break="no"/>r apyardhayōs tr̥tīyē gaṇē yatir bhavati cēt pathyā nāma<lb/> bhavati.</s><s> yathā -</s>
+	    <quote>
+	      <lg>
+		<l>cāritranirmalajalaḥ satpuruṣanadō ’kṣayō bhavatu nityam</l>
+		<l>yasya vibhavāravindē mitrabhramarāḥ kr̥tavihārōḥ<note><p><s>sundarapāṇḍyaśatakam (nītidviṣaṣṭikā)</s></p></note><!--How should this citation be encoded differently from the inline citations he uses in the previous chapters? Also, here is a Regenstein record for an edition of this text: http://pi.lib.uchicago.edu/1001/cat/bib/1037368--></l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="35">vipulānyā</ab>
+	  <p>
+	    <s>yā pathyālakṣaṇāyā āryāyā anyā āryā sā<lb/> vipulā nāma bhavati.</s><s> ētad uktaṁ bhavati—tr̥tīyē gaṇē<lb/> ubhayōr apy ardhayōr yasyā na yatir jātā sā vipulā nāma<lb/> bhavati.</s><s> yathā -</s>
+	    <quote>
+	      <lg>
+		<app>
+		  <lem>
+		    <l>māṁ kathaya candra yācē paraviṣayagatasya kāntasya</l>
+		    <l>āpāṇḍur ēti śithilēti lambāḷakēti malinēti</l>
+		  </lem>
+		  <rdg wit="#ka #kha #ga">
+		    <l>āpāṇḍur ēti śithilēti lambāḷakēti malinēti</l>
+		    <l>māṁ kathaya candra yācē paraviṣayagatasya kāntasya</l>
+		  </rdg>
+		</app>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="36">dvitīyacaturthau bhāmadhyē capalākaḥ</ab>
+	  <p>
+	    <s>āryāyā ubhayōr arthayōr dvitīyaś caturthaś ca gaṇō guru<lb break="no"/>madhyē kakārō (vibhātik) bhavati cēt capalā nāma<lb/> bhavati.</s><s> yathā -</s>
+	    
+	    <pb n="84"/>
+
+	    <quote>
+	      <lg>
+		<l>sādhāraṇōṣṇaśītaḥ pracaṇḍavātāvadhūtavanavivaraḥ</l>
+		<l>avagāhatē vasantaḥ sakiṁśukāśōkaśatapatraḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="37">mukhacapalādyē</ab>
+	  <p>
+	    <s>āryāyā ādyē ’rdhē bhāmadhyē dvitīyaś caturthaś ca gaṇaḥ<lb/> kakārō bhavati cēnmukhacapalā nāma bhavati.</s><s> yathā -</s>
+	    <quote>
+	      <lg>
+		<l>citrōtaśakracāpōchritadhvajaṁ jaladhininadapaṭuninadam</l>
+		<l>dinakaranr̥patibhayaṁkarajaladharasainyaṁ samupayāti</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="38">jaghanacapalāntyē</ab>
+	  <p>
+	    <s>āryayā antyē ’rdhē dvitīyaś caturthaś ca gaṇō bhāmadhyē<lb/> kakārō bhavati cēt jaghanacapalā nāma bhavati.</s><s> yathā -</s>
+	    <quote>
+	      <lg>
+		<l>dhārāpātair vātā kr̥ṣṭair viprōṣitēndunakṣatram</l>
+		<l>āsrāvatī va duḥkhēna tīvram utkaṇṭhitaṁ vyōma</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="39">vāmanikādyē ṣaṣṭhō haḥ</ab>
+	  <p>
+	    <s>āryāyā ādyē ’py arthē ṣaṣṭhō gaṇō laghur ēva kēvalō<lb/> bhavati cēd vāmanikā nāma bhavati.</s><s> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>pravitatatārakakumudē gatamēghē śaradi saumyē ca</l>
+		<l>candrō vibhāti samprati haṁsa iva nabhaḥsarasyēṣaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<pb n="85"/>
+
+	<div type="sutra">
+	  <ab type="sutra" n="40">gītirantyē di vā</ab>
+	  <p>
+	    <s>āryāyā antyē ’py ardhē ṣaṣṭhō gaṇō dakāra ikārō vā<lb/> bhavati cēd gītir nāma bhavati.</s><s> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>bhramadalikulavirutapravitatakamalā vibhānti kamalinyaḥ<note xml:lang="eng"><p><s>The first half of the verse is deficient in two mātras.</s></p></note></l>
+		<l>bhāsuramaratakamaṇinibhakōmalamr̥ducāruvarṇasañchannāḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="41">dhruvōbhayōrnī</ab>
+	  <p>
+	    <s>saiva gītiś caturthē gaṇē yatir ubhayōr ardhayōr bhavati cēd<lb/> dhruvā nāma bhavati.</s><s> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>lalanāvanāni nīlālakāni lalitāni rājanti</l>
+		<l>bandhujīvādharāṇi ratibhōgasārasahitāni <note xml:lang="eng"><p><s>This verse is deficient in ten mātras.</s></p></note></l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	<div type="sutra">
+	  <ab type="sutra" n="42">gītikā saptamō yī vā</ab>
+	  <p>
+	    <s>saiva gītir gītikā nāma bhavati, saptamō gaṇō<lb/> yakāra īkārō vā bhavati cēd.</s><s> yathā -</s>
+	    <quote>
+	      <lg>
+		<l>tvāmiha dhanyāṁ manyē vicitradharmārthakāmasaṁśrayāsu</l>
+		<l>yasya caritaṁ tava manō vidvajjanavallabhāsu gītikāsu</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<pb n="86"/>
+
+	<div type="sutra">
+	  <ab type="sutra" n="43">kvacit tr̥tīyaśca pañcamō ’pi</ab>
+	  <p>
+	    <s>kvacit prayōgāntarē ubhayōr apy ardhayōs tr̥tīyaś ca pañcamaś ca<lb/> gaṇō yakāra īkārō vā bhavati.</s><s> apiśabdād ēkasminn apy ardhē<lb/> bhavati.</s><s> prayōgē yatnaḥ kāryaḥ.</s> 
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="44">pūrṇārdhāryāgītiḥ</ab>
+	  <p>
+	    <s>saiva gītiḥ pūrṇārdhā āryāgītir nāma bhavati.</s><lb/> <s> yathā -</s>
+	    <quote>
+	      <lg>
+		<l>ētat tadbhujayugalaṁ mandaramiribhittighaṭṭitāṅgadavalayam</l>
+		<l>atti tumulasarapātita<app><lem>karma</lem><rdg wit="#ka #ga">tanma</rdg></app> rudhir arāgasambhr̥tacarma</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<trailer>ity āryāprakaraṇam</trailer>
+
+	<div type="nonsutra">
+	  <p>
+	    <s>āryājātiḥ sōpajātiruktā.</s><s> idānīmanyāś ca kā<lb break="no"/>bhijjātayō lōkē pracarantyō vakṣyantē.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="45">pratipādaṁ pañcārdhaṁ ca galitam</ab>
+	  <p>
+	    <s>pañca gaṇā gaṇasyārdhaṁ ca pādē pādē bhavanti cēd<lb/> galitaṁ nāma bhavati.</s><s> yathā —</s>
+	    <quote> 
+	      <lg>
+		<l>na smarasi kiṁ tvadīritaśarabhāsuratānāmaṭavīṣu cōgrakēsariśarabhāsuratānām</l>
+
+		<pb n="87"/>
+
+		<l>athavā <app><lem>vasantadr̥ṣṭyā</lem><rdg wit="#ka #ga">vasantakasya dr̥ṣṭyā</rdg></app> niśātadantasya prātarbādhāya śaranniśātadantasya</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="46">catvārō nirdhāyikā</ab>
+	  <p>
+	    <s>catvārō gaṇāḥ pratipādaṁ bhavanti cēt nirdhāyikā<lb/> nāma bhavati.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="47">yī vāntyaḥ</ab>
+	  <p>
+	    <s>antyō gaṇaś caturṇāṁ pādānāṁ nirdhāyikāyā yakārō<lb/> (kamalinīy) vā īkārō (dhīvarāś) vā bhavati.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="48">ktr̥tīyaḥ</ab>
+	  <p>
+	    <s>tasyā nirdhāyikāyāḥ pratipādaṁ tr̥tīyō gaṇaḥ prāyēṇa<lb/> kakārō (vibhātik) bhavati.</s><s> yathā -</s>
+	    <quote>
+	      <lg>
+		<l>bālē! bālēndukhaṇḍadhāriṇā krōdhād dagdhō ’pi manmathādhamaḥ</l>
+		<l>sakalaṁ lōkaṁ hi caṇḍamānasō niśitair bāṇair bhinanti marmasu</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	<div type="sutra">
+	  <ab type="sutra" n="49">pañca <app><lem>nēkkuṭakam</lem><rdg wit="#kha">nakukkuṭakam</rdg></app></ab>
+	  <p>
+	    <s>pratipādaṁ pañcagaṇā bhavanti cēn <app><lem>nakkuṭakaṁ</lem><rdg wit= "#ka">nakurkuṭakam</rdg></app> nāma<lb/> bhavati.</s>
+	  </p>
+	</div>
+
+	<pb n="88"/>
+
+	<div type="sutra">
+	  <ab type="sutra" n="50">yī vā dvitīyatr̥tīyau<note xml:lang="eng"><p><s>Mss. omit this sūtra</s></p></note></ab>
+	  <p>
+	    <s>tasyaiva nakkuṭakasya dvitīyatr̥tīyagaṇau yakāra īkārō <lb/> vā bhavati.<note xml:lag="eng"><p><s><foreign xml:lang="san-Latn">kha </foreign>omits this sentence and the next sūtra.</s></p></note></s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="51">tr̥tīyō bvā</ab>
+	  <p>
+	    <s>tasyaiva <app><lem>na kkuṭakasya</lem><rdg wit="#ka">nakurkuṭakasya</rdg></app> tr̥tīyō gaṇō bakārō (tē śrīḥ<lb break="no"/>kvab) vā bhavati.</s><s> yathā -</s>
+	    <quote>
+	      <lg>
+		<l>upari vidhūtabhasmanikarapravarasurabhitaśravaṇabhujaṅgavaktramarutā dahanakaṇamucā</l>
+		<l>dhavalitamindukhaṇḍākaraṇaiḥ kṣaradamr̥talavaiḥ kapiśamayūkhabhinnatimiraṁ nayanamavatu vaḥ</l>
+		<l>idaṁ varaṁ ēṣa vijr̥mbhamāṇaḥ kumudānandaḥ sa tu navanītapiṇḍasadr̥śastimiravimathanaḥ <note xml:lang="eng"><p><s>This verse is defective in the number of mātras.</s></p></note></l>
+		<l>rajanīkarō ’py upaiti śanakair gaganaṁ nīlasarasa iva nīlaṁ vipulaṁ haṁsaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="52">ṣaḍadhikākṣarā</ab>
+	  <p>
+	    <s>pratipādaṁ ṣaṭ gaṇā bhavanti cēdadhikākṣarā nāma<lb/> bhavati.</s>
+	  </p>
+	</div>
+
+	<pb n="89"/>
+
+	<div type="sutra">
+	  <ab type="sutra" n="53"><app><lem>yuṅna kē</lem><rdg wit="#ka">yukna</rdg></app></ab>
+	  <p>
+	    <s>tasyā adhikākṣarāyāḥ pratipādaṁ yuggaṇaḥ kakārō<lb/> (vibhātik) na bhavati.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="54">ktr̥tīyaḥ</ab>
+	  <p>
+	    <s>tasyā adhikākṣarāyāḥ pratipādaṁ tr̥tīyō gaṇaḥ<lb/> kakāra ēva bhavati.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="55">yī vāntyaḥ<note xml:lang="eng"><p><s>This sūtra, its vr̥tti, and the next sūtra are omitted in <foreign xml:lang="san-Latn">kha</foreign></s></p></note></ab>
+	  <p>
+	    <s>tasyā adhikākṣarāyāḥ pratipādamantyō gaṇō yakāra (kamalinīy) īkārō (dhīvarāś) vā bhavati</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="56">kvacidādyō ’pi</ab>
+	  <p>
+	    <s>tasyā adhikākṣarāyāḥ kvacit prayōgāntarē ādyō ’pi<lb/> gaṇō yakāra īkārō vā bhavati.</s><s> yathā —</s>
+	    <quote> 
+	      <lg>
+		<l>vikasitanīlōtpalārcitamadanabāṇadīpanaṁ dhruvaṁ madhucaṣakā<app><lem>dyatiśā</lem><rdg wit="#kha #ga">dyadhiśā</rdg></app>yinaṁ  dayitamukhasamarpitam<note xml:lang="eng"><p><s>The verse is defective in the Mss.</s></p></note></l>
+		<l>sutanu <app><lem>niṣēvitavati</lem><rdg wit="#kha #ga">tayaha<!--I can't read the footnote--></rdg></app> ratir ahastanutaraṅgavi<!--hu?-->laṁ navavāgadhikākṣarā yathā ca śrutimanōbhinandinī(?)</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="57">śīrṣakaṁ gītikāparā</ab>
+
+	  <pb n="90"/>
+
+	  <p>
+	    <s>saivādhikākṣarā gītikāparā bhavati cēt śīrṣakaṁ<lb/>  nāma bhavati.</s><s> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>vicaranti mahēndragōpakā nīlaśāḍvalaśriyaḥ</l>
+		<l>stōkaṁ grahacandrabhāskarāñchādayanti nīradāḥ</l>
+		<l>mēghodakacāriṇī ca vilasati taṭit samantataḥ</l>
+		<l>praṇadanti vanasthalīṣu muditamana<app><lem>saśca cātakāḥ</lem><rdg wit="#ka">saścātakāḥ</rdg></app></l>
+		<l>kuṭacakusumādhivāsitasiḷindhrakandaḷavanāntasēvinaśca</l>
+		<l>vānti pavanāḥ pravāsināṁ <app><lem>kurvanti sōtsukāni</lem><rdg wit="#ka #kha #ga">kurvanti ca sōtsukāni</rdg></app> mānasāni</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="58">ēkaikavr̥ddhyā lalita-subhadrā-vidruma-<app><lem>vaṁśapatra</lem><rdg wit="#kha #ga">vaṁśpuṣpa</rdg></app>-<lb break="no"/>kuñjara-puṣpadanta-mālāḥ</ab>
+	  <p>
+	    <s><app><lem>adhikākṣarāyā gītikāparāyāḥ pratipādaṁ ēkaika<lb break="no"/>gaṇavr̥ddhyā lalitaṁ, subhadrā, vidrumaḥ, vaṁśapatraṁ, kuñjaraḥ, puṣpadantaḥ, mālā ityēvanāmakāni </lem><rdg wit="#ka #kha #ga">ityēvanāmakāni </rdg></app> sapta śīrṣakāṇi<lb/> bhavanti.</s><s> tatra lalitasya pādaḥ sapta gaṇā bhavanti, antē<lb/> gītikā ca.</s><s> subhadrāyā <note xml:lang="eng"><p><s><foreign xml:lang="san-Latn">ka</foreign> omits this sentence</s></p></note> aṣṭau antē gītikā ca.</s><s> ēvaṁ <lb/>śēṣāṇi śīrṣakāṇi ēkaikavr̥ddhyā jñēyāni.</s>
+	  </p>
+	</div>
+
+	<pb n="91"/>
+
+	<div type="sutra">
+	  <ab type="sutra" n="59">nirdhāyikāmadhyaṁ trikalayam</ab>
+	  <p>
+	    <s>uktaprakāraṁ śīrṣakaṁ nirdhāyikāmadhyaṁ bhavati cē<!--d?--> <lb/> trikalayaṁ nāma bhavati.</s><s> ādāvadhikākṣarā madhyē nirdhāyika <lb/> antē gītikā; ēvamētāstisrastrikalayamiti.</s><s> yathā —</s>
+	    <quote>
+	      <lg>
+		<l>vikasitakusumaṁ <app><lem>niśāgamē pūrṇacandrabōdhitaṁ</lem><rdg wit="#ka #kha #ga">niśāgamē candrabōdhitaṁ</rdg></app> saṅkōcamupaiti paṅkajaṁ bhramara ēva sōtsukaḥ</l>
+		<l>vinadanti manōharāṇi kēdārōdara saṁsthitāḥ kāntāsahitā vicintya kimapi kalahaṁsasārasāḥ</l>
+		<l>śālārūḍhair ivēndragōpakaiḥ puṣpair vibhānti ca bandhujīvakāḥ</l>
+		<l>śarvarya iva <app><lem>pra</lem><rdg wit="#ka #kha #ga">vi</rdg></app>kīrṇatārakā vikasitakusumā vibhānti śīrṣakāḥ</l>
+		<l>sapracchadamakar<app><lem>andaṁ vihāya</lem><rdg wit="#ka #kha #ga">andamiva vihāya</rdg></app> kusumātipātilōlupāni</l>
+		<l>madhukarakulāni sādaraṁ śrayanti kumudāni rēṇupāṇḍarāṇi</l>
+	      </lg>
+	    </quote> 
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="60">gaṇāstrayō bhaṅgadvipadī</ab>
+	  <p>
+	    <s>trayō gaṇāḥ pratipādaṁ bhavanti cēt bhaṅgadvipadī nāma <lb/>bhavati, gaṇādhikārē varttamānē punargaṇagrahaṇaṁ caturlaghūnāṁ<lb/> pañcalaghūnāṁ ca sarvēṣāṁ gaṇānāṁ <app><lem>cābhēdēna</lem><rdg wit="#ka #kha #ga">cābhēdō ’pi</rdg></app> grahaṇārtham.</s><s> ita<lb break="no"/>rathā hi caturlaghūnām ēva grahaṇaṁ syāt.</s>
+	  </p>
+	</div>
+
+	<pb n="92"/>
+
+	<div type="sutra">
+	  <ab type="sutra" n="61">catvāraḥ pañca ṣaṭ sapta vā</ab>
+	  <p>
+	    <s>tasyā bhaṅgadvipadyāḥ na kēvalaṁ traya ēva gaṇā<lb/> bhavanti.</s><s> catvārō vā pañca vā saḍ vā sapta vā bhavanti.</s> 
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="62">bhāntē vā</ab>
+	  <p>
+	    <s>tasyā bhaṅgadripadyāḥ pratipādaṁ gurur antē bhavati vā na vā.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="63">triṁśaddhā paramā</ab>
+	  <p>
+	    <s>triśallaghayō yasyā bhaṅgadvipadyāḥ sā bhavati triṁśaddhā<lb/> paramādhikā bhaṅgadvipadī, tataḥ sarvābhyō bhaṅgadvipadībhyō yā<lb/> paramā sā triṁśaddhā bhavati.</s><s> tadadhikā nāsti.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="64">dvipadī gītikāparā</ab>
+	  <p>
+	    <s>saiva bhaṅgadvipadī dvipadīty ucyatē gītikāparā bhavati<lb/> cēt.</s><s> udāharaṇam —</s>
+	    <quote>
+	      <lg>
+		<l>kṣīṇam ambu vāpīṣu saritsu ca sāmprataṁ rakṣyamāṇaṁ bahudhanam iha bhāgyaviparyayē</l>
+		<l>taptapāṁsurēṣā ca viśuṣkavanadrumā baddhacāramata ēva mahī paritapyatē</l>
+		<l>avasīdati śramāsahaṁ gātraṁ mahiṣasya dharmamūrchitasya</l>
+		<l>bahupōṣyabālaparijanaṁ gr̥hatantram ivāturaṁ nirudyamasya</l>
+	      </lg>
+	    </quote>
+
+	    <s>iyamaparā dvipadī —</s>
+	    <quote> 
+	      <lg>
+		<l>karuṇākara niṣkaruṇēna vāyunā ripuvāravāraṇadānagandhinā</l><pb n="93"/>
+		<l>bahuvallabhaviprayōjitō jana kāntō janaścaratādya dūyatē (?)</l>
+		<l>adhunā madhukarabandhunā bandhūkēna sarajaskakēsarēṇa</l>
+		<l>bhavatēva jagadbandhunā kulamaṇḍanamaṇḍitāni bhūsthalāni</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra"> 
+	  <ab type="sutra" n="65">kvacidvidārī madhyē</ab>
+	  <p>
+	    <s>kvacit prayōgāntarē bhaṅgadvipadīgītikayōr madhyē vi<lb break="no"/>dārī bhavati.</s><s> vidārīlakṣaṇam uttaratra vakṣyati.</s><s> yathā -</s>
+	    <quote>
+	      <lg>
+		<l>abhinavakandalīkusumakēsaralīlādharasthalīmukhāḥ</l>
+		<l>kusumitakuṭacasurabhiparāgavirājitasānukānanāḥ</l>
+		<l>samadamayūramadhukarakēkārāvapūrita kandarōdarāḥ</l>
+		<l>sasalilamukharajaladamalinā girayō ramayanti <lb/>mānasam</l>
+		<l>kētakasucibhidā marutā vakul̥arajāṁsi samudvahatā</l>
+		<l>abhimukhadayitajanō ’pi janaḥ sōtsuka ēva balātkriyatē</l>
+		<l>avanunnātaparēṇunā karēṇunātha malinēna tōyadēna</l>
+		<l>upagirimudantavidyutā sakalaṁ jagadardhyatē manōbhavāya</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="66">vidārī bhāntāś caturdaśalaghavaḥ</ab>
+	  <p>
+	    <s><app><lem>gurvantāś caturdaśa laghavaḥ pratipādaṁ</lem><rdg wit="#ka #kha #ga">pratipādaṁ</rdg></app> bhavanti cēt<lb/> bidārī nāma bhavati.</s>
+	  </p>
+	</div>
+
+	<pb n="94"/>
+	<div type="sutra">
+	  <ab type="sutra" n="67">miśraḥ pañcamaḥ prāyaḥ</ab>
+	  <p>
+	    <s>tasyā vidāryāḥ pratipādaṁ pañcamō laghuḥ pūrvēṇa bā<lb/> laghunā parēṇa vā miśrō gurur bhavati prāyaḥ.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="68"><app><lem>e upāntyaḥ</lem><rdg wit="#ka #kha #ga">upāntyā</rdg></app></ab>
+	  <p>
+	    <s>prāya iti vartatē.</s><s> tasyā vidāryāḥ pratipādamantyasya<lb/> samīpē prāya ēkārō (tē śrīḥ kvab) bhavati.</s><s><app><lem>anyatrāni<lb break="no"/>yamaḥ.</lem><rdg wit="#ka #kha #ga">antrāni<lb break="no"/>yamaḥ</rdg></app>.</s>
+	    <quote>
+	      <lg>
+		<l>sāyasurabhirajadhūsarayā mr̥dumalayānilakṣapitayā</l>
+		<l>kāmijanō <app><lem>navamālikayā vigalitamānamanāḥ</lem><rdg wit="#ka #kha #ga">navamālikayā yadapi vigalitamānamanāḥ</rdg></app> kriyatē</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="69">trayōviṁśatirbhaṅgurāsakam</ab>
+	  <p>
+	    <s>bhāntā iti tu vartatē.</s><s> gurvantāstrayōviṁśallaghavō<lb/> yathēṣṭaṁ miśritā bhavanti cēt bhaṅgurāsakaṁ nāma bhavati.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="70">dvādaśāvalambanam</ab>
+	  <p>
+	    <s><note xml:lang="eng"><p><s> Mss. omit <foreign xml:lang="san-Latn">dvādaśa...ñau ’ntē.</foreign></s></p></note>dvādaśalaghavaḥ pratipādaṁ bhavanti cēdavalambanaṁ nāma bhavati.</s>
+	  </p>
+	</div>
+
+	<pb n="95"/>
+
+	<div type="sutra">
+	  <ab type="sutra" n="71">ñau ’ntē</ab>
+	  <p>
+	    <s>tasya pratipādamantē prāyō ñakārō bhavati.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="72">ubhē rāsakam</ab>
+	  <p>
+	    <s>ubhē bhaṅgurāsakāvalambanē sahitē rāsakamityucyatē</s><lb/><s> yathā —</s><note xml:lang="eng"><p><s>This verse is very defective.</s></p></note>
+	    <quote>
+	      <lg>
+		<l>kayā bāhumūlatrikadēśanivēśitāni</l>
+		<l>gūhasē ’dya vasanēna kimaṅganakhakṣatānīti</l>
+		<l>lakṣamaṅganāliṅganalagnamanaṅgasākṣijhaṣajanmā</l>
+		<l>tava bharati tr̥tīyamivēdamakṣidaśanadahnacitēna</l>
+		<l>kṣatajalavāruṇi tēna śōbhitēna</l>
+		<l>vāgharēṇa tvamasi vilāsadharē (?)</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="73">gāthā</ab>
+	  <p>
+	    <s>gāthēdānīṁ vakṣyatē.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="74">sārṣī</ab>
+	  <p>
+	    <s>sā ca gāthā ārṣīti jñēyā.</s><s> r̥ṣērēvēyam ityārṣī.</s><lb/><s> pañcasvanuṣṭubādijagatyantēṣu sā gāthā bhavati.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="75">pādaiś caturbhiṣṣaḍbhirvā</ab>
+	  <p>
+	    <s>sā gāthā caturbhirvā ṣaḍbhirvā pādaiḥ svajātīyair vā<lb/> vijātīyair vā bhavati yathā -</s>
+
+	    <pb n="96"/>
+
+	    <!--Not sure how the daṇḍas are working in this verse. Why single, double, single, single, double? Is that five different <l> elements?-->
+
+	    <quote>
+	      <lg>
+		<l><app><lem>paśyasi</lem><rdg wit="#ka"><!--hasati?--></rdg></app>paśyasi paradōṣamātmadōṣaṁ na paśyasi</l>
+		<l>bhartāramatha dhanaṁ ca kulaṁ ca hitvā kiṁ kiṁ hasasi</l>
+		<l>daśadharma na jānanti dhr̥tarāṣṭra nibōdha tān</l>
+		<l>mattaḥ pramatta unmattaḥ śrāntaḥ kruddhō bubhukṣitaḥ</l>
+		<l>tvaramāṇaśca bhītaśca kāmī cōraśca tē daśa</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+
+	<trailer>iti jānāśrayyāṁ chandōvācityāṁ<lb/> jātyadhyāyaḥ pañcamaḥ <lb/>samāptaḥ ॥</trailer>
+
+      </div>
+
+      <div n="6" type="adhyāya">
+
+	<pb n="97"/>
+
+	<head>atha ṣaṣṭo ’dhyāyaḥ</head>
+	
+	<div type="sutra">
+	  <ab type="sutra" n="1">prastāraḥ</ab>
+	  <p>
+	    <s>prastāra ityadhikāraḥ.<s></s> ita uttaraṁ <app><lem>vakṣyamāṇaḥ</lem><rdg wit="#ka">yadvakṣyamānaṁ</rdg></app> prastāra<lb/> iti <app><lem>jñēyaḥ</lem><rdg wit="#ka">jñeyaṁ</rdg></app></s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="2">ādyē bhāḥ</ab>
+	  <p>
+	    <s>sarvēṣāṁ chandasāmādyē vr̥ttē gurava ēva bhavanti.</s><s>ēta<lb break="no"/>duktaṁ bhavati−sarvēṣāṁ chandasāmādyaṁ vr̥ttaṁ sarvagurviti.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="3">ādau hā</ab>
+	  <p>
+	    <s>sarvaguruvr̥ttamādyaṁ kr̥tvā tatō dvitīyasya vr̥ttasya<lb/> chēdanē dvitīyavr̥ttādau laghurēkaḥ kārya iti.</s>
+	  </p>
+	</div>
+	
+	<div type="sutra">
+	  <ab type="sutra">pūrvavacchēṣam</ab>
+	  <p>
+	    <s>dvitīyavr̥ttādau laghum ēkaṁ kr̥tvā tatō ’nantaram upari<lb/> nyastaṁ pūrvavr̥ttam iva śēṣaṁ kuryāt.</s><s> śēṣa iti kriyamāṇavr̥tta<lb break="no"/>śēṣam.</s><s> idaṁ prastāradvitīyasūtrayuk sarvēṣāṁ chandasāṁ yugvr̥tta<lb break="no"/> prastārē yōjyam.</s>
+	  </p>
+	</div>
+
+	<pb n="98"/>
+
+	<div type="sutra">
+	  <ab type="sutra" n="5">bhā hatulyā</ab>
+	  <p>
+	    <s>atha tr̥tīyavr̥ttasya chēdanē pūrvavacchēṣaṁ kr̥tvā parisa<lb break="no"/>m āptē dvitīyē vr̥ttē ’tha tr̥tīyasya chēdanē tr̥tīyavr̥ttādau guruḥ<lb/> dvitīyavr̥ttādivat tulyasaṁkhyaḥ kārya iti.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="6">ha</ab>
+	  <p>
+	    <s>atha tr̥tīyavr̥ttādau pūrvavr̥ttalaghusaṅkhyaṁ guruṁ kr̥tvā<lb/> tēṣāṁ gurūṇām anantaraṁ ha iti laghur ēkaḥ kārya iti.</s> 
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="7">śēṣaṁ pūrvavat</ab>
+	  <p>
+	    <s>śēṣām iti kriyamāṇavr̥ttaśēṣam ity arthaḥ.</s><s> pūrvavaditi <lb/>anantaram uparinyastavr̥ttasūtravad ity arthaḥ.</s><s> ētad uktaṁ bhavati—<lb/> anantaram atītavr̥ttalaghugurusaṅkhyaṁ laghuguruvinyāsaṁ kuryādi<lb break="no"/>ty arthaḥ.</s><s> idaṁ tr̥tīyaprastārasūtra<app><lem>yugmaṁ</lem><rdg wit="#ka #kha #ga">yuktam</rdg></app> sarvēṣām ayugvr̥ttaprastārē<lb/> yōjyam.</s><s> ābhyāṁ prastāra<app><lem>sūtrābhyāṁ</lem><rdg wit="#ka #kha #ga">netrābhyāṁ</rdg></app> kramaśō vivarttamānābhyāṁ<lb/> sarvēṣāṁ chandasā caturthādiṣu yugayugvr̥ttēṣu prastāravidhiḥ kāryaḥ.</s><s> āsarvalaghuvr̥ttadarśanādē sarvēṣāṁ chandasāṁ prastāravidhiḥ.</s><s> ayamanyaḥ kramaḥ -</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="8">bhāhau miśrāvadhō ’dhaḥ</ab>
+	  <p>
+	    <s>didr̥kṣitasya chandasō vr̥ttānāṁ pramāṇasaṅkhyā<lb/> labdhā yāvattāvattau gurulaghu miśrau ēkāntaritau kāryāva<lb break="no"/>dhō ’dhaḥ.</s>
+	  </p>
+	</div>
+
+	<pb n="99"/>
+	
+	<div type="sutra">
+	  <ab type="sutra" n="9">bhau <app><lem>hō parataḥ</lem><rdg wit="#ka #kha #ga">bhau parē</rdg></app></ab>
+	  <p>
+	    <s>tēṣāṁ tathā nyastānāṁ paratō dvau gurūlaghū cādhō ’dhāṁ<lb/> kāryau pūrvam ēkāntaritanyastagurulaghusaṅkhyāpramāṇaprāptēr iti.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="10">taddviḥ</ab>
+	  <p>
+	    <s>parata ity anuvartatē.</s><s> tathā nyastānāṁ ca tēṣāṁ<lb/> paratō dviguṇaṁ dviguṇaṁ guravō laghavaś cādhō ’dhaḥ kāryā ā<lb break="no"/>cchandō ’kṣarapramāṇaparisamāptēr iti.</s><s>uktam ēvārthaṁ nirūpayi<lb break="no"/>ṣyāmaḥ—ādyā dviguṇakriyā catvārō guravaś ca laghavaś ca tatōṣṭāvēvaṁ dviguṇadviguṇavr̥ddhiḥ sarvēṣāṁ chandasām āchandō<lb break="no"/> ’kṣaraparisamāptēr iti.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="11">naṣṭam</ab>
+	  <p>
+	    <s>naṣṭam idānīṁ vakṣyatē.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="suta">hatvā hō ’rdham</ab>
+	  <p>
+	    <s>yasya kasyacicchandasaḥ sambhavati daśa sahasratamaṁ<lb/> vā darśayēty uktē tēnōktā yā saṅkhyā tāvanti rūpāṇi<lb/> vinyasya tadardhamapanīya laghum ēkaṁ nyasya punaḥ punar ēvaṁ kāryaḥ.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="13">datvaikaṁ samē bhāḥ</ab>
+	  <p>
+	    <s>ardhē punar hriyamāṇē yadi viṣamatā syāt tata ēvaikaṁ<lb/> datvā samatāṁ kr̥tvā tatō ’rdhamapanīya gurum ēkaṁ vinyasya punaḥ
+	    
+	    <pb n="100"/>
+
+	    punar ēvaṁ kāryaḥ.</s><s> yāvaddidr̥kṣitasya chandasō ’kṣarāṇi paripū<lb break="no"/>rṇāni bhavanti tāvad ēvaṁ kr̥tvā idaṁ <app><lem>tadvr̥ttam iti</lem><rdg wit="#ka #kha #ga">tadyattamiti</rdg></app> darśayēt.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="14">uddiṣṭam</ab>
+	  <p>
+	    <s>uddiṣṭam idānīṁ vakṣyatē.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="15">dviguṇaṁ dviguṇaṁ vardhayētpratilōmataḥ</ab>
+	  <p>
+	    <s>yasya kasyacicchandasō yatkiñcidvr̥ttaṁ vinyasyēdaṁ<lb/> vr̥ttaṁ katamamity uktē tasya vr̥ttasyāntyādakṣarādārabhya dvē catvā<lb break="no"/>ryaṣṭau ṣōḍaśa iti pratilōmatō dviguṇaṁ dvigaṇaṁ vardhayēt.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="16">ēkahānirbhē</ab>
+	  <p>
+	    <s>ēvaṁ pratilōmatō vardhayētā gurau vardhitē ēkēna hāniḥ<lb/> kāryā.</s><s> ēvaṁ kr̥tvā yathālabdhasaṅkhyāvaśād vaktavyami ti<lb/> ayam ēkastūpadēśaḥ.</s><s> atra sarvēṣāṁ chandasāṁ vr̥ttēṣu vidhivatpra<lb break="no"/>staritēṣu tatrādyam arthaṁ gurvantaṁ bhavati.</s><s> aparam arthaṁ laghvantam.</s><lb/><s>uddiṣṭē tatra laghvantē uttarārdhē vr̥ttam iti jñātvā tasyōttarā<lb break="no"/>rdhavr̥ttasyāntyākṣarāt prabhr̥ti dviguṇaṁ vardhayitvā gurau vardhitē pūrvavadēkahāniṁ kr̥tvā ācchandō ’kṣaraparisamāptēḥ + + + pūrvā<lb break="no"/>rdhavr̥ttāni ca vaktavyānīti.</s><s> ayaṁ <app><lem>tr̥tīyasya kramaḥ.</lem><rdg wit="#ka">tr̥tīyasya prastārasya kramaḥ.</rdg></app></s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="17">laghuparīkṣā</ab>
+	  <p>
+	    <s>laghuparīkṣēdānīṁ vakṣyatē.</s>
+	  </p>
+	</div>
+
+	<pb n="101"/>
+
+	<div type="sutra">
+	  <ab type="sutra" n="18">ēkaikavr̥ddhamāchandasaḥ.</ab>
+	  <p>
+	    <s>yasya kasyacicchandasa ēkalaghuvr̥ttānāmanyēṣāṁ ca.<lb/> pramāṇaṁ jijñāsamānē ēkaikavr̥ddhānyakṣarasthānāni didr̥kṣita<lb break="no"/> chandō ’kṣarapramāṇāni kramānnyasyāni.</s><s> ēvaṁ vinyasya pūrvaṁ<lb/> pūrvaṁ parayutam avināśyāntyamapāsya pūrvamakṣarasthānaṁ parēṇākṣara<lb break="no"/> sthānēna yuktaṁ kartavyam.</s><s> avināśyāntyamakṣarasthānaṁ pūrva<lb break="no"/> mēvāpāsyānyatra nyasyēt.</s><s> tataḥ punaḥ punaḥ pūrvaṁ parayutaṁ.</s><s> kr̥tvānyatra nyastasya parataḥ paratō nyasitavyam.</s><s> antyam ēka<lb break="no"/>mavaśiṣṭaṁ bhavati.</s><s> tacca tēṣāṁ paratō nyasitavyam.</s><s> ēvaṁ<lb/> vinyasya prathamam akṣarasthānam avēkṣya tadupalabdhasaṅkhyāvaśādēka<lb break="no"/> laghuvr̥ttānīyantīti vadēt.</s><s> ēvaṁ tr̥tīyādīnavēkṣya trilaghu<lb break="no"/>vr̥ttādīni brūyāditi.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <p>
+	    <s>ayamanyaḥ kramaḥ —</s>
+	  </p>
+	  <ab type="sutra" n="19"><app><lem>sabindvādyaṁ tatō dvirdviḥ</lem><rdg wit="#ka #kha #ga">sabindvādyaṁ tatō dvirdviḥ sabinduḥ</rdg></app></ab>
+	  <p>
+	    <s>sabindu ādyam akṣarasthānaṁ kuryāt.</s><s>paścād dviguṇa<lb break="no"/>dviguṇitāni didr̥kṣitachandōkṣarapramāṇāni kāryāṇi.</s><s> ēvaṁ<lb/> kr̥tvā ēkalaghuvr̥ttādididr̥kṣāyāṁ satyāṁ—</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="20"><app><lem>tadadhō rūpaṁ nayēt kramāt</lem><rdg wit="#ka #kha #ga">tadadhō rūpaṁ nayēt kramāt dvivarat</rdg></app></ab>
+	  <p>
+	    <s>tēṣāṁ tathā nyastānāmakṣara<app><lem>sthānānāmadhastād didr̥kṣita</lem><rdg wit="#kha #ga">sthānādadhastād didr̥kṣita</rdg></app><lb break="no"/>laghuvr̥ttapramāṇāni rūpāṇi vinyasya kramān nayēt.</s><s> ēkaṁ dvē<pb n="102"/> trīṇīti gaṇayannādyādāramyāntādēvaṁ nītvā yathālabdha<lb break="no"/> saṅkhyāvaśād ēkādilaghuvr̥ttādīni vaktavyāny ētāvantīti.</s><lb/><s> anēna khēṣu rūpēṣu vinyastēṣvantyaṁ yathāvasthitasthānam ēkaika<lb break="no"/>m iti dvē ity uktam akṣarasthānaṁ nayēditi.</s><s> tāni punarvr̥ttānīdaṁ<lb break="no"/> cēti jijñāsāyāṁ satyāṁ yuktirūpāṇi vinyasya-</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="21">sarūpaṁ bindunā vadēt</ab>
+	  <p>
+	    <s>saha rūpēṇa vartata iti sarūpam</s><s> bindunā sārdhaṁ<lb/> sarūpaṁ vigaṇayya yathālabdhasaṅkhyāvaśādidaṁ cēdidaṁ cēti<lb/> vaktavyam.</s><s> tē tē laghavastēṣu kasmin kasmin sthānē sthitā<lb/> iti cēt -</s>
+	  </p>
+	</div>
+	
+	<div type="sutra">
+	  <ab type="sutra" n="22">sthānāni tānyēva</ab>
+	  <p>
+	    <s>tēṣāṁ laghūnāṁ sthānāni tāny ēva bhavanti.</s><s>ētad uktaṁ<lb/> bhavati - yēṣu yēṣv akṣarasthānēṣu rūpāṇyavasthitāni tāny ēva<lb/> sthānāni vr̥ttēṣu laghūnām iti.</s><s> iyam aparā laghuparīkṣā<lb/>  ukta — ēkādaśasya vr̥ttasya laghavaḥ kiyanta ity uktē<lb/> pūrdavadakṣarasthānāni nyasya tāvat yāvadbhiḥ sabindubhiḥ<lb/> sthānair abindunā saha yāvadbhir akṣarasthānair ēkādaśasaṅkhyā<lb/> paripūrṇā bhavati tāvantas tasyaikādaśasya vr̥ttasya laghavō<lb/> bhavanti.</s><s> ēvaṁ viśēṣāṇām api vijñēyam.</s><s>atha tatsthā<lb break="no"/>nāni tāny ēva bhavanti.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="23">saṅkhyā</ab>
+	  <p> 
+	    <s>saṅkhyēdānīṁ vakṣyatē.</s><s> yasya kasyacicchandasaḥ sama
+
+	    <pb n="103" break="no"/>
+
+	    vr̥ttasaṅkhyādidr̥kṣāyāṁ satyāṁ tasya pādākṣarāṇi vinyasya<lb/> tataḥ -</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="24">bhārdhē hr̥tē</ab>
+	  <p>
+	    <s>vinyastānāṁ pādākṣarāṇām ardhē hr̥tvā gurunyāsaḥ<lb/> punaḥ punar ēva kāryaḥ.</s><s> ardhē punar hriyamāṇē yadi viṣamatā<lb/> syāt -</s>
+	  </p>
+	</div>
+
+	<div type="sutra"> 
+	  <ab type="sutra">hō ’samē ’pāsyaikam</ab>
+	  <p>
+	    <s>ēkamapāsya pūrvanyastasyādhō laghuṁ nyasyaivaṁ sarvāṇyapa<lb break="no"/>nayēt.</s><s> ēṣa saṅkhyāgarbhaḥ.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="26">bhē dviḥ</ab>
+	  <p>
+	    <s>laghau laghau dviḥ dviḥ kuryāt tāvatā bhē guṇayēdvardhatyē<lb break="no"/>dity arthaḥ.</s><s> uktam ēvārthaṁ nirūpayiṣyāmaḥ.</s><s> tadyathā — caturviṁśa<lb break="no"/>tyakṣarā gāyatrī, tasyāḥ pādākṣarāṇi ṣaṭ.</s><s> tāni vinyasya<lb break="no"/> tatas tad ardha hr̥tvā guruṁ nyasya tataḥ trīṇyavaśiṣṭāni bhavanti.</s><lb/><s> tatrāsamatayā ardhaṁ hartuṁ na śakyatē.</s><s> tata ēkam apāsya laghuṁ<lb/> nyasyēt.</s><s> avaśiṣṭē dvē bhavataḥ.</s><s> tatō ’rdham apāsya guruṁ nyasyēt.</s><s> ēkam avaśiṣṭaṁ tadapy apanīya laghu nyasyēt.</s><s> ayaṁ saṅkhyāgarbhaḥ.</s><s> tatastu —</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="27">hē hiḥ</ab>
+	  <p>
+	    <s>iti param ēva laghū dvē kuryāt.</s><s> tatas tē tūparisthāna<lb break="no"/>gurum upanīya dvābhyām ēva guṇayēt.</s><s> guṇitē catvāry akṣarāṇi<lb/> bhavanti.</s><s> tāni catvāri cōpari laghum upanīya dviḥ kuryāt.</s>
+
+	    <pb n="104"/>
+
+	    <s> aṣṭau bhavanti । tāni cāṣṭau śēṣagurumupanīyāṣṭābhirēva guṇa<lb break="no"/>yēt.<s></s> guṇitē ca catuṣṣaṣṭir bhavati.</s><s> tad gāyatryāḥ samavr̥tta<lb break="no"/>saṅkhyāparimāṇam.</s><s> ayam ēva vidhiḥ sarvēṣāṁ chandasām.</s><s> iha<lb/> gāyatryāḥ samavr̥ttasaṅkhyāṁ jñātvā tatparasyōṣṇikchandasaḥ<lb/> samavr̥ttasaṅkhyādhigamē vidhir vakṣyatē —</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="28">taddviḥ parasya</ab>
+	  <p>
+	    <s>tāni gatāni gāyatryāḥ samavr̥ttāni bhavanti.</s><lb/><s>tāni dviguṇīkr̥tānyuṣṇihaḥ.</s><s> tāni dviguṇīkr̥tānyanuṣṭubhaḥ.</s><lb/><s> ēvaṁ sarvēṣām iti vēditavyam.</s>
+	  </p>
+	  <p>
+	    <s>gāyatryāḥ samavr̥ttasaṅkhyāṁ jñātvā punar uktādīnāṁ ṣaṇṇāṁ chandasāṁ samavr̥ttāni sarvāṇi sahaiva jñātum icchatā<lb break="no"/>m upāyaṁ brūmaḥ —</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="29">dyūnaṁ tadantānām</ab>
+	  <p>
+	    <s>tad dvir ity anuvartatē.</s><s> tad gāyatrīsamavr̥ttasaṅkhyāpramāṇaṁ<lb/> dviguṇīkr̥taṁ ca dvābhyāṁ hīnaṁ tadantānāṁ gāyatryantānāṁ ṣaṇṇāṁ<lb/> samavr̥ttasaṅkhyāpramāṇaṁ bhavati.</s><s> tattu ṣaḍūviṁśatyadhikaśatam.</s><lb/><s>ēvaṁ viśēṣāṇām api jñēyam.</s><s> samavr̥ttādhigamē brūmaḥ —</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="30"><app><lem>samavr̥ttavargamūlōnō ’rdhasamaḥ.</lem><rdg wit="#ka #kha #ga">samavr̥ttō vargamūlō nārdhasamaḥ</rdg></app></ab>
+	  <p>
+	    <s><app><lem>samatulyēna</lem><rdg wit="#ka #kha #ga">samatulēna</rdg></app> guṇitō varga ity ucyatē.</s><s><app><lem>gāyatryāḥ</lem><rdg wit="#ka #kha #ga">
+	    rāgiṇaḥ</rdg></app> sama<lb break="no"/><app><lem>vairgasya</lem><rdg wit="#ka #kha #ga">vargastasya</rdg></app><app><lem>mūlōnaścēd</lem><rdg wit="#ka #kha #ga">mūlē gāścēd</rdg></app> ardhasamavr̥ttādhikaraṇaṁ bhavati.</s><s> samavargastu
+
+	    <pb n="105"/>
+
+	    catvāri sahasrāṇi ṣaṇṇavatiś ca.</s><s> sa tu mūlōnaś catvāri<lb/> sahasrāṇi dvātriṁśadadhikāni.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="31">ubhayavargō viṣamaḥ</ab>
+	  <p>
+	    <s>mūlōna iti varttatē.</s><s> ubhayēṣāṁ samānāṁ vr̥ttānāṁ<lb/> varga: sa tu mūlōnaḥ viṣam avr̥ttapramāṇaṁ bhavati.</s><s> ubhayavargaḥ<lb/> kiyān iti cēt pratilōmaḥ —</s>
+	    <quote>
+	      <lg>
+		<l>ēkaṁ ṣaṭ sapta saptātha sapta dvē caikam ēva ṣaṭ</l>
+		<l>vargaḥ samārthasamayōr gāyatryā kathayēd budhaḥ</l>
+	      </lg>
+	    </quote>
+
+	    <s>mūlantu catvāri sahasrāṇi ṣaṇṇavatiś ca.</s><s> tēna hīna<lb/> ubhayavargaḥ —</s>
+	    <quote>
+	      <lg>
+		<l>ēkaṁ ṣaṭ sapta saptātha trīṇy ēkaṁ dvē ca śūnyakam</l>
+		<l>pramāṇaṁ viṣamāṇāṁ tu gāyatryā lakṣayēt budhaḥ</l>
+	      </lg>
+	    </quote>
+
+	    <s>ēvam anyēṣāṁ chandasāṁ jñēyam </s>
+
+	  </p>
+	</div>
+	
+	<div type="sutra">
+	  <ab type="sutra" n="32">adhvā</ab>
+	  <p>
+	    <s>adhvā idānīṁ vakṣyatē.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="33"><app><lem>vr̥ttaṁ dvirēkōnam</lem><rdg wit="#kha #ga">vr̥ttirekōnam</rdg></app></ab>
+	  <p>
+	    <s>vr̥ttāni dviguṇāni ēkēna hīnāni adhvapramāṇaṁ<lb/> bhavati sarvēṣāṁ chandasām.</s><s> tatra gāyatryā adhvayōgaṁ darśa<lb break="no"/>yiṣyāmaḥ.</s><s> asyāḥ sarvāṇi vr̥ttāni dviguṇīkr̥tāni —</s>
+	    <quote>
+	      <lg>
+		<l>trīṇi trīṇyatha pañcāpi pañca catvāri tattvataḥ</l>
+		<l>catvāri trīṇi cāpy ēkaṁ pramitānyaṅgulāni vai</l>
+	      </lg>
+	    </quote>
+	  </p>
+
+	  <pb n="106"/>
+
+	  <p>
+	    <s><app><lem>aṅgulānyaṣṭau</lem><rdg wit="#kha #ga">aṅgulamaṣṭau</rdg></app>yavāḥ, dvādaśāṅgulāni vitastiḥ<lb/> vitastī dvē hastaḥ, hastau dvau kiṣkuḥ, dvau kiṣkū dhanuḥ,<lb/> dhanuḥsahasrē dvē kōśaḥ, catvāraḥ krōśā yōjanam.</s><s> tāny aṅgu<lb break="no"/>lāni hastasya saṅkhyayā trayōdaśalakṣāṇi aṣṭanavati<lb break="no"/>sahasrāṇi caikā saptāṅgulāni dhanuḥsaṁkhyayā trīṇi lakṣāṇi<lb/> catvāryayutāni navasahasrāṇi ca pañcaśatāni pañcaviṁśatiś ca<lb/> viṁśatiś ca hastaś caikaḥ.</s><s> yōjanasaṅkhyayā trayaścatvāriṁśa<lb break="no"/>dyōjanārdhayōjanaś ca dhanuṣāṁ sahasrāṇi pañcaviṁśaty adhikāni pañcaśatāni ca saptāṅgulādhikō hastaś caika iti.</s>
+	  </p>
+	</div>
+
+	<div type="sutra">
+	  <ab type="sutra" n="34">sa bhā hā ca yēnākṣarēbhyō ’dhikā</ab>
+	  <p>
+	    <s>sa khalu gurur bhavati.</s><s> gaṅgā, kurutē, vibhāti, sātava,<lb/> nacarati ityādicatuṣkābhyāṁ gaṇābhyāṁ paṭkasaptakāṣṭakaiś ca mātrāsamūhair yathāsvamalpabhēdān niṣpannānāṁ vaitālīyādīnāṁ jā<lb break="no"/>tiś lōkānāṁ lāghavē mātrā yēna pramāṇēna yāvatāṅgēnākṣarē<lb break="no"/>bhyō ’dhikā bhavatīti.</s> 
+	  </p>
+	</div>
+	<trailer>iti jānāśrayyāṁ chandōvicityāṁ<lb/> prakriyādhyāyaḥ ṣaṣṭhaḥ</trailer>	
+      </div>
+      <trailer><app><lem>samāptēyaṁ chandōvicitiḥ</lem><rdg wit="#ka">samāptā ca chandōvicitiḥ</rdg></app></trailer>
+    </body>
+  </text>
+</TEI>

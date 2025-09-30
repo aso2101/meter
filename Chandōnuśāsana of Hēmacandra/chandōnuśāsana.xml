@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+  ref="/sarit.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+
+<TEI n="Chandōnu">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="san-Latn">Chandōnuśāsanam</title>
+	<title xml:lang="san-Deva">छन्दोनुशासनम्</title>
+	<author xml:lang="san-Latn">Hēmacandraḥ</author>
+	<author xml:lang="san-Deva">हेमचन्द्रः</author>
+	<respStmt xml:id="AO">
+	  <persName>Andrew Ollett</persName>
+	  <resp>OCR of H.D. Velankar’s edition</resp>
+	</respStmt>
+	<respStmt>
+	  <persName xml:id="TJ">Tom Jennings</persName>
+	  <resp>Proofreading and TEI structure</resp>
+	</respStmt>
+      </titleStmt>
+      <publicationStmt>
+	<p>Placeholder</p>
+      </publicationStmt>
+      <sourceDesc>
+	<listBibl>
+	  <biblStruct>
+	    <monogr>
+	      <editor>
+		<forename>H. D. </forename>
+		<surname>Velankar</surname>
+	      </editor>
+	      <title type="main">Chando’nuśāsana of Hemachandrasūri</title>
+	      <title type="sub">A comprehensive treatise of Sanskrit, Prakrit and Apabhraṁśa Prosody</title>
+	      <imprint>
+		<publisher>Bharatiya Vidya Bhavan</publisher>
+		<pubPlace>Bombay</pubPlace>
+		<date when="1961">1961</date>
+	      </imprint>
+	    </monogr>
+	    <series>
+	      <title level="s">Singhi Jain Series</title>
+	      <biblScope unit="volume">49</biblScope>
+	    </series>
+	  </biblStruct>
+	</listBibl>
+	<listWit>
+	  <head>This list of witnesses is copied from pp. 47–48 of Velankar’s edition.</head>
+	  <witness xml:id="A">
+	    <label>A</label>
+	    10¼×4¾ inches; foll. 63, 15 lines to a page and dated
+	    Sam. 1664. The ms. is rather carelessly written, but
+	    contains the whole work and belongs to the Hemacandra
+	    Jñānabhaṇḍāra, Patan, No. 90/2305.
+	  </witness>
+	  <witness xml:id="B">
+	    <label>B</label>
+	    9 × 3¾ inches; foll. 82 with 14 lines to a page. The ms.
+	    is from the same Bhaṇḍāra as above; it is complete and
+	    contains a few good marginal notes in Sanskrit. Its
+	    number is 210/9867.
+	  </witness>
+	  <witness xml:id="C">
+	    <label>C</label>
+	    10¼×4¾ inches; foll. 2 to 41 with about 20 lines to a
+	    page. The ms. is from the same Bhaṇḍāra as above;
+	    No. 186/7227.
+	  </witness>
+	  <witness xml:id="D">
+	    <label>D</label>
+	    10 × 4½ inches; foll. 65 and about 14 lines to a page. The
+	    ms. belongs to the Bombay University and is complete.
+	  </witness>
+	  <witness xml:id="E">
+	    <label>E</label>
+	    10¼×4¾ inches; foll. 10 with about 22 lines to a page.
+	    The ms. is written in small clear handwriting; it wholly
+	    drops the Sūtras, but contains about three-fourth of the
+	    Svopajña Țikā and illustrations. No. 1645.
+	  </witness>
+	  <witness xml:id="F">
+	    <label>F</label>
+	    10¼×4¾ inches; foll. 20 with about 20 lines to a page.
+	    The ms. is dated Sam. 1481 and contains all the Sūtras
+	    and a very brief Avacūri in a few places.
+	  </witness>
+	  <witness xml:id="G">
+	    <label>G</label>
+	    10¼× 4½ inches; foll.4 with about 18 lines to a page. The
+	    ms.contains only the Sūtras and belongs to Shri Sanghano
+	    Bhaṇḍāra, No. 90/2304.
+	  </witness>
+	  <witness xml:id="H">
+	    <label>H</label>
+	    10¼×4¾ inches: foll.4 to 9 only with about 29 lines to a
+	    page. It contains all the Sūtras and a brief Avacūri.
+	    It is dated Sam. 1490 and belongs to Sangha Bhaṇḍāra.
+	    No. 90/2307.
+	  </witness>
+	  <witness xml:id="N">
+	    <label>N</label>
+	    N: This is the printed edition of the work; as explained in
+	    its preface, it is based upon a single ms. Published by
+	    Devakaran Mulchand, Bombay, 1912.
+	  </witness>
+	  <witness xml:id="P">
+	    <label>P</label>
+	    This is a photo-copy of a palm-leaf ms. preserved at
+	    Patan and containing 1.23 folios; it has a few marginal
+	    notes in Sanskrit.
+	  </witness>
+	  <witness xml:id="S">
+	    <label>S</label>
+	    10× 4½ inches; foll. about 60. The ms. belongs to the
+	    Jainānanda Jñānabhaṇḍāra, Gopipura, Surat No. 322.
+	  </witness>
+	  <witness xml:id="K">
+	    <label>K</label>
+	    For the Paryāya commentory which I have published, I
+	    have used two mss. One belongs to the Bombay
+	    University and the other to Shri Muni Jinavijayaji him-
+	    self. The former has 46 folios with about 13 lines to a
+	    page and is dated Sam. 1659, while the latter has 37
+	    folios with about 15 lines to a page.
+	  </witness>
+	  <witness xml:id="Kd">
+	    <label>Kd</label>
+	    In the 4th Adhyāya I have sometimes given the variants
+	    found in the Kavidarpaņa, which I have recently reedit-
+	    ed in the Rajasthan Puratana Granthamala, 1960.
+	    Bombay, 26th August 1960.
+	  </witness>
+	</listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>This file is based on an original printed book in the Devanagari script.</p>
+    </encodingDesc>
+  </teiHeader>
+  <text xml:lang="san-Latn">
+    <body>
+      <pb n="1"/>
+      <head>śrīmad - hēmacandrasūriviracitaṁ<lb/>
+      chandō'nuśāsanam</head>
+      <div type="adhyāya" n="1">
+	<head>atha prathamō'dhyāyaḥ</head>
+	<div type="sūtra" n="1">
+	  <p>
+	    <s>arham̐.</s>
+	    <s>śabdānuśāsanaviracanānantaraṁ tatphalabhūtaṁ kāvyam anuśiṣya tadaṅgabhūtaṁ<lb/>
+	    chandō'nuśāsanam <app><lem>āripsamānaḥ</lem><rdg wit="#A">āripsamāṇaḥ</rdg></app> śāstrakāra iṣṭādhikr̥tadēvatānamaskārapūrvakamupakramatē —</s>
+	  </p>
+	  <ab type="sūtra" n="1" xml:id="Chandō.1.1">
+	    <lg>
+	      <l>vācaṁ dhyātvā''rhatīṁ siddhaśabda-kāvyānuśāsanaḥ</l>
+	      <l>kāvyōpayōgināṁ vakṣyē chandasāmanuśāsanam</l>
+	    </lg>
+	  </ab>
+	  <p>
+	    <s>arhadbhiḥ kr̥tā, <cit><quote>kr̥tē</quote> <ref>si. hai. 6.3.192</ref></cit> ity aṇi, <app><lem>ārhatī</lem><rdg wit="#A">arhatī</rdg></app> vāk.</s>
+	    <s>dvādaśāṅgaṁ<lb/> gaṇipiṭakam.</s>
+	    <s>yadyapi dvādaśāṅgī sūtratō gaṇadharairnirmamē, tathāpi tadarthasya arhadupadiṣṭatvā<lb break="no"/>d ārhatīti ucyatē.</s>
+	    <s>yad āha —</s>
+	  </p>
+	  <quote n="1" xml:id="Chandō.1.1.ex.1">
+	    <lg>
+	      <l>atthaṁ bhāsaha arahā suttaṁ gaṁthati gaṇaharā niuṇaṁ</l>
+	    </lg>
+	  </quote>
+	  <p>
+	    <s>iti.</s>
+	    <s>sūtram api <app><lem>cāci</lem><rdg wit="#A #C #N">vāci</rdg></app>ntyārhatprabhāvād ēva gaṇadharair grathyatē iti ārhaty ēva vāg iti na<lb/> virōdhaḥ.</s>
+	    <s>siddhaṁ <app><lem>pratiṣṭhāṁ</lem><rdg wit="#A #B">pratiṣṭhāṁ</rdg></app> prāptaṁ śabdānāṁ nāmākhyātādibhēdānāṁ prakr̥tipratyayādivibhāgēna,<lb/> kāvyasya ca guṇālaṅkārādi<app><lem>vivēcanēna</lem><rdg wit="#A">viracanēna</rdg></app>, pūrvācāryaśāsanasyānu paścāt śāsanaṁ saṁdarbhō yasya<lb/> sa siddhaśabda-kāvyānuśāsanaḥ.</s>
+	    <s>dhyānaṁ praṇidhānam.</s>
+	    <s>taccēha mānasō namaskāraḥ.</s>
+	    <s>kāvyōpa<lb break="no"/>yōginām iti gadyakāvyē na chandasāmupayōga ity arthāt padyaṁ kāvyamiha gr̥hyatē.</s>
+	    <s>upayōgaḥ <app><lem>sāhāyakaṁ</lem><rdg wit="#A">sahāyakaṁ</rdg></app> vr̥ttasaṁśayacchēdādinā.</s>
+	    <s>yad āha —</s>
+	  </p>
+	  <quote n="2" xml:id="Chandō.1.1.ex.2">
+	    <ab>chandōvicitēr vr̥ttasaṁśayacchēdaḥ</ab>
+	  </quote>
+	  <p>
+	    <s>idam abhidhēyaprayōjanam.</s>
+	    <s>kāvyōpayōgābhāvāc ca na vaidikāni <app><lem>chandāṁsīha lakṣayi<lb break="no"/>ṣyantē</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">chandāṁsi</foreign> to <foreign xml:lang="san-Latn">°ṣyantē</foreign> repeated in A.</note></app>.</s>
+	    <s>chandasām iti karmaṇi ṣaṣṭhī.</s>
+	    <s>candanādāhlādanāt chandāṁsi varṇamātrāniyamitāni<pb n="2"/>vr̥ttāni tēṣām.</s>
+	    <s>anuśiṣyatē anēnēti anuśāsanaṁ śāstram । nakṣya iti tr̥tīyatrikaprayō<lb break="no"/>gād aham iti labhyatē.</s>
+	    <s>nanu bhavatu <q>vācaṁ dhyātv ārhatī</q> iti iṣṭadēvatāstutiḥ, adhikr̥ta<lb break="no"/>dēvatāstutis tu kathamiyam.</s>
+	    <s>na hy adhikr̥tāni chandāṁsi arhatpraṇītāni.</s>
+	    <s>maivaṁ vōcaḥ.</s>
+	    <s>na<lb/> hi "sūktaṁ kiṁcid arhatāmupadēśamantarēṇa jagaty asti.</s>
+	    <s>yat <name>śrīsiddhasēnaḥ</name> —</s>
+	  </p>
+	  <quote n="3" xml:id="Chandō.1.1.ex.3">
+	    <lg>
+	      <l>suniścitaṁ naḥ paratantrayuktiṣu</l><l>sphuranti yāḥ kāś cana sūktasaṁpadaḥ</l>
+	      <l>tavaiva tāḥ pūrvamahārṇavōddhr̥tā</l><l>jagatpramāṇaṁ jinavākyavipruṣā</l>
+	    </lg>
+	  </quote>
+	  <p>
+	    <s>iti sarvam avadātam.</s>
+	    <s>anēna ca ślōkēna śabda-kāvya-cchandō'nuśāsanānām ēkakartr̥katvam uktam.</s>
+	  </p>
+	</div><!-- sūtra !-->
+      </div><!-- adhyāya !-->
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,400 @@
+Comm: 
+  He made the lotus-eyes of the women of the god’s enemies
+  devoid of lamp-black, as if he couldn’t stand for them
+  to outdo his own color, as dark as the petals of lotus —
+  May he benefit you. (1)
+
+  I bow to Piṅgala, Saitava, Kātyāyana, Bharata, Kambala and Aśvatara
+  and compose this commentary on the Treasury of Meters
+  compiled by Virahāṅka. (2)
+
+  In writing this commentary, I have collated (samāhr̥tya)
+  from authorities (āptēbhyaḥ) the readings of passages 
+  that are not in Sanskrit, that are corrupted, 
+  either because of scribal error
+  or because they were pronunced incorrectly,
+  as well as those that others have distorted, 
+  on the basis of my examination of various manuscripts,
+  and I adjudicated them based on other texts (anyēbhyaḥ śāstrēbhyaḥ)
+  as well as my own judgment (svadhiyā). (3–4)
+
+Verses 1.1–2:
+
+Having bowed to the goddess Sarasvatī, as well as to Sadbhāvalāñchana,
+the rutting elephant who is both teacher and poet,
+as well as to Piṅgala, and Avalēpacihna,
+Virahāṅka composes a compendium of Vr̥tta and Jāti meters for his beloved,
+although his intelligence is slighter than the eyelashes on a woman’s cheek. (1–2)
+
+Comm. notes:
+  He identifies Sadbhāvalāñchana as Virahāṅka’s guru.
+  He doesn't want to get into whether Virahalāñchana should be analyzed, since it is pointless.
+
+Verse 1.3:
+
+There are two kinds of metrical patterns in the world:
+those based on mātrās, and those based on varṇas.
+I will explain their definitions to you, lovely girl,
+with examples. (3)
+
+Comm. notes:
+  He considers this an upalakṣaṇa for kinds of meters that combine both principles, like the mātrāvarṇasama (e.g. sragdharā). A meter can have the same number of mātrās or not in its lines, and similarly the same number of syllables or not in its lines.
+
+Verses 1.4–12:
+
+Dvipadī, Gītikā, Gāthā, Skandhaka, Gīti, Vilāsinī,
+Upagīti, Nirdhāyita, Bāṇāsikā, Khañjaka,
+Parinandita, Ānandita, Krīḍanaka, Taraṅgaka, Śyāma (?),
+Adhikākṣarā, Narkuṭaka, Ramaṇīyaka, Dvipathaka,
+Māgadhikā, Mātrā, Aḍilla, Raḍḍā, Dhōṣa,
+Rāsaka, Śīrṣaka, Trikala, Daṇdaka, Khaṇḍa, Utgata,
+Vaitālīya, Aupacchandasaka, Pātalika, Udgata (?),
+Koṭṭumbhaka, Chittaka, Bhittaka, Sāmudgaka,
+Gātha, Sanārāca, Lalita, Bhramarāvalī, Kumudaka,
+Utphullaka, Saṅgata, Bindu, Tilaka, Vīthi,
+Avalamba, Catuṣpada, Vr̥ntalaka, Haṁsinī,
+Khaḍahaḍa, Khēṭaka, Sōpāna, Sālabhañjī,
+Tala- and Tālavr̥nta, Udgīta, Manōrama,
+Antullaka, Canrōdyōtaka, Rāsakasa
+Sandānitaka, Viśēṣaka, Cakkalitaka, Kulaka, Galita,
+and all of the Varṇavr̥ttas starting with Gō:
+all of these meters, the six pratyayas:
+Prastāra, Naṣṭa, Uddiṣṭa, Laghukriyā, Saṅkhyā, and Adhvan. (4–12)
+
+Comm. notes:
+  There are some differences in how to render certain names in Sanskrit, because the meters themselves aren't used in Sanskrit. This includes mattā, kuṭṭumbhaa, dhōsa, and so on. Again, useless to go into it.
+
+Verse 1.13:
+
+Know that all letters besides the following are light:
+1. Those that appear at the end of a verse line (pāintamella);
+2. Those that are followed by a conjunct consonant (saṁjōa);
+3. Those that have a long vowel (dīhara);
+4. Those that have an anusvāra (sabindu);
+5. Those that have a visarga (savisagga).
+
+Comm. notes:
+  G. has an interesting discussion of cases where a letter that is followed by a conjunct consonant is not necessarily heavy; it depends on a ``sharp'' or ``not sharp'' pronunciation ([a]tīvra) of the consonant. He gives an example that uses conjuncts like ṇha, nhi, lha, and dra:
+
+    The curls of the young women fall at once
+    into the ... with all of their accompanying virtues.
+
+  Hence Virahāṅka's verse overdefines (ativyāpti). G. also notes that some people have criticized this for not including letters followed by a consonant without a vowel (anacka-hal). Hence Virahāṅka's verse underdefines (avyāpti).
+
+  He responds by saying that the first case is envisaged by Virahāṅka, because he actually uses the ``not sharp'' pronunciation in his definition of the Raḍḍā (4.31), because that cannot occur in Prakrit within a verse line, and to the extent that it occurs at the end of a verse line, it is covered by condition (1) above.
+
+AO notes: Prakrit doesn't have a visarga.
+
+Verse 1.14:
+
+Make a heavy syllable with a crooked mark with a straight line on either side,
+the size of a thumb. The light syllable should be straight mark, my love, of the same size.
+
+Comm. notes:
+  This representation will be used in the adhvan pratyaya.
+
+Verse 1.15:
+
+The authors of metrical handbooks recognize five types
+of four-mora groups: those with a heavy syllable in both positions,
+at the middle, and at the end, as well as at the beginning,
+those with all light syllable.
+ऽऽ, ।।ऽ, ऽ।।, ।ऽ।, ।।।।
+
+Verse 1.16:
+
+Those with a light syllable in the first, second, and third positions,
+those with a heavy syllable in the first, second, third, and fourth positions,
+and those with all light syllables.
+।ऽऽ, ऽ।ऽ, ऽऽ।, ऽ।।।, ।ऽ।।, ।।ऽ।, ।।।ऽ, ।।।।।.
+
+Comm. notes:
+  These are the five-mora groups.
+
+Verse 1.17–18:
+
+Know these additional names:
+ऽऽ = “ear”
+।।ऽ =  “hand” or “palm”
+।ऽ। = “breast”
+ऽ।। = “foot”
+।।।। = “brahmin” (vipra)
+
+Verse 1.20–22:
+
+Among these, know this other name for a group
+with a heavy syllable in the middle,
+which has been described with care, my love: “narēndra.”
+When it is in the right position, it makes everything alright;
+when it isn’t, it makes everything worse;
+and it doesn’t go beyond its boundary.
+For that reason, the group with a heavy syllable 
+in the middle is the king.
+The Nāgas have proclaimed that the king
+is not to be used where a four-mora group,
+invoked by common names (?), is used.
+
+
+Comm. notes:
+  The idea is that when common people are discussed, the king isn’t included.
+  G. says that the Viṣadharas are mentioned “as a joke” (upahāsāya). But he glosses it as Kambala and Aśvatara.
+
+Verse 1.23:
+
+The “narēndra” is not in its right position
+in the odd positions of the Gāthā, Skandhaka,
+Gīti, Upagīti, and Gītikā, even though it is
+included among the four-mora groups. 
+
+Verse 1.24:
+
+The “dvija” is given in the sixth position
+of these same meters, except for the Upagīti,
+if the “narēndra” does not find a place there.
+
+Verse 1.25:
+
+In a “vipra” occupying the sixth position,
+make sure that a word ends with the first letter;
+In the second half, if a “vipra” occurs in the fifth
+position, then avoid the first letter.
+
+Comm. notes:
+  This verse exemplifies the restriction it teaches (-mmi kuṇasu).
+  The second restriction is phrased poorly, but if “vipra” occurs in the fifth position of the second half of a verse, then a word should end at the end of the fourth position. Again, this verse is an example (tō sē pariharasu).
+
+Verse 1.26:
+ 
+The “narēndra” is never prevented from occurring,
+my love, in the odd positions of the Adhikākṣarā,
+Niddhāia, Bāṇāsikā, and Śīrṣaka.
+
+HDV notes:
+  Maybe this refers to these meters as components of the Śīrṣaka.
+
+Verse 1.27:
+
+Among those with five moras, my love, know the three
+with a heavy syllable at the end by the following names,
+in order: 
+suragaja = ।ऽऽ
+garuḍa = ऽ।ऽ
+bhujagēndra = ।।।।ऽ
+
+Verse 1.28:
+
+Know a heavy syllable by the names maṇi, raaaṇa, āharaṇa, and camara.
+[Of the names] dhaavaṭṭa and karaliā, [know that they refer to]
+a three-mora group with a heavy syllable at the end.
+
+Verse 1.29:
+
+For a group of three light syllables, any particular drum;
+for a group of two, the words rasa and bhāva.
+Sadda, pharisa, rūva, and gandha are the names
+of a single light syllable.
+
+Verse 1.30:
+
+For the Niddhāia, Ahiakkhara, and the gaṇa-sama Dvipadīs,
+as well as the Śīrṣakas, the madhyalaghu (ऽ।ऽ) and the caturthaguru (।।।ऽ) 
+are useful groups.
+
+Comm. notes:
+  There are apparently seven gaṇasama-dvipadīs. G. also includes the Gītikās.
+HDV notes:
+  As above, śīrṣaka probably means components of a śīrṣaka.
+
+
+Verse 1.31:
+
+My love, in the seven gaṇasama-dvipadīs,
+a line that is one or two moras in excess or deficient
+has been praised by the Viṣadharas.
+
+Comm. notes: 
+  Again, interprets Viṣadhara as dual. The idea is that violating the rules of the seven gaṇasama dvipadīs in this way doesn’t take away from their beauty, but rather enhances it.
+
+Verse 1.32:
+
+An even line or group is called samara or sama;
+an odd line or group is called sāgara or viṣama.
+
+Comm. notes:
+  He notes the use of sama and viṣama as technical terms is not very attractive, and proposes several interpretations. But the observation that one mentions something well-known before saying something about it is interesting (prasiddhasya prathamam upadēśō yuktaḥ paścād vidhēyasya).
+
+Verse 1.33:
+
+When “mantrin” or “purōhita” are used,
+that is where a four- or five-mora group
+can appear.
+
+
+Verse 2.1:
+
+A line is made from groups, and four pādas constitute a vastuka.
+Four vastukas, with a gītika, constitute a dvipadī.
+
+Verse 2.2:
+
+The first and second halves of the gītika have a dhanu (5-mora group) in the third position,
+a maṇi (heavy syllable) at the end, a sara (5-mora group) in the seventh position,
+a rāja or vipra in the sixth position, and all of the other positions are jōha (4-mora groups).
+
+Verse 2.3:
+
+There is nothing wrong with having a sara (5-mora group) in the second and fourth position,
+or having a sattadaṇḍa (5-mora group) in the first and fifth positions,
+in the aforementioned positions positions of the gītikā.
+
+AO notes:
+  rahēsu vi is still unclear to me.
+
+Verse 2.4:
+
+Between the vastuka and gītika, the vēārī, ekkaaṁ, the duvahaaṁ 
+and the vitthāriaa are made by poets, my love, according to their wish.
+
+Verse 2.5:
+
+The vēārī is defined in metrics to be shorter than the vastuka;
+the duvahaa is said to be two lines, and the ekkaa to be one.
+
+Verse 2.6:
+
+That which does not bear similarity to the dvipadī,
+that you should know to be the vitthāriaa, which is sweet.
+
+AO notes:
+  G. doesn't really have any idea what this means. He gives several interpretations.
+
+Verse 2.7:
+
+The viṣadharas have defined the dhuvaï (dhruvaka?)
+as a vēāri itself that is repeated,
+depending on (avalambai) the meaning of the four vastukas.
+
+Verse 2.8:
+
+This, my dear, was described by bhuaāhiva, Sālāhaṇa, and Vuḍḍhakaï.
+There is no gītikā in a vastuka at the end of which a dhruvaka has been placed.
+
+Comm. notes:
+  Bhujagādhipa: Kambala and Aśvatara.
+  Vr̥ddhakavi might be Harivr̥ddha.
+
+Verse 2.9:
+
+I will tell you the names of the dvipadīs described by Bhujagādhipa, Sālāhaṇa, and Vuḍḍhakaï
+in order.
+
+Verses 2.10–13:
+
+Sumaṇā, tārā, jōṇhā, maṇōvaī, kōmuī, pagīā,
+rattā māṇiṇī, acchrā, paümiṇī, vijjū,
+viṇayā, sarassaī, suppahā, vihūī, sumaṅgalā, candā,
+viaā, mahāmaī, ṇandiṇī, sirī, candakantā,
+haṁsā, pacchā, raïā, summā, sāmā, vilāsiṇī, lacchī,
+mēhā, assakkantā, susaṅgaā, māliī, dūī,
+vaṇarāī, vaṁsatthā, sasivaaṇā, raaṇamālā,
+— These are 37 kinds of mātrā-gaṇa-sama (dvipadīs).
+
+
+Verse 2.14:
+
+Cintā, siddhī, bhaddā, gandhārī, māliṇī, kandū,
+laliā — these are the seven kinds of Gaṇa-sama (dvipadīs).
+
+Verse 2.15:
+
+Viulā, Cavalā, sumuhī, sārasī, bhāmiṇī, pasaṇṇā,
+nandā, sēā — these are the eight kinds of Ardha-sama (dvipadīs).
+
+Verse 2.16:
+
+The viṣama (dvipadīs) are: Taṇumajjhā, kōvaṇā,
+naṭṭhī, vissarūā. These have not been described by me
+because there is nothing special about their definitions.
+
+Comm. notes:
+  G. says that poets have basically left these behind, since they are not all that charming.
+  Objection: why mention the names of people who have taught them if you’re not going to teach them yourself?
+  Response: to avoid the charge of not covering everything!
+
+================
+Chapter 3: 
+Comm. calls these dvipadī-vastukas, vastukas that can be employed in a dvipadī.
+
+
+3.1: sumaṇā: 4, 4, 4 (except IIS and SS), S
+3.2: tārā: 4, 4, ISI, S
+3.3: jyōtsnā: 5, 5, IS
+3.4: manōvatī: 4, 5, IS
+3.5: kaumudī: 5, 5, IIS
+3.6: pragīta: 4, 4, SS
+3.7: raktā: SIS, ISI, S
+3.8: māninī: SIS, ISI, SS
+3.9: apsarā: 5, 5, ISI, S
+3.10: padminī: 4, 4, 5, S
+3.11: vidyut: 4, 5, 4, 4 or 4, 4, 4, 5
+3.12: vinatā: 4, ISI, 4, ISI, 4 ISI, 5, G
+  Oh you to whom beauty has been bestowed
+  by many captivating colors, you with thick thighs,
+  in the pāda of a Vinatā, which has been described
+  in the works of Hāla, Bhujagēndra, and Vr̥ddhakavi,
+  three groups of turaṅga (4) + pārthiva (ISI),
+  a five-mora group (dhanuḥ), and a heavy syllable (ratna),
+  with your hand that has conquered the Aśōka 
+  and fresh mango shoots.
+  
+Comm. notes:
+  G. identifies Hāla as Sātavāhana and Bhuvainda as Kambalāśvatara.
+
+3.13: sarasvatī: 4, 5, IS
+3.14: suprabhā: 4, 5, 4, 4, IS
+3.15: vibhūti: 4, ISI, 4, 5
+3.16: sumaṅgalā:
+3.17: candrikā
+3.18: vijayā
+3.19: prabhāvatī
+3.20: nandinī
+3.21: śrī
+3.22: candrakāntā:
+3.23: haṁsī:
+3.24: patyhā:
+3.25: racitā:
+3.26: 
+3.27: saumyā
+3.28: śyāmā
+3.29: vilāsinī
+3.30: lakṣmī
+3.31: mēghā
+3.32: aśvakrāntā
+3.33: 
+3.34: saṅgatā
+3.35: mālatī
+3.36: drutā
+3.37: vanarāji
+3.38: vaṁśasthā
+3.39: ratnamālā
+==========
+
+3.40: citrā
+3.31: siddhi
+3.42: bhadrā
+3.43: gāndhārī
+3.44: māḷinī
+3.45: kadrū
+
+=============
+ardha-sama:
+3.47: vipulā:
+3.48: capalā:
+3.49: sumukhī:
+3.50: sārasikā:
+3.51: bhāminī:
+3.52: prasannā:
+3.53: nandā:
+3.54: śvētā:
+
+============
