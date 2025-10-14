@@ -22,7 +22,15 @@ For apparatus entries, use ``<app> ... </app>``, which typically includes two fu
 - ``<rdg wit="#B"> ... </rdg>`` for a variant reading (not selected by the editor) represented in witness **B**
 The value of ``@wit`` is usually a reference to a manuscript. Other attribute options for ``<lem>`` and ``<rdg>`` are ``@resp`` (responsibility, usually a person), ``@source`` (source, usually a printed text). ``<app>`` can include ``<note>`` elements as well.
 
+### Schemas
+The `Schemas` directory has files that can be used for validating TEI files (in RNG and RNC format).
 
-Credits:
+### DHARMA project authority file
+The DHARMA ERC project has maintained a file of “prosodic patterns” on their GitHub repository ([here](https://github.com/erc-dharma/project-documentation/blob/master/DHARMA_prosodicPatterns_v01.xml)). 
+
+### Pratyaya programs
+I created some simple Python programs for the pratyayas described in the Chandaḥśāstra. 
+
+### Credits
 
 Andrew Ollett, Teo Ruskov, Tom Jennings, Purnima Pal
