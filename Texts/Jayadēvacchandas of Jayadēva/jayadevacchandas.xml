@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model
-  ref="/sarit.rng"
+  ref="../../Schemas/tei.rng"
   schematypens="http://relaxng.org/ns/structure/1.0"
   type="application/xml"?>
+
+  <TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title xml:lang="san-Latn">Jayadēvacchandas</title>
+	<title xml:lang="san-Deva">जयदेवच्छन्दस्</title>
+	<respStmt>
+	  <persName xml:id="TR">Teo Ruskov</persName>
+	  <resp>OCR of H.D. Velankar's edition and TEI Structure</resp>
+	</respStmt>
+      </titleStmt>
+      <publicationStmt>
+	<p>Placeholder</p>
+      </publicationStmt>
+      <sourceDesc>
+	<listBibl>
+	  <bibl>Velankar, H. D., and Haritosha Samiti. Jayadāman: (a Collection of Ancient Texts on Sanskrit Prosody and a Classical List of Sanskrit Metres with an Alphabetical Index). [Bombay: Haritosha Samiti, 1949.</bibl>
+	</listBibl>
+	<listWit>
+	  <witness xml:id="A">
+	    <label>A</label>
+	  </witness>
+	  <witness xml:id="B">
+	  	<label>B</label>
+	  </witness>
+	</listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>This file is based on an original printed book in the Devanagari script.</p>
+    </encodingDesc>
+  </teiHeader>
+  <text xml:lang="san-Latn">
+    <body>
 
 === detected_textoutput-1-to-1.json ==========================
 atha jayadēvacchandaḥ ।
@@ -915,7 +950,7 @@ in A and B:-
 ādimadhyāvasānēṣu bhajasā yānti gauravam । yaratā lāghavaṁ yānti manau trigurulāghavau ॥
 2 cēnnamadhyā ; 3 Vv. 8 and 9 are not found in A and B bath. 4 tavati Bi
 Portion within brackets is dropped by both mss. I have supplied it by con-
-jeatures & jayasūryā A; B; 7 kō B: 8 sisusr̥tā A; B;
+jeatures and jayasūryā A; B; 7 kō B: 8 sisusr̥tā A; B;
 === detected_textoutput-28-to-28.json ==========================
 (28)
 sau jagau śuddhavirōḍitīritā ॥ 10 ॥ khyātōyaṁ paṇava iti nau gau ॥11॥
@@ -1019,7 +1054,7 @@ airat | paca paca aśvāśca yasyāḥ sā tathā । pañcasapta virāmētyarth
 ।
 1 Between v, 26 and v, '27 A and B give v. 42as given below; 2 sēnyu 0
 A; B; O; but pee..com. syēnī - śyēnī; 3 Between v. 27 and v. 28 A and B give
-v. 41, 18 ( both repeated) and v. 48 as given below; 4 saṁhitau 4; 5 Both &
+v. 41, 18 ( both repeated) and v. 48 as given below; 4 saṁhitau 4; 5 Both and
 and Bgive v. 33 as given below betwden v. 29 andy 90; 6 mantra A;B; 7 puṭō
 C; 8 Both and B give vv. 44, 45 46 and 38 respectively as given below,
 between v. 32 and v. 38; 9 ityēvana A; B; 10 spēnī B; 11 usanti B; 12 vaṁsā
@@ -1114,7 +1149,7 @@ jajāḥ laghugurū ca yadi bhavanti tadā narkuṭakaṁ nāma vr̥ttaṁ bhava
 3
 1 varati0 4 2 bhatrinagai: A; bhratrinagai: B; 3 bhō lavantā D. v. 8; 4 A and B
 glve v. 18 as given below between v. 18 and v. 14; 5 prathvī A; 6 mrau ilau B; C
-7 najabhajājō 4; & Both A and B give v. 86 as given below between v. 17 and
+7 najabhajājō 4; and Both A and B give v. 86 as given below between v. 17 and
 7.18; 9 śēṣā A; B 10 dhātrisāmnīmanuṣṭubhaḥ A B; 11 sikha0 Bi 12 sakārō Bo
 === detected_textoutput-34-to-34.json ==========================
 Sch
@@ -1341,3 +1376,7 @@ tation of the Prastära of the Chandas with 6 letters given in the mss. is dro-
 paṣu dropped in 4; 5 milaiḥ B; 6 aṣṭāviṁśatamityarthaḥ 4; 7 stamyā B;
 pped,
 8 sa Bo
+
+</body>
+</text>
+	</TEI>
