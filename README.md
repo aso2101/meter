@@ -5,6 +5,8 @@ This repository includes several texts on meter, with an initial focus on Sanskr
 ## Texts
 OCR > proofreading and TEI structure > validation
 
+- Jānāśrayī Chandōviciti
+
 ### TEI elements
 
 ``<div type="commentary-block"> ... </div>`` for chunks of text that include commentary and the base text together.
