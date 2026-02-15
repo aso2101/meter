@@ -166,17 +166,17 @@
 	  </p>
 	  <quote n="1" xml:id="Chandō.1.1.ex.1">
 	    <lg>
-	      <l>atthaṁ bhāsaha arahā suttaṁ gaṁthati gaṇaharā niuṇaṁ</l>
+	      <l>atthaṁ bhāsai arahā suttaṁ gaṁthaṁti gaṇaharā niuṇaṁ</l>
 	    </lg>
 	  </quote>
 	  <p>
 	    <s>iti.</s>
 	    <s>sūtram api <app><lem>cāci</lem><rdg wit="#A #C #N">vāci</rdg></app>ntyārhatprabhāvād ēva gaṇadharair grathyatē iti ārhaty ēva vāg iti na<lb/> virōdhaḥ.</s>
-	    <s>siddhaṁ <app><lem>pratiṣṭhāṁ</lem><rdg wit="#A #B">pratiṣṭhāṁ</rdg></app> prāptaṁ śabdānāṁ nāmākhyātādibhēdānāṁ prakr̥tipratyayādivibhāgēna,<lb/> kāvyasya ca guṇālaṅkārādi<app><lem>vivēcanēna</lem><rdg wit="#A">viracanēna</rdg></app>, pūrvācāryaśāsanasyānu paścāt śāsanaṁ saṁdarbhō yasya<lb/> sa siddhaśabda-kāvyānuśāsanaḥ.</s>
+	    <s>siddhaṁ <app><lem>pratiṣṭhāṁ</lem><rdg wit="#A #B">pratiṣṭāṁ</rdg></app> prāptaṁ śabdānāṁ nāmākhyātādibhēdānāṁ prakr̥tipratyayādivibhāgēna,<lb/> kāvyasya ca guṇālaṅkārādi<app><lem>vivēcanēna</lem><rdg wit="#A">viracanēna</rdg></app>, pūrvācāryaśāsanasyānu paścāt śāsanaṁ saṁdarbhō yasya<lb/> sa siddhaśabda-kāvyānuśāsanaḥ.</s>
 	    <s>dhyānaṁ praṇidhānam.</s>
 	    <s>taccēha mānasō namaskāraḥ.</s>
 	    <s>kāvyōpa<lb break="no"/>yōginām iti gadyakāvyē na chandasāmupayōga ity arthāt padyaṁ kāvyamiha gr̥hyatē.</s>
-	    <s>upayōgaḥ <app><lem>sāhāyakaṁ</lem><rdg wit="#A">sahāyakaṁ</rdg></app> vr̥ttasaṁśayacchēdādinā.</s>
+	    <s>upayōgaḥ<lb/> <app><lem>sāhāyakaṁ</lem><rdg wit="#A">sahāyakaṁ</rdg></app> vr̥ttasaṁśayacchēdādinā.</s>
 	    <s>yad āha —</s>
 	  </p>
 	  <quote n="2" xml:id="Chandō.1.1.ex.2">
@@ -187,7 +187,7 @@
 	    <s>kāvyōpayōgābhāvāc ca na vaidikāni <app><lem>chandāṁsīha lakṣayi<lb break="no"/>ṣyantē</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">chandāṁsi</foreign> to <foreign xml:lang="san-Latn">°ṣyantē</foreign> repeated in A.</note></app>.</s>
 	    <s>chandasām iti karmaṇi ṣaṣṭhī.</s>
 	    <s>candanādāhlādanāt chandāṁsi varṇamātrāniyamitāni<pb n="2"/>vr̥ttāni tēṣām.</s>
-	    <s>anuśiṣyatē anēnēti anuśāsanaṁ śāstram । nakṣya iti tr̥tīyatrikaprayō<lb break="no"/>gād aham iti labhyatē.</s>
+	    <s><app><lem>anuśiṣyatē</lem><rdg wit="#B">anuśiṣyantē</rdg></app> anēnēti anuśāsanaṁ śāstram । nakṣya iti tr̥tīyatrikaprayō<lb break="no"/>gād aham iti labhyatē.</s>
 	    <s>nanu bhavatu <q>vācaṁ dhyātv ārhatī</q> iti iṣṭadēvatāstutiḥ, adhikr̥ta<lb break="no"/>dēvatāstutis tu kathamiyam.</s>
 	    <s>na hy adhikr̥tāni chandāṁsi arhatpraṇītāni.</s>
 	    <s>maivaṁ vōcaḥ.</s>
@@ -201,11 +201,2752 @@
 	    </lg>
 	  </quote>
 	  <p>
-	    <s>iti sarvam avadātam.</s>
+	    <s><app><lem>iti</lem><rdg wit="#A #B">vaṁśastham. iti</rdg></app> sarvam avadātam.</s>
 	    <s>anēna ca ślōkēna śabda-kāvya-cchandō'nuśāsanānām ēkakartr̥katvam uktam.</s>
 	  </p>
-	</div><!-- sūtra !-->
+	</div>
+	<div type="sūtra" n="2">
+	  <ab type="sūtra" n="2" xml:id="Chandō.1.2">sarvādimadhyāntaglau trikau mnau bhyau jrau stau varṇagaṇāḥ</ab>
+	  <p>
+	    <s>sarvādimadhyāntau guru-laghū yayōstau yathākramaṁ mnau bhyau jrau stau ityēvaṁsaṁjñau<lb/>jñēyau.</s>
+	    <s>caturglādīnāmapi mādisaṁjñā mā bhūditi niyamārthamāha trikau.</s>
+	    <s>trayaḥ pramāṇa<lb break="no"/>manayōstau.</s>
+	    <s><cit><quote>mānam</quote> <ref>si. hai. 6. 4. 169</ref></cit> <app><lem>iti kē trikau</lem><rdg wit="#A #B">itītyarthē saṁkhyāḍatētyādinā kē trikau</rdg><rdg wit="E">mānamitītyarthē saṁkhyāḍatēścā iti kē</rdg></app>.</s>
+	    <s>tatra sarva-<app><lem>glau</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">glau</foreign> in <foreign xml:lang="san-Latn">sarvaglau</foreign> dropped in A.</note></app> mnau,<lb/>ādi-glau bhyau, madhya-glau jrau, anta-glau stau.</s>
+	    <s>sarvēṣāṁ nyāsaḥ —</s>
+	  </p>
+	  <list>
+	    <item>ऽऽऽ ma.</item>
+	    <item>||| na.</item>
+	    <item>ऽ|| bha.</item>
+	    <item>|ऽऽ ya.</item>
+	    <item>|ऽ| ja.</item>
+	    <item>ऽ|ऽ ra.</item>
+	    <item>||ऽ sa.</item>
+	    <item>ऽऽ| ta.</item>
+	  </list>
+	  <p>
+	    <s>paṭhanti va-</s>
+	    <quote n="4" xml:id="Chandō.1.2.ex.1">
+	      <lg>
+		<l>mastrigurustrilaghuśca nakārō</l><l>bhādiguruśca tathādilaghuryaḥ</l>
+		<l>jō gurumadhyō madhyalaghū raḥ sō</l><l>'ntaguruḥ kathitō'ntalaghustaḥ</l>
+	      </lg>
+	    </quote>
+	    <s>-iti varṇagaṇāḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="3">
+	  <ab type="sūtra" n="3" xml:id="Chandō.1.3">dvitri catuḥ pañca ṣaḍḍūlā datacapaṣā dvitripaścāṣṭatrayōdaśabhēdā mātrāgaṇāḥ.</ab>
+	  <p>
+	    <s>kalā mātrā.</s>
+	    <s>dvikalō da saṁjñaḥ.</s>
+	    <s>trikalaḥ ta saṁjñaḥ.</s>
+	    <s>catuṣkalaḥ ca saṁjñaḥ.</s>
+	    <s>pañcakalaḥ<lb/>pa saṁjñaḥ.</s>
+	    <s>ṣaṭkalaḥ ṣa saṁjñaḥ.</s>
+	    <s>iti dvitricatuḥpañcaṣaṇṇāṁ ādipratīkēna <q>kr̥ tr̥ rā sa di vā da ra</q><lb/>ityādivad dādisaṁjñā mātrāgaṇāḥ.</s>
+	    <s>tē ca yathāsaṁkhyaṁ dvitripañcāṣṭatrayōdaśabhēdāḥ.</s>
+	    <s>tatra -</s>
+	  </p>
+	  <list>
+	    <item>da gaṇaḥ dvibhēdaḥ — ऽ, ।।.</item>
+	    <item>ta gaṇaḥ tribhēdaḥ — |ऽ, ऽ|, |||.</item>
+	    <item>ca gaṇaḥ pañcabhēdaḥ — ऽऽ, ||ऽ, |ऽ|, ऽ||, ||||. </item>
+	     <pb n="3"/>
+	    <item>pa gaṇaḥ aṣṭabhēdaḥ — |ऽऽ, ऽ|ऽ, |||ऽ, ऽऽ|, ||ऽ|, |ऽ||, ऽ|||, ||||.</item>
+	    <item>ṣa gaṇaḥ trayōdaśabhēdaḥ — ऽऽऽ, ||ऽऽ, |ऽ|ऽ, ऽ||ऽ, ||||ऽ, |ऽऽ|, ऽ|ऽ|,<lb/>|||ऽ|, ऽऽ||, ||ऽ||, |ऽ|||, ऽ||||, ||||||.</item>
+	  </list>
+	  <quote n="5" xml:id="Chandō.1.3.ex.1">
+	    <lg>
+	      <l>sarvagaḥ sarvalō dastaḥ</l><l> ādimāntimasarvalaḥ</l>
+	      <l>sarvāntamadhyamādyag vaḥ</l><l>samastalō mataśca saḥ</l>
+	    </lg>
+	  </quote>
+	  <quote n="6" xml:id="Chandō.1.3.ex.2">
+	    <lg>
+	      <l>pa ādyantarlaghuglāntaḥ</l><l>syād<app><lem>upānty</lem><rdg wit="#A #P">upānta</rdg></app>aguruḥ sa ca</l>
+	      <l>ādhuttaraguruḥ sō'pi</l><l>gurvādiḥ sarvalō'pi <app><lem>ca</lem><rdg wit="#A">vā</rdg></app></l>
+	    </lg>
+	  </quote>
+	  <quote n="7" xml:id="Chandō.1.3.ex.3">
+	    <lg>
+	      <l>ṣaḥ sarvagō hyādyalaḥ syād</l><l><app><lem>ādyōpāntya</lem><rdg wit="#A #B #E #P">ādyōpānta</rdg></app>laghustathā</l>
+	      <l>ādyāntimaguruścaiva</l><l>paryantagururēva ca</l>
+	    </lg>
+	  </quote>
+	  <quote n="8" xml:id="Chandō.1.3.ex.4">
+	    <lg>
+	      <l>ādyantala <app><lem>upāntyā</lem><rdg wit="#A #E">upāntā</rdg></app>dya</l><l>ga <app><lem>upāntya</lem><rdg wit="#P">upānta</rdg></app>gurustathā</l>
+	      <l>hyādyagō madhyagaścādy</l><l>uttaragādiśca <app><lem>sarvalaḥ</lem><rdg wit="#A">sarvalāḥ</rdg></app></l>
+	    </lg>
+	  </quote>
+	  <p>
+	    <s>-iti saṁgraha<app><lem>ślōkāḥ</lem><rdg wit="#N">ślōkaḥ</rdg></app>.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="4">
+	  <ab type="sūtra" n="4" xml:id="Chandō.1.4">samānēnaikādiḥ.</ab>
+	  <p>
+	    <s>glau mādayō dādayaśca samānēna lakṣitā ēkādisaṁkhyā bhavanti.</s>
+	    <s><app><lem>yāvatithaḥ</lem><rdg wit="#P">yāvattithaḥ</rdg></app> <lb/> samānas <app><lem>tāvatithā</lem><rdg wit="#P">tāvattithaḥ</rdg></app> <app><lem>gādayō'pi</lem><rdg wit="#A">gādayō</rdg></app> gr̥hyantē.</s>
+	  </p>
+	  <p>
+	    <s>1ga 2gā 3gi 4gī <app><lem>5gu 6gū 7gr̥ 8gṝ 9gḷ 10gḹ</lem><rdg wit="#E">ityādi. ēvaṁ mādayōpi</rdg></app>.</s>
+	  </p>
+	  <p>
+	    <s>ēvaṁ lādayō'pi</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="5">
+	  <ab type="sūtra" n="5" xml:id="Chandō.1.5">hrasvō l̥juḥ</ab>
+	  <p>
+	    <s>hrasvō mātrikō varṇō lsaṁjñō bhavati.</s>
+	    <s>sa ca prastārē r̥juḥ sthāpyaḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="6">
+	  <ab type="sūtra" n="6" xml:id="Chandō.1.6">vāntē gvakraḥ</ab>
+	  <p>
+	    <s>pādāntē vartamānō hrasvō gsaṁjñō <app><lem>bhavati</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">bhavati</foreign> dropped in P.</note></app>.</s>
+	    <s>sa ca prastārē vakraḥ sthāpyatē.</s>
+	    <s><app><lem>vēti<lb/> vyavasthitavibhāṣā tēna yatra</lem><rdg wit="#E">vāśabdasya vyavasthita vibhāṣātvādyatra</rdg></app> <q>jaur glau samānī</q> ityādāvapavādastatra gsaṁjñō na bhavati.</s><lb/>
+	    <s>vaṁśasthādau ca pādāntē laghōrgurutvaṁ na <app><lem>bhavati</lem><rdg wit="#E">syāt</rdg><rdg wit="#F">bhavati. vasantatilakādau ca syāt</rdg></app>.</s>
+	    <s>yadāha -</s>
+	  </p>
+	  <quote n="9" xml:id="Chandō.1.6.ex.1">
+	    <lg>
+	      <l>vaṁśasthakādicaraṇāntanivēśitasya</l><l>gatvaṁ laghōrnahi tathā śrutiśarmadāyi</l>
+	      <l>śrōturvasantatilakādipadāntavartilō</l><l>gatvamatra vihitaṁ vibudhairyathā tat</l>
+	    </lg>
+	  </quote>
+	  <p>
+	    <s>dhruvāsu vivakṣāvaśād gurutvaṁ laghutvaṁ ca.</s>
+	    <s>yadāha -</s>
+	  </p>
+<pb n="4"/>
+	  <quote n="10" xml:id="Chandō.1.6.ex.2">
+	    <lg>
+		<l>ōjasaṁkhyā yadābhīṣṭā</l><l>dhruvāsu viratau tadā</l>
+		<l> <app><lem>gō</lem><rdg wit="A">gau</rdg></app> latā yugmasaṁkhyē tu</l><l>viratau gurutā laghōḥ</l>
+	      </lg>
+	    </quote>
+	    <p>
+	      <s>tathā -</s>
+	    </p>
+	    <quote n="11" xml:id="Chandō.1.6.ex.3">
+	      <lg>
+		<l> <app><lem>gurua</lem><rdg wit="#P">guruya</rdg></app> ccia <app><lem>ēkkalahū</lem><rdg wit="#A">ikkalahū</rdg></app> virāma</l><l>visayaṁmi visamasaṁkhāē</l>
+		<l>jamalalahū lahua <app><lem>ccia</lem><rdg wit="A #P">cciya</rdg></app> </l><l>samasaṁkhāsaṁṭhiō hōi</l>
+	      </lg>
+	    </quote>
+	</div>
+	<div type="sūtra" n="7">
+	  <ab type="sūtra" n="7" xml:id="Chandō.1.7">XkaX pa-visarga-anusvāra-vyañjanāhrādisaṁyōgē</ab>
+	  <p>
+	    <s>jihvāmūlīyē upadhmānīyē visarjanīyē anusvārē vyañjanē hrādivarjitē saṁyōgē ca<lb/> parē hrasvō'pi gō bhavati vakraśca.</s>
+	    <s><q>ahrādi</q> iti <app><lem>samastavyasta</lem><rdg wit="A">vyastasamasta</rdg></app> saṁgrahāt hrasaṁyōgē hasaṁyōgē<lb/> rasaṁyōgē ca na guru.</s>
+	    <s>ādiśabdādyathādarśanam.</s>
+	    <s> <app><lem>hrādisaṁyōgē</lem><rdg wit="#A #B">hlādisaṁyōgē</rdg></app> ca yathā -</s>
+	  </p>
+	  <quote n="12" xml:id="Chandō.1.7.ex.1">
+	    <lg>
+	      <l><app><lem>spr̥ṣṭaṁ</lem><rdg wit="A">spaṣṭaṁ</rdg></app> tvayētyapahriyaḥ khalu kīrtayanti</l>
+	    </lg>
+	  </quote>
+	  <p>
+	    <s>tathā -</s>
+	  </p>
+	  <quote n="13" xml:id="Chandō.1.7.ex.2">
+	    <lg>
+	      <l>tava hriyāpahriyō mama hrīrabhūt</l><l>śaśigrahē'pi drutaṁ na dhr̥tā tataḥ</l>
+	      <l><app><lem>bahala</lem><rdg wit="#A">bahula</rdg></app>bhrāmaramēcakatāmasaṁ</l><l>mama priyē kva samēṣyati tat punaḥ</l>
+	    </lg>
+	  </quote>
+	  <quote n="14" xml:id="Chandō.1.7.ex.3">
+	    <lg>
+	      <l>dhanaṁ pradānēna śrutēna karṇau</l>
+	    </lg>
+	  </quote>
+	  <p>
+	    <s>ityādi.</s>
+	  </p>
+	  <quote n="15" xml:id="Chandō.1.7.ex.4">
+	    <lg>
+	      <l>līlāsitābjamuta darpaṇamātapatraṁ</l><l>kiṁ dantapatramatha kiṁśukamauliratnam</l>
+	      <l>kiṁ cāmaraṁ tilakabindurathēndubimbam</l><l>ētadd?ivō nihn?utadīpti mudē na kasya</l>
+	    </lg>
+	  </quote>
+	  <p>
+	    <s>prākr̥tē'pi yathā -</s>
+	  </p>
+	  <quote n="16" xml:id="Chandō.1.7.ex.5">
+	    <lg>
+	      <l>jaha <app><lem>ṇhāuṁ</lem><rdg wit="A">nhāuṁ</rdg></app> ōiṇṇē abbhuttam<app><lem>ulhasiamaṁsu</lem><rdg wit="A">ullasiyamaṁsu</rdg></app>addhaṁtaṁ</l>
+	      <l> <app><lem>jahaya</lem><rdg wit="#N">jahayaṁ</rdg></app> <app><lem>ṇa</lem><rdg wit="#E">na</rdg></app> <app><lem>ṇhāōsi</lem><rdg wit="#A">nhāōsi</rdg></app> tumaṁ sacchē gōlānaītūhē</l>
+	    </lg>
+	    <p>
+	      <s><app><lem>abbhuttaṁ</lem><rdg wit="#N">abbhutaṁ</rdg></app> abhiṣiktam.</s>
+	      <s>tūhaṁ tīrtham.</s>
+	    </p>
+	  </quote>
+	  <p>
+	    <s>tathā -</s>
+	  </p>
+	  <quote n="17" xml:id="Chandō.1.7.ex.6">
+	    <lg>
+	      <l>vōdrahadrahaṁmi paḍiā</l><l>kuvalayakhitadrahi°</l>
+	    </lg>
+	  </quote>
+	   <p>
+	    <s>ityādi.</s>
+	   </p>
+	   <pb n="5"/>
+	   <p>
+	     <s>ēṣu atīvraprayatnatvaṁ saṁyōgasya gurutvābhāvē hētuḥ.</s>
+	     <s>tīvraprayatnē <app><lem>tu</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">tu</foreign> dropped in A.</note><rdg wit="#E">punar</rdg></app> bhavatyēva guruḥ.</s><lb/>
+	     <s>yathā -<q>barhabhārēṣu kēśān</q> ityādi.</s>
+	     <s>kēcittu XkaX payōrapi paratra sthitayōḥ pūrvasya<lb/> laghōrgurutvaṁ nēcchanti.</s>
+	     <s>yathā -</s>
+	   </p>
+	   <quote n="18" xml:id="Chandō.1.7.ex.7">
+	     <lg>
+	       <l>praṇatasuravaradharaṇanr̥paX paramavijitamadamadanajanana<app><lem>maraṇa</lem><rdg wit="#B #F #P">maraṇaḥ</rdg></app></l>
+	       <l>sakaluṣajanasalilakataka kanakamaya sutanu jinavara vr̥ṣabhaḥ <app><lem>jaya</lem><rdg wit="#A #B">jaya. pathyā</rdg></app> </l>
+	     </lg>
+	   </quote>
+	</div>
+	<div type="sūtra" n="8">
+	  <ab type="sūtra" n="8" xml:id="Chandō.1.8">dīrghaplutau</ab>
+	  <p>
+	    <s>dvimātra-trimātrau varṇau <app><lem>gsaṁjñau</lem><rdg wit="#A #B #P">gasaṁjñau</rdg></app> bhavataḥ vakrau ca.</s>
+	  </p>
+	<div type="sūtra" n="9">
+	  <ab type="sūtra" n="9" xml:id="Chandō.1.9">sa dvimātraḥ</ab>
+	  <p>
+	    <s>sa gsaṁjñō dvimātrō bhavati.</s>
+	    <s>ēkamātrē asatī mātrā ārōpyatē.</s>
+	    <s>trimātrē satī<lb/> nirākriyatē.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="10">
+	  <ab type="sūtra" n="10" xml:id="Chandō.1.10">ēdōtau padāntē prākr̥tē hrasvau vā</ab>
+	  <p>
+	    <s>padāntē vartamānau ēkāra-ōkārau prākr̥tabhāṣāyāṁ vā hrasvau bhavataḥ.</s>
+	    <s>yathā -</s>
+	  </p>
+	  <quote n="19" xml:id="Chandō.1.10.ex.1">
+	    <lg>
+	      <l>paccūsagayavarummūliāēm̐ uḍḍīṇasasivihaṁgāē</l>
+	      <l>dhavalāiṁ galaṁti nisālayāê nakkhattakusumāhāiṁ</l>
+	    </lg>
+	  </quote>
+	  <quote n="20" xml:id="Chandō.1.10.ex.2">
+	    <lg>
+	      <l>ua <app><lem>pōmarāya</lem><rdg wit="#A #P">paumarāya</rdg></app>maragayasaṁvaliā ṇahayalāōṁ <app><lem>ōarai</lem><rdg wit="#C #D #N">ōyarai</rdg></app></l>
+	      <l>ṇahasirikaṁṭhabbhaṭṭha vva kaṁṭhiā kīrariṁchōlī</l>
+	    </lg>
+	  </quote>
+	  <p>
+	    <s>im̐ him̐ ityētayōḥ hrasvatvaṁ śabdānuśāsanē <app><lem>sānunāsika</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">sānunāsika</foreign> to <foreign xml:lang="san-Latn">hrasvatvaṁ śabdānuśāsanē</foreign> dropped in N.</note></app> tvavidhānāt siddhamiti<lb/> nēhōcyatē.</s>
+	    <s>apabhraṁśē tvapadāntayōrapi <cit><quote>kādisthaidōtōruccāralāghavam</quote> <ref>si. hai. 8. 4. 410</ref></cit><lb/> iti <cit><quote>padāntē um̐ hum̐ him̐ ham̐ kārāṇām</quote> <ref>si. hai. 4. 8. 411</ref></cit> iti ca hrasvatvaṁ<lb/> śabdānuśāsanē nirṇītamiti nēhōcyatē.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="11">
+	  <ab type="sūtra" n="11" xml:id="Chandō.1.11"> <app><lem>turyō'śaḥ</lem><rdg wit="#A">turyōśī</rdg></app> pādō'viśēṣē</ab>
+	  <p>
+	    <s>chandaścaturthō bhāgaḥ pādasaṁjñaḥ aviśēṣē sāmānyābhidhānē.</s>
+	    <s>yatra tu dvipadī<lb break="no"/>pañcapadī-ṣaṭpadī-aṣṭapadī cēti viśēṣābhidhānaṁ tatra dvitīyādyaṁśō'pi pādaḥ.</s>
+	  </p>
+	</div>
+	<pb n="6"/>
+	<div type="sūtra" n="12">
+	  <ab type="sūtra" n="12" xml:id="Chandō.1.12">vr̥ttam</ab>
+	  <p>
+	    <s>prāṅ mātrāchandōbhyō yadabhidhāsyatē tadvr̥ttasaṁjñaṁ jñēyam.</s>
+	    <s>tacca sthiragurulaghvakṣara<lb break="no"/>vinyāsamiṣyatē.</s>
+	    <s>pāṭana-saṁyōgayōrabhāvāt.</s>
+	    <s>mātrāchandāṁsi tu jātiriti prasiddhāni.</s><lb/>
+	    <s>yadāhuḥ -</s>
+	  </p>
+	  <quote n="21" xml:id="Chandō.1.12.ex.1">
+	    <lg>
+	      <l>padyaṁ catuṣpadī tacca</l><l>vr̥ttaṁ jātiriti dvidhā</l>
+	    </lg>
+	  </quote>
+	</div>
+	<div type="sūtra" n="13">
+	  <p>
+	    <s>vr̥ttaṁ ca samārdhasamaviṣamabhēdāt trēdhā.</s>
+	    <s>tat kramēṇa lakṣayati -</s>
+	  </p>
+	  <ab type="sūtra" n="13" xml:id="Chandō.1.13">samaiḥ pādaiḥ samam</ab>
+	  <p>
+	    <s>pādaiścaturbhistulyalakṣaṇaiḥ samaṁ vr̥ttam.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="14">
+	  <ab type="sūtra" n="14" xml:id="Chandō.1.14">samārdhamardhasamam</ab>
+	  <p>
+	    <s>yasya tulyē ardhē <app><lem>tad</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">tad</foreign> dropped in N.</note></app>ardhasamaṁ vr̥ttam.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="15">
+	  <ab type="sūtra" n="15" xml:id="Chandō.1.15">anyad<app><lem>viṣamam</lem><rdg wit="#A #B">viṣamaṁ vr̥ttaṁ</rdg></app></ab>
+	  <p>
+	    <s>ābhyāmanyadviṣamaṁ <app><lem>vr̥ttam</lem><note xml:lang="eng">all the four words dropped in B.</note></app>.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="16">
+	  <ab type="sūtra" n="16" xml:id="Chandō.1.16">śravyō virāmō yatiḥ</ab>
+	  <p>
+	    <s>viramaṇaṁ virāmō viśrāmaḥ.</s>
+	    <s>sa śrutisukhō yatisaṁjñaḥ.</s>
+	    <s><app><lem>sā</lem><rdg wit="#F">sā ca tr̥tīyāntairgādyavacchinnairakṣaraiḥ kriyatē</rdg></app> ca tr̥tīyāntēṣu<lb/> gadhādinirdēśēṣu upatiṣṭhatē.</s>
+	    <s>gādayaśca sākāṅkṣatvāt yatirityanēna saṁbadhyantē.</s>
+	    <s>tēna gādya<lb break="no"/>vacchinnairakṣarairyatiḥ kriyatē ityayamarthaḥ sidhyati.</s>
+	    <s>tatraiṣā yatyupadēśōpaniṣat paṭhyatē -</s>
+	  </p>
+	  <lg>
+	    <l>yatiḥ sarvatra pādāntē</l><l>ślōkārthē tu viśēṣataḥ</l>
+	    <l> <app><lem>gādicchinnapadāntē</lem><rdg wit="#P">gakārādipadāntē</rdg></app> ca</l><l>luptāluptavibhaktikē</l>
+	  </lg>
+	  <p>
+	    <s>tatra <q>yatiḥ sarvatra pādāntē</q> yathā -</s>
+	  </p>
+	  <quote n="22" xml:id="Chandō.1.16.ex.1">
+	    <lg>
+	      <l>namō'stu vardhamānāya</l><l>spardhamānāya karmaṇā</l>
+	      <l>tajjayāvāptamōkṣāya</l><l>parōkṣāya kutīrthinām</l>
+	    </lg>
+	  </quote>
+	  <p>
+	    <s>iti.</s><lb/>
+	    <s>na punarēvaṁ yathā -</s>
+	  </p>
+	  <quote n="23" xml:id="Chandō.1.16.ex.2">
+	    <ab>namastasmai mahādēvāya śaśāṅkārdhadhāriṇē</ab>
+	  </quote>
+	  <p>
+	    <s>iti.</s><lb/>
+	    <s><q>ślōkārdhē tu viśēṣataḥ</q> ityatra sandhikāryābhāvaḥ spaṣṭavibhaktitvaṁ ca viśēṣaḥ.</s>
+	    <s>yathā -</s>
+	  </p>
+	  <quote n="24" xml:id="Chandō.1.16.ex.3">
+	    <lg>
+	      <l><app><lem>namasyāmi</lem><rdg wit="#B">namasyāni</rdg></app> sadōdbhūtam</l><l>indhanīkr̥tamanmatham</l>
+	      <l>īśvarākhyaṁ paraṁ jyōtir</l><l>aśnānatimirāpaham</l>
+	    </lg>
+	  </quote>
+	  <pb n="7"/>
+	    <p>
+	      <s><app><lem>atra īśvaramityasya pūrvamakārēṇa</lem><rdg wit="#E">atrēkārēṇa pūrvasya makārasya</rdg></app> sandhirna kartavyaḥ.</s>
+	      <s>spaṣṭavibhaktikatvaṁ ca atraiva.</s><lb/>
+	      <s>na tvēvaṁ yathā -</s>
+	    </p>
+	    <quote n="25" xml:id="Chandō.1.16.ex.4">
+	      <lg>
+		<l>surāsuraśirōratna-</l><l>sphuratkiraṇamañjarī-</l>
+		<l>piñjarīkr̥ta<app><lem>pādābja-</lem><rdg wit="#A">padābja-</rdg></app></l><l>dvandvaṁ vandāmahē śivam</l>
+	      </lg>
+	    </quote>
+	    <p>
+	      <s><q>gādicchinnapadāntē ca luptāluptavibhaktikē</q> yathā -</s>
+	    </p>
+	    <quote n="26" xml:id="Chandō.1.16.ex.5">
+	      <lg>
+		<l>uttuṅgastanakalaśadvayā <app><lem>natāṅgī</lem><rdg wit="#F">natāṅgīti</rdg></app></l><l>lōlākṣī vipulanitambaśālinī <app><lem>ca</lem><note xml:lang="eng"> AB add <foreign xml:lang="san-Latn">bimbōṣṭhī naravaramuṣṭimēyamadhyā. sā bālā bhavatu manaḥ praharṣiṇīti. iti piṅgalapāṭhaḥ.</foreign> E also adds the same two lines, but reads <foreign xml:lang="san-Latn">rṣiṇī tē</foreign>and drops <foreign xml:lang="san-Latn">iti° pāṭhaḥ.</foreign></note></app></l>
+	      </lg>
+	    </quote>
+	    <quote n="27" xml:id="Chandō.1.16.ex.6">
+	      <lg>
+		<l>yakṣaścakrē janakatanayāsnānapuṇyōdakēṣu</l>
+	      </lg>
+	    </quote>
+	    <p>
+	      <s><q>luptā luptavibhaktikē</q> iti <q>yatiḥ sarvatra pādāntē</q> ityanēnāpi saṁbadhyatē.</s>
+	      <s>yathā -</s>
+	    </p>
+	    <quote n="28" xml:id="Chandō.1.16.ex.7">
+	      <lg>
+		<l> <app><lem>namastuṅga</lem><rdg wit="#A">tamastuṅga</rdg></app> śiraścumbicandracāmaracāravē</l>
+		<l>trailōkyanagarārambhamūla<app><lem>stambhāya</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">bhā</foreign> in <foreign xml:lang="san-Latn">stambhāya</foreign> dropped in A; the whole line dropped in P.</note></app> śambhavē</l>
+	      </lg>
+	    </quote>
+	    <p>
+	      <s>iti.</s><lb/>
+	      <s>tathā -</s>
+	    </p>
+	    <quote n="29" xml:id="Chandō.1.16.ex.8">
+	      <lg>
+		<l>vaśīkr̥tajagatkālaṁ</l><l>kaṇṭhēkālaṁ namāmyaham</l>
+	      </lg>
+	    </quote>
+	    <lg>
+	      <l>kvacittu padamadhyē'pi</l><l>gakārādau yatirbhavēt</l>
+	      <l>yadi pūrvāparau bhāgau</l><l>na syātāmēkavarṇakau</l>
+	    </lg>
+	    <quote n="30" xml:id="Chandō.1.16.ex.9">
+	      <ab>paryāptaṁ taptacāmīkarakaṭakataṭē śliṣṭaśītētarāṁśau</ab>
+	    </quote>
+	    <quote n="31" xml:id="Chandō.1.16.ex.10">
+	      <ab>kūjatkōyaṣṭikōlāhalamukharabhuvaḥ prāntakāntāradēśāḥ</ab>
+	    </quote>
+	    <quote n="32" xml:id="Chandō.1.16.ex.11">
+	      <ab>hāsō hastāgrasaṁvāhanamapi tulitādrīndrasāradviṣō'sya</ab>
+	    </quote>
+	    <quote n="33" xml:id="Chandō.1.16.ex.12">
+	      <ab> <app><lem>vairiścānāṁ</lem><rdg wit="#A #E">vairañcānāṁ</rdg></app> tathōccāritacaturar̥cāṁ <app><lem>cānanānāṁ</lem><rdg wit="#A #B #C #D">vānanānāṁ</rdg></app> caturṇām</ab>
+	    </quote>
+	    <quote n="34" xml:id="Chandō.1.16.ex.13">
+	      <ab><app><lem>khaḍgē</lem><rdg wit="#C #N">ṣaḍgē</rdg></app> pānīyamāhlādayati hi mahiṣaṁ pakṣapātī <app><lem>pr̥ṣatkaḥ</lem><rdg wit="#A">vr̥ṣatkaḥ</rdg></app></ab>
+	    </quote>
+	   <pb n="8"/>
+	     <p>
+	       <s><q>gakārādau</q> iti kim?, <app><lem>padamadhyayatiḥ</lem><rdg wit="#A">padamadhyē yatirduṣyati pādāntē°</rdg></app> <app><lem>pādāntē</lem><rdg wit="#E #F">padāntē</rdg></app> mā bhūt.</s><lb/>
+	       <s>yathā -</s>
+	     </p>
+	     <quote n="35" xml:id="Chandō.1.16.ex.14">
+	       <lg>
+		 <l>praṇamata bhavabandhaklēśanāśāya nārā-</l>
+		 <l>yaṇacaraṇasarōjadvandvamānandahētum</l>
+	       </lg>
+	     </quote>
+	     <p>
+	       <s>iti.</s><lb/>
+	       <s>pūrvōttarabhāgayōrēkākṣaratvē tu padamadhyē yatirduṣyati.</s><lb/>
+	       <s>yathā -</s>
+	     </p>
+	     <quote n="36" xml:id="Chandō.1.16.ex.15">
+	       <ab>ētasyā gaṇḍatalamamalaṁ gāhatē candrakakṣām</ab>
+	     </quote>
+	     <quote n="37" xml:id="Chandō.1.16.ex.16">
+	       <ab>ētāsāṁ rājati sumanasāṁ dāma <app><lem>kaṇṭhāvalambi</lem><rdg wit="#B">kaṇṭhāvalīti</rdg></app></ab>
+	     </quote>
+	     <quote n="38" xml:id="Chandō.1.16.ex.17">
+	       <ab>surāsuraśirōniṣghr̥ṣṭacaraṇāravindaḥ śivaḥ</ab>
+	     </quote>
+	     <lg>
+	       <l>pūrvāntavattvaraḥ sandhau</l><l>kvacidēva parādivat</l>
+	     </lg>
+	     <p>
+	       <s>yō'yaṁ pūrvaparayōrēkādēśaḥ svaraḥ sandhau vidhīyatē sa kvacitpūrvasya antavad bhavati<lb/> kvacitparasya ādivat.</s>
+	       <s>ubhayādēśatvāt.</s>
+	       <s>yathā pitrōḥ putraḥ pituśca mātuśca bhavati.</s>
+	       <s>tatra<lb/> pūrvāntavad<app><lem>bhāvō</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">bhāvō</foreign> dropped in E.</note></app> yathā -</s>
+	     </p>
+	     <quote n="39" xml:id="Chandō.1.16.ex.18">
+	       <ab>syādasthānōpagatayamunā<app><lem>saṁgamēvā</lem><rdg wit="#A #E #P">saṁgamēnā°</rdg></app>bhirāmā</ab>
+	     </quote>
+	     <quote n="40" xml:id="Chandō.1.16.ex.19">
+	       <ab>jambhārātībhakumbhōdbhavamiva <app><lem>dadhataḥ</lem><rdg wit="#A #B">daghataḥ sāndrasindūrarēṇumiti</rdg></app></ab>
+	     </quote>
+	     <p>
+	       <s>iti.</s><lb/>
+	       <s>tathā -</s>
+	     </p>
+	     <quote n="41" xml:id="Chandō.1.16.ex.20">
+	       <ab>dikkālādyanavacchinnānantacinmātramūrtayē</ab>
+	     </quote>
+	     <p>
+	       <s>iti.</s><lb/>
+	       <s><app><lem>parādivadbhāvō</lem><rdg wit="#F">kvacitparasyādivat. yathā -</rdg></app> yathā -</s>
+	     </p>
+	     <quote n="42" xml:id="Chandō.1.16.ex.21">
+	       <ab>skandhē vindhyādribuddhyā nikaṣati mahiṣasyāhitō'sūnahārṣīt</ab>
+	     </quote>
+	     <quote n="43" xml:id="Chandō.1.16.ex.22">
+	       <ab>śūlaṁ tūlaṁ tu gāḍhaṁ prahara hara hr̥ṣīkēśakēśō'pi vakra<lb break="no"/>ścakrēṇākāri kiṁ tē0</ab>
+	     </quote>
+	     <p>
+	       <s>atra hi svarasya parādivadbhāvē vyañjanamapi tadbhaktatvāt tadādivadbhavati.</s><lb/>
+	       <lg>
+		 <l>yadi pūrvāparau bhāgau</l><l>na syātāmēkavarṇakau</l>
+	       </lg>
+	       <s>iti antādivadbhāvavidhāvapi saṁbadhyatē.</s>
+	       <s>tēna</s>
+	     </p>
+	     <quote n="44" xml:id="Chandō.1.16.ex.23">
+	       <ab>asyā vakrābjamavajitapūrṇēnduśōbhaṁ vibhāti</ab>
+	     </quote>
+	     <p>
+	       <s>ityēvaṁvidhā yatirna bhavati.</s>
+	     </p>
+	     <pb n="9"/>
+	       <lg>
+		 <l>draṣṭavyō yaticintāyāṁ</l><l><app><lem>yādyā</lem><rdg wit="#A">yadyā</rdg></app>dēśaḥ parādivat (3b)</l>
+	       </lg>
+	       <quote n="45" xml:id="Chandō.1.16.ex.24">
+		 <lg>
+		   <l>acchinnaprasarāṇi nātha bhavataḥ pātālakukṣau yaśāṁ-</l>
+		   <l>syadyāpi <app><lem>kṣapayanti</lem><rdg wit="#A">kṣipayanti</rdg></app> kōkilakulacchāyāsapatnaṁ tamaḥ</l>
+		 </lg>
+	       </quote>
+	       <quote n="46" xml:id="Chandō.1.16.ex.25">
+		 <lg>
+		   <l>vitataghanatuṣārakṣōdaśubhrāsu dūrvā-</l>
+		   <l>svaviralapadamālāṁ śyāmalāmullikhantaḥ</l>
+		 </lg>
+	       </quote>
+	       <lg>
+		 <l>nityaṁ prākpadasaṁbaddhāś</l><l>cādayaḥ prākpadāntavat (4a)</l>
+	       </lg>
+	       <p>
+		 <s>cādibhyaḥ pūrvaṁ yatirna kartavyētyarthaḥ.</s>
+		 <s>yathā -</s>
+	       </p>
+	       <quote n="47" xml:id="Chandō.1.16.ex.26">
+		 <lg>
+		   <l>svādu svacchaṁ ca salilamidaṁ prītayē kasya na syāt</l>
+		 </lg>
+	       </quote>
+	       <p>
+		 <s><q>nityaṁ prākpadasaṁbaddhā</q> iti kim ?, anyēṣāṁ pūrvāntavadbhāvō mā bhūt.</s>
+		 <s>>yathā -</s>
+	       </p>
+	       <quote n="48" xml:id="Chandō.1.16.ex.27">
+		 <lg>
+		   <l>mandāyantē na khalu suhr̥dāmabhyupētārthakr̥tyāḥ</l>
+		 </lg>
+	       </quote>
+	       <quote n="49" xml:id="Chandō.1.16.ex.28">
+		 <lg>
+		   <l>ityautsukyādaparigaṇayan guhyakastaṁ yayācē</l>
+		 </lg>
+	       </quote>
+	       <lg>
+		 <l>parēṇa nityasaṁbaddhāḥ</l><l>prādayaśca parādivat (4b)</l>
+	       </lg>
+	       <p>
+		 <s>prādibhyaḥ parā yatirna bhavatītyarthaḥ.</s>
+	       </p>
+	       <quote n="50" xml:id="Chandō.1.16.ex.29">
+		 <lg>
+		   <l>duḥkhaṁ mē prakṣipati hr̥dayē duḥsahas<app><lem>tvadviyōgaḥ</lem><rdg wit="#A #E #P">tadviyōgaḥ </rdg></app></l>
+		 </lg>
+	       </quote>
+	       <p>
+		 <s><q>parēṇa nityasaṁbaddhāḥ</q> iti kim?, anyēbhyaḥ <app><lem>parāpi yatir</lem><rdg wit="#F #P">parā yatiḥ</rdg></app> yathā syāt.</s>
+	       </p>
+	       <quote n="51" xml:id="Chandō.1.16.ex.30">
+		 <lg>
+		   <l>śrēyāṁsi bahuvighnāni</l><l>bhavanti mahatāmapi</l>
+		 </lg>
+	       </quote>
+	       <p>
+		 <s>ayaṁ ca cādīnāṁ prādīnāṁ ca ēkākṣaratvēna ēkākṣarāṇāmēva padāntayatau antādi<lb break="no"/>vadbhāva iṣyatē na tvanēkākṣarāṇāṁ padamadhyayatau.</s>
+		 <s>tatra hi padamadhyēspi cāmīkarādiṣviva <lb/> yatērabhyanujñātatvāt.</s>
+		 <s>tatra cādīnāṁ yathā -</s>
+	       </p>
+	       <quote n="52" xml:id="Chandō.1.16.ex.31">
+		 <lg>
+		   <l>pratyādēśādapi ca madhunō vismr̥tabhrūvilāsam</l>
+		 </lg>
+	       </quote>
+	       <p>
+		 <s>prādīnāṁ yathā -</s>
+	       </p>
+	       <quote n="53" xml:id="Chandō.1.16.ex.32">
+		 <lg>
+		   <l>dūrārūḍha<app><lem>pramōdaṁ</lem><rdg wit="#A">pramōhaṁ</rdg></app> hasitamiva pari<app><lem>spaṣṭa</lem><rdg wit="#E">spr̥ṣṭaṁ</rdg></app>māsāṁ sakhībhiḥ</l>
+		 </lg>
+	       </quote>
+	       <pb n="10"/>
+		 <p>
+		   <s>tadētatsarva śravyapadēnaiva gatārthamiti na sūtritam.</s>
+		   <s>anirdiṣṭayatikē'pi ca chandasi<lb/> śravyaiva yatiḥ karaṇīyā.</s>
+		   <s>na punarēvaṁ yathā -</s>
+		 </p>
+		 <quote n="54" xml:id="Chandō.1.16.ex.33">
+		   <lg>
+		     <l>tēna śaśimukhi gatēna sakhi kiṁ priyēṇa kuru mānamadhi tasmin</l>
+		     <l>sa tava varatanu samadanaḥ svayamēva samēti <app><lem>caraṇayugam</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">cara○</foreign> dropped in A.</note></app></l>
+		   </lg>
+		 </quote>
+	 <quote n="55" xml:id="Chandō.1.16.ex.34">
+		   <lg>
+		     <l>abahvarthāpi madhurā</l><l>manō harati bhāratī</l>
+		     <l>tamōnicayasaṁkāśā</l><l>mattanādēva kōkilā</l>
+		   </lg>
+	 </quote>
+	</div>
+	<div type="sūtra" n="17">
+	  <ab type="sūtra" n="17" xml:id="Chandō.1.17">tryādirgādiḥ</ab>
+	  <p>
+	    <s><app><lem>tricaturādiḥ</lem><rdg wit="#A #P">tricaturādisaṁkhyā</rdg></app> saṁkhyā kramēṇa gaghaḍādisaṁjñā.</s>
+	  </p>
+	  <p>
+	    <s>ityācāryaśrī hēmacandraviracitāyāṁ svōpajñacchandō'nuśāsanavr̥ttau<lb/> saṁjñādhyāyaḥ prathamaḥ samāptaḥ.</s>
+	    <s> 1. graṁthāgraṁ 125, a0 18.</s>
+	  </p>
+	</div>    
       </div><!-- adhyāya !-->
+      <div type="adhyāya" n="2">
+	<head>atha dvitīyō'dhyāyaḥ</head>
+	<div type="sūtra" n="1">
+	  <ab type="sūtra" n="1" xml:id="Chandō.2.1">chandaḥ</ab>
+	  <p>
+	    <s>āśāstraparisamāptēḥ chanda ityadhikr̥taṁ vēditavyam.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="2">
+	  <ab type="sūtra" n="2" xml:id="Chandō.2.2">pādaḥ</ab>
+	  <p>
+	    <s>pāda ityadhikāra āśāstraparisamāptēḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="3">
+	  <p>
+	    <s>idānīmēkākṣarādyāḥ ṣaḍviṁśatyakṣarāvasānāśchandōjātīrāha -</s>
+	  </p>
+	  <ab type="sūtra" n="3" xml:id="Chandō.2.3">ēkākṣarōktā jātiḥ</ab>
+	  <p>
+	    <s>ēkākṣarapādā uktā nāma bhēdasaṁgrahātmikā jātiḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="4">
+	  <ab type="sūtra" n="4" xml:id="Chandō.2.4">atyuktā-madhyā-pratiṣṭhā-supratiṣṭhā-gāyatrī-uṣṇig-<lb/> anuṣṭub-br̥hatī-paṅkti-triṣṭub-jagatī-atijagatī-<lb/> śakkarī-atiśakarī-aṣṭi-atyaṣṭi-dhr̥ti-atidhr̥tayaḥ<lb/> ēkaikavr̥ddhāḥ</ab>
+	  <p>
+	    <s>uktāta ēkaikākṣaravr̥ddhapādā atyuktādayaḥ.</s>
+	    <s>tatra dvyakṣarā atyuktā jātiḥ.</s>
+	    <s>tryakṣarā madhyā.</s>
+	    <s>caturakṣarā pratiṣṭhā.</s>
+	    <s>ēvaṁ yāvad <app><lem>ēkōnaviṁ</lem><rdg wit="#B #F #P">ēkōnnaviṁ◦</rdg><rdg wit="#C">ēkānnaviṁ◦</rdg></app>śatyakṣarā atidhr̥tiḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="5">
+	  <ab type="sūtra" n="5" xml:id="Chandō.2.5">kr̥tiḥ <app><lem>prāvisamabhyudaśca</lem><rdg wit="#N #P">prāṅvi◦ ca kr̥tiḥ</rdg></app></ab>
+	  <p>
+	    <s>pra-āṅ-vi-sam-abhi-<app><lem>ud</lem><rdg wit="#A #B #P">ut</rdg></app> ityētēbhyaśca parā kr̥tirēkaikavr̥ddhākṣarā.</s>
+	    <s>viṁśatyakṣarā<lb/> kr̥tiḥ.</s>
+	    <s>ēkaviṁśatyakṣarā prakr̥tiḥ.</s>
+	    <s>dvāviṁśatyakṣarā ākr̥tiḥ.</s>
+	    <s>trayōviṁśatyakṣarā vikr̥tiḥ.</s>
+	    <s><app><lem>caturviṁśatyakṣarā saṁkr̥tiḥ</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">catur◦</foreign> to <foreign xml:lang="san-Latn">abhikr̥tiḥ</foreign> dropped in A.</note></app>.</s>
+	    <s>pañcaviṁśatyakṣarā abhikr̥tiḥ.</s>
+	    <s><app><lem>ṣaḍviṁ</lem><rdg wit="#A">ēvaṁ ṣaḍviṁ◦</rdg></app>śatyakṣarā utkr̥tiḥ<lb/> <app><lem>iti</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">iti</foreign> dropped in A</note><rdg wit="E">iti yāvat</rdg></app>.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="6">
+	  <p>
+	    <s>athāsāmēva jātīnāmupayōginō bhēdānāha -</s>
+	  </p>
+	  <ab type="sūtra" n="6" xml:id="Chandō.2.6">uktāyāṁ gaḥ śrīḥ</ab>
+	  <p>
+	    <s>uktāyāṁ jātau gururēkākṣaraḥ pādaḥ sa ca śrīnāmā.</s>
+	    <s>yathā -</s>
+	  </p>
+	  <quote n="56" xml:id="Chandō.2.6.ex.1">
+	    <lg>
+	      <l>gī-,rdhīḥ. śrīḥ, stāt.</l>
+	    </lg>
+	  </quote>
+	</div>
+	<div type="sūtra" n="7">
+	  <ab type="sūtra" n="7" xml:id="Chandō.2.7">atyuktāyāṁ gau strī</ab>
+	  <p>
+	    <s>yathā -</s>
+	  </p>
+	  <quote n="57" xml:id="Chandō.2.7.ex.1">
+	    <lg>
+	      <l>bhrātar, dr̥ṣṭā. iṣṭā, sā strī.</l>
+	    </lg>
+	  </quote>
+	  <p>
+	    <s>padmamityēkē.</s>
+	  </p>
+	</div>
+	<pb n="12"/>
+	<div type="sūtra" n="8">
+	  <ab type="sūtra" n="8" xml:id="Chandō.2.8">lau madaḥ</ab>
+	  <quote n="58" xml:id="Chandō.2.8.ex.1">
+	    <lg>
+	      <l>jaya, jina. <app><lem>jita-, mada</lem><rdg wit="#N">jitamadaḥ</rdg></app>.</l>
+	    </lg>
+	  </quote>
+	  <p>
+	    <s>puṣpamiti kaścit.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="9">
+	  <ab type="sūtra" n="9" xml:id="Chandō.2.9">glau duḥkham</ab>
+	  <p>
+	    <s>yathā -</s>
+	  </p>
+	  <quote n="59" xml:id="Chandō.2.9.ex.1">
+	    <lg>
+	      <l>kasya, nātra. duḥkha-, masti.</l>
+	    </lg>
+	  </quote>
+	</div>
+	<div type="sūtra" n="10">
+	  <ab type="sūtra" n="10" xml:id="Chandō.2.10">lgau sukham</ab>
+	  <p>
+	    <s>yathā -</s>
+	  </p>
+	  <quote n="60" xml:id="Chandō.2.10.ex.1">
+	    <lg>
+	      <l>jinaḥ, sa vaḥ.</l><l>kriyāt sukham.</l>
+	    </lg>
+	  </quote>
+	</div>
+	<div type="sūtra" n="11">
+	  <ab type="sūtra" n="11" xml:id="Chandō.2.11">madhyāyāṁ mō nārī</ab>
+	  <p>
+	    <s>yathā -</s>
+	  </p>
+	  <quote n="61" xml:id="Chandō.2.11.ex.1">
+	    <lg>
+	      <l>niḥsārē, saṁsārē.</l><l>sāraṁ kiṁ syān nārī.</l>
+	    </lg>
+	  </quote>
+	</div>
+	<div type="sūtra" n="12">
+	  <ab type="sūtra" n="12" xml:id="Chandō.2.12">yaḥ kēśā</ab>
+	  <p>
+	    <s>yathā -</s>
+	  </p>
+	  <quote n="62" xml:id="Chandō.2.12.ex.1">
+	    <lg>
+	      <l>puraṁdhī, suvēśā.</l><l>iyaṁ sā, sukēśā.</l>
+	    </lg>
+	  </quote>
+	  <p>
+	    <s>dhūriti bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="13">
+	  <ab type="sūtra" n="13" xml:id="Chandō.2.13">rō mr̥gī</ab>
+	   <p>
+	    <s>yathā -</s>
+	  </p>
+	  <quote n="63" xml:id="Chandō.2.13.ex.1">
+	    <lg>
+	      <l>ballabhā, gēhinī.</l><l>yā mr̥gī-, lōcanā</l>
+	    </lg>
+	  </quote>
+	  <p>
+	    <s>taḍiditi bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="14">
+	  <ab type="sūtra" n="14" xml:id="Chandō.2.14">sō madanaḥ</ab>
+	   <p>
+	    <s>yathā -</s>
+	  </p>
+	  <quote n="64" xml:id="Chandō.2.14.ex.1">
+	    <lg>
+	      <l>virahē 'bhyadhikam.</l><l>madanō, dahati.</l>
+	    </lg>
+	  </quote>
+	  <p>
+	    <s>rajanīti bharataḥ.</s>
+	    <s>kēcittu <app><lem>mna</lem><rdg wit="#A #N">mra</rdg></app>-bhya-jra-stām ēkaikō'pi abdhiḥ, śaṅkhaḥ, śubhraṁ,<lb/> dugdhaṁ ityāhuḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="15">
+	  <ab type="sūtra" n="15" xml:id="Chandō.2.15">pratiṣṭhāyāṁ mgau kanyā</ab>
+	  <p>
+	    <s>magaṇō gurutha.</s>
+	    <s>yathā -</s>
+	  </p>
+	  <quote n="65" xml:id="Chandō.2.15.ex.1">
+	   <lg>
+	    <l>sarvairdēvaiḥ yēhāṁ cakrē</l><l>sēyaṁ manyē, dhanyā kanyā</l>
+	   </lg>
+	  </quote>
+	</div>
+	<pb n="13"/>
+	<div type="sūtra" n="16">
+	  <ab type="sūtra" n="16" xml:id="Chandō.2.16"><app><lem>bhgau</lem><rdg wit="#N">bhagau</rdg></app> sumukhī</ab>
+	  <p>
+	    <s>bhagaṇō gurutha.</s>
+	    <s>yathā -</s>
+	  </p>
+	  <quote n="66" xml:id="Chandō.2.16.ex.1">
+	    <lg>
+	      <l>kṣīṇatanur, madviraddē</l><l>yāśrumukhī, <app><lem>sā sumukhī</lem><rdg wit="#A">sā sukhī. lalilatēti bharataḥ.</rdg></app></l>
+	    </lg>
+	  </quote>
+	  <p>
+	    <s>lalitēti bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="17">
+	  <ab type="sūtra" n="17" xml:id="Chandō.2.17">jgau vilāsinī</ab>
+	  <p>
+	    <s>jagaṇō guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="67" xml:id="Chandō.2.17.ex.1">
+	      <lg>
+		<l>na labhyatē, ghanastanī</l><l>dhanaṁ vinā, vilāsinī</l>
+	      </lg>
+	    </quote>
+	    <s>jayēti bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="18">
+	  <ab type="sūtra" n="18" xml:id="Chandō.2.18">rgau samr̥ddhiḥ</ab>
+	  <p>
+	    <s>ragaṇō guruva.</s>
+	    <s>yathā -</s>
+	    <quote n="68" xml:id="Chandō.2.18.ex.1">
+	      <lg>
+		<l>puṇyapātrē, śuddhacittaiḥ</l><l>yā pradattā, sā samr̥ddhiḥ</l>
+	      </lg>
+	    </quote>
+	    <s><app><lem>puṇyamiti</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">puṇyamiti bharataḥ</foreign> dropped in B.</note><rdg wit="#F #P">puṣpamiti</rdg></app> bharataḥ. </s>
+	  </p>
+	</div>
+	<div type="sūtra" n="19">
+	  <ab type="sūtra" n="19" xml:id="Chandō.2.19">ngau mr̥gavadhūḥ</ab>
+	  <p>
+	    <s>nagaṇō guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="69" xml:id="Chandō.2.19.ex.1">
+	      <lg>
+		<l>tava purō, nayanayōḥ</l><l>kimiva sā, mr̥gavadhūḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="20">
+	  <ab type="sūtra" n="20" xml:id="Chandō.2.20">ygau vrīḍā</ab>
+	  <p>
+	    <s>yagaṇō guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="70" xml:id="Chandō.2.20.ex.1">
+	      <lg>
+		<l>tathā tēna kr̥taṁ bhartrā</l><l>yathā cittē, 'bhavad vrīḍā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="21">
+	  <ab type="sūtra" n="21" xml:id="Chandō.2.21">sgau sumatiḥ</ab>
+	  <p>
+	    <s>sagaṇō guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="71" xml:id="Chandō.2.21.ex.1">
+	      <lg>
+		<l>bhaja dharmaṁ, vada satyam</l><l>tyaja pāpaṁ, sumatiḥ san</l>
+	      </lg>
+	    </quote>
+	    <s>bhramarīti bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="22">
+	  <ab type="sūtra" n="22" xml:id="Chandō.2.22"><app><lem>tgau sōmapriyā</lem><note xml:lang="eng">Sutra 22 with com. dropped in B F P.</note></app></ab>
+	  <p>
+	    <s>tagaṇō guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="72" xml:id="Chandō.2.22.ex.1">
+	      <lg>
+		<l>vibhrājatē, khē rōhiṇī</l><l>cārudyutiḥ, sōmapriyā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="23">
+	  <ab type="sūtra" n="23" xml:id="Chandō.2.23">supratiṣṭhāyāṁ rō gau prītiḥ</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="73" xml:id="Chandō.2.23.ex.1">
+	      <lg>
+		<l>yasya naivārthāḥ, naiva kāminyaḥ</l><l>nāpi vairāgyaṁ, tasya kā prītiḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<pb n="14"/>
+	<div type="sūtra" n="24">
+	  <ab type="sūtra" n="24" xml:id="Chandō.2.24">rlgā vidagdhakaḥ</ab>
+	  <p>
+	    <s>ragaṇō <app><lem>laghugurū</lem><rdg wit="#P">laghurguruśca</rdg></app> ca.</s>
+	    <s>yathā -</s>
+	    <quote n="74" xml:id="Chandō.2.24.ex.1">
+	      <lg>
+		<l>yauvanēna vā, kārmaṇēna vā</l><l>yō na dagdhakō 'sau vidagdhakaḥ</l>
+	      </lg>
+	    </quote>
+	    <s>vāgurēti bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="25">
+	  <ab type="sūtra" n="25" xml:id="Chandō.2.25">bhō gau paṅktiḥ</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="75" xml:id="Chandō.2.25.ex.1">
+	      <lg>
+		<l>phālgunamāsē, phullavanāntē</l><l>pāvakatulyā, kiṁśukapaṅktiḥ</l>
+	      </lg>
+	    </quote>
+	    <s>akṣarōpapadētyanyē.</s>
+	    <s>kuntalatanvīti bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="26">
+	  <ab type="sūtra" n="26" xml:id="Chandō.2.26">bhlagā ratiḥ</ab>
+	  <p>
+	    <s>bhagaṇō <app><lem>laghugurū</lem><rdg wit="#P">laghurguruśca</rdg></app> ca.</s>
+	    <s>yathā -</s>
+	    <quote n="76" xml:id="Chandō.2.26.ex.1">
+	      <lg>
+		<l>sādhucaraṇā, mbhōjayugalē</l><l>hanta viduṣō, rājati ratiḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="27">
+	  <ab type="sūtra" n="27" xml:id="Chandō.2.27">jō gau satī</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="77" xml:id="Chandō.2.27.ex.1">
+	      <lg>
+		<l>svabhartr̥bhaktā, <app><lem>viśuddhaśīlō</lem><rdg wit="#B">visuddhasīlā</rdg></app></l><l>nirīhacittā, satī satīyam</l>
+	      </lg>
+	    </quote>
+	    <s>śikhēti bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="28">
+	  <ab type="sūtra" n="28" xml:id="Chandō.2.28">tlagā nandā</ab>
+	  <p>
+	    <s>tagaṇō laghugurū ca.</s>
+	    <s>yathā -</s>
+	    <quote n="78" xml:id="Chandō.2.28.ex.1">
+	      <lg>
+		<l>cittē saralā, vēṣē taralā</l><l>dānē pr̥thulā, nandā mahilā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="29">
+	  <ab type="sūtra" n="29" xml:id="Chandō.2.29">ylagā jayā</ab>
+	  <p>
+	    <s>yagaṇō laghugurū ca.</s>
+	    <s>yathā.</s>
+	    <quote n="79" xml:id="Chandō.2.29.ex.1">
+	      <lg>
+		<l>mamānīyata, manaḥ kāntayā</l><l>mukhēnōllasa-, jjitāmbhōjayā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="30">
+	  <ab type="sūtra" n="30" xml:id="Chandō.2.30">mlagāḥ sāvitrī</ab>
+	  <p>
+	    <s>magaṇō <app><lem>laghugurū</lem><rdg wit="#A">lagau</rdg></app> ca.</s>
+	    <s>yathā -</s>
+	    <quote n="80" xml:id="Chandō.2.30.ex.1">
+	      <lg>
+		<l>jainēndraṁ mukhaṁ, diśyādvaḥ sukham</l><l>jigyē yēna sā, sāvitrī prabhā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="31">
+	  <ab type="sūtra" n="31" xml:id="Chandō.2.31">sō gau dhanapaṅktiḥ</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="81" xml:id="Chandō.2.31">
+	      <lg>
+		<l>kriyayā hīnaṁ, yadiha jñānam</l><l>rahitāmbhōbhir-, dhanapaṅktiḥ sā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="32">
+	  <ab type="sūtra" n="32" xml:id="Chandō.2.32">nlagā abhimukhī</ab>
+	  <p>
+	    <s>nagaṇō <app><lem>laghugurū</lem><rdg wit="#A">lagau</rdg></app> ca.</s>
+	    <s>yathā -</s>
+	    <quote n="82" xml:id="Chandō.2.32.ex.1">
+	      <lg>
+		<l>śaśivadanā, mr̥ganayanā</l><l>abhisarati, tvadabhimukhī</l>
+	      </lg>
+	    </quote>
+	    <pb n="15"/>
+	    <s>mr̥gacapalētyanyaḥ.</s>
+	    <s>kamalamukhīti bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="33">
+	  <ab type="sūtra" n="33" xml:id="Chandō.2.33">gāyatryāṁ mau sāvitrī</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="83" xml:id="Chandō.2.33.ex.1">
+	      <lg>
+		<l>dēvānāṁ yaḥ straiṇaiḥ,</l><l>sākṣātkṣōbhaṁ ninyē</l>
+		<l><app><lem>sa brahmā brahmā kiṁ</lem><rdg wit="#N">dēvaḥ kiṁ sa brahmā</rdg></app>,</l><l>yatkāntā sāvitrī</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="34">
+	  <ab type="sūtra" n="34" xml:id="Chandō.2.34">mrau taṭī</ab>
+	  <p>
+	    <s>magaṇaragaṇau.</s>
+	    <s>yathā -</s>
+	    <quote n="84" xml:id="Chandō.2.34.ex.1">
+	      <lg>
+		<l>kāmēbhyō <app><lem>nispr̥haṁ</lem><rdg wit="#P">niḥspr̥haṁ</rdg></app>,</l><l>yasyōccaiḥ syānmanaḥ</l>
+		<l>kiṁ kuryāttasya sā,</l><l>mandākinyāstaṭī</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="35">
+	  <ab type="sūtra" n="35" xml:id="Chandō.2.35">sau ramaṇī</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="85" xml:id="Chandō.2.35.ex.1">
+	      <lg>
+		<l>rajanīramaṇa,</l><l>pratibhē vadanē</l>
+		<l>tilakaṁ śaśakaṁ,</l><l>kurutē ramaṇī</l>
+	      </lg>
+	    </quote>
+	    <s>nalinīti bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="36">
+	  <ab type="sūtra" n="36" xml:id="Chandō.2.36">tyau tanumadhyā</ab>
+	  <p>
+	    <s>tagaṇayagaṇau.</s>
+	    <s>yathā -</s>
+	    <quote n="86" xml:id="Chandō.2.36.ex.1">
+	      <lg>
+		<l>lāvaṇyapayōdhiḥ,</l><l>saubhāgyanidhānam</l>
+		<l>sā kasya na hr̥dyā,</l><l>bālā tanumadhyā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="37">
+	  <ab type="sūtra" n="37" xml:id="Chandō.2.37">sbhau gurumadhyā</ab>
+	  <p>
+	    <s>sagaṇabhagaṇau.</s>
+	    <s>yathā -</s>
+	    <quote n="87" xml:id="Chandō.2.37.ex.1">
+	      <lg>
+		<l>capalā kēkara,</l><l>nayanā sā kila</l>
+		<l>ramaṇīkōvida,</l><l>gurumadhyā tava</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="38">
+	  <ab type="sūtra" n="38" xml:id="Chandō.2.38">yau sōmarājī</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="88" xml:id="Chandō.2.38.ex.1">
+	      <lg>
+		<l>sa vaḥ pātu kunda,</l><l>tviṣā dēhabhāsā</l>
+		<l>samudyōtitāntō,</l><l>jinaḥ sōmarājī</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<pb n="16"/>
+	<div type="sūtra" n="39">
+	  <ab type="sūtra" n="39" xml:id="Chandō.2.38">nyau śaśivadanā</ab>
+	  <p>
+	    <s>nagaṇayagaṇau.</s>
+	    <s>yathā -</s>
+	    <quote n="89" xml:id="Chandō.2.39.ex.1">
+	      <lg>
+		<l>manasijalīlā-,</l><l>kulagr̥habhūmiḥ</l>
+		<l>kuvalayanētrā,</l><l>śaśivadanēyam</l>
+	      </lg>
+	    </quote>
+	    <s>mukulitētyanyaḥ.</s>
+	    <s>makaraśīrṣēti bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="40">
+	  <ab type="sūtra" n="40" xml:id="Chandō.2.40">rmau mālinī</ab>
+	  <p>
+	    <s>ragaṇamagaṇau.</s>
+	    <s>yathā -</s>
+	    <quote n="90" xml:id="Chandō.2.40.ex.1">
+	      <lg>
+		<l>kētakīsaṁsr̥ṣṭaiḥ,</l><l>mālatīsaṁpr̥ktaiḥ</l>
+		<l>paṅkajairarhantaṁ,</l><l>mālinī <app><lem>sōpāstē</lem><rdg wit="#F">sōmapāstē</rdg></app></l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="41">
+	  <ab type="sūtra" n="41" xml:id="Chandō.2.41">bhyau kāmalatikā</ab>
+	  <p>
+	    <s>bhagaṇayagaṇau.</s>
+	    <s>yathā -</s>
+	    <quote n="91" xml:id="Chandō.2.41.ex.1">
+	      <lg>
+		<l>bhāti mr̥dupāṇi-,</l><l>pallavamanōjñā</l>
+		<l>hāsakusumaśrīḥ,</l><l>kāmalatikēyam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="42">
+	  <ab type="sūtra" n="42" xml:id="Chandō.2.42">msau mukulam</ab>
+	  <p>
+	    <s>magaṇasagaṇau.</s>
+	    <s>yathā -</s>
+	    <quote n="92" xml:id="Chandō.2.42.ex.1">
+	      <lg>
+		<l>yātō'staṁ śaśabhr̥n,</l><l>mārtaṇḍō'bhyudayam</l>
+		<l>vyākōśaṁ kamalaṁ,</l><l>nīlābjaṁ mukulam</l>
+	      </lg>
+	    </quote>
+	    <s>vīthīti bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="43">
+	  <ab type="sūtra" n="43" xml:id="Chandō.2.43">nrau śapharikā</ab>
+	  <p>
+	    <s>nagaṇaragaṇau.</s>
+	    <s>yathā -</s>
+	    <quote n="93" xml:id="Chandō.2.43.ex.1">
+	      <lg>
+		<l>kuvalayēkṣaṇē,</l><l>ramayatō manaḥ</l>
+		<l>tava vilōcanē,</l><l>śapharikācalē</l>
+	      </lg>
+	    </quote>
+	    <s>girēti bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="44">
+	  <ab type="sūtra" n="44" xml:id="Chandō.2.44">rnau kacchapī</ab>
+	  <p>
+	    <s>ragaṇanagaṇau.</s>
+	    <s>yathā -</s>
+	    <quote n="94" xml:id="Chandō.2.44.ex.1">
+	      <lg>
+		<l>lakṣyatē sarasi,</l><l>candramaḥsadr̥śi</l>
+		<l>lakṣmakāntiriha,</l><l>kacchapī payasi</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="45">
+	  <ab type="sūtra" n="45" xml:id="Chandō.2.45">bhrau laghumālinī</ab>
+	  <pb n="17"/>
+	  <p>
+	    <s>bhagaṇaragaṇau.</s>
+	    <s>yathā -</s>
+	    <quote n="95" xml:id="Chandō.2.45.ex.1">
+	      <lg>
+		<l>tvadvadanāgratō,</l><l>maṇḍalamaindavam</l>
+		<l>saṁprati lakṣyatē,</l><l><app><lem>śrīlaghu</lem><rdg wit="#N">śrīrlaghu</rdg></app> mālinī</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="46">
+	  <ab type="sūtra" n="46" xml:id="Chandō.2.46">syau vimalā</ab>
+	  <p>
+	    <s>sagaṇayagaṇau.</s>
+	    <s>yathā -</s>
+	    <quote n="96" xml:id="Chandō.2.46.ex.1">
+	      <lg>
+		<l>nipatanti yasmin,</l><l>saralā dr̥śastē</l>
+		<l>tamupaiti lakṣmīr,</l><l>vimalā ca kīrtiḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="47">
+	  <ab type="sūtra" n="47" xml:id="Chandō.2.47">trau jalā</ab>
+	  <p>
+	    <s>tagaṇaragaṇau.</s>
+	    <s>yathā -</s>
+	    <quote n="97" xml:id="Chandō.2.47.ex.1">
+	      <lg>
+		<l>jātāstava dviṣat-,</l><l>strīṇāṁ dr̥śō nr̥pa</l>
+		<l>aśrāntam<app><lem>aśrubhiḥ</lem><rdg wit="#A">asrubhiḥ</rdg></app>,</l><l>paryastakajjalāḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="48">
+	  <ab type="sūtra" n="48" xml:id="Chandō.2.48">myau sunandā</ab>
+	  <p>
+	    <s>magaṇayagaṇau.</s>
+	    <s>yathā -</s>
+	    <quote n="98" xml:id="Chandō.2.48.ex.1">
+	      <lg>
+		<l>śrīmatpārśvanātha,</l><l>svatpādābjayugmē</l>
+		<l>bhūyānnirvikalpā,</l><l>bhaktirmē sunandā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="49">
+	  <ab type="sūtra" n="49" xml:id="Chandō.2.49">bhmau vikrāntā</ab>
+	  <p>
+	    <s>bhagaṇamagaṇau.</s>
+	    <s>yathā -</s>
+	    <quote n="99" xml:id="Chandō.2.49.ex.1">
+	      <lg>
+		<l>nō bhaṭasiṁhāstē,</l><l>tvadripupuryantaḥ</l>
+		<l>vāsaratiṁ siṁhāḥ,</l><l>bibhrati vikrāntāḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="50">
+	  <ab type="sūtra" n="50" xml:id="Chandō.2.50">smau sūcīmukhī</ab>
+	  <p>
+	    <s>sagaṇamagaṇau.</s>
+	    <s>yathā -</s>
+	    <quote n="100" xml:id="Chandō.2.50.ex.1">
+	      <lg>
+		<l>adhunā pañcēṣōr,</l><l>navatīkṣṇāstratvam</l>
+		<l>iha jajñē sūcī-,</l><l>mukhayā kētakyā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="51">
+	  <ab type="sūtra" n="51" xml:id="Chandō.2.51">ymau śikhaṇḍinī</ab>
+	  <p>
+	    <s>yagaṇamagaṇau.</s>
+	    <s>yathā -</s>
+	    <quote n="101" xml:id="Chandō.2.51.ex.1">
+	      <lg>
+		<l>hahā pānthastrībhiḥ,</l><l>pidhīyantē karṇāḥ</l>
+		<l>muhurvyātanvānē,</l><l>śikhaṇḍinyārāvam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<pb n="18"/>
+	<div type="sūtra" n="52">
+	  <ab type="sūtra" n="52" xml:id="Chandō.2.52">uṣṇahi mau gō gāndharvī</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="102" xml:id="Chandō.2.52.ex.1">
+	      <lg>
+		<l>sa śrēyāṁsi śrēyāṁsaḥ,</l><l>śrīmāndēvaḥ puṣṇātu</l>
+		<l>kṣōbhāyābhūdyaccittē,</l><l>gāndharvī na krīḍāpi</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="53">
+	  <ab type="sūtra" n="53" xml:id="Chandō.2.53">rjau ga uṣṇik</ab>
+	  <p>
+	    <s><app><lem>ragaṇajagaṇau</lem><rdg wit="#A">rajau</rdg></app> guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="103" xml:id="Chandō.2.53.ex.1">
+	      <lg>
+		<l>uṣṇihīva saṁsr̥tau,</l><l>syāddhruvaṁ rajō <app><lem>guru</lem><rdg wit="#C #E #N">guruḥ</rdg></app></l>
+		<l>nō bhavēdyadi kṣitau,</l><l>śrījinēndraśāsanam</l>
+	      </lg>
+	    </quote>
+	    <s>śikhēti bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="54">
+	  <ab type="sūtra" n="54" xml:id="Chandō.2.54">jsau gaḥ kumāralalitā</ab>
+	  <p>
+	    <s>jagaṇasagaṇau <app><lem>guruśca</lem><rdg wit="#A">guru yathā</rdg></app>.</s>
+	    <s>yathā -</s>
+	    <quote n="104" xml:id="Chandō.2.54.ex.1">
+	      <lg>
+		<l>narēndragaṇasēnā-,</l><l>vr̥taḥ prathitaśaktiḥ</l>
+		<l>dadhāsi nr̥patē tvaṁ,</l><l>kumāralalitāni</l>
+	      </lg>
+	    </quote>
+	    <s>atra kēcid dvābhyāṁ viratimicchanti.</s>
+	    <quote n="105" xml:id="Chandō.2.54.ex.2">
+	      <lg>
+		<l>idaṁ vadanapadmaṁ,</l><l>priyē tava vibhāti</l>
+		<l>iha vrajati mugdhē,</l><l>manō bhramaratāṁ mē</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="55">
+	  <ab type="sūtra" n="55" xml:id="Chandō.2.55">msau gō madalēkhā</ab>
+	  <p>
+	    <s>magaṇasagaṇau guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="106" xml:id="Chandō.2.55.ex.1">
+	      <lg>
+		<l>yāvatkēsarinādō,</l><l>nāyāti śrutimārgam</l>
+		<l>tāvadrandhagajānāṁ,</l><l>gaṇḍē syān madalēkhā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="56">
+	  <ab type="sūtra" n="56" xml:id="Chandō.2.56">rsau ga uddhatā</ab>
+	  <p>
+	    <s>ragaṇasagaṇau guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="107" xml:id="Chandō.2.56.ex.1">
+	      <lg>
+		<l>yā babhūva sudarpā,</l><l>vairiṇāṁ nr̥pa sēnā</l>
+		<l>tvatpratāpavilāsē,</l><l>sōddhatāpi gataśrīḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="57">
+	  <ab type="sūtra" n="57" xml:id="Chandō.2.57">tsau gō bhramaramālā</ab>
+	  <pb n="19"/>
+	  <p>
+	    <s>tagaṇasagaṇau guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="108" xml:id="Chandō.2.57.ex.1">
+	      <lg>
+		<l>kundē vicakilē vā,</l><l>mandārakusumē vā</l>
+		<l>prītyā madhurasāḍhyē,</l><l>bhrāntā bhramaramālā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="58">
+	  <ab type="sūtra" n="58" xml:id="Chandō.2.58">rau gō haṁsamālā</ab>
+	  <p>
+	    <s><app><lem>yathā</lem><rdg wit="#C">ragaṇadvayaṁ guru ca. yathā</rdg></app> -</s>
+	    <quote n="109" xml:id="Chandō.2.58.ex.1">
+	      <lg>
+		<l>śaivalālī nirāśā,</l><l>paṅkajē baddhavāsā</l>
+		<l>kiṁ bakōṭāvalīyaṁ</l><l>hanta sā haṁsamālā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="59">
+	  <ab type="sūtra" n="59" xml:id="Chandō.2.59">bhau gaḥ kalikā</ab>
+	  <p>
+	    <s><app><lem>yathā</lem><rdg wit="#P">bhagaṇadvayaṁ guruśca. yathā</rdg></app> -</s>
+	    <quote n="110" xml:id="Chandō.2.59.ex.1">
+	      <lg>
+		<l>sparśanamātravaśād,</l><l>yā makarandamucā</l>
+		<l>kiṁ bhramara bhramatā,</l><l><app><lem>sā</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">sā</foreign> dropped in A.</note></app> kalitā kalikā</l>
+	      </lg>
+	    </quote>
+	    <s>sōpānamityanyaḥ.</s>
+	    <s><app><lem>bhōgavatīti</lem><rdg wit="#A">bhāgavatīti</rdg></app> bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="60">
+	  <ab type="sūtra" n="60" xml:id="Chandō.2.60">bhsau gō vidhuvaktrā</ab>
+	  <p>
+	    <s>bhagaṇasagaṇau guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="111" xml:id="Chandō.2.60.ex.1">
+	      <lg>
+		<l>ahni virahataptā,</l><l>rātrimabhilaṣantī</l>
+		<l>udyati vidhubimbē,</l><l>mlāyati vidhuvaktrā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="61">
+	  <ab type="sūtra" n="61" xml:id="Chandō.2.61">bhau gaḥ <app><lem>saralam</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">saralaṁ</foreign> dropped in A.</note></app></ab>
+	  <p>
+	    <s>magaṇasagaṇau guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="112" xml:id="Chandō.2.61.ex.1">
+	      <lg>
+		<l>pāpābhyāsātkuṭilaṁ,</l><l>cētō raudraṁ bhajatē</l>
+		<l>śāstrābhyāsavyasanād,</l><l>dharmyaṁ dhyānaṁ saralam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="62">
+	  <ab type="sūtra" n="62" xml:id="Chandō.2.62">bhnau gaścitram</ab>
+	  <p>
+	    <s>bhagaṇasagaṇau guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="113" xml:id="Chandō.2.62.ex.1">
+	      <lg>
+		<l>kīrtiriha bhavataḥ,</l><l>kundakusumasamā</l>
+		<l>rañjayati hr̥dayaṁ,</l><l>citramidamadhikam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="63">
+	  <ab type="sūtra" n="63" xml:id="Chandō.2.63">nau gō harivilasitam</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="114" xml:id="Chandō.2.62.ex.1">
+	      <lg>
+		<l>sapadi balinr̥pān,</l><l>samiti niyamayan</l>
+		<l>prathayasi na vibhō,</l><l>na harivilasitam</l>
+	      </lg>
+	    </quote>
+	    <pb n="20"/>
+	    <s>capalētyanyē.</s>
+	    <s><app><lem>drutagatiriti</lem><rdg wit="#A">drutagāriti</rdg></app> bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="64">
+	  <ab type="sūtra" n="64" xml:id="Chandō.2.64">bhjau gaḥ śāradī</ab>
+	  <p>
+	    <s>bhagaṇajagaṇau guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="115" xml:id="Chandō.2.64.ex.1">
+	      <lg>
+		<l>ujjvalaniśākarā,</l><l>cārukamalākarā</l>
+		<l>kasya na manōramā,</l><l>śrīrbhavati śāradī</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="65">
+	  <ab type="sūtra" n="65" xml:id="Chandō.2.65">tnagā madhukarikā</ab>
+	  <p>
+	    <s>tagaṇanagaṇau guruśca yathā -</s>
+	    <quote n="116" xml:id="Chandō.2.65.ex.1">
+	      <lg>
+		<l>pāntha śraya dayitāṁ,</l><l>prāptō madhusamayaḥ</l>
+		<l>gāyantyanuviṭapaṁ,</l><l>prītā <app><lem>madhukarikāḥ</lem><rdg wit="#A">madhukarikā</rdg></app></l>
+	      </lg>
+	    </quote>
+	    <s>vajramityanyaḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="66">
+	  <ab type="sūtra" n="66" xml:id="Chandō.2.66">sjau gō vimalā</ab>
+	  <p>
+	    <s>sagaṇajagaṇau guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="117" xml:id="Chandō.2.66.ex.1">
+	      <lg>
+		<l>samaśatrumitratā-,</l><l>mavalambya <app><lem>nirmamaḥ</lem><rdg wit="#N">nirmama</rdg></app></l>
+		<l>bhaja vītarāgatāṁ,</l><l>vimalātmakō bhava</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="67">
+	  <ab type="sūtra" n="67" xml:id="Chandō.2.67">jrau gaḥ subhadrā</ab>
+	  <p>
+	    <s>jagaṇaragaṇau guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="118" xml:id="Chandō.2.67.ex.1">
+	      <lg>
+		<l>kumārapāla dēva,</l><l>tvadīyavikramēṇa</l>
+		<l><app><lem>mahaujasaḥ</lem><rdg wit="#A">mahōjaḥ</rdg></app> subhadrā-,</l><l>patēḥ smr̥taṁ na kēna</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="68">
+	  <ab type="sūtra" n="68" xml:id="Chandō.2.68">nyau gaḥ kumudvatī</ab>
+	  <p>
+	    <s>nagaṇayagaṇau guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="119" xml:id="Chandō.2.68.ex.1">
+	      <lg>
+		<l>pativirahē yānya-,</l><l>mukhamapi nāpaśyat</l>
+		<l>kalayati sā ślāghām,</l><l>iha kumudinyēkā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="69">
+	  <ab type="sūtra" n="69" xml:id="Chandō.2.69">ysau gō muditā</ab>
+	  <p>
+	    <s>yagaṇasagaṇau guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="120" xml:id="Chandō.2.69.ex.1">
+	      <lg>
+		<l>latānāṁ kalikābhiḥ,</l><l>prarōhatpulakēva</l>
+		<l>vasantāgamanē'smin,</l><l>vanaśrīrmuditēyam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="70">
+	  <ab type="sūtra" n="70" xml:id="Chandō.2.70">nrau gō manōjñā</ab>
+	  <p>
+	    <s>nagaṇaragaṇau guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="121" xml:id="Chandō.2.70.ex.1">
+	      <lg>
+		<l>bhuvanajaitramantraṁ,</l><l>ratipatēradhītē</l>
+		<l>pikagirā madhuśrīr,</l><l>atimanōjñayāsau</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<pb n="21"/>
+	<div type="sūtra" n="71">
+	  <ab type="sūtra" n="71" xml:id="Chandō.2.71">srau gō dīptā</ab>
+	  <p>
+	    <s>sagaṇaragaṇau guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="122" xml:id="Chandō.2.71.ex.1">
+	      <lg>
+		<l>navasindūrabhāsō,</l><l>mukulāḥ kiṁśukē'mī</l>
+		<l>dhruvamāgnēyabāṇāḥ,</l><l>ratināthasya dīptā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="72">
+	  <ab type="sūtra" n="72" xml:id="Chandō.2.72">anuṣṭubhi trau gau vibhā</ab>
+	  <p>
+	    <s>taragagāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="123" xml:id="Chandō.2.72.ex.1">
+	      <lg>
+		<l>dēva tvayi kṣamānāthē,</l><l>kṣīṇānyabhūbhujāṁ kīrtiḥ</l>
+		<l><app><lem>pūrvādribhāji</lem><rdg wit="#N">pūrvādibhāji</rdg></app> mārtaṇḍē,</l><l>kā vā vibhāstu tārāṇām</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="73">
+	  <ab type="sūtra" n="73" xml:id="Chandō.2.73">ryau lgāvanuṣṭup</ab>
+	  <p>
+	    <s>rayalagāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="124" xml:id="Chandō.2.73.ex.1">
+	      <lg>
+		<l>kurvatē vivēkāratiṁ,</l><l>yē virāgahētuṣvapi</l>
+		<l>tē paṭhanti citraṁ muhur,</l><l>bāliśā anuṣṭubdhiyā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="74">
+	  <ab type="sūtra" n="74" xml:id="Chandō.2.74"><app><lem>gīrgīr</lem><rdg wit="#A">gīgī</rdg><rdg wit="#C">gīgīr</rdg></app>vidyunmālā</ab>
+	  <p>
+	    <s>samānēnaikādiriti vacanād <app><lem>gīriti</lem><rdg wit="#A #B #C #P">gīti</rdg></app> gacatuṣṭayaṁ gr̥hyatē.</s>
+	    <s>mau gāviti tu na kr̥taṁ<lb/> caturbhiścaturbhiryathā viratirjñāyētēti.</s>
+	    <s>yathā -</s>
+	    <quote n="125" xml:id="Chandō.2.74.ex.1">
+	      <lg>
+		<l>satyaṁ ramyābhōgā bhōgāḥ,</l><l>kāntāḥ kāntāḥ prājyaṁ rājyam</l>
+		<l>kiṁ kurvantu prājñā yasmād,</l><l>āyurvidyunmālālōlam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="75">
+	  <ab type="sūtra" n="75" xml:id="Chandō.2.75">bhau gau citrapadā</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="126" xml:id="Chandō.2.75.ex.1">
+	      <lg>
+		<l>vyōmani sāgaratīrē,</l><l>parvataśr̥ṅganikuñjē</l>
+		<l>bhrāmyati bhīmakulēndō,</l><l>citrapadā tava kīrtiḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="76">
+	  <ab type="sūtra" n="76" xml:id="Chandō.2.76">nrau lgau sumālatī</ab>
+	  <p>
+	    <s>naralagāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="127" xml:id="Chandō.2.76.ex.1">
+	      <lg>
+		<l>parihr̥tōtpalāvalī,</l><l>kanakakētakī tathā</l>
+		<l>bhramara mālatīkr̥tē,</l><l>taditi sā sumālatī</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="77">
+	  <ab type="sūtra" n="77" xml:id="Chandō.2.77.ex.1">bhtau lgau māṇavakaṁ ghaiḥ</ab>
+	  <p>
+	    <s>bhatalagāḥ.</s>
+	    <s>cairiti tryādirgādiriti vacanāccaturbhiriti labhyatē.</s>
+	    <s>yatiriti<lb/> cōpatiṣṭhatē.</s>
+	    <s>tēna caturbhiryatiriti siddham.</s>
+	    <s>yathā -</s>
+	    <quote n="128" xml:id="Chandō.2.77.ex.1">
+	      <lg>
+		<l>śītarujānyō'nyaraṇad,</l><l>dantaravairvisvarakam</l>
+		<l>sāma paṭhan māṇavakō,</l><l>'śāsi muhuryatra śukaiḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<pb n="22"/>
+	<div type="sūtra" n="78">
+	  <ab type="sūtra" n="78" xml:id="Chandō.2.78">trau lgau nārācam</ab>
+	  <p>
+	    <s>taralagāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="129" xml:id="Chandō.2.78.ex.1">
+	      <lg>
+		<l>durvāravairidantināṁ,</l><l>kumbhasthalēṣu niścalaḥ</l>
+		<l>tvatkīrtikētuvaṁśavan,</l><l>nārāca ēṣa śōbhatē</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="79">
+	  <ab type="sūtra" n="79" xml:id="Chandō.2.79">mnau gau haṁsarutam</ab>
+	  <p>
+	    <s>managaṇāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="130" xml:id="Chandō.2.79.ex.1">
+	      <lg>
+		<l>mañjīrakvaṇitayōgyāṁ,</l><l>kurvāṇaṁ śravaṇabhōgyām</l>
+		<l>ādattē bata manāṁsi,</l><l>yūnāṁ haṁsarutamētat</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="80">
+	  <ab type="sūtra" n="80" xml:id="Chandō.2.80">njau lgau lalitagatiḥ</ab>
+	  <p>
+	    <s>najalagāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="131" xml:id="Chandō.2.80.ex.1">
+	      <lg>
+		<l>maṇirasanāsvanitād,</l><l>anusr̥tahaṁsakulaiḥ</l>
+		<l>śritamiva śiṣyapadaṁ,</l><l>lalitagatau sutanōḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="81">
+	  <ab type="sūtra" n="81" xml:id="Chandō.2.81">rjau gau siṁhalēkhā</ab>
+	  <p>
+	    <s>rajagagāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="132" xml:id="Chandō.2.81.ex.1">
+	      <lg>
+		<l>parṇapātamātramīta,</l><l>kr̥ṣṇasāra<app><lem>pōta</lem><rdg wit="#N">pōtatāpta</rdg></app> tāta</l>
+		<l>kiṁ vilambasē <app><lem>mahātman</lem><rdg wit="#C">mahāṁstvaṁ</rdg></app>,</l><l>tvaṁ jahīhi siṁhalēkhām</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="82">
+	  <ab type="sūtra" n="82" xml:id="Chandō.2.82">jrau lgau pramāṇī</ab>
+	  <p>
+	    <s>jaralagāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="133" xml:id="Chandō.2.82.ex.1">
+	      <lg>
+		<l>tava pramātum<app><lem>icchatāṁ</lem><rdg wit="#N">icchatā</rdg></app>,</l><l>yaśaśculukyabhūpatē</l>
+		<l>samagramānajitvarī,</l><l>jagatrayī pramāṇyabhūt</l>
+	      </lg>
+	    </quote>
+	    <s><app><lem>mattacēṣṭita</lem><rdg wit="#N">mattavēṣṭita</rdg></app>miti bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="83">
+	  <ab type="sūtra" n="83" xml:id="Chandō.2.83">rjau glau samānī</ab>
+	  <p>
+	    <s>rajagalāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="134" xml:id="Chandō.2.83.ex.1">
+	      <lg>
+		<l>rāgarōṣa mōhadōṣa-,</l><l><app><lem>dārudāvapā</lem><rdg wit="#F">dārudāhapā</rdg></app>vakasya</l>
+		<l>tīrthikaiḥ samaṁ jinasya,</l><l>nō samānikā kalāpi</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="84">
+	  <ab type="sūtra" n="84" xml:id="Chandō.2.84">nsau gau guṇalayanī</ab>
+	  <p>
+	    <s>nasagagāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="135" xml:id="Chandō.2.84.ex.1">
+	      <lg>
+		<l>guruguṇacitā sphītā,</l><l>parihr̥tarajaḥpuñjā</l>
+		<l>munitanuriyaṁ sādhvī,</l><l>na guṇalayanī sādhō</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="85">
+	  <ab type="sūtra" n="85" xml:id="Chandō.2.85">sau lgau mahī</ab>
+	  <p>
+	    <s>sasalagāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="136" xml:id="Chandō.2.85.ex.1">
+	      <lg>
+		<l>bhr̥śamātmavataḥ kalāḥ,</l><l>nanu yasya parisphuṭāḥ</l>
+		<l>sa hi kāñcanapuṣpitāṁ,</l><l>sakalāṁ cinutē mahīm</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="86">
+	  <ab type="sūtra" n="86" xml:id="Chandō.2.86">nau gau ratimālā</ab>
+	  <p>
+	    <s>nanagagāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="137" xml:id="Chandō.2.86.ex.1">
+	      <lg>
+		<l>tatiriha kariṇāṁ tē,</l><l>kṣaradurumadavāriḥ</l>
+		<l>nr̥pavara jaladānām,</l><l>iva vicarati mālā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="87">
+	  <ab type="sūtra" n="87" xml:id="Chandō.2.87">anyadvitānam</ab>
+	  <p>
+	    <s>uktādvakṣyamāṇāccānyat samavr̥ttaṁ chandō vitānasaṁjñam.</s><lb/>
+	    <s>yathā -</s>
+	    <quote n="138" xml:id="Chandō.2.87.ex.1">
+	      <lg>
+		<l>tvayi tējōbhiraśēṣaṁ,</l><l>jagaduddyōtayatīdam</l>
+		<l>udayatyēṣa idānīṁ,</l><l>savitā nātha mudhaiva</l>
+	      </lg>
+	    </quote>
+	    <s>tathā -</s>
+	    <quote n="139" xml:id="Chandō.2.87.ex.2">
+	      <lg>
+		<l>kaṅkālamālabhāriṇaṁ,</l><l>kandarpa<app><lem>darpadāriṇam</lem><rdg wit="#A">darpahāriṇaṁ</rdg></app></l>
+		<l>saṁsārabandhamōcanaṁ,</l><l>vandāmahē trilōcanam</l>
+	      </lg>
+	    </quote>
+	    <s><app><lem>tathā</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">tathā</foreign> dropped in A.</note></app> -</s>
+	    <quote n="140" xml:id="Chandō.2.87.ex.3">
+	      <lg>
+		<l>tasyāḥ smarāmi sundaraṁ,</l><l>candrōpamānamānanam</l>
+		<l>kandarpacāpabhaṅgura,</l><l>bhrūvibhramōpaśōbhitam</l>
+	      </lg>
+	    </quote>
+	    <s>tathā -</s>
+	    <quote n="141" xml:id="Chandō.2.87.ex.4">
+	      <lg>
+		<l>tr̥ṣṇāṁ tyaja dharma bhaja,</l><l>pāpē hr̥dayaṁ mā kuru</l>
+		<l>iṣṭā yadi lakṣmīstava,</l><l>śiṣṭānaniśaṁ saṁśraya</l>
+	      </lg>
+	    </quote>
+	    <s>ityādi.</s>
+	  </p>
+	</div>
+	<pb n="24"/>
+	<div type="sūtra" n="88">
+	  <ab type="sūtra" n="88" xml:id="Chandō.2.88">br̥hatyāṁ bhō bhau vaktraṁ ṅaiḥ</ab>
+	  <p>
+	    <s>ṅairiti pañcabhiryatiḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="142" xml:id="Chandō.2.88.ex.1">
+	      <lg>
+		<l>vibhramasārabhrūvikṣēpa,</l><l>manmathalīlālīlāgāram</l>
+		<l>kasya na cittē kuryāt kṣōbhaṁ,</l><l>bālakuraṅgākṣīṇāṁ vaktram</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="89">
+	  <ab type="sūtra" n="89" xml:id="Chandō.2.89">nō rau br̥hatikā</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="143" xml:id="Chandō.2.89.ex.1">
+	      <lg>
+		<l>viśadavr̥ttalabdhātmanaḥ,</l><l>śuciyaśōyatērbhūpatē</l>
+		<l>tava kamaṇḍalurvāridhira,</l><l>br̥hatikā ca mandākinī</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="90">
+	  <ab type="sūtra" n="90" xml:id="Chandō.2.90">rnasā halamukhī</ab>
+	  <p>
+	    <s>ranasāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="144" xml:id="Chandō.2.90.ex.1">
+	      <lg>
+		<l>danturaṁ kapiśanayanaṁ,</l><l>yanmukhaṁ vikaṭacibukam</l>
+		<l>tāṁ striyaṁ sukhamabhilaṣan,</l><l>dūratastyaja halamukhīm</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="91">
+	  <ab type="sūtra" n="91" xml:id="Chandō.2.91">nau mō bhujagaśiśusr̥tā</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="145" xml:id="Chandō.2.91.ex.1">
+	      <lg>
+		<l>nayanavilasitairasyāḥ,</l><l>kathamiva bata mūrchā tē</l>
+		<l>bhujagaśiśu<app><lem>sr̥tā yadvā</lem><rdg wit="#P">sr̥tādyadvā</rdg></app>,</l><l>'vagatamuragakanyēyam</l>
+	      </lg>
+	    </quote>
+	    <s>vakragatērityarthaḥ.</s>
+	    <s>śiśupadasya sābhiprāyatvāt.</s>
+	    <s><app><lem>yathā ca</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">tathā ca</foreign> com.</note></app>-</s>
+	    <quote n="146" xml:id="Chandō.2.91.ex.2">
+	      <lg>
+		<l>abhyasyatā tu <app><lem>taruṇī</lem><rdg wit="#N">taraṇī</rdg></app>gativakrimāṇa-</l>
+		<l><app><lem>munmūlitāḥ</lem><rdg wit="#A">unmūlitāt</rdg></app> phaṇiśiśō bhavatāparādhāḥ</l>
+	      </lg>
+	    </quote>
+	    <s>iti.</s>
+	    <s>madhukarikēti bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="92">
+	  <ab type="sūtra" n="92" xml:id="Chandō.2.92">bhajasā udayam</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="147" xml:id="Chandō.2.92.ex.1">
+	      <lg>
+		<l>subhru bhavadīyavadanē,</l><l>satyapi nitāntarucirē</l>
+		<l>nistrapa ivaiṣa sahasā,</l><l>vāñchati śaśāṅka udayam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="93">
+	  <ab type="sūtra" n="93" xml:id="Chandō.2.93">bhau ra utsukam</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="148" xml:id="Chandō.2.93.ex.1">
+	      <lg>
+		<l>āpadi dīnamanōrathaṁ,</l><l>saṁpadi harṣaparāyaṇam</l>
+		<l>mā kuru mānasa cāpalaṁ,</l><l>saṁsmara <app><lem>tattva</lem><rdg wit="#N">tatva</rdg></app>manutsukam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<pb n="25"/>
+	<div type="sūtra" n="94">
+	  <ab type="sūtra" n="94" xml:id="Chandō.2.94">rnarā bhadrikā</ab>
+	  <p>
+	    <s>ranarāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="149" xml:id="Chandō.2.94.ex.1">
+	      <lg>
+		<l>puṇyapāpajalavardhitē,</l><l>saukhyaduḥ khalatikē svayam</l>
+		<l>tajjahīhi <app><lem>pariviplavaṁ</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">paraviplavaṁ (parakr̥taṁ sukhaṁ duḥkhaṁ ca </foreign> Tippana) B. <foreign xml:lang="san-Latn">paravi○</foreign> corrected to <foreign xml:lang="san-Latn">parivi</foreign> P.</note></app>,</l><l>sādhutā hr̥daya bhadrikā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="95">
+	  <ab type="sūtra" n="95" xml:id="Chandō.2.95">nau ra upacyutam</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="150" xml:id="Chandō.2.95.ex.1">
+	      <lg>
+		<l>nr̥pa kuru karuṇāṁ janē,</l><l>parihara khalasaṁgamam</l>
+		<l>vimr̥śa suravimānatas,</l><l>tridaśapatimupacyutam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="96">
+	  <ab type="sūtra" n="96" xml:id="Chandō.2.96">sjasā akṣi</ab>
+	  <p>
+	    <s>sajasāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="151" xml:id="Chandō.2.96.ex.1">
+	      <lg>
+		<l>viṣamātra ēṣa iti yat,</l><l>kavayō vadanti tadasat</l>
+		<l>praharatyayaṁ hi madanaḥ,</l><l>sutanō tavākṣilalitaiḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="97">
+	  <ab type="sūtra" n="97" xml:id="Chandō.2.97">maḥ sau kanakam</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="152" xml:id="Chandō.2.97.ex.1">
+	      <lg>
+		<l>mithyādarśanadigdhamanāḥ,</l><l>pāpaṁ dharmadhiyā manutē</l>
+		<l>gāḍhōnmattarasāndhadr̥śāṁ,</l><l>mr̥tpiṇḍō<app><lem>'pyathavā</lem><rdg wit="#A">'thavā</rdg></app> kanakam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="98">
+	  <ab type="sūtra" n="98" xml:id="Chandō.2.98">sau mastāram</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="153" xml:id="Chandō.2.98.ex.1">
+	      <lg>
+		<l>sakalāsumatāṁ rakṣāyai,</l><l>yatitavyam<app><lem>itīyat</lem><rdg wit="#A">iti yat</rdg></app> tattvam</l>
+		<l>rasavādavidāṁ tatsāraṁ,</l><l>yadi vārtika! <app><lem>raktaṁ tāram</lem><rdg wit="#A">tāram raktaṁ</rdg></app></l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="99">
+	  <ab type="sūtra" n="99" xml:id="Chandō.2.99">siḥ saumyā</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="154" xml:id="Chandō.2.99.ex.1">
+	      <lg>
+		<l>nijajīvitamātrarasāt,</l><l>kr̥taniṣkr̥pakarmatatē</l>
+		<l>mr̥gayāmadhumadyaratē,</l><l>kuru dharmamasaumyamatē</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<pb n="26"/>
+	<div type="sūtra" n="100">
+	  <ab type="sūtra" n="100" xml:id="Chandō.2.100">tabhyā rucirā</ab>
+	  <p>
+	    <s>tabhayāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="155" xml:id="Chandō.2.100.ex.1">
+	      <lg>
+		<l>nāśrāyi yaiścaraṇapadma-,</l><l>dvandvaṁ tava kṣaṇamapīśa</l>
+		<l>tairāśritaṁ vanamajastra-,</l><l>dāvajvalattaru cirāya</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="101">
+	  <ab type="sūtra" n="101" xml:id="Chandō.2.101">nasyā viśālā</ab>
+	  <p>
+	    <s>nasayāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="156" xml:id="Chandō.2.101.ex.1">
+	      <lg>
+		<l>nr̥patilaka mātu kīrtis,</l><l>tava bhuvi kathaṁ tu yasyāḥ</l>
+		<l>bhavati sakalā trilōkī,</l><l>yadiyamapi nō viśālā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="102">
+	  <ab type="sūtra" n="102" xml:id="Chandō.2.102">tanmā makaralatā</ab>
+	  <p>
+	    <s>tanamāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="157" xml:id="Chandō.2.102.ex.1">
+	      <lg>
+		<l>bhaima bhavadarinārīṇām,</l><l>ārdrāñjananayanāstraughaiḥ</l>
+		<l>āsūtri <app><lem>kucataṭē bhraṣṭair</lem><rdg wit="#B">kucatārabhraṣṭaiḥ</rdg></app>,</l><l>navyā makaralatābhaṅgiḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="103">
+	  <ab type="sūtra" n="103" xml:id="Chandō.2.103">najyāḥ śaśilēkhā</ab>
+	  <p>
+	    <s>najayāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="158" xml:id="Chandō.2.103.ex.1">
+	      <lg>
+		<l>kalayati pāṇḍurabhāvaṁ,</l><l>tava virahē sutanuḥ sā</l>
+		<l>subhaga yathā divasādau,</l><l>galitaruciḥ śaśilēkhā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="104">
+	  <ab type="sūtra" n="104" xml:id="Chandō.2.104">nau sō laghumaṇiguṇanikaraḥ</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="159" xml:id="Chandō.2.104.ex.1">
+	      <lg>
+		<l>aparamaṇiguṇagaṇaḥ,</l><l>saridadhipa tava kiyān</l>
+		<l>harihr̥di vilasati yal,</l><l>laghumaṇiguṇanikaraḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="105">
+	  <ab type="sūtra" n="105" xml:id="Chandō.2.105"><app><lem>mabhsāḥ</lem><rdg wit="#P">mabhasāḥ</rdg></app> siṁhākrāntā</ab>
+	  <p>
+	    <s>mabhasāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="160" xml:id="Chandō.2.105.ex.1">
+	      <lg>
+		<l>tvaddr̥ṣṭēyaṁ bhavati vibhō,</l><l>dīnā pratyarthinr̥pacamūḥ</l>
+		<l>rāhugrastēva śaśikalā,</l><l>siṁhākrāntēva mr̥gavadhūḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="106">
+	  <ab type="sūtra" n="106" xml:id="Chandō.2.106">rajrāḥ kāminī</ab>
+	  <p>
+	    <s>rajarāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="161" xml:id="Chandō.2.106.ex.1">
+	      <lg>
+		<l>yatprasādatō jayatyayaṁ,</l><l>puṣpasāyakō jagatrayam</l>
+		<l>ullasannavīnavibhramās,</l><l>tāḥ stavīmi hanta kāminīḥ</l>
+	      </lg>
+	    </quote>
+	    <s>taraṁgavatītyanyaḥ.</s>
+	  </p>
+	</div>
+	<pb n="27"/>
+	<div type="sūtra" n="107">
+	  <ab type="sūtra" n="107" xml:id="Chandō.2.107">paṅktau mabhasgā mattā dhaiḥ</ab>
+	  <p>
+	    <s>mabhasagāḥ.</s>
+	    <s>dhairiti caturbhir<app><lem>yatiḥ</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">yatiḥ</foreign> dropped in A.</note></app>.</s>
+	    <s>yathā -</s>
+	    <quote n="162" xml:id="Chandō.2.107.ex.1">
+	      <lg>
+		<l>ātāmratvaṁ vapuṣi dadhānō,</l><l>ghūrṇan pr̥thvītalapatanēcchuḥ</l>
+		<l>drāgvāruṇyāṁ nihitakarō'yaṁ,</l><l><app><lem>mattāvasthāṁ</lem><rdg wit="#B">matvāvasthāṁ</rdg></app> prathayati bhānuḥ</l>
+	      </lg>
+	    </quote>
+	    <s>iyaṁ ca yadyapi vānavāsikāyāmantarbhavati tathāpi viśēṣasaṁjñārthamuktā.</s><lb/>
+	    <s>ēvamanyatrāpi.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="108">
+	  <ab type="sūtra" n="108" xml:id="Chandō.2.108">ryajgāḥ paṅktikā</ab>
+	  <p>
+	    <s>rayajagāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="163" xml:id="Chandō.2.108.ex.1">
+	      <lg>
+		<l>bhrūvilāsadūrīkr̥tōllasat-,</l><l>kāmakārmukāṁ kāntiśālinīm</l>
+		<l>mañjuguñjimañjīrarājitāṁ,</l><l>paśya kāminīpaṅktikāmimām</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="109">
+	  <ab type="sūtra" n="109" xml:id="Chandō.2.109">masjagāḥ <app><lem>śuddhavirāṭ</lem><note xml:lang="eng">DP add <foreign xml:lang="san-Latn"> masajagāḥ. yathā</foreign></note></app></ab>
+	  <quote n="164" xml:id="Chandō.2.109.ex.1">
+	    <lg>
+	      <l>samyagjñānacaritrapātratāṁ,</l><l>yō dadhrē bhuvanaikabāndhavaḥ</l>
+	      <l>trailōkyaspr̥haṇīyatāṁ gataḥ,</l><l>satyaṁ śuddhavirāḍayaṁ muniḥ</l>
+	    </lg>
+	  </quote>
+	</div>
+	<div type="sūtra" n="110">
+	  <ab type="sūtra" n="110" xml:id="Chandō.2.110"><app><lem>manyagāḥ</lem><rdg wit="#E #F #G #H">mnayagāḥ</rdg></app> paṇavō ṅaiḥ</ab>
+	  <p>
+	    <s>manayā guruśca.</s>
+	    <s>ṅairiti pañcabhiryatiḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="165" xml:id="Chandō.2.110.ex.1">
+	      <lg>
+		<l><app><lem>syādvādāmr̥ta</lem><rdg wit="#A">syādvāmr̥dāta</rdg></app>muditē cittē,</l><l>śāstrōktiḥ kaṭuritarā bhāti</l>
+		<l>ēvaṁ saṁsadi caturaṅgāyāṁ,</l><l>jalpāmō jayapaṇavaṁ datvā</l>
+	      </lg>
+	    </quote>
+	    <s>kuvalayamālēti bharataḥ.</s>
+	    <s>kēcittu yagaṇasthānē sagaṇaṁ manyantē.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="111">
+	  <ab type="sūtra" n="111" xml:id="Chandō.2.111">rajragā mayūrasāriṇī</ab>
+	  <p>
+	    <s>rajarā guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="166" xml:id="Chandō.2.111.ex.1">
+	      <lg>
+		<l>yā ghanāndhakāraḍambarēṣu,</l><l><app><lem>prītamānasā</lem><rdg wit="#B">prītimānasā</rdg></app> visarpatīha</l>
+		<l>kṣōbhayantyapi kṣaṇādbhujaṁgān,</l><l>saṁtyajēn mayūrasāriṇīṁ tām</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<pb n="28"/>
+	<div type="sūtra" n="112">
+	  <ab type="sūtra" n="112" xml:id="Chandō.2.112">najnagāstvaritagatiḥ</ab>
+	  <p>
+	    <s>najanā guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="167" xml:id="Chandō.2.112.ex.1">
+	      <lg>
+		<l>dinakarapītaśuciruciś,</l><l>caramagirēḥ śikharataṭīm</l>
+		<l>anusarati r̥pita iva,</l><l>tvaritagatiḥ sitakiraṇaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="113">
+	  <ab type="sūtra" n="113" xml:id="Chandō.2.113">bhmasgā rukmavatī</ab>
+	  <p>
+	    <s>bhamasā guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="168" xml:id="Chandō.2.113.ex.1">
+	      <lg>
+		<l>yē vijitātmānō nayaniṣṭhāḥ,</l><l>jāgrati lōkaṁ rakṣitukāmāḥ</l>
+		<l>syānniyataṁ tēṣāṁ vasudhēyaṁ,</l><l>rukmavatī mr̥nmayyaparēṣām</l>
+	      </lg>
+	    </quote>
+	    <s>campakamālā <app><lem>subhāvēti</lem><rdg wit="#D">śubhāvā</rdg></app> cānyē.</s>
+	    <s>puṣpasamr̥ddhiriti bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="114">
+	  <ab type="sūtra" n="114" xml:id="Chandō.2.114">bhigau citragatiḥ</ab>
+	  <p>
+	    <s>bhatrayaṁ guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="169" xml:id="Chandō.2.114.ex.1">
+	      <lg>
+		<l>yasya na kāpi kalā na matir,</l><l>na vyavasāyalavō'pi tathā</l>
+		<l>sō'pi kathaṁcana jīvati cēd,</l><l>daivamidaṁ khalu <app><lem>citragati</lem><rdg wit="#A #B #C #D">citragatiḥ</rdg></app></l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="115">
+	  <ab type="sūtra" n="115" xml:id="Chandō.2.115">nigau nilayā</ab>
+	  <p>
+	    <s>natrayaṁ guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="170" xml:id="Chandō.2.115.ex.1">
+	      <lg>
+		<l>api saridadhipatisutā,</l><l>harimapi pariharati yat</l>
+		<l>adhamapuruṣakr̥taratiṁ,</l><l>dhigahaha kamalanilayām</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="116">
+	  <ab type="sūtra" n="116" xml:id="Chandō.2.116">jigāvuṣitā</ab>
+	  <p>
+	    <s>jatrayaṁ guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="171" xml:id="Chandō.2.116.ex.1">
+	      <lg>
+		<l>sa kiṁ vada nīcasamāśrayō,</l><l>na kiṁ kathaya sthitirunnatē</l>
+		<l>na cāpalamujjhasi lakṣmi kiṁ,</l><l>na cēd <app><lem>uṣitā</lem><rdg wit="#A">uṣilā</rdg></app> jaladhāmani</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="117">
+	  <ab type="sūtra" n="117" xml:id="Chandō.2.117">raḥ sau gō maṇiraṅgaḥ</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="172" xml:id="Chandō.2.117.ex.1">
+	      <lg>
+		<l>dhīmatāṁ hi guṇō viśadaśrīr,</l><l>jāyatē guṇisaṁgamavāpya</l>
+		<l>śōbhatē nitarāṁ na kimaṅgē,</l><l>kuṅkumāruṇitē <app><lem>maṇiraṅgaḥ</lem><rdg wit="#B #N">maṇirāgaḥ</rdg></app></l>
+	      </lg>
+            </quote>
+          </p>
+        </div>
+	<pb n="29"/>
+	<div type="sūtra" n="118">
+          <ab type="sūtra" n="118" xml:id="Chandō.2.118">bhnau mgau bandhūkam</ab>
+          <p>
+            <s>bhanamā guruśca.</s>
+            <s>yathā -</s>
+            <quote n="173" xml:id="Chandō.2.118.ex.1">
+	      <lg>
+                <l>ētadabhinavabhāsvadvimbaṁ,</l><l>śōṇaruciruciraṁ prāgvadhvāḥ</l>
+                <l>śēkharitanavabandhūkaśrī-,</l><l>bandhupadamadhunā saṁdhattē</l>
+              </lg>
+            </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="119">
+	  <ab type="sūtra" n="119" xml:id="Chandō.2.119">nrajgā manōramā</ab> <p>
+	  <s>narajā guruśca.</s>
+	  <s>yathā -</s>
+	  <quote n="174" xml:id="Chandō.2.119.ex.1">
+	    <lg>
+	      <l>nikhiladīna duḥkhadāriṇī,</l><l>sakalabandhusaṁvibhāgakr̥t</l>
+	      <l>guṇijanā<app><lem>mr̥tā</lem><note xml:lang="eng"><foreign xml:lang="san-Latn">mr̥tā</foreign> dropped in D.</note></app>  rṇavōpamā,</l>,<l>bhavati sā ramā manōramā</l>
+	    </lg>
+	  </quote>
+	</p>
+	</div>
+	<div type="sūtra" n="120">
+	  <ab type="sūtra" n="120" xml:id="Chandō.2.120">tō jau ga upasthitā</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="175" xml:id="Chandō.2.120.ex.1">
+	      <lg>
+		<l>ēṣā bhavataḥ samarāṅgaṇē,</l><l>rājan jayasiddhirupasthitā</l>
+		<l>kīrtiḥ kupitēva bhavatpriyā,</l><l>sadyō'bhisasāra digantaram</l>
+	      </lg>
+	    </quote>
+	    <s>atra dvābhyāṁ yatirityēkē.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="121">
+	  <ab type="sūtra" n="121" xml:id="Chandō.2.121">rmasgāḥ kalikā</ab>
+	  <p>
+	    <s>ramasā guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="176" xml:id="Chandō.2.121.ex.1">
+	      <lg>
+		<l>kundayaṣṭiṁ hr̥ṣṭaḥ paricumban,</l><l>kiṁ na rē rōlamba trapasē tvam</l>
+		<l>tattathā yēna prāganurāgāt,</l><l>krīḍitaṁ <app><lem>mālatyāḥ</lem><rdg wit="#N">mālavyāḥ</rdg></app> kalikāyām</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="122">
+	  <ab type="sūtra" n="122" xml:id="Chandō.2.122">bhatnagā mr̥gacapalā</ab>
+	  <p>
+            <s><app><lem>bhatanā</lem><rdg wit="#A">bhatanagā yathā</rdg></app> guruśca.</s>
+            <s>yathā -</s>
+	    <quote n="177" xml:id="Chandō.2.122.ex.1">
+	      <lg>
+                <l>sādhu samādhāvavicalatām,</l><l>āśraya hē mānasa satatam</l><l>vāñchasi yadyavyayapadavīṁ,</l><l>mā kuru vr̥ttiṁ mr̥gacapalām</l>
+              </lg>
+            </quote>
+          </p>
+        </div>
+    	<div type="sūtra" n="123">
+          <ab type="sūtra" n="123" xml:id="Chandō.2.123">mō nau gaḥ kumudinī</ab>
+          <p>
+            <s>yathā -</s>
+            <quote n="178" xml:id="Chandō.2.123.ex.1">
+	      <lg>
+                <l>āsādya priyamiha śaśinaṁ,</l><l>nirgacchaddhamarakulamiṣāt</l>
+                <l><app><lem>mūrtaṁ</lem><rdg wit="#A">pūrtaṁ</rdg></app> duḥkhamiva virahajaṁ,</l><l>tatkālaṁ vamati kumudinī</l>
+              </lg>
+	    </quote>
+	    <s>kusumasamuditētyanyē.</s>
+          </p>
+        </div>
+	<div type="sūtra" n="124">
+          <ab type="sūtra" n="124" xml:id="Chandō.2.124">maḥ sau ga uddhatam</ab>
+	  <pb n="30"/>
+          <p>
+	    <s>yathā -</s>
+            <quote n="179" xml:id="Chandō.2.124.ex.1">
+	      <lg>
+                <l>sarpadbhistava digjayayātrā,</l><l>svēbhirdēva turaṁgamasainyaiḥ</l>
+                <l>prājyairuddhatamadhvarajastāṁ,</l><l>vr̥ddhiṁ prāpa na vr̥ndasarīṇām</l>
+              </lg>
+            </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="125">
+	  <ab type="sūtra" n="125" xml:id="Chandō.2.125">najyagā vipulabhujā</ab>
+	  <p>
+	    <s>najayā guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="180" xml:id="Chandō.2.125.ex.1">
+	      <lg>
+		<l>ripuvanitājananiḥśvāsair,</l><l>aviratamuṣṇataraiḥ <app><lem>klāntā</lem><rdg wit="#N">kāntā</rdg></app></l>
+		<l>bhajati culukya jayaśrīstē,</l><l>vipulabhujāviṭapicchāyām</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="126">
+	  <ab type="sūtra" n="126" xml:id="Chandō.2.126">sjasgā mālā</ab>
+	  <p>
+	    <s>sajasā guruśca.</s>
+	    <s>yathā -</s>
+	    <quote n="181" xml:id="Chandō.2.126.ex.1">
+	      <lg>
+		<l>gaganāṅgaṇē kumuda<app><lem>ṣaṇḍa</lem><rdg wit="#A #D">khaṇḍa</rdg></app>-,</l><l>śriyamudvahanti nipatantyaḥ</l>
+		<l>bhavadīkṣaṇōtsavasatr̥ṣṇāḥ,</l><l>nr̥pa subhruvāṁ nayanamālāḥ</l>
+	      </lg>
+	    </quote>
+	    <s>pramityanyē.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="127">
+	  <ab type="sūtra" n="127" xml:id="Chandō.2.127"><app><lem>triṣṭubhi</lem><rdg wit="#A #D">tr̥ṣṭubhi</rdg></app> bhau rō gau rōcakam</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="182" xml:id="Chandō.2.127.ex.1">
+	      <lg>
+		<l>kumbhabhuvō jayatīha māhātmyaṁ,</l><l>tadvaḍavāmukhatējasaścāpi</l>
+		<l>yasya jagatpralayapragalbhōrmir,</l><l>añcati rōcakagōcaraṁ sindhuḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="128">
+	  <ab type="sūtra" n="128" xml:id="Chandō.2.128">raḥ sau lgāvacyutam</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="183" xml:id="Chandō.2.128.ex.1">
+	      <lg>
+		<l>tvaṁ dadhāsi vibhō paramēṣṭhitām,</l><l>īśvaratvamapi tvayi rājati</l>
+		<l>acyutatvamapi tvamupāśritaḥ,</l><l>kō'parastvadr̥tē jina dēvatā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="129">
+	  <ab type="sūtra" n="129" xml:id="Chandō.2.129">tirgau layagrāhi</ab>
+	  <p>
+	    <s>tagaṇatrayaṁ gurudvayaṁ ca.</s>
+	    <s>yathā -</s>
+	    <quote n="184" xml:id="Chandō.2.129.ex.1">
+	      <lg>
+		<l>vīṇāninādā<app><lem>nubandhēna</lem><rdg wit="#D #E #P">nuvēdhēna</rdg></app> hr̥dyaṁ,</l><l><app><lem>kāñcīraṇatkāra</lem><rdg wit="#P"> citrīyamāṇam</rdg></app></l>
+		<l>navyāṅgahāraprakārābhirāmaṁ,</l><l>dattē pramōdaṁ layagrāhi lāsyam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<pb n="31"/>
+	<div type="sūtra" n="130">
+	  <ab type="sūtra" n="130" xml:id="Chandō.2.130">bhirgau dōdhakam</ab>
+	  <p>
+	    <s>bhatrayaṁ gurudvayaṁ ca.</s>
+	    <s>yathā -</s>
+	    <quote n="185" xml:id="Chandō.2.130.ex.1">
+	      <lg>
+		<l>puṣkaramambudagarjitadhīraiḥ,</l><l>śravyamadō dhakadhakr̥tinādaiḥ</l>
+		<l>vyañjita<app><lem>pāṭhakr̥ti</lem><rdg wit="#D #N #P">pāṭakr̥ti</rdg></app>dhvanipāda-,</l><l>nyāsamasāviha nr̥tyati subhrūḥ</l>
+	      </lg>
+	    </quote>
+	    <s>upacitrēyam.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="131">
+	  <ab type="sūtra" n="131" xml:id="Chandō.2.131">silgā viduṣī</ab>
+	  <p>
+	    <s>satrayaṁ laghugurū ca.</s>
+	    <s>yathā -</s>
+	    <quote n="186" xml:id="Chandō.2.131.ex.1">
+	      <lg>
+		<l><app><lem>kurutē</lem><rdg wit="#A #P">tanutē</rdg></app> tarasā na hi cāpalaṁ,</l><l>svayamēva na cārthayatē param</l>
+		<l>prakaṭaṁ kurutē na viyātatāṁ,</l><l>pramadā viduṣī bhavatīdr̥śī</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="132">
+	  <ab type="sūtra" n="132" xml:id="Chandō.2.132"><app><lem>bhatnā gau</lem><rdg wit="#E">bhatnārgau</rdg></app> śrīrṅaiḥ</ab>
+	  <p>
+	    <s><app><lem>ṅairiti</lem><rdg wit="#D #E">ḍairiti</rdg></app> pañcabhiryatiḥ.</s>
+	    <s>bhatanā gurudvayaṁ ca yathā.</s>
+	    <quote n="187" xml:id="Chandō.2.132.ex.1">
+	      <lg>
+		<l>yā sujanānāmupakaraṇāya,</l><l>pradviṣatāṁ ca pratikaraṇāya</l>
+		<l>mānadhanānāṁ bhavati narāṇāṁ,</l><l>śrīritarā syāt <app><lem>parikaramātram</lem><note xml:lang="eng"> P adds <foreign xml:lang="san-Latn">vānavāsikēyaṁ.</foreign></note></app></l>
+	      </lg>
+	    </quote>
+	    <s>sāndrapadamityanyē.</s>
+	    <s>rucirēti bharataḥ.</s>
+	    <s>yatiniyamābhāvē idamēva pratyavabōdhaḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="133">
+	  <ab type="sūtra" n="133" xml:id="Chandō.2.133">tō jau <app><lem>gāvupa</lem><rdg wit="#N">gau upa</rdg></app>sthitā</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="188" xml:id="Chandō.2.133.ex.1">
+	      <lg>
+		<l>yā mānamahāviṣaghūrṇitāṅgī,</l><l>nābhūt kalayāpi vaśaṁvadā tē</l>
+		<l>lōlanmalayāniladōlitātmā,</l><l>prītyā savilāsamupasthitā sā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="134">
+	  <ab type="sūtra" n="134" xml:id="Chandō.2.134">jastā <app><lem>gāvupa</lem><rdg wit="#N">gau upa</rdg></app>sthitam</ab>
+	  <p>
+	    <s>jasatā gurudvayaṁ ca.</s>
+	    <s>yathā -</s>
+	    <quote n="189" xml:id="Chandō.2.134.ex.1">
+	      <lg>
+		<l>śilīmukhatatiṁ satpakṣanādāṁ,</l><l>muhur<app><lem>nidadhataṁ</lem><rdg wit="#N">vidadhataṁ</rdg></app> bāṇāsanāṅkē</l>
+		<l>puraḥ śaradr̥tuṁ saṁprēkṣya rājan,</l><l>upasthitamaristvāmēva mēnē</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<pb="32"/>
+	<div type="sūtra" n="135">
+	  <ab type="sūtra" n="135" xml:id="Chandō.2.135"><app><lem>bhāt</lem><rdg wit="#N">mātau</rdg><rdg wit="#A">mattau</rdg></app> tau gau śālinī ghaiḥ</ab>
+	  <p>
+	    <s><app><lem>bhastadvayaṁ</lem><rdg wit="#N">matadvayaṁ</rdg></app> gurudvayaṁ ca.</s>
+	    <s>ghairiti caturbhiryatiḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="190" xml:id="Chandō.2.135.ex.1">
+	      <lg>
+		<l>ūrmībhaṅgīrnirmimāṇā dhunīnāṁ,</l><l>vyātanvānā vīrudhā lāsyalīlām</l>
+		<l>ujjr̥mbhantē śālinīvārapāka-,</l><l>sphārāmōdāḥ śāradā vāṁyavō'mī</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="136">
+	  <ab type="sūtra" n="136" xml:id="Chandō.2.136">mabhatā gau <app><lem>vātōrmī</lem><rdg wit="#G">vātōrmī ghaiḥ</rdg></app></ab>
+	  <p>
+	    <s><app><lem>ghairiti vartatē</lem><rdg wit="#A">ghairityanuvartatē</rdg></app>.</s>
+	    <s>yathā -</s>
+	    <quote n="191" xml:id="Chandō.2.136.ex.1">
+	      <lg>
+		<l>tvacchatrūṇāṁ <app><lem>vipinaṁ</lem><rdg wit="#N">vipinē</rdg></app> prasthitānāṁ,</l><l>kṣiptaḥ pāṁśurhaśi vātōrmikābhiḥ</l>
+		<l>tāpaḥ sūryēṇa ca mūrdhni prakīrṇaḥ,</l><l>kō vā nāskandati saṁprāptabhaṅgān</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="137">
+	  <ab type="sūtra" n="137" xml:id="Chandō.2.137">mō bhau <app><lem>gau vā</lem><rdg wit="#G">gau dhairvā</rdg></app></ab>
+	  <p>
+	    <s>vātōrbhyā ēva lakṣaṇāntaram.</s>
+	    <s><app><lem>ghairiti</lem><rdg wit="#B">iti ca</rdg></app> vartatē.</s>
+	    <s>>yathā -</s>
+	    <quote n="192" xml:id="Chandō.2.137.ex.1">
+	      <lg>
+		<l>ghōrākārā ghanaghōṣaviśēṣā,</l><l>dūrōtkṣiptakṣitirēṇuvimiśrā</l>
+		<l>lōkakṣōbhaṁ sahasā vidadhānā,</l><l>vātōrmīyaṁ kurutē jagadandham</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="138">
+	  <ab type="sūtra" n="138" xml:id="Chandō.2.138">mabhnalgā bhramaravila<app><lem>sitam</lem><rdg wit="#G #H">sitaṁ ghaiḥ</rdg></app></ab>
+	  <p>
+	    <s>mabhanā laghugurū ca.</s>
+	    <s>ghairiti vartatē.</s>
+	    <s>yathā -</s>
+	    <quote n="193" xml:id="Chandō.2.138.ex.1">
+	      <lg>
+		<l>pratyākhyātāpyasi kamalavanaṁ,</l><l>yātā tat kiṁ karatalacalanaiḥ</l>
+		<l>mugdhē viddhi sphuṭakamaladhiyā,</l><l>vaktrāpātibhramaravilasitam</l>
+	      </lg>
+	    </quote>
+	    <s>vānavāsikēyam.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="139">
+	  <ab type="sūtra" n="139" xml:id="Chandō.2.139">nau sō gau <app><lem>vr̥ntā</lem><rdg wit="A">vr̥ntaṁ</rdg><rdg wit="#G #H">vr̥ntā ghaiḥ</rdg></app></ab>
+	  <p>
+	    <s>ghairiti vartatē.</s>
+	    <s>yathā -</s>
+	    <quote n="194" xml:id="Chandō.2.139.ex.1">
+	      <lg>
+		<l>jinapatigurupadapīṭhē yō,</l><l>'śaṭhamatiriha luṭhati prītyā</l>
+		<l>vigalati nikhilamaghaṁ tasmāt,</l><l>pariṇata phalamiva vr̥ntāntāt</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="140">
+	  <ab type="sūtra" n="140" xml:id="Chandō.2.140">nyabhā gau patitā caiḥ</ab>
+	  <p>
+	    <s>nayabhā gurudvayaṁ ca.</s>
+	    <s>cairiti ṣaḍbhiryatiḥ.</s>
+	    <s>yathā -</s>
+	    <pb n="33"/>
+	    <quote n="195" xml:id="Chandō.2.140.ex.1">
+	      <lg>
+		<l>vahati na mandaṁ dakṣiṇavāyur,</l><l>bhramati na tūrṇaṁ cūtaparāgaḥ</l>
+		<l>dadhati na pikyaḥ pañcamarāgaṁ,</l><l>kimu patitā tvaṁ pādatalē'sya</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="141">
+	  <ab type="sūtra" n="141" xml:id="Chandō.2.141">rnaralgā rathōddhatā</ab>
+	  <p>
+	    <s>ranarā laghugurū ca.</s>
+	    <s>yathā -</s>
+	    <quote n="196" xml:id="Chandō.2.141.ex.1">
+	      <lg>
+		<l>tāvakīnakaṭakē rathōddhr̥tāḥ,</l><l>dhūlayō jagati kuryurandhatām</l>
+		<l>cēdimāḥ karighaṭā maṁdāmbhasā,</l><l>bhūyasā praśamayēna sarvataḥ</l>
+	      </lg>
+	    </quote>
+	    <s>aparāntikēyam.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="142">
+	  <ab type="sūtra" n="142" xml:id="Chandō.2.142">rnabhā gau svāgatā</ab>
+	  <p>
+	    <s>ranabhā gurudvayaṁ ca.</s>
+	    <s>yathā -</s>
+	    <quote n="197" xml:id="Chandō.2.142.ex.1">
+	      <lg>
+		<l>vallabhaṁ surabhimitramana,</l><l>dākṣiṇātyapavanaṁ suhr̥daṁ ca</l>
+		<l>pr̥cchatīha parapuṣṭavighuṣṭaiḥ,</l><l>svāgatāni niyataṁ vanalakṣmīḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="143">
+	  <ab type="sūtra" n="143" xml:id="Chandō.2.143">nau ralgā bhadrikā</ab>
+	  <p>
+	    <s>nadvayaṁ rō laghugurū ca.</s>
+	    <s>yathā -</s>
+	    <quote n="198" xml:id="Chandō.2.143.ex.1">
+	      <lg>
+		<l>parihara nitarāṁ parāpadaṁ,</l><l>kuru jinavacanē'nurāgitām</l>
+		<l>iti tava carataḥ parē bhavē,</l><l>bhavatu sapadi bhadrikā gatiḥ</l>
+	      </lg>
+	    </quote>
+	    <s>aparavaktramiti bharataḥ.</s>
+	    <s>uttarāntikēyam.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="144">
+	  <ab type="sūtra" n="144" xml:id="Chandō.2.144">rajralgāḥ śyēnī</ab>
+	  <p>
+	    <s>rajarā <app><lem>laghugurū ca</lem><rdg wit="#A">lagau ca</rdg></app>.</s>
+	    <s>yathā -</s>
+	    <quote n="199" xml:id="Chandō.2.144.ex.1">
+	      <lg>
+		<l>bhrāntagr̥dhravr̥ndakaṅkamaṇḍala-,</l><l>śyēnikā tvadīya<app><lem>vairivāhinī</lem><rdg wit="#B">vairavāhinī</rdg></app></l>
+		<l>āpatatkr̥tāntaraudrakiṁkara-,</l><l>vyākulēva lakṣyatē kṣamāpatē</l>
+	      </lg>
+	    </quote>
+	    <s>niḥśrēṇikētyanyē.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="145">
+	  <ab type="sūtra" n="145" xml:id="Chandō.2.145">nō jau lagau sumukhī</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="200" xml:id="Chandō.2.145.ex.1">
+	      <lg>
+		<l>kanakarucirdhana pīnakucā,</l><l>manasijavibhramakēligr̥ham</l>
+		<l>calanayanā navakundadatī,</l><l>na harati kasya manaḥ sumukhī</l>
+	      </lg>
+	    </quote>
+	    <s>drutapādgatiriti bharataḥ.</s>
+	  </p>
+	</div>
+	<pb n="34"/>
+	<div type="sūtra" n="146">
+	  <ab type="sūtra" n="146" xml:id="Chandō.2.146">masjā gāvēkarūpam</ab>
+	  <p>
+	    <s>masajā gurudvayaṁ ca.</s>
+	    <s>yathā -</s>
+	    <quote n="201" xml:id="Chandō.2.146.ex.1">
+	      <lg>
+		<l>kāṣṭhē vā kanakē'thavā maṇau vā,</l><l>lōṣṭē vā ramaṇīṣu vā <app><lem>tr̥ṇē</lem><rdg wit="#A">maṇau</rdg></app> vā</l>
+		<l>śāpē vā stavanē'pi vā vitr̥ṣṇaṁ,</l><l>sādhūnāṁ mana ēkarūpamēva</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="147">
+	  <ab type="sūtra" n="147" xml:id="Chandō.2.147">tō jī lgau mōṭanakam</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="202" xml:id="Chandō.2.147.ex.1">
+	      <lg>
+		<l>dantadyutidhautadigantarayā,</l><l>ramyaṁ navayauvanayā vihitam</l>
+		<l>sācīkr̥talōlavilōcanakaṁ,</l><l>dr̥ṣṭaṁ bhavatā mukhamōṭanakam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="148">
+	  <ab type="sūtra" n="148" xml:id="Chandō.2.148">tabhajalgā utthāpanī</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="203" xml:id="Chandō.2.148.ex.1">
+	      <lg>
+		<l>sarpadvipēndra bharakampramahī-,</l><l>prabhraśyadadvi<app><lem>śikhairadhv</lem><rdg wit="#A">śikhādhva</rdg></app>anibhiḥ</l>
+		<l>ambhōdhimadhyaśayitasya harēr,</l><l>utthāpanī jayati <app><lem>tē</lem><rdg wit="#N">sā</rdg></app> pr̥tanā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="149">
+	  <ab type="sūtra" n="149" xml:id="Chandō.2.149">tō nau lgau mukhacapalā</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="204" xml:id="Chandō.2.149.ex.1">
+	      <lg>
+		<l>ākāṅkṣasi yadi sukhamasamaṁ,</l><l>janmāpi vimalamiha manuṣē</l>
+		<l>nāgīmiva niravadhikuṭilāṁ,</l><l>nārīṁ parihara mukhacapalām</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="150">
+	  <ab type="sūtra" n="150" xml:id="Chandō.2.150">nyanalgāḥ kamaladalākṣī</ab>
+	  <p>
+	    <s><app><lem>nayanalagāḥ</lem><note xml:lang="eng">D drops <foreign xml:lang="san-Latn">nayanalagāḥ</foreign> to <foreign xml:lang="san-Latn">kamalakṣlākṣīṁ</foreign>.</note></app> yathā -</s>
+	    <quote n="205" xml:id="Chandō.2.150.ex.1">
+	      <lg>
+		<l><app><lem>viraha</lem><rdg wit="#N">vihara</rdg></app>nidāghaḥ subhaga haṭhād,</l>,<l>atiśayadīrghīkr̥tadivasaḥ</l>
+		<l>kr̥tagurutāpaḥ <app><lem>kr̥śayati</lem><rdg wit="#A #P #B">kraśayati</rdg></app> tāṁ,</l><l>kamaladalākṣīṁ saritamiva</l>
+	      </lg>
+	    </quote>
+	    <s>ruciramukhīti bharataḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="151">
+	  <ab type="sūtra" n="151" xml:id="Chandō.2.151">smanalgā vimalā</ab>
+	  <p>
+	    <s>samanalagāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="206" xml:id="Chandō.2.151.ex.1">
+	      <lg>
+		<l>śaradāyātēyaṁ gaganamaṇēr,</l><l>iva tējaḥ <app><lem>prauḍhiṁ</lem><rdg wit="#N">prauḍhaṁ</rdg></app> tava bhajatām</l>
+		<l>nr̥pa <app><lem>kīrtirjyōtsnā</lem><rdg wit="#A #C">kīrtijyōtsnā</rdg></app> tuhinarucēr,</l><l>iva dikṣu bhrāmyatvativimalā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="152">
+	  <ab type="sūtra" n="152" xml:id="Chandō.2.152">nasnā gāvaśōkā</ab>
+	  <p>
+	    <s><app><lem>nasanā</lem><rdg wit="#F">nasnā</rdg></app> gurudvayaṁ ca.</s>
+	    <s>yathā -</s>
+	    <pb n="35"/>
+	    <quote n="207" xml:id="Chandō.2.152.ex.1">
+	      <lg>
+		<l>alivalayahuṁkr̥tibhirucair,</l><l>iyamiha niṣēdhati bhavantam</l>
+		<l>vanabhuvamitaḥ pathika mā gāḥ,</l><l>kusumitasamullasadaśōkām</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="153">
+	  <ab type="sūtra" n="153" xml:id="Chandō.2.153">sajyā lgau <app><lem>sāraṇī</lem><rdg wit="#B #G #H">sāriṇī</rdg></app></ab>
+	  <p>
+	    <s>sajayalagāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="208" xml:id="Chandō.2.153.ex.1">
+	      <lg>
+		<l><app><lem>madana</lem><rdg wit="#N">damanaḥ</rdg></app>strilōcanabhālāgninā,</l><l>jvalitaḥ kṣaṇādiha jīvēt katham</l>
+		<l>trivalītaraṁgajuṣaḥ syurna cēd,</l><l>rasasārasāraṇayaḥ subhruvaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="154">
+	  <ab type="sūtra" n="154">tau jō gāvindravajrā</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="209" xml:id="Chandō.2.154.ex.1">
+	      <lg>
+		<l>svasvāgamācāraparāyaṇānāṁ,</l><l>puṇyātmanāṁ <app><lem>yaḥ</lem><rdg wit="#N">yat</rdg></app> kurutē viruddham</l>
+		<l>kṣōṇībhujastasya bhavatyavaśyaṁ,</l><l>raudrēndravajrābhihatasya pātaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="155">
+	  <ab type="sūtra" n="155">jatajā gāvupēndravajrā</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="210" xml:id="Chandō.2.155.ex.1">
+	      <lg>
+		<l>dadhāsi dhātrīṁ vidadhāsi duṣṭa-,</l><l>kṣamābhr̥tāṁ nirdalanaṁ prasahya</l>
+		<l>kumārapāla kṣitipāla kastvam,</l><l>upēndravajrāyudhayōstadatra</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="156">
+	  <ab type="sūtra" n="156">ētayōḥ parayōśca saṁkara upajātiścaturdaśadhā</ab>
+	  <p>
+	    <s>ētayōrindrabajrōpēndravajrayōḥ saṁkarō'nyōnyapādamīlanamupajātiḥ.</s>
+	    <s>sā ca prastāra<lb break="no"/>bhēdāccaturdaśadhā.</s>
+	    <s>ēvaṁ parayōrindravaṁśā- vaṁśasthayōḥ saṁkaraḥ upajātiścaturdaśadhaiva.</s>
+	    <s>sthāpanā.</s><lb/>
+	  </p>
+	  <p>
+	    <s>ऽ|||, |ऽ||, ऽऽ||, ||ऽ|, ऽ|ऽ|, ऽऽऽ|, |||ऽ, ऽ||ऽ, |ऽ|ऽ, ऽऽ|ऽ, ||ऽऽ,<lb/> ऽ|ऽऽ, |ऽऽऽ.</s>
+	  </p>
+	  <p>
+	    <s>ādyabhēdōdāharaṇaṁ <app><lem>yathā</lem><note xml:lang="eng">dropped in AE.</note></app> -</s>
+	    <quote n="211" xml:id="Chandō.2.156.ex.1">
+	      <lg>
+		<l>prāyaḥ pumāṁsō'bhinavārthalābhē,</l><l>guṇōjvalēṣvapyakr̥tādarāḥ syuḥ</l>
+		<l>avāpya kundaṁ madhupō hi jajñē,</l><l><app><lem>gatōpajāti</lem><rdg wit="#A">vyaktōpajāti</rdg></app>bhramaṇābhilāṣaḥ</l>
+	      </lg>
+	    </quote>
+	    <s>ēvamanyēṣvapyudāhāryāḥ.</s>
+	    <s>samavr̥ttaprastāvē'pyupajātīnāmupanyāsō lāghavārthaḥ.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="157">
+	  <ab type="sūtra" n="157">sarvajātīnām<app><lem>apīti vr̥ddhāḥ</lem><rdg wit="#H">api vr̥ddhāḥ prāhuḥ</rdg></app></ab>
+	  <p>
+	    <s>sarvajātīnāṁ uktādīnāṁ prāyō gāyatryādīnāṁ itaḥ parāsāṁ jagatyādīnāṁ kr̥ta<lb break="no"/>nāmākr̥tanāmavisadr̥śaprastārarūpasvasvapādānāṁ svalpabhēdānāṁ saṁkaraḥ upajātiriti bahuśrutāḥ<lb/> prāhuḥ.</s>
+	    <s>yathā triṣṭubhaḥ svaprastārēṇa -</s>
+	    <pb n="36"/>
+	    <quote n="212" xml:id="Chandō.2.157.ex.1">
+	      <lg>
+		<l>kāmē kāhim̐ kamiyē khu dukkhaṁ,</l><l>chiṁdāhi dōsaṁ viṇaējja rāgaṁ</l>
+	      </lg>
+	    </quote>
+	    <s>tathā -</s>
+	    <quote n="213" xml:id="Chandō.2.157.ex.2">
+	      <lg>
+		<l>sakkāraē sirasā paṁjalīō,</l><l>kāyaggirā bhō maṇasā ya niccaṁ</l>
+	      </lg>
+	    </quote>
+	    <s>parajātiprasārēṇa yathā -</s>
+	    <quote n="214" xml:id="Chandō.2.157.ex.3">
+	      <lg>
+		<l>yudhiṣṭhirō dharmamayō mahādrumaḥ,</l><l>skandhō'rjunō bhīmasēnō'sya śākhā</l>
+		<l>mādrīsutau puṣpaphalē samr̥ddhē, mūlaṁ kr̥ṣṇō brahma ca brāhmaṇāśca</l>
+	      </lg>
+	    </quote>
+	    <quote n="215" xml:id="Chandō.2.157.ex.4">
+	      <lg>
+		<l>jē āvi maṁdētti guruṁ viittā,</l><l>ḍaharē imē appasuētti naccā</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="158">
+	  <ab type="sūtra" n="158">jagatyāṁ tau jāvindravaṁśā</ab>
+	  <p>
+	    <s>tatajarāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="216" xml:id="Chandō.2.158.ex.1">
+	      <lg>
+		<l>dārēṣu sugrīva kapīśvarasya yad,</l><l>rāgānubandhaṁ sahasā vyapayaḥ</l>
+		<l>tat tē plavaṁgādhipatē kimucyatē,</l><l>hantēndravaṁśānuguṇaṁ tvayā kr̥tam</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	<div type="sūtra" n="159">
+	  <ab type="sūtra" n="159">jatajrā vaṁśastham</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="217" xml:id="Chandō.2.159.ex.1">
+	      <lg>
+		<l>purūravōnāhuṣipūravaḥ purā,</l><l>dadhurdharāṁ dhārayatē'dhunā bhavān</l>
+		<l>apūrvamētaccaritaṁ na tāvakaṁ vadanti vaṁśasthamidaṁ mahīpatē</l>
+	      </lg>
+	    </quote>
+	    <s>vasantamañjarī, avaṁśā cētyanyē.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="160">
+	  <ab type="sūtra" n="160">nabhajyāḥ kalahaṁsā</ab>
+	  <p>
+	    <s>yathā -</s>
+	    <quote n="218" xml:id="Chandō.2.160.ex.1">
+	      <lg>
+		<l>guṇalavē'pi subhaga priyasakhyā,</l><l>guṇikathākramavaśāt prakr̥tē tē</l>
+		<l>ghaṭayatē kimapi nāṭitalajjā -,</l><l>kr̥takamāśu sutanuḥ kalahaṁ sā</l>
+	      </lg>
+	    </quote>
+	    <s>drutapadā, mukharaṁ vētyanyē.</s>
+	  </p>
+	</div>
+	<div type="sūtra" n="161">
+	  <ab type="sūtra" n="161">rnabhasāścandravartma</ab>
+	  <p>
+	    <s>ranabhasāḥ.</s>
+	    <s>yathā -</s>
+	    <quote n="219" xml:id="Chandō.2.161.ex.1">
+	      <lg>
+		<l>saiṁhikēyabhayavihvalamanasaḥ,</l><l>svaprabhābhiriha dakṣamunisutāḥ</l>
+		<l>nāmamātramapi sōḍhuma paṭavaś,</l><l>candravartma racayanti hatatamaḥ</l>
+	      </lg>
+	    </quote>
+	  </p>
+	</div>
+	
+	  
+	    
+	    
+	    
+	    
+	  	
     </body>
   </text>
 </TEI>
