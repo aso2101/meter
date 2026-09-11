@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model
-  ref="../../Schemas/tei.rng"
-  schematypens="http://relaxng.org/ns/structure/1.0"
-  type="application/xml"?>
-
-  <TEI>
+<?xml-model ref="../../Schemas/tei.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -38,488 +34,159 @@
   </teiHeader>
   <text xml:lang="san-Latn">
     <body>
+      <pb n="1"/>
+      <head>atha jayadēvacchandaḥ</head>
 
-=== detected_textoutput-1-to-1.json ==========================
-atha jayadēvacchandaḥ ।
-prathamōdhyāyaḥ ।
-gāyatraṁ chandasāṁ pūrva vardhamānākṣaraṁ param ।
-vāṅmaṇḍanakaraṁ naumi citravr̥tta prasiddhayē ॥ 1 ॥
-śaṁkaraṁ śāśvataṁ śauriṁ praṇamya vivr̥ṇōmyaham |
-jayadēvāni sūtrāṇi svarūpavidhinā sphuṭam ॥
-atra ādyēna ślōkapadatrayēṇēṣṭa dēvatānamaskāraṁ karōtyācāryō'parēṇa caturthēna
-saṁbandhādikathanam । yasmātkriyārambhē vighnavināyakōpasargōpaśamāya śiṣṭā iṣṭadēvatā-
-namaskāraṁ kurvanti । tatō'rthādinidhērdharmasya vr̥ddhiradharmasya hānira ( + ta ) statprabha-
-vānāṁ (ṇāṁ) vighnādi ( dī ) nāmupaśamaḥ । kāraṇābhāvē kārthasyāpyabhāvāt ।
-tatō'bhīṣṭārthasiddhiriti । tadgāyatraṁ gāyatrābhidhānaṁ chandō naumi staumi । gāya-
-tryēva gāyatram | prajñāditvātsvārthē aṇ ( pā0 5.4.38) athavā cchandasaḥ
-pratyavidhānō napuṁsakātsvārthā ityaṇ । kīdr̥k । chandasa pūrvam । chandasāmuṣṇi-
-gādīnāṁ pūrvamādyaṁ prathamaṁ pradhānaṁ ca । chandōkṣarāṇāmiyattāviśēṣa iti । tathā
-varddhamānākṣaraṁ param । na kēvalaṁ gāyatraṁ naumi । yāvatparamanantarapaṭhitaṁ uṣṇigādi
-cchandaḥ utkr̥tiparyantamapi naumi । athavā paraṁ pradhānaṁ dēvatātmakatvāt । kīdr̥k ।
-vardhamānākṣaram । vardhamānamadhikībhavadakṣaraṁ balaṁ yasminyasya vā tadvardhamānākṣaraṁ
-uggigādicchandaḥ । athavā vardhamānānyakṣarāṇi yataḥ tadvarddhamānākṣaraṁ gāyatram |
-vāṅmaṇḍanakaram । vācāṁ maṇḍanaṁ vāṅmaṇḍanam । tadavaśyaṁ karōtīti kr̥ñō hētutā-
-cchīlyē ṭaḥ । girāmalaṁkaraṇaṁ bhūṣaṇakaram ।
-kēyūrāṇi na bhūṣayanti puruṣaṁ hārāśca candraprabhāḥ
-naiṁ snānaṁ na ca varṇakō na kusumaṁ nākuṇṭhitā mūrddhajāḥ ।
-ēkā vāksamalaṁkarōti puruṣaṁ yā saṁskr̥taṁ bhāṣatē
-kṣīyantē kila bhūṣaṇānyamaraṇām̐ vāgbhūṣaṇaṁ tvakṣayam ॥
-1 prajādi 4 2 bhaṣaṇakaram 4; ₹ bhaṣayanti ; 4 puruṣāṁ 4 5 canda ; 6
-nāmnānaṁ 4; 7 nyamarahō B.
-=== detected_textoutput-2-to-2.json ==========================
-(2)
-sarvādimadhyāntaglō trikau mnau bhyō ñau stau ॥ 2 ॥ mātrikō
-l̥juḥ ॥ 3 ॥ vāntē gvakraḥ ॥ 4 ॥ saṁyōgādiparaḥ ॥ 5 ॥ dīrghaplutau
-!
-saṁskārakamityanarthāntaram । kimartham । citravr̥ttaprasiddhayē । citrāṇi ca
-tāni vr̥ttāni citravr̥ttāni nānāprakārāṇi akṣaravinyāsarūpāṇi tanumadhyādīni
-tēṣāṁ prasiddhayē niṣpattayē pratipattyartham । tādarthē ca caturthī । athavā vardhamānākṣarā-
-bhidhānamācārya naumi । kīdr̥śam । gāyatram । gāyantīti gāyāḥ śiṣyāstāṁnā-
-yata iti gāyatram । spaṣṭamanyat । anēna ca dēvatāstutipūrvaṁ stōtr̥janapravartananimittaṁ
-saṁbandhādikathanaṁ vidadhāti । taṁtra sādhyasādhanalakṣaṇaḥ saṁbandhaḥ vācyavācakalakṣaṇō
-vā । chandāṁsyabhidhēyāni । tatparijñānaṁ prayōjanam । vaidikā (+nā ) mupasthānādau
-viniyuktānāṁ gāyatryādīnāṁ parijñānasya puruṣārthasādhanavidhi ēdhi ( ?
-dhikāritvasaṁpattyā svargādyavātiprayōjanamiti । tathā ca chandō'jñānasyānadhikāra-
-śrutiriyaṁ darśayati । yō hi vā aviditārṣēyacchandōdaivatabrāhmaṇēna mantrēṇa yājayati
-vā adhyāpayati vā sthāṇuṁ vāṁchati (vārchati ? ) gaṁttaṁ (gartē ? ) vā prapadyatē pra
-vā mīyatē । pāpīyānsa bhavati yātayāmānyasya cchandāṁsi bhavantīti । tasmādvi-
-duṣō'dhikāraḥ । vidvaittā ca ṣaḍaṅgavēdavēdanēna । idaṁ vēdāṅgam । tathā cōktam ।
-śikṣā kalpō vyākaraṇaṁ niruktaṁ jyōtiṣāṁ gatiḥ ।
-cchandōdhi(vi)citiṣaṣṭhaścē ṣaḍaṅgō vēda ucyatē ॥
-iti । āryādīnāṁ tu laukinānāṁ vr̥ttānāṁ parijñānasya caturvargamārgādikāvya-
-viracanaṁ prayōjanam । tathā cōktam । upēyuṣāmapi divaṁ sannibadhdāvadhā-
-thinām ॥ 1 ॥ ēṣa ēvārthaḥ kēnacicchandōvidā lōkēnābhihitaḥ-
-mastriguru strilaghuśca nakārō bhādiguruśca tathādilaghuryaḥ ।
-jō gurumadhyagatō ralamadhyassōntaguruṣkathitōntalaghustaḥ ॥ iti ।
-prastārō makārastya'''; nakārasya |||; bhakārasya 5 || ; yakārasya | SS; jakā-
-rasya ISI; rēphasyaSIS; sakārasya | IS; takārasya SS||| 2 || mātrāparimāṇaṁ yasya
-sa mātrika iti । tadasya parimāṇamiti ṭhak । sa laghusaṁjñō bhavati । sa ca r̥juḥ
-śaṁrākāraḥ । spaṣṭaprastāraḥ | 3 || mātrika iti vartatē । antē vartamānō mātrikō
-1 mātr̥kō A; B; C; 2 rāvidhāna 4; 3 gāyantiti 4; 4 stōtrajana B; 5 tat
-B; 6 padhivya 4. 7 vidvittā 4; 8 ṣaḍaṅgōvēda 4; 9 ṣasvaśca 4; ṣaṣvaśca B. 10 sarākāraḥ
-A; B; 11 mātr̥kō A; B.
-=== detected_textoutput-3-to-3.json ==========================
-1. 1-9]
-(3)
-ca ॥ 6 ॥ dvimātrō'sau ॥ 7 ॥ samudrādirlōkāt ॥ 8 ॥ virāmō
-yatiriti ॥ 9 ॥
-iti jayadēvacchandasi prathamō'dhyāyaḥ ॥ 1 ॥
-1
-vā gurusaṁjñō bhavati । sa ca vakraḥ kuṭilaḥ prastāryaḥ । vā śabdō vyavasthita-
-vikalpavijñānārthaḥ । tēna kvacinna bhavatyēva antē mōtrikasya gurusaṁjñā । yathā
-acaladhr̥tisamānīprabhr̥tēḥ । aca (+la) dhr̥tēḥ samanyāśca lakṣaṇaṁ vakṣyatē ' dvika-
-vihatavasulaghuḥ' iti, tathā 'glau samānyanuṣṭubha' iti । kvacittu bhavatyēva ।
-yathā vasantatilakādiḥ (dēḥ)। tasya ca lakṣaṇaṁ vakṣyatē 'tbhaujau vasantatilakaṁ gurunca (ka)
-dvayaṁ cēt' iti । bhavati ca na bhavati ca । yathā anaṅgakrīḍā । tasyā hi
-pūrvārddhāntē guruḥ । caramārddhāntē tu laghuḥ । gurōḥ prastāraḥ 5 || || 4 || mātrirkē
-iti vartatē giti ca । saṁyōgē ādiyēṣāṁ visarjanīyajihvāmūlīyōpadhmānīyānukhā-
-rānunāsikānāṁ tē saṁyōgādayaḥ tē parē yasmātsa mātrikō gurusaṁjñō bhavati ।
-saṁyōgādīnāṁ kramēṇōdāharaṇānyupadarśyantē । viṣṇuḥ । hariḥ । dēvaḥ kr̥pāvān ।
-ēnasaḥ pāti । narasiṁhaḥ । madhau ( mañcau 1 ) ॥ 5 ॥ giriti vartatē । dīrghaplutau
-ca gurusaṁjñau bhavataḥ । ā ī ū r̥ l̥ iti dīrghāḥ । dūrādhdūtādāvēta ēva
-plutāḥ ॥ 6 ॥ asau hrasvaplutarūpō gururdvimātrō vēditavyaḥ । atidēśārthamidam ।
-hasvaplutau dvimātravadbhavata ityarthaḥ । āryāvaitālīyādau mātrāṇāṁ gaṇanārtham |
-dīrghō hi gururyaḥ sa svataēva dvimātraḥ । atō na tadarthamidaṁ vacanam । tathā ca
-tatrabhavanta āhuḥ ।
-8
-1
-dvimātratā na dīrghārthā śiṣṭayōstvatidiśyatē ।
-mātrāvr̥ttēṣu saṁkhyātuṁ mātrāḥ sā cōpayujyatē || ' iti ॥ 7 ॥
-iha makārādisaṁjñāḥ śastrāṅgatayōpayujyamānā yathābhihitāstathā 'samudra-
-lōkaiḥ ' ityādau samudrādiśabdairvyavahērannapi catuṣaṭsaptasaṁkhyādīnāṁ samudrartulōkādi-
-saṁjñāḥ kathaṁ nābhihitavāniti yaśvōdayēttaṁ pratyāha । samudra ādiryasya r̥tuprabhr̥tēḥ
-sa samudrādirapi makārādivacchāsavyavahārāṅgam । sa lōkādvēditavyaḥ । lōkē'pi
-kathamiti cēllakṣaṇayēti brūmaḥ ॥ 8 ॥ viratirvirāmaḥ samāptiḥ sa yatisaṁjñō bhavati ।
-iti śabdō'dhyāyaparisamāptiṁ dyōtayati ॥ 9 ॥
-( iti śrī ) bhaṭṭamukulakātmajaharṣaṭaviracitāyāṁ jayadēvacchandōvivr̥tau prathamō-
-dhyāyaḥ ॥
-1 mātr̥kasya A; B. 2 sāmānyā0 ; 3 tilakāṁ A; 4 mātr̥kaḥ 4; B; 5 saṁyōgā-
-diryēṣāṁ 4; 6 mātr̥kō A; B; 7 siṣṭa0 A; B; 8 disyatē 4; B; 9 sākhāṅga A; B;
-10 vyavahāramapi A: B; 11 śaṁkhyā 0 A; B.
-=== detected_textoutput-4-to-4.json ==========================
-(4)
-dvitīyō'dhyāyaḥ ॥
-chandaḥ ॥ 1 ॥ dhāturgāyatryādyāḥ saptāṣṭau caturbhirabhivr̥ddhāḥ ॥ 2 ॥
-yajuṣāṁ ṣaḍēkēna ॥ 3 ॥ dēvānāmēkam ॥ 4 ॥ asurāṇāṁ pañcadaśōnāḥ ॥ 5 ॥
-1
-ēvamanantarōdīritādhyāyēna vakṣyamāṇasamārddhasamaviṣamavr̥ttādilakṣaṇāṅgatayōpa-
-yujyamānaḥ saṁjñāsaṁjñisaṁbandhō'bhihitaḥ । idānīṁ vaidikaṁ chandō vyākhyāyatē । chandaḥ-
-śabdō vr̥ttādhāravacanaḥ । akṣarakōśātmakatvāt । candati hrādaṁ karōti dīpyatē vā
-śravyatayā iti chandaḥ । chanda ityadhikr̥taṁ vēditavyamāsaptamādhyāyaparisamāptēḥ ॥1॥
-chanda iti vartatē । dhātuḥ prajāpatēḥ । ādau bhavā ādyāḥ । gāyatryādyā
-yāsāṁ tāḥ gāyatryuṣṇiganuṣṭubbr̥hatīpaṅktitriṣṭupjagatyaḥ sapta chandōjātayō'-
-ṣṭau ca varṇāścaturbhiścaturbhirabhivr̥ddhā bhavanti । tatra gāyatryaṣṭākṣarā । itarāstu
-caturbhiścaturbhirabhivr̥ddhā bhavanti । atra ca caturbhiścaturbhiriti dviruktyarthō'vaśyai-
-mēvāśrayaṇīyaḥ । anyathā uṣṇihaivānuṣṭuvādayō nigīrṇāḥ syuḥ । uṣṇihō dvādaśā-
-kṣaratvādanuṣṭubādīnāṁ ca । ēvaṁ vakṣyamāṇēṣu sūtrēṣu vācyam । dhātrīyāṇāṁ gāyatryā-
-dīnāṁ prastāraḥ ॥ gā0 8; u0 12; a0 16; br̥0 20;
-paṁ0 24; tri0
-28; ja0 32 ॥2 ॥ chandō gāyatryādyāḥ sapta abhivr̥ddhāḥ iti vartatē ।
-yajuṣāṁ gāyatryādyāḥ sapta chandōjātayaḥ ṣaḍvarṇāḥ ēkaikēnābhivr̥ddhā bhavanti । tatra
-gāyatrī ṣaḍakṣarā । itarāstvēkaikēnābhivr̥ddhāḥ । yājuṣīṇāṁ gāyatryādīnāṁ prastāraḥ
-gā0 6; u0 7; a0 8; br̥0 9; paṁ0 10; tri0 11; ja0 12 ॥ 3 ॥
-chandō gāyayadyāḥ saptābhivr̥ddhā ēkēna cēti vartatē । dēvānāṁ gāyatryadyāḥ sapta
-chandōjātayaḥ । ēkaṁ varṇamēkaikēna abhivr̥ddhaṁ bhavati । tatra gāyatryēkākṣarā ।
-itarāstvakaikābhivr̥ddhāḥ । daivīnāṁ gāyatryādīnāṁ prastāraḥ । gā0 1; u0 2; a0 3;
-br̥0 4; paṁ0 5; tri0 6 ; ja0 7 ॥ 4 ॥ chandō gāyatryādyāḥ saptaikēna cēti vartatē ।
-।
-abhivr̥ddhā iti nivr̥ttam । asurāṇāṁ gāyatryādyāḥ sapta chandōjātayaḥ pañcadaśavarṇā
-ēkaikēna nyūnā bhavanti । tatra gāyatrī pañcadaśākṣarā itarāstvēkaikēna nyūnā bhavanti ।
-āsurīṇāṁ gāyatryādīnāṁ prastāraḥ ॥ gā0 15; u0 14; a0 13; br̥0 12;
-pa0 11; tri0 10; ja0 9 ॥ 5 ॥ chandō gāyatryādyāḥ saptēti vartatē ।
-yajuṣamimā yājuṣyaḥ । yājuṣyō gāyatryādyāḥ sapta chandōjātayō yathāsaṁkhyaṁ
-dvitricatuḥ ṣaḍguṇā bhavanti । atra saṁgrahāya sārddhēyaṁ gītyāryā ।
-6;
-।
-॥4॥
-1 caturbhirvr̥ddhā: A; 2 mēkaḥ A; B; 3 sravyatayā A; B. 4 vasya0 A; B; 5
-srayaṇīya: A; B; 6 gāyatrādyāḥ B. 7 yajuṣānimā A; B; 8 yajuṣō A; yajuṣyō Bo
-=== detected_textoutput-5-to-5.json ==========================
-2. 106]
-(5)
-yājuṣyō dvitricatuḥ ṣaḍguṇāḥ sāmayatibrahmaṇāmiti ॥ 6
-[ iti jayadēvachandasi ] dvitīyō'dhyāyaḥ ॥ 2 ॥
-yājuṣyō gāyatryādyāśchandōjātayō matāḥ sapta ।
-sāmnāṁ dviguṇāstriguṇā r̥cāṁ yatīnāṁ caturguṇāścāpi ।
-kathitāstu ṣaḍguṇāśca brahmaṇa ēṣōtra saṁkṣēpaḥ ॥
-yājuṣīṇāṁ gāyatryādīnāṁ sāmasaṁbandhitayā prastāraḥ । gā0 12; u0 14;
-a0 16; br̥0 18; paṁ. 20; tri0 22; ja0 24 । yājuṣīṇāṁ gāyatryādīnāṁ
-r̥ksaṁbandhitayā prastāraḥ । gā0 18; u. 21; a0 24; br̥0 27; paṁ. 30;
-tri0 33; ja. 36 yājuṣīṇāṁ gāyatryādīnāṁ yatisaṁbandhitayā prastāraḥ । gā0
-24; u0 28; a. 32; br̥0 36; paṁ. 40; tri0 44; ja0 48 | yājuṣīṇāṁ
-gāyatryādīnāṁ brahmasaṁbandhitayā prastāraḥ । gā0 36; u0 42; a0 48; br̥0
-54; paṁ. 60; tri0 66; ja0 72 ॥ ētāni gāyatryādīni sapta chandāṁsi
-mandabudhdiprabōdhanāya dhātrādidēvatāsaṁbandhitayā yugapadvinyasyantē ।
-udhā yā dē ā sā r̥ ya bra
-gā 8 6 1 | 15 | 12 | 18 24 36
-u. 1272
-94/99/90
-1
-4/21/28/42
-a 16 8 3 13 16 24 | 32 48
-5/20/24/48
-br̥ 20 | 9 | 4 | 12 | 18 20
-10 5 11 20 30 |
-20/30 40 6
-60
-tri 28 11 6 10 223344 66
-ja | 32/12/ 7 9
-48 72
-itiśabdōdhyāyasamāptiṁ dyōtayati ॥ 6 ॥
-( itiśrī ) bhaṭṭamukulātmajaharṣaṭaviracitāyāṁ jayadēvacchandōvivr̥tau dvitī-
-yō'dhyāyaḥ ।
-1 sāmagyatisr̥ṇāmiti ; 2 yajuṣyō A; B. 3 saṁbaddhitayā A; B; 4 gāyatryādīnāṁ Bo
-=== detected_textoutput-6-to-6.json ==========================
-(6)
-tr̥tīyōdhyāyaḥ ।
-ārṣam ॥1॥ pādaḥ ॥ 2 ॥ iyāṁdinā pūryaḥ ॥3॥ caturbhiḥ khaiḥ ॥ 4 ॥
-ēkadvitribhiśca paṅktyādyāḥ ॥ 5 ॥ gāyatryaṣṭakaiḥ ॥ 6 ॥ virāḍ vaisvinau
-I
-r̥ṣirvēdastatra bhavamārṣam । chanda iti vartatē । ārṣamityadhikr̥taṁ vēditavya-
-mādhyāyaparisamāptēḥ ॥ 1 ॥ ayamapyadhikāraḥ āsaptamādhyāyaparisamāptēḥ ॥ 2 ॥
-chandaḥ ārṣē pādaḥ iti vartatē । pāda ityētadanurōdhādārṣamityētaliṅgavipa-
-riṁṇāmēnārṣa iti saṁpadyatē । yathā kvacidyāgē caturviṁśatyakṣarayā gāyatryā stōtrē
-kartavyē trayōviṁśatyakṣarayā tanna kr̥taṁ syādityāśaṅkyāha । ārṣa pāda iyādinā
-pūrayitavyaḥ । iyam̐ udāharaṇam । tatsaviturvarēṇiyam । triyambakaṁ yajāmahē । ādi-
-grahaṇāduvaśca । tanuvaṁ puṣēma । suvagōṁ lōka iti ॥ 3 ॥ chanda ārṣa pādō
-gāyatryādyāḥ saptēti vartatē । gāyatryādyā ityētatsāmānādhikaraṇyādārṣaśabdō
-liṅgavacanavipariṇāmēna ārdhya iti saṁpadyatē । caturbhiḥ svairityētadanurōdhātpādaśabdō
-vacanavibhaktivipariṇāmēna pādairiti saṁpadyatē । uttaratrārṣapādaśabdāvēvamēvābhi-
-saṁbandhinīyau । āyōṁ gāyatryādyāḥ sapta chandō jātayaḥ svaiḥ svaiścaturthādhyāya-
-vakṣyamāṇaiścaturbhiścaturbhiḥ pādairbhavanti' । tatra hi 'ṣaṭturyamēkaikavr̥ddhāśca
-gāyatryuṣṇiganuṣṭubbr̥hatīpaṅktitriṣṭubhō jagatī' iti vakṣyatē । gāyatrī 6,6,6,6 ।
-uṣṇik 7,7,7,7 । anuṣṭup 8,8,8,8 । br̥hatī 9,9,9,9 । paṅktiḥ 10,
-10, 10, 10 । triṣṭup 11, 11, 11, 11 । jagatī 12,12,12,12
-||4|| chanda ārṣa pāda iti vartantē । cakāraḥ ' caturbhiḥ svai' rityasyānukarṣaṇārthaḥ ।
-atō yathāsaṁkhyābhāvaḥ। ādau bhavā ādyā । paṅktirādyā yāsāṁ tāḥ paṅktyā-
-dyāḥ paṅktitriṣṭupjagatyastisraśchandōjātayaḥ ēkēna dvābhyāṁ tribhiśca svaiḥ
-svaiḥ pādairbhavanti । caturbhirapi svaiḥ pādaiḥ । cakārō'nukarṣaṇēna caturbhiḥ svairi-
-tyasya pratiprasavārthatāṁ saṁpādayati । anyathā ēkadvitribhirityamunā viśēṣavihitēna
-caturbhiḥ svairityasya sāmānyavihitatvāt bādhā syāt । dadhi brāhmaṇēbhyō dīyatāṁ
-takraṁ kauṇḍinyāyētyatra dadhnō yathā takrēṇa । atō'yaṁ cakāraiḥ । tathā ca tatra-
-1 ityādinā A 2 śvaiḥ 4; 3 pañcādyā: 4; 4 vaśvinau A; B; 5 iti ca ; 6
-gāyāgāyacyā 4; 7 iyōdāharaṇam 4; 8 pada A; B; 9 saṁbaddhanēyau A; B; 10 āṣōṁ
-A; B. 11 bhavati A; B; 12 ripirasvaiḥ ; rapirasvaiḥ B;
-13 yaścakāra: 4;B;
-=== detected_textoutput-7-to-7.json ==========================
-3. 1-11]
-(7)
-bā ॥ 7 ॥ īśaiśca ॥ 8 ॥ ādyāḥ ॥ 9 ॥ sā padanivr̥t ॥ 10 ॥ vasvōḥ
-prathamādidhāmnīnē nōṣṇik puraḥkakupparēbhyaḥ ॥ 11 ॥ ravyōḥ svē- '
-1
-`bhavantaḥ pratiprasavalakṣaṇamakārṣuḥ । ' prāptē'tha pratibaddhē syātpratiprasavayōgitā'
-iti । ēkapāt paṅktiḥ 90 । dvipāt 10 | 10 | tripāt 10/10/10॥
-caturbhiḥ svairiti catuṣpāt 10।10।10।10॥ ēkapāt triṣṭupē 11।.........
-catuṣpāt jagatī 12।12।12।12|| || 5 || chanda ārṣa pādaḥ ēkadvitribhiriti
-vartatē । ārṣī gāyatrī chandōjā tirēkēnāṣṭakēna dvābhyāṁ cāṣṭakābhyāṁ trimivāṣṭakaiḥ
-1
-pādairbhavati । cakārānuvr̥ttyā svaiścaturbhiḥ pādairapi । ēkapad gāyatrī 8॥ ॥6॥ chanda
-ārṣa pāda iti । virāṭchabdēna paṅktirabhidhīyatē । vasuraviśabdayōryāsau
-svābhidhēyagatā aṣṭadvādaśasaṁkhyā sā abhēdōpacārēṇōcyatē ' vasvinau ' iti ।
-ēvamanyatrāpi 'īśaiśca' ityādī' vācyam । vāśabdō daśakāpēkṣayā vikalpārthaḥ ।
-aṣṭadvādaśa saṁkhyau ca dvau daśakau pādau ārṣī paṅkticchandōjā tirbhavati 8 । 12 ।
-10 । 10 ।। 7 ।। chanda ārṣa pādō virāḍiti vartatē । īśairiti triṣu bahutvaṁ
-parisamāpyatē । saṁnikr̥ṣṭatvāt । ēvamaśvādau vācyam । īśairēkādaśasaṁkhyākaistribhiḥ
-pādaiścakārāddaśākṣaraiḥ svaiścaturbhiḥ pā ( + dai )rārṣī paṅkticchandōjātirbhavati
-11 । 11 । 11 ॥। 10 | 10 | 10 | 10 || || 8 ॥ chanda ārṣa pāda iti vartatē ।
-aśvaiḥ ratrituragaiḥ saptākṣaraistribhiścaturbhiḥ svairiti ca ṣaḍakṣaraiścaturbhiḥ pādairāṣa
-ādyā gāyatrīcchandōjātirbhavati || 7| 7 | 7|| 6 | 6| 6।6 ॥ ॥ 9 ॥ yēyamaśvaiḥ
-pādairuktā gāyatrī sā pādanirvr̥t draṣṭavyā । pādēpādē" ēkaikākṣarāpacayāt ।
-vakṣyati ca ' ēkēnōnādhikēna nicr̥dbhurijau ' iti ॥ 10 ॥ chanda ārṣa pāda
-iti vartatē । vasvōraṣṭākṣarayōrdvayōḥ pādayōḥ saṁbandhini prathamādidhāni prathama-
-dvitīyatr̥tīyākhyē dhāmni sthānē inēna dvādaśākṣarēṇa pādēna yathāsaṁkhyaṁ puraḥkakuppa
-rēbhyaḥ parā ārṣī uṣṇik chandōjātirbhavati । ādau dvādaśakastadanu dvāṣṭakau
-pādau purauṣṇik | 12 | 8 |8|| madhyē dvādaśaka ādyantayō raṣṭaka (kau) kakubhuṣṇik
-8|12| 8 || antē dvādaśaka ādimadhyayōraṣṭakō parōṣṇik ||8| 8 | 12 ॥
-1 nibhr̥t A; B; tyacit : 2 nēnōṇipura: 4; 3 śvēnā 4; 4 yōgatā 4. 5
-Graphionl representation of the other varieties of triṣṭup and jagatī are dropped
-by me though given in the mss. 6 pada: A; B; 7 Graphical representation of
-the other varieties of gāyatrī are droped by me. 6 īśāścādau A; B1 9 saṁkhau ca
-A; B. 10 pādanyacit pādanyaci ; 11 pādaiḥ pādaiḥ 4.
-=== detected_textoutput-8-to-8.json ==========================
-(8)
-nānuṣṭup ॥ 12 ॥ vasūnāṁ br̥hatīnēna purastāduraḥ pathyōpariṣṭādbhyaḥ ॥ 13 ॥
-sētaḥ pūrvēnāḥ ॥ 14 ॥ vasū diśau ca ॥ 15 ॥ vasvōḥ paṅktirinābhyāṁ
-yugayugbahirādyādiṣu sataḥ sataḥ saṁstāra prastāravistārāstārēbhyaḥ ॥ 16 ॥
-||11|| chanda ārṣa pādaḥ prathamādidhānīti vartantē । khyōrdvādaśākṣara yōrdvayōḥ
-pādayōḥ saṁbandhini prathamadvitīyatr̥tīyākhyē dhāmni sthānē svēnāṣṭākṣarēṇa pādēna
-ārṣī anuṣṭup chandōjātiḥ || 8|12|12|| 12|8|12|| 12|12|8||12|| chanda
-ārṣa pādaḥ prathamādidhāmnīti vartantē । vasūnāmaṣṭākṣarāṇāṁ trayāṇāṁ pādānāṁ
-prathamadvitīyatr̥tīyacaturthākhyē dhāmni sthānē im̐nēna dvādaśākṣarēṇa pādēna yathāsaṁkhyaṁ
-purastāduraḥpathyōpariṣṭādbhyaḥ parā ārṣī br̥hatīcchandōjātirbhavati । ādau dvādaśakēna
-tribhiraparairaṣṭakaiḥ purastādbr̥hatī || 12|8|8|8 ॥ dvitīyasthānasthitēna dvādaśakēna
-prathamatr̥tīyacaturthāśca pādā aṣṭākṣarāḥ urōbr̥hatī | 8|12|8|8|| tr̥tīyēna
-dvādaśākṣarēṇa prathamadvitīyacaturthā aṣṭākṣarāḥ pādāḥ pathyābr̥hatī | 8|8|12|8|
-caturthēna dvādaśākṣarēṇa prathamadvitīyatr̥tīyāścāṣṭākṣarāḥ pādāḥ upariṣṭād br̥hatī ॥
-8|8|8|12॥ 13 ॥ chanda ārṣa pādō br̥hatīti vartatē । inā dvādaśākṣarāstrayaḥ pādāḥ
-sataḥ pūrvā br̥hatīcchandōjā tirbhavati । satōbr̥hatī bhavatītyarthaḥ 12 12 12 ॥ 14 ॥
-chanda ā pādō br̥hatīti vartatē । cakāraḥ sataḥ śabdānukarṣaṇarthaḥ । vasū dvāvaṣṭakau
-diśau ca daśakau dvau pādau iyamaparā satōbr̥hatī || 8|8| 10 | 10 | 15 ॥ chandai
-ārṣa pāda iti vartatē । ādya ādiryēṣāṁ tē ādyādayaḥ । ādimadhyāntāḥ ityarthaḥ ।
-yukcāyukca bahiśca ādyādayaśca tēṣu vaisvōrdvayōḥ pādayōḥ saṁbandhēiṣu ṣaṭsu sthānēṣu
-yathāsaṁkhyaṁ sthitābhyāminābhyāṁ pādābhyāṁ sataḥ sataḥ saṁstāra prastāravistārā-
-stārēbhyaḥ parā ārṣī paṅktiśchandō jātirbhavati । yugayugbahirādyādayō vibhāgēnō-
-cyantē । vasvōḥ saṁbandhinōryujō: " dvitīyacaturthayōḥ sthānayōrinābhyāṁ pādābhyāṁ sataḥ-
-paṅktiḥ | 8|12|8|12 ॥ vasvōḥ saṁbandhinōrayujōḥ prathamatr̥tīyayōrinābhyāmaparā
-sataḥ paṅktiḥ 1228|12|8 ॥ vasubhyāṁ bahirādyantayōrināmyāṁ sthitābhyāṁ saṁstāra-
-paṅktiḥ । 12।8।8।12 ॥ vasvōrādibhūtābhyāminābhyāṁ [ prastarapaṅktiḥ । 12 ॥
-1 śata: A; 2 vasvōdigbhyām A; vasvōrdiśyām B; 3 Both A and B drop
-these three words and combine Sutras 15 and 16 into one; 4 śatō'śataḥ A; B;
-5] anēna A; B. 6 karṣaṇyarthaḥ A; B; 7 chandārṣa A; B; 8 yuktāyukta bahiśca 4;B; 9
-vastvāt 4; vasvāt B; 10 padayō A; B;
-11 saṁbandhēṣu A; B; 12 viṣṭa rāe do
-13 saṁbaddhinō: A; B; 14 The portion within the brackets is supplied by mee
-=== detected_textoutput-9-to-9.json ==========================
-3. 12-25 ]
-(s)
-"
-pakicēnābhyām ॥ 17 ॥ akṣarapaktiḥ śarāḥ ॥ 18 ॥ dvau vā
-॥ 19 ॥ padāt paca ॥ 20 ॥ yugarasau trayaśca ॥ 21 ॥ pathyāṁṣṭakaiḥ
-॥ 22 ॥ ṣaḍ viṣṭārāt ॥ 23 ॥ triṣṭubinaccatvāraḥ ॥ 24 ॥ jagatī dvau
-trayaiśca || 25 || svēṣāmādimadhyāntēṣvaṣṭakēnōbhē pr̥thak purastānmadhyōpari-
-12|8|8 ॥ vasvōrmadhyabhūtābhyāminābhyāṁ ] vistārapaṅktiḥ 8|12|12|8||
-vasvōrantasthitābhyāminābhyāmāstārapaṅktiḥ 8 । 8| 12 | 12|| || 16 ॥
-chanda ārṣa pāda iti vartatē । inābhyāṁ pādābhyāmārṣī paṅktiḥ chandōrjīti-
-rbhavati । cakārānnijābhyāṁ daśakābhyām || 12 | 12 | 10 | 10 | ॥ 17 ॥
-chandra ārṣa pāda iti vartatē । śarāḥ ityatra caturṣu bahutvaṁ parisamāpyatē ।
-kathamētat 1 । yāvatāṁ prāguktaṁ triṣu bahutvaṁ parisamāpyata iti । ucyatē । dvitīya-
-sminnadhyāyē pañcadaśākṣarā paktirna kāciduktēti catvāraḥ śarāḥ parigr̥hyantē ।
-catvāraḥ pañcākṣarāḥ pādāḥ ārṣī akṣarapaṅkticchandōjātirbhavati । tathā cōktaṁ
-bhagavatā piṅgalēna ‘akṣarapaṅktiḥ pañcakāścatvāraḥ' iti ( 3.44 ) || 5151515
-॥ 18 ॥ chanda ārṣē pādōkṣarapaṅktiḥ śērā iti vartatē । dvau pañcākṣarau pādau
-' vā 'śabdācca dvau daśakau ārṣī akṣarapaṅktiḥ chandōjātirbhavati ॥ 5 । 5.10
-10 ॥ 19 ॥ chanda ārṣa pādaḥ paṅktiḥ śērā iti vartatē । pañca śērāḥ paścā-
-kṣarāḥ pañca pādāḥ padātparā paṅkti chandōjātirbhavati । padapaṅktirbhavatītyarthaḥ
-5। 5। 5| 5 |5|| 20 || chanda ārṣē pādō'kṣarapaṅktiḥ śērā ityanuvartatē ।
-yugarasau catuṣkaṣaṭkau trayaśca śarāḥ pañcakāḥ pādāḥ ārṣī akṣarapaṅktiśchandōjā-
-tirbhavati ||4| 6| 5| 5 | 5 | 21 || chanda ārṣa pādaḥ paṅktiḥ pañcatyanu-
-vartatē । aṣṭakaiḥ pañcabhiḥ pādairārṣī pathyāśabdātparā paṅktiḥ chandōjātirbhavati ।
-pathyāpaṅktirityarthaḥ ! 8। 8 8 8 8 | 22 || chanda ārṣa pādaḥ paṅktira-
-ṣṭakairityatra vartatē । ṣaṭ aṣṭakāḥ pādāḥ ārṣī viṣṭārātparā paṅkticchandōjāti -
-bhavati । viṣṭārapaṅktirityarthaḥ || 8 | 8|8|8|8| 8 | 23 ॥ chanda ārṣa pādō-
-kairiti vartatē । inā ( + t) dvādaśakāccatvārōṣṭakāḥ pādāḥ ārṣī triṣṭup
-chandōjātirbhavati || 12 | 8| 8| 8| 8 | 24 || chanda ārṣa pādōṣṭakairināditi
-vartatē । dvāvinau trayaśvāṣṭakāḥ pādā ārṣī jagatīcchandōjātirbhavati । ॥। 12/12
-1
-1 pathyāṣṭakāḥ A 2 binaścatvāraśca 4; binaścatvāraḥ B; binā catvāraḥ ; 3 traśca B; O;
-madhyāntēnāṣṭakēnōmēna A; com seems to drop ubhē; 4 viṣṭāra0 A; B; 6 yāti0 4; B;
-dasakābhyām A B sarā: 4 B; 9 mētayāvatā 44 B1 10 sarā 4 B1 11 vistārā0 Bo
-=== detected_textoutput-10-to-10.json ==========================
-( 10 )
-ṣṭājjyōtiṣmatyau triṣṭuṁ jagatyaiau ||26|| paścaka ēkariṁmaśchandaḥ śaṅkumatī
-3
-॥ 27 ॥ ' dvau navakau ṣaṭuśca r̥ nāgī ॥ 28 ॥ triprādūnamadhyā pipī-
-lakamadhyā ॥ 29 ॥ yavamadhyānyathā ॥ 30 ॥ ēkēnōnādhikēna ni" -
-5
-8] 8| 8|| 25 ।। chanda ārṣa pāda iti vartatē । svēṣāṁ yathāsaṁkhyamēkādaśakānāṁ tathā
-dvādaśakānō trayāṇāṁ pārdānāṁ saṁbandhiṣvādimadhyāntēṣu yathākramamaṣṭakēna pr̥thag vinyastē
-purastānmadhyōpairiṣṭājjyōtirṣmatyāṣya triṣṭupūjagatyau chandōjatī bhavataḥ । atō
-vibhajyatē । svēṣāmēkādaśakānāmādāvaṣṭakēna purastājjyōtiṣmatī triṣṭup ।
-8। 11 । 111 11 ॥ svēṣāmēkādaśakānāṁ madhyē ( + aṣṭakēnaṁ° madhyē ) jyōti-
-ṣmatī triṣṭup 11। 8। 11 । 11 ॥ punarapi madhyē'ṣṭakēna saiva 11 | 11 | 8
-11 ॥ svēṣāmēkādaśakānāmantē'ṣṭakēna upariṣṭājjyōtiṣmatī triṣṭup 11 | 11
-|
-11। 8 ॥ svēṣāṁ dvādaśakānāmādāvaṣṭakēna purastājjyōtiṣmatī jagatī 8 |
-12। 12 ॥ 12 ॥ svēṣāṁ dvādaśakānāṁ madhyēṣṭakēna madhyējyōtiṣmatī jagatī 12| 8|
-12। 12 ॥ punarapi madhyēṣṭakēna saiva 12 । 12 । 8। 12 ॥ svēṣāṁ dvādaśakā-
-nāmantē aṣṭakēna upariṣṭājjyōtiṣmatī jagatī । 12 । 12 । 12 । 8 ॥ 26 ॥
-chanda ārṣē pāda iti vartatē । pañcakagrahaṇamādērnyūnatōpalakṣaṇārtham । ēkasminpañcakē
-ādinyūnatāyāṁ śaikumatī nāmacchandōrjītirbhavati । cchanda iti varta-
-mānē punaśchandōgrahaṇaṁ vispaṣṭārtham || 5 | 6 | 6 ॥ 27 ॥ chanda ārṣa pāda
-iti vartatē । ādyau dvau navakau ṣaḍakṣaraśca ēkaḥ pādō yasyāḥ sā r̥ nāgī nāma
-bhavati ( 9 । 9 । 6 ) ॥ 28 ॥ trayaḥ pādā yasyāḥ sā tripāditi । saṁkhyā
-( + su ) pūrvasya ( pā0 5.4. 140 ) iti anulōpaḥ । ūnamadhyā । svalpākṣaradvi-
-tīyapādētyarthaḥ । ēvaṁvidhā r̥k pipīlakamadhyā vēditavyā ॥ 8/5/8 ॥ 29 ॥
-1
-1 triṣṭup jagatyau dropped in A and B; 2
-is dropped in A and B ( text ); 4 audgāgī O.
-deciphering of the original letters
-nicr̥bhdurijau are not copied in A; mere
-paścaika ; 3 The whole Sutr
-But this is due to a worng
-in the palm-leaf ms. Words
-dashes are given in their place,
-padānāṁ A; B; 7 madhyēpari0 A; B; 8 jyōtiṣmāvāṣyōṁ A; B; 9 jātīrbha0 B;
-jātirbha0 A; 10 These two words are dropped in the mss; 11 palaika 4;
-B; 12 paścaikē A; B; 13 saṁkumatī 4; B; 14 jātīrbhavati ; 15 rikaṁ A; B.
-=== detected_textoutput-11-to-11.json ==========================
-2. 26-33]
-( 11 )
-br̥bhdurijau ॥ 31 ॥ dvābhyāṁ virāṭsvarājau ॥ 32 ॥ ādyāt sandēhē
-dēvatādi bhicāvagatiriti ॥ 33 ॥
-iti jayadēvachandasi tr̥tīyō'dhyāyaḥ ॥ 3 ॥
-anyathētyasya pūrvāpēkṣayā madhyasthūlatvamarthaḥ । saivai tripāt r̥k prathamatr̥tī-
-yābhyāṁ dvitīyapādasyādhikākṣaratvē yavamadhyā bhavati । 8| 9| 8 ॥ 30 ॥ ēkēna
-ūnēna adhikēna ca yathāsaṁkhyaṁ nibhdurijau bhavataḥ ॥ 31 ॥ ūnādhikēnētyēva ।
-dvābhyāmūnādhikābhyāṁ yathāsaṁkhyaṁ virāṭsvarājau bhavataḥ ॥ 32 ॥ yatra ṣaḍviṁśē-
-tisaṁkhyōkṣarakōśastatra sandēhaḥ । sa kiṁ dhātrīyāyāstripādō
-gāyatryā
-ēkaḥ pādaḥ svarāṭtvamāpannaḥ atha catuṣpādyājuṣī uṣṇig virāṭtva-
-miti sandēhē sati tasyā r̥cō vivādāspadībhūtāyāḥ ādyā pūrvamavasthitā r̥gyā
-tasyāṁ cēd gāyatryākhyaṁ chandō dr̥śyatē hantē tarhi svarāṭtvamāpannaṁ ṣaḍviṁśatisaṁkhya-
-syākṣarakōrśasya । atha cēdādyāyā r̥ca uṣṇigāravyacchandō dr̥śyatē ēvaṁ tarhi
-birāṭtvamānītaṁ tadēva ṣaḍviṁśatisaṁkhyasyākṣarakōśasya abhyupagantavyam । gāyatryā-
-dīnāṁ saptānāṁ cchandasāṁ dēvatāḥ kramēṇa agnisavitr̥sōmabr̥haspatimitrāvaruṇēndraviśvē-
-dēvākhyāḥ । atrāpi taccētsūktaṁ agnidēvatākaṁ tadānīṁ vivādāspadībhūtā ṣaḍviṁśētya-
-kṣarā r̥m gāyatryēva bhavēt । tasyāḥ khalvagnibhaktitvāt । ēvamuṣṇigādiṣvapi
-vācyam । ādigrahaṇēna gōtrasvaravarṇādēḥ parigrahaḥ । agnivēśyagōtrā gāyatrī ।
-kāśyapagōtrā uṣṇik । gargagōtrā anuṣṭup । vasiṣṭha gōtrā br̥hatī । bhr̥gugōtrā
-paṅktiḥ । kutsagōtrā triṣṭup । bharadvājagōtrā jagatī । svaraḥ ṣaḍjādikramēṇa
-gāyatryādiṣu śuklaśca varṇaḥ । itiśabdō'dhyāyaparisamāptiṁ dyōtayati । 33 ॥
-[iti] bhaṭṭamukulakātmajaharṣaṭaviracitāyāṁ jayadēvacchandōvivr̥tau tr̥tīyō'dhyāyaḥ ॥ 3॥
-1
-1 Letters if not copied in A; mere dashes are given in their
-place. 2 dēvatābhiśvāva0 B. dēvatār̥kkāva 0 0 3 saiva A; B; 4 tsak A; B. 5 visati
-A; B; 6 kōsastt B; 7 dyāyaḥ juṣī A; B; 8 dr̥syatē 4; B; 9 tahanta B: 10 kōsasya
-A; B; 11 ṣaḍviṁsatya 0 4; khaḍḍvaṁśatya • B.
-"
-=== detected_textoutput-12-to-12.json ==========================
-( 12 )
-atha caturthō'dhyāyaḥ ॥
-laukikaṁ ca ॥ 1 ॥ ṣaṭēturyam ॥ 2 ॥ aikaikavr̥ddhāśca ॥ 3 ॥ gāyatryuṣṇa-
-ganuṣṭupvr̥hatīpaktitriṣṭubhaḥ jagatīśakvaryaṣṭidhr̥tīnāṁ pr̥thak parō parātitaḥ
-॥ 4 ॥ kr̥tiḥ prāvimabhyudaya ॥ 5 ॥ vyantāntarādigurubhiḥ sōdadhilaiḥ
-saptabhirgaṇairguruṇā । āryārdha; nātrāyuji jēḥ ṣaṣṭhō'yaṁ nalaghukau vā ॥ 6 ॥
-ēvaṁ prathamādhyāyēna vr̥ttāṅgatvēnōpayujyamānaḥ saṁjñāsaṁjñisaṁbandhaḥ pradarśitaḥ ।
-dvitīyatr̥tīyābhyāṁ vaidikaṁ chandō'bhihitam । idānīṁ laukikaṁ chandaḥ ācaṣṭē ।।
-cakārēṇārṣamiti pratyavamr̥ṣya (śya) tē । lōkē viditaṁ laukikam । ārṣa ca laukikaṁ
-ca chandō'dhikr̥taṁ vēditavyamādhyāyaparisamāptēḥ ॥ 1 ॥ ṣaḍakṣarasturyaḥ pādō yasya
-tadidaṁ ṣaṭturyē gāyatryam ॥ 2 ॥ ēkaikavr̥ddhāśca turyāḥ pādā yēṣāmuṣṇigādīnāṁ
-viṁśatēśchandasāṁ tāni ca cchandāṁsi ॥3॥ sūtradvayaṁ nirākāṅkṣīkartumāha । ṣaṭturyamiti
-gāyatrī vyākhyātā tadvarjamuṣṇigādīni chandāṁsi kramēṇaikaikākṣarābhivr̥ddhaturyāṇi ।
-jagatyādīnāṁ tu ēkaikā ( + mi ) vr̥ddhaturyāṇāṁ pr̥thag vinyastānāṁ parā parā
-atiśabdātparā vijñēyā । tatsaṁjñakāni ca chandāṁsi bhavanti । jagatī atijagatī ।
-śakvarī atiśakvarī । aṣṭiḥ atyaṣṭiḥ । dhr̥tiḥ atidhr̥tiḥ । 4 ॥ kr̥tiriti saṁjñā
-chandasaḥ । prāvisamabhyudaśca parā kr̥tiḥ tatsaṁjñakāni ca chandāṁsi bhavanti । kr̥tiḥ ।
-prakr̥tiḥ । ākr̥tiḥ । vikr̥tiḥ । saṁkr̥tiḥ । abhikr̥tiḥ । utkr̥tiḥ iti । gāya-
-cyādīnāmēkaviṁśatēḥ prastāraḥ - ॥ 5 ॥ āryālakṣaṇānyācaṣṭē । saptabhirgaṇai:
-gurulaghuvinyāsa dēhaiḥ ' guruṇā caikēna āryāyāḥ ardhē bhavati । kiṁviśiṣṭaiḥ ।
-yantāntarādigurubhiḥ dvau cāntaśca antaraśca ādiśca tē vyantāntarādayaḥ
-gurūca guruśca guruśca guruśca tē guravaḥ taiyantāntarādigurubhiḥ । kīdr̥śaiḥ ।
-sōdadhiḥ । udadhisaṁkhyākāścatvārō lā udadhilaḥ । saha tairvatanta iti sōda-
-dhilaiḥ । atra āyārdhē ayuji viṣamē gaṇē prathamatr̥tīyapañcamasaptamākhyē jakārō
-na madhyagururna bhavatītyarthaḥ ॥ vyantāntarādi ityādinā dvigurutvādirūpatvē
-prāptē niyamārthamidaṁ vacanam । ayaṁ ca ṣaṣṭhō gaṇō jakāra ēva vēditavyō nainyi-
-rūpaḥ । ṣaṣṭhō'yamiti niyamāt dvigurutvādivatsōdadhilatvasya jakārēṇa bādhāyāṁ
-2 pr̥thak parātitaḥ 0;
-6 visaṁtēcchandasāṁ A; B;
-1 ṣaṭtuyaumēkaika0 A; Sūtra 3 is dropped in O;
-3 kr̥ti: dropped in A and B; 4 prāviṣama 0 ; 5 yaḥ
-7 nirākārṣīt kartu0 A; B; 8 I am dropping this. 9 dōhē: A; B; 10 nānyōrūpa: Ao
-=== detected_textoutput-13-to-13.json ==========================
-8.9-9]
-( 13 )
-mlē lātpadaṁ dvitīyātprathamātparakē'tha viṣayayuji caramē ॥ ṣaṣṭhō lādhēṣu
-triṣu pādō bhavati bhavati tu pathyā ॥ 7 ॥ vipulā tu yānyathā pādabhāk
-jakārau dvitīyakacaturthī ॥ gurumadhyagau bhavētāṁ bhavēttadā sarvataścapēlā ॥ 8 ॥
-ardhē yadagrimē lakṣaṇaṁ bhavētkēvalē tu capalāyāḥ ॥ mukhacapalāsau gaditā
-śēṣē pūrvōktalakṣaṇikā ॥ 9 ॥ pūrvārdha pūrvasamaṁ capalāyā lakṣarṇa
-prāptāyāṁ pratiprasavārthamidaṁ vacanam । vāśabdaḥ pakṣāntaraṁ dyōtayati । nalaghukau vā
-pakṣē ṣaṣṭhī gaṇō vēditavyaḥ । prastauraḥ ॥ 6 ॥ ṣaṣṭha iti vartatē nlē caturlaghau ṣaṣṭhē gaṇē 'nlē
-lātpadaṁ dvitīyātprathamātparakēthaviṣaya ' ityasmin ' vi ' ityayaṁ yō dvitīyō laghuḥ
-tasmātpadamārambhaṇīyam । nlē lātpadamiti vartatē । athānantaraṁ parakē saptamē gaṇē 'yuji-
-'vara ' ityasmin nlē 'yu' ityētasmāllaghōḥ prathamātpadamārambhaṇīyam । nlē lātpadaṁ
-prathamāditi vartatē । caramē dvitīyārthē viṣayāḥ śabda ( + sparśa) rūparasagandhabhēdēna
-1
-pañca yōjanaṁ yuk tairyuk saṁbandhō yasya tasmin nlē laghucatuṣṭayarūpē pañcamē
-gaṇē ' ṣaṣṭhō lāgrēṣu tri ( + ṣu) pādō bhavati bha' ētasmin lātprathamādbhakārātpadamāra-
-mbhaṇīyam । prathamārdhavat dvitīyē'pyardhē ṣaṣṭhasya gaṇasya dvirūpatāyāṁ prāptāyāmayamapa-
-vādaḥ । caramē dvitīyē'rdhē ṣaṣṭhō gaṇō laghurēva bhavati rūpāntarēṇa nāvatiṣṭhata ityarthaḥ ।
-prathamēṣu triṣu gaṇēṣu dvayōrapyardhayōḥ 'nlē lātpadaṁ dvitīyāt' tathā 'ṣaṣṭhō lādyēṣu
-triṣu' ityētēṣu gaṇēṣu pādō yatirbhavati । pathyā nāma sā āryā bhavati । tu śabdaḥ
-punararthē ॥ 7 ॥ anyathā yām̐ pādabhāksā punaḥ vipulā nāma āryā' । 'anyathā '
-. ityasyāyamarthaḥ । prathama ēvārthē prathamēṣu triṣu gaṇēṣu pādō dvitīyasminnēva vādhai yō '
-vāpi bhūtē (?) lakṣaṇē prathamārdhē triṣu gaṇēṣu na virāmaḥ kr̥taḥ । dvitīyē tu 'guru-
-madhyagau bhavētām' ityatra kr̥taḥ । gurvōrmadhyaṁ gurumadhyaṁ tacchata iti gurumadhyagau ।
-[ jēkārau dvitīyakacaturthōṁ yadā gurumadhyagau bhavētāṁ tadā sarvataścapalā
-sarvacapalā nāma āryābhēdō bhavēt । ] capalāyāḥ prastāraḥ ॥ 8 ॥ capalāyā lakṣaṇaṁ
-gurumadhyagau dvitīyacaturthī gaṇau jakārāvityēvaṁrūpaṁ yasyā agrimē kēvalē prathama
-vā bhavēdasau khacalā nāma āryā gaditā । śēṣē dvitīyē pūrvōktaṁ yatsāmā-
-1 lōgrēntyē D. v. 2; 2 ścaphalā 4; words from bhadētāṁ to capalā in v. 8 bare
-dropped in C and also in com. Hereafter garphical representation is dro-
-pped by me; gvityēta • A; B; 5 dvirūpāyāṁ A; B; 6 pyardhayē B; 7 yā dropped in
-18 yō cāpibhūtē 4; yōcapibhūtē B;
-O
-10 muditāśēṣēcapalā A: B.
-ɖ Portion within brackets is conjectural.
-=== detected_textoutput-14-to-14.json ==========================
-( 14 )
-niravaśēṣam । pāścātyamardhamāśritya vartatē jaghanacapalāyāḥ ॥ 10 ॥
-āryāyāḥ pūrvārdhē yaduktamatrāditō mayā lakṣma । gītiṁ gītividhividō
-vadanti saṁvīkṣya taditaratrāpi ॥ 11 ॥ āryādvitīyadalabhavalakṣma
-pratiniyatamavagamya । ubhayatrāpyupagītiṁ vadanti yētyaṁśakairgaditaiḥ ॥ 12 ॥
-āhitaviparyayāryā śakalēdvayajanitarūpā yā । udgītiḥ sōdgītā
-nānāyatyaṁśabhēdatastadvat ॥ 13 ॥ gurvantīṣṭamagaṇabhāgāryā pūrvārdhasadr̥śaśakam̐-
-ladvitayā । āryairyāgītigatā saṁgītaṁgītibhirgītividhau ॥ 14 ॥
-nyalakṣaṇaṁ tadvidyatē yasyāḥ sā tathā । mukhacapalā ityasyā abhidhānaṁ mukhē prārambhē
-dvitīyacaturthaṁgaṇayōrgurumadhyēgaṁ yōrjakārasya saṁnidhānāt । mukhacapalāyāḥ prastāraḥ॥9॥
-capalāyāḥ niravaśēṣaṁ sakalaṁ lakṣaṇaṁ jaghanacapalāyāḥ pāścātyaṁ dvitīya ( + mardha - )
-māśritya vartatē । tatra dvitīyacaturthī gaṇau gurumadhyagau jakārau bhavata ityarthaḥ । pūrvārdha
-pūrvēṇa 'dyantāntarādi' ityanēna sāmānyalakṣaṇēna tulyaṁ ardham । prastāraḥ ॥ 10 ॥
-mayā chandaskr̥̭tā āditaḥ prāk atra āryāyāḥ pūrvārdhē yallakṣma lakṣaṇaṁ ṣaṣṭhasya
-gaṇasya dvirūpatvaṁ taditaratrāpi dvitīyē'pyardhē saṁvīkṣya nirīkṣya gītividhijñāḥ
-gītyupaṇatyuidgītyāryāgīti vidhānābhigītinō gītimāryā viśēṣaṁ vadanti ।
-prastāraḥ || 11 || āryāyāḥ dvitīyārdhē bhavaṁ yalakṣma ' ṣaṣṭhō l ' iti tat ubhaya-
-trāpi dvayōrapyardhayōravagamya nirīkṣya upagītiṁ vadanti । kīdr̥śaṁ tat । pratiniyataṁ
-dvitīya ēvārthē niyōjitam । ādyēṣu triṣu pādaḥ ityādikābhiryatibhiḥ saptabhirgaṇaiḥ
-dr̥vyantāntarādigururūpaiḥ pūrvamabhihitaiḥ karaṇabhūtaiḥ ॥ prastāraḥ ॥ 12 ॥ yā ēvaṁ
-prakārā sā udgītirudgītā kīrtitā । kāsau । āha । āhitētyādi । āhita
-utpāditō viparyayō dvitīyārdha prathamē kr̥taṁ prathamārdha ca dvitīyīkr̥taṁ yasya
-tathāvidhaṁ yattadāryāśikam̐ladvayaṁ tēna janitaṁ saṁpāditaṁ rūpaṁ yasyāḥ sā । tathā tadva-
-diti upagītivat nānāyatyaṁśabhēdāt ॥ prastāraḥ ॥ 13 ॥ pāpēbhya ārāt yātāḥ
-dūrādapagatāḥ āryāḥ tairāryairēvāṁvidhā āryāgītigatā । kiṁviśiṣṭā । prāguktābhyaḥ
-āryābhyaḥ asyā viśēṣamāha । gururantō yasya tathāvidhamaṣṭamaṁ gaṇaṁ bhajatīti ।
-.
-1 capalāyāḥ A 2 āryādyā: 4 3 madyāditō 0 4; mitaratra prathamatō D. v. 49;
-4 jatyaṁ 0 B; C; 5 sakaladvaya A; B; C; 6 gurvantāmaṣṭama A; 7 sakala 4; 8 āryērāya 04;
-9 saṁgīti 4; sadgīta B; ; 10 madhyamayō 0 ; magayō0 B; 11 dropped in A; 12
-chandasmr̥tā A; B; 13 niyōṣya 4; niyōjya B; is it nirīṣya = nirīkṣya ? 14 niyōṣya
-A; niyōjya B; 15 dvitīyākr̥taṁ ; dvitīya0 B. 16 sakala. A; B.
-=== detected_textoutput-15-to-15.json ==========================
-4. 10-18]
-( 15 )
-vaitālīyaṁ lōnaidhanāḥ । ṣaḍayukpādōṣṭau samēśvalaḥ ॥ na samō'tra parēṇa
-yujyatē । naitāḥ ṣaṭ ca nirantarā yujōḥ ॥ 15 ॥ yavantē śēṣapūrva sāmyād ।
+
+
+  <div type="udhyāyaḥ" n="1">
+    <head>prathamō 'dhyāyaḥ</head>
+
+      <ab type="sutra" n="1">gāyatraṁ chandasāṁ pūrva vardhamānākṣaraṁ param vāṅmaṇḍanakaraṁ naumi citravr̥tta prasiddhayē</ab>
+<pb n="2"/> 
+      <ab type="sutra" n="2">sarvādimadhyāntaglau trikau mnau bhyau jrau <!--Am I reading this conjunct properly?--> stau</ab>
+      <ab type="sutra" n="3"><app><lem>mātrikō</lem><rdg wit="#A #B #C">mātr̥kō</rdg></app> l̥juḥ</ab>
+      <ab type="sutra" n="4">vāntē gvakraḥ</ab> 
+      <ab type="sutra" n="5">saṁyōgādiparaḥ</ab>
+      <ab type="sutra" n="6">dīrgha<!--bindu above a?-->plutau
+<pb n="3"/> 
+      ca</ab>
+      <ab type="sutra" n="7">dvimātrō'sau</ab>
+      <ab type="sutra" n="8">samudrādir lōkāt</ab>
+      <ab type="sutra" n="9">virāmō yatir iti</ab>
+    
+    <trailer>iti jayadēvacchandasi prathamō 'dhyāyaḥ</trailer>
+  </div> 
+
+
+
+
+<pb n="4"/> 
+
+
+
+
+  <div type ="udhyāyaḥ" n="2">
+    <head>dvitīyō 'dhyāyaḥ</head>
+      <ab type="sutra" n="1">chandaḥ</ab>
+      <ab type="sutra" n="2">dhāturgāyatryādyāḥ saptāṣṭau <app><lem>caturbhirabhivr̥ddhāḥ</lem><rdg wit="#A #B">caturbhirvr̥ddhāḥ</rdg></app></ab>
+      <ab type="sutra" n="3">yajuṣāṁ ṣaḍēkēna</ab>
+      <ab type="sutra" n="4"><app><lem>dēvānāmēkam</lem><rdg wit="#A #B">dēvānāmēkaḥ</rdg></app></ab>
+      <ab type="sutra" n="5">asurāṇāṁ pañcadaśōnāḥ</ab>
+<pb n="5"/> 
+      <ab type="sutra" n="6">yājuṣyō dvitricatuḥṣaḍguṇāḥ sāmargyatibrahmaṇām iti</ab>
+    <trailer>[iti jayadēvachandasi]<!--how do I mark that he's inserted this (and also that the geminate consonant is missing in his ammendation?)--> dvitīyō 'dhyāyaḥ</trailer>
+  </div>
+
+
+
+
+<pb n="6"/> 
+
+
+
+
+
+  <div type="udhyāyaḥ" n="3">
+    <head>tr̥tīyōdhyāyaḥ<!--missing avagraha?--></head>
+      <ab type="sutra" n="1">ārṣam</ab>
+      <ab type="sutra" n="2">pādaḥ</ab>
+      <ab type="sutra" n="3"><app><lem>iyādinā</lem><rdg wit="#A">ityādinā</rdg></app> pūryaḥ</ab>
+      <ab type="sutra" n="4">caturbhiḥ <app><lem>svaiḥ</lem> <rdg wit="A">śvaiḥ</rdg></app></ab>
+      <ab type="sutra" n="5">ēkadvitribhiś ca <app><lem>paṅktyādyāḥ</lem><rdg wit="#A">pañcādyāḥ</rdg></app></ab>
+      <ab type="sutra" n="6">gāyatryaṣṭakaiḥ</ab>
+      <ab type="sutra" n="7">virāḍ <app><lem>vasvinau</lem><rdg wit="#A #B">vaśvinau</rdg></app>
+<pb n="7"/>  
+      vā</ab>
+      <ab type="sutra" n="8">īśaiś ca</ab>
+      <ab type="sutra" n="9">ādyāśvaiḥ</ab>
+      <ab type="sutra" n="10">sā <app><lem>pādanicr̥t<!--typo for pādanivr̥t?--></lem><rdg wit="#A #B">pādanibhr̥t</rdg><rdg wit="#C">pādatyacit</rdg></app></ab>
+      <ab type="sutra" n="11">vasvōḥ <app><lem>prathamādidhāmnīnēnōṣṇik puraḥkakupparēbhyaḥ</lem><rdg wit="A">prathamādidhāmnīnēnōṣṇipuraḥ kakupparēbhyaḥ</rdg></app></ab>
+      <ab type="sutra" n="12">ravyōḥ <app><lem>svē</lem><rdg wit="#A">śvē</rdg></app>
+<pb n="8" break="no"/>    
+      nānuṣṭup</ab>
+      <ab type="sutra" n="13">vasūnāṁ br̥hatīnēna purastāduraḥpathyōpariṣṭādbhyaḥ</ab>
+      <ab type="sutra" n="14"><app><lem>sataḥ</lem><rdg wit="#A">śataḥ</rdg></app> pūrvēnāḥ</ab>
+      <ab type="sutra" n="15"><app><lem>vasū diśau</lem><rdg wit="#A">vasvordigbhyām</rdg><rdg wit="#B"></rdg>vasvordiśyām</app> ca</ab>
+      <!--See footnote three; I don't know how to represent alternate readings across element boundaries-->
+      <ab type="sutra" n="16">vasvōḥ paṅktirinābhyāṁ yugayugbahirādyādiṣu <app><lem>sataḥsataḥ</lem><rdg wit="#A #B">śatō'śataḥ</rdg></app> saṁstāraprastāravistārāstārēbhyaḥ</ab>
+<pb n="9"/>
+      <ab type="sutra" n="17">paṅktiścēnābhyām</ab>
+      <ab type="sutra" n="18">akṣarapaṅktiḥ śarāḥ</ab>
+      <ab type="sutra" n="19">dvau vā</ab>
+      <ab type="sutra" n="20">padāt pañca</ab>
+      <ab type="sutra" n="21">yugarasau trayaś ca</ab>
+      <ab type="sutra" n="22"><app><lem>pathyāṣṭakaiḥ</lem><rdg wit="#A">pathyāṣṭakāḥ</rdg></app></ab>
+      <ab type="sutra" n="23">ṣaḍ viṣṭārāt</ab>
+      <ab type="sutra" n="24">triṣṭu<app><lem>bināccatvāraḥ</lem><rdg wit="A">binaścatvāraśca</rdg><rdg wit="#B">binaścatvāraḥ</rdg><rdg wit="#C">binā catvāraḥ</rdg></app></ab>
+      <ab type="sutra" n="25">jagatī dvau <app><lem>trayaśca</lem><rdg wit="#B #C">traśca</rdg></app></ab>
+      <ab type="sutra" n="26">svēṣāmādi<app><lem>madhyāntēṣvaṣṭakēnōbhē</lem><rdg wit="#A">madhyāntēnāṣtakēnōbhēna</rdg></app> pr̥thak purastānmadhyōpari
+<pb n="10" break="no"/> 
+      ṣṭājjyotiṣmatyau <app><lem>triṣṭupjagatyau</lem><rdg wit="#A #B"> </rdg></app></ab>
+      <ab type="sutra" n="27"><app><lem>pañcaka</lem><rdg wit="#C">pañcaika</rdg></app> ēkasmiṁśchandaḥ śaṅkumatī</ab>
+      <!--not sure how to encode footnote ३-->
+      <ab type="sutra" n="28">dvau navakau ṣaṭkaśca <app><lem>r̥ṅ nāgī</lem><rdg wit="#C">audgāgī</rdg></app><note xml:lang="eng"><p><l>But this is due to a worng deciphering of the original letters <foreign xml:lang="san-Latn">r̥ṅnāgī</foreign>in the palm-leaf ms.</l></p></note></ab>
+      <ab type="sutra" n="29">tripādūnamadhyā pipīlakamadhyā</ab>
+      <ab type="sutra" n="30">yavamadhyānyathā</ab>
+      <ab type="sutra" n="31">ēkēnōnādhikēna ni
+<pb n="11" break="no"/>  
+      cr̥bhdurijau<note xml:lang="eng"><p><l>Words <foreign xml:lang="san-Latn">nicr̥bhdurijau</foreign> are not copied in A; mere dashes are given in their place.</l></p></note></ab>
+      <ab type="sutra" n="32">dvābhyāṁ virāṭsvarājau<note xml:lang="eng"><p><l>Letters <foreign xml:lang="san-Latn">dvābhyāṁ vi</foreign> not copied in A; mere dashes are given in their place.</l></p></note></ab>
+      <ab type="sutra" n="33">ādyāt sandēhe <app><lem>dēvatādi bhiścāvagatiriti</lem><rdg wit="#B">dēvatābhiścāvagatiriti</rdg></app></ab>
+    <trailer>iti jayadēvachandasi tr̥tīyō 'dhyāyaḥ</trailer>
+  </div>
+
+ 
+
+
+<pb n="12"/>
+
+
+
+
+  <div type="udhyāyaḥ" n="4">
+    <header>atha caturthō 'dhyāyaḥ</header>
+      <ab type="sutra" n="1">laukikaṁ ca</ab>
+      <ab type="sutra" n="2">ṣaṭturyam</ab>
+      <!--Not sure how to encode footnote १-->
+      <ab type="sutra" n="3">ēkaikavr̥ddhāśca</ab>
+      <ab type="sutra" n="4">gāyatryuṣṇiganuṣṭupbr̥hatīpaṅktitriṣṭubhaḥ jagatīśakvaryaṣṭidhr̥tīnāṁ <app><lem>pr̥thak parā parātitaḥ</lem><rdg wit="#c">pr̥thak parātitaḥ</rdg></app></ab>
+      <ab type="sutra" n="5"><app><lem>kr̥tiḥ prāvisamabhyudaśca</lem><rdg wit="#A #B">prāvisamabhyudaśca</rdg></app></ab>
+      <ab type="sutra" n="6">vdy<!--What's up with this conjunct?-->antāntarādigurubhiḥ sōdadhilaiḥ saptabhir gaṇair guruṇā. āryārdha; nātrāyuji <app><lem>jaḥ</lem><rdg wit="#C">yaḥ</rdg></app> ṣaṣṭhō 'yaṁ nalaghukau vā</ab>
+<pb n="13"/> 
+      <ab type="sutra" n="7">mlē lātpadaṁ dvitīyāt prathamāt parakē 'tha viṣayayuji caramē.. ṣaṣṭhō <app><lem>lādhēṣu</lem><rdg wit="#D">logrēntye</rdg></app><!--not sure how to encodde the v.2 in this footnote--> triṣu pādō bhavati bhavati tu pathyā</ab>
+      <ab type="sutra" n="8">vipulā tu yānyathā pādabhāk jakārau dvitīyakacaturthau.. gurumadhyagau bhavētāṁ bhavēt tadā sarvata<app><lem>ścapalā</lem><rdg wit="#A">ścaphalā</rdg></app><note xml:lang="eng"><p><l>words from <foreign xml:lang="san-Latn">bhavētāṁ</foreign> to <foreign xml:lang="san-Latn">capalā</foreign> in v.8 bare dropped in C and also in com.</l></p></note></ab>
+      <ab type="sutra" n="9">ardhē yadagrimē lakṣaṇaṁ bhavētkēvalē tu capalāyāḥ.. mukhacapalāsau gaditā śēṣē pūrvōktalakṣaṇikā</ab>
+      <ab type="sutra" n="10">pūrvārdhaṁ pūrvasamaṁ; capalāyā lakṣaṇaṁ
+<pb n="14"/>     
+      niravaśēṣam. pāścātyamardhamāśritya vartatē jaghana<app><lem>capalāyāḥ</lem><rdg wit="#A">capalādyāḥ</rdg></app></ab>
+      <ab type="sutra" n="11"><app><lem>āryāyāḥ</lem><rdg wit="#A">āryādyāḥ</rdg></app> pūrvārdhē yadukta<app><lem>matrāditō mayā</lem><rdg wit="#A">madhyāditō mayā</rdg><rdg wit="#D">mitaratra prathamatō</rdg></app><!--Not sure how to encode "v.49" in footnote--> lakṣma . gītiṁ gītividhividō vadanti saṁvīkṣya taditaratrāpi</ab>
+      <ab type="sutra" n="12">āryādvitīyadalabhavalakṣma pratiniyatamavagamya. ubhayatrāpy upagītiṁ vadanti <app><lem>yatyaṁ</lem><rdg wit="#B #C">jatyaṁ</rdg></app>śakairgaditaiḥ</ab>
+      <ab type="sutra" n="13">āhitaviparyayāryā <app><lem>śakaladvaya</lem><rdg wit="#A #B #C">sakaladvaya</rdg></app>janitarūpā yā. udgītiḥ sōdgītā nānāyatyaṁśabhēdatastadvat</ab>
+      <ab type="sutra" n="14"><app><lem>gurvantāṣṭam</lem><rdg wit="#A">gurvantāmaṣṭam</rdg></app>agaṇabhāgāryā pūrvārdhasadr̥śa<app><lem>śakala</lem><rdg wit="#A">sakala</rdg></app>dvitayā. <app><lem>āryairāryā</lem><rdg wit="A">āryērāryā</rdg></app>gītir gītā <app><lem>saṁgīta</lem><rdg wit="#A">saṁgīti</rdg><rdg wit="#B #C">sadgīta</rdg></app> gītibhir gītividhau</ab>
+<pb n="15"/>
+      <ab type="sutra" n="15">vaitālīyaṁ rlganaidhanāḥ <!--Whats up with that conjunct?-->. ṣaḍayukpādōṣṭau samaścalaḥ.. na samō 'tra parēṇa yujyatē. naitāḥ ṣaṭ ca nirantarā yujōḥ..</ab>
+      <ab type="sutra" n="16"></ab>
+      <ab type="sutra" n="17"></ab>
+      <ab type="sutra" n="18"></ab>
+      <ab type="sutra" n="19"></ab>
+      <ab type="sutra" n="20"></ab>
+      <ab type="sutra" n="21"></ab>
+      <ab type="sutra" n="22"></ab>
+      <ab type="sutra" n="23"></ab>
+      <ab type="sutra" n="24"></ab>
+      <ab type="sutra" n="25"></ab>
+      <ab type="sutra" n="26"></ab>
+      <ab type="sutra" n="27"></ab>
+      <ab type="sutra" n="28"></ab>
+      <ab type="sutra" n="29"></ab>
+      <ab type="sutra" n="30"></ab>
+      <ab type="sutra" n="31"></ab>
+      <ab type="sutra" n="32"></ab>
+    <trailer></trailer>
+  </div>
+ 
+ 15 ॥ yavantē śēṣapūrva sāmyād ।
 aupacchēdakaṁ vadanti santaḥ || 16 || āpātalikā bhavatīyaṁ । tannidhanē
 bhavatō bhaparau gau ॥ 17 ॥ pūrvaḥ saha pañcamēna cēt । prācyavr̥ttirayujau tu
 1
@@ -654,6 +321,9 @@ stanyāḥ
 1
 B; 16 saptibhi: B; 17 trayōdasa B;
 '
+
+  <div type="udhyāyaḥ" n="5">
+
 === detected_textoutput-19-to-19.json ==========================
 4. 31-19]
 (19)
@@ -920,6 +590,12 @@ janā yasyāḥ sā tathēti ॥ 39 ॥
 A; 4 samupajanitapadaracanā A; B; 5 samābhidhā 4; 6 rā dropped in 4; 7 tēnai B
 tēnaiva 1 8 jugalaṁ A; B; 9 anupagata A; B; 10 vr̥sūti: B; 11 nigadinaṁ 4: 12
 khaṅga A; B; 13 nāsthitau A;
+  </div>
+  <div type="udhyāyaḥ" n="6">
+   ।
+  ॥ 1 ॥
+
+
 === detected_textoutput-27-to-27.json ==========================
 5.30-69]
 (27)
@@ -1081,6 +757,9 @@ differs from that of C in this chapter. The latter i. e. O drops 7 metres (vv.
 (vv. 18, 41 ). The order of metres in the AB tradition is as follows 1-7; 10-
 18; 40; 14-24; 41; 25-26; 42, 27; 41; 18; 48; 28-29; 88; 80-82; 44-46; 88;
 84-87; 89.
+  </div>
+  <div type="udhyāyaḥ" n="7">
+   
 === detected_textoutput-32-to-32.json ==========================
 (32)
 atha saptamō'dhyāyaḥ ।
@@ -1252,6 +931,9 @@ ryāṇi ॥ 34 ॥
 VV. 86-87 after v. 34. 8 aṣṭaukādaśa B: 9 dvayē 4; 10 saṁkhyētyēvaṁ Bi saṁkhyā ityēvaṁ
 A; 11 nāma daṇḍikō ; nāmakō varṇita: B; 12 caṇḍavr̥ṣṭa0 : 13 parigr̥hītarēpha0
 B; 14 tēsta• B; 15 sumatībhi: B; 16 mahāvācyēbhyō A; B
+  </div>
+  <div type="udhyāyaḥ" n="8">
+
 === detected_textoutput-37-to-37.json ==========================
 7. 11-8. 3]
 •
@@ -1375,7 +1057,8 @@ dhyāyaḥ ॥ samāsaṁ jayadēvacchandōvivaraṇam ।
 tation of the Prastära of the Chandas with 6 letters given in the mss. is dro-
 paṣu dropped in 4; 5 milaiḥ B; 6 aṣṭāviṁśatamityarthaḥ 4; 7 stamyā B;
 pped,
-8 sa Bo
+  </div>
+
 
 </body>
 </text>
