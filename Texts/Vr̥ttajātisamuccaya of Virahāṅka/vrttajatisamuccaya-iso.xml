@@ -1952,14 +1952,14 @@
 
 	    <pb n="26"/>
 	    <l>paḍhamaṭṭhāṇa ṇiuttaturaṁgamabīapariṭṭiajōhiyāē</l>
-	    <l>kassa suhāi ṇa vaḍūi harisō suaṇu vilāsiṇiduvaiāē</l>
+	    <l>kassa <app><lem>suhāi</lem><note><foreign xml:lang="san-Latn">śubhayā</foreign>? Com. has <foreign xml:lang="san-Latn">bhūtayā</foreign> for this word.</note></app> ṇa vaḍūi harisō suaṇu vilāsiṇiduvaiāē</l>
 	    <label>vilāsinī</label>
 	    <note type="chāyā">
 	      <lg n="26">
 		<l>pañcamaṣaṣṭhasthi<choice><orig>tē</orig><reg>ta</reg></choice>padātisaptamasthāpitarathāṅgikayā</l>
-		<l>tr̥tīyacaturthakr̥tamātaṅgikavirāmanirū<add resp="#HDV">pa</add>taratnikayā</l>
-		<l>prathamasthānaniyuktaturaṁgamadvitīyapariṣṭhitayōdhayā</l>
-		<l><app><lem>kasya</lem></app> bhūtayā na vardhatē harṣaḥ sutanu vilāsinīdvipadikayā</l>
+		<l><note>The words <foreign xml:lang="san-Latn">prathamasthānaniyukta</foreign> from next line are repeated before <foreign xml:lang="san-Latn">tr̥tīyacaturtha-</foreign> in both AB.</note>tr̥tīyacaturthakr̥tamātaṅgikavirāmanirū<add resp="#HDV">pa</add>taratnikayā</l>
+		<l>prathamasthānaniyuktaturaṁgamadvitīyapariṣṭhita<app><lem>yōdhayā</lem><rdg wit="#A #B">yādhē</rdg></app></l>
+		<l><app><lem>kasya</lem><rdg wit="#A #B">kayāsya</rdg></app> bhūtayā na vardhatē harṣaḥ sutanu vilāsinīdvipadikayā</l>
 	      </lg>
 	    </note>
 	  </lg>
@@ -1978,10 +1978,10 @@
 	</p>
 	<quote type="base-text">
 	  <lg n="30">
-	    <l>ṇiamiaaṁ khuruppaaṁ ca puraō a jōhaassa</l>
+	    <l>ṇiamiaaṁ khuruppaaṁ ca <app><lem>puraō a</lem><rdg wit="#A #B">puraō puraō a</rdg></app> jōhaassa</l>
 	    <l>paṭṭisaō rahaṁgaaṁ maggaē suragaassa</l>
-	    <l>pēcchasi sasisamāṇaṇē rū<choice><orig>vaṁ</orig><reg>va</reg></choice><add resp="#HDV">aṁ</add> sahia<choice><orig>ṇā</orig><reg>ā</reg></choice> ṇa</l>
-	    <l>suī (ī ) suhaammi muddhiē [pāē a] lacchiāē</l>
+	    <l>pēcchasi sasisamāṇaṇē <app><lem>rū<choice><orig>vaṁ</orig><reg>va</reg></choice><add resp="#HDV">aṁ</add></lem><rdg wit="#Com">ucchuaṁ</rdg></app> sahia<choice><orig>ṇā</orig><reg>ā</reg></choice> ṇa</l>
+	    <l>su<choice><orig>ī</orig><reg>i</reg></choice>suhaammi muddhiē <add resp="#HDV">pāē a</add> lacchiāē</l>
 	    <label>lakṣmīḥ</label>
 	    <note type="chāyā">
 	      <lg n="30">
@@ -2002,16 +2002,16 @@
 	</p>
       </div>
 
-      <div type="commentary-block">
+      <div type="commentary-block" n="31">
 	<p>
 	  <s><q type="pratīka">jīa duē</q> iti.</s>
 	</p>
 	<quote type="base-text">
 	  <lg n="31">
 	    <l>jīa duē vāraṇaā dō turaā jōhaō a</l>
-	    <l>tāṇa rpurō ṇiamia<choice><orig>u</orig><reg>ō</reg></choice> aṁtiaō suragaō a</l>
+	    <l>tāṇa <app><lem>purō</lem><rdg wit="#Com">puṇō</rdg></app> ṇiamia<choice><orig>u</orig><reg>ō</reg></choice> aṁtiaō suragaō a</l>
 	    <l>pēcchijasu caṁdavaaṇiē suisuhavattaṇammi</l>
-	    <l>lakkhaṇaē kaiaṇaō bhai a [] mēhaaṁti</l>
+	    <l>lakkhaṇaē kaiaṇaō bhai a <add resp="#HDV">taṁ</add> mēhaaṁti</l>
 	    <label>mēghā</label>
 	    <note type="chāya">
 	      <lg n="31">
@@ -2022,68 +2022,94 @@
 	  </lg>
 	</quote>
 	<p>
-	  <s>hē rā ( candravadanē paśya trilōkaya.</s>
+	  <s>hē <choice><orig>rā</orig><reg>ca</reg></choice>ndravadanē paśya trilōkaya.</s>
 	  <s>śrutau sukhaṁ vartayati yattasmillakṣaṇē.</s>
 	  <s>kavijanas tam ēva bhaṇati<lb/> <add resp="#HDV">mēghām iti</add>.</s>
 	  <s>kiṁbhūtām.</s>
-	  <s>yasya dvau <choice><orig>rbhāṇau</orig><reg>vāraṇau</reg></choice> caturmātrī punarapi dvāvēva tau turagākhyā (vaśvā ? )<pb break="no"/><lb break="no"/
+	  <s>yasya dvau <choice><orig>rbhāṇau</orig><reg>vāraṇau</reg></choice> caturmātrī punarapi dvāvēva tau turagā<choice><orig>khyā</orig><reg cert="low">vaśvā</reg></choice><pb break="no" n="27"/><lb break="no"/>      vanantaraṁ yōdha ēvaṁ pañca caturmātrāḥ.</s>
+	  <s>punaḥ paścādantimaḥ pañcamātraḥ ādilaghuḥ.</s>
+	  <s>niyamitō nibaddhaḥ.</s>
+	</p>
+      </div>
 
-	  <!-- UP TO HERE !-->
-
-
-      1 śubhayā ? Com. has bhūtayā for this word. 2 The words prathamasthānaniyukta from next line are
-      repeated before tr̥tīyacaturtha0 in both AB 3 yādhēkayāsya AB. 4 puraō puraō a AB. 5 ucchuaṁ Com.
-      6puṇō Com.
-      <pb n="27"/>
-      10
-      vanantaraṁ yōdha ēvaṁ pañca caturmātrāḥ । punaḥ paścādantimaḥ pañcamātraḥ ādilaghuḥ । niyamitō nibaddhaḥ ॥ 31 ॥
-
-      <div type="commentary-block">
+      <div type="commentary-block" n="32">
 	<p>
 	  <s><q type="pratīka">hārarasāṇa</q> iti.</s>
 	</p>
-      hārarasāṇa piē puraō kuṇa ṇēuraaṁ
-      gaṁdhavihūsiara kuṇa dōṇivi patthivaē ।
-      cārupaōhara ṭhaviammi maṇōharaē
-      dūrasamujjalaammi ṇijjasu muddhaḍiē ॥ 32 ॥
-<lg n="32">
-  <l>hārarasayōḥ priyē purataḥ kuru nūpuraṁ gandhavibhūṣitau kuru dvau pārthiva</l>
-  <l>cārupayōdharē sthāpitē manōharē cha ( dū ) rasamujjvalaṁ viniyuṅkṣva [mugdhē ] </l>
-</lg>
-      [viniyuṅkṣva ] vidhēhi kasyāḥ kiṁci (kimi) tyasyaivāha (rtha ) sya pūraṇārthaṁ gītikāmāha<lb break="no"/>ha (pha) risaṁ iti ।
-<lg n="33">
-  <l>pharisaṁ maṇiṁ mahūē dūrūjjalavaṇṇadiṇṇasōhammi</l>
-  <l>assakkaṁtāpāaē bahusahia[a]lōadiṇṇaharisammi </l>
-</lg>
-      lakkhaṇapūraṇatthē gīīā । assakantā [ aśvakrāntā] ।
-<lg n="33">
-  <l>sparśa rakhē (maṇi) ca madhurē dūrōjjvalavarṇadattaśōbhē</l>
-  <l>avakrāntāpā<choice><orig>dō</orig><reg>dē</reg></choice>bahusahr̥dayalōkada taharṣaḥ (rṣē) </l>
-</lg>
-      spaṣṭhēyam । vastukōdāharaṇam ॥ 33 ॥
+	<quote type="base-text">
+	  <lg n="32">
+	    <l>hārarasāṇa piē puraō kuṇa ṇēuraaṁ</l>
+	    <l>gaṁdhavihūsiara kuṇa dōṇivi patthivaē</l>
+	    <l>cārupaōhara ṭhaviammi maṇōharaē</l>
+	    <l>dūrasamu<app><lem>jjalaammi ṇijjasu</lem><rdg source="#Com">jjalaaṁ viṇiuṁjasu</rdg></app> muddhaḍiē</l>
+	  </lg>
+	  <note type="chāyā">
+	    <lg n="32">
+	      <l>hārarasayōḥ priyē purataḥ kuru nūpuraṁ gandhavibhūṣitau kuru dvau pārthiva</l>
+	      <l><app><lem>cārupayō</lem><rdg wit="#A #B">vānapayō (pīnapayō?)</rdg></app>dharē sthāpitē manōharē <choice><orig>cha</orig><reg>dū</reg></choice> rasamujjvalaṁ viniyuṅkṣva <add resp="#HDV">mugdhē</add> </l>
+	    </lg>
+	  </note>
+	</quote>
+	<p>
+	  <s><add resp="#HDV">viniyuṅkṣva</add> vidhēhi kasyāḥ <choice><orig>kiṁci</orig><reg>kimi</reg></choice> tyasyaivā<choice><orig>ha</orig><reg>rtha</reg></choice>sya pūraṇārthaṁ gītikām āha — <q type="pratīka"><choice><orig>ha</orig><reg>pha</reg></choice>risaṁ</q> iti.</s>
+	</p>
+	<quote type="base-text">
+	  <lg n="33">
+	    <l>pharisaṁ maṇiṁ mahūē dūrūjjalavaṇṇadiṇṇasōhammi</l>
+	    <l>assakkaṁtāpāaē bahusahia[a]lōadiṇṇaharisammi </l>
+	  </lg>
+	  <l>lakkhaṇapūraṇatthē gīīā</l>
+	  <label>assakantā [ aśvakrāntā] । </label>
+	  <note type="chāyā">
+	    <lg n="33">
+	      <l>sparśa <choice><orig>rakhē</orig><reg>maṇi</reg></choice> ca madhurē dūrōjjvalavarṇadattaśōbhē</l>
+	      <l>avakrāntāpā<choice><orig>dō</orig><reg>dē</reg></choice>bahusahr̥dayalōkada taha<choice><orig>rṣaḥ</orig><reg>rṣē</reg></choice></l>
+	    </lg>
+	  </note>
+	</quote>
+	<p>
+	  <s>spaṣṭēyam.</s>
+	  <s>vastukōdāharaṇam.</s>
+	</p>
+      </div>
 
       <div type="commentary-block">
 	<p>
 	  <s><q type="pratīka">hārarasa</q> iti.</s>
 	</p>
+	<quote type="base-text">
+	  <lg n="34">
+	    <l>hārarasāṇa juassa <add resp="#HDV">ju</add>ē ṭhaviammi ṭhavijjaO ṇēuraaṁ</l>
+	    <l>ṭhāi puṇōvi sarūvajuaṁ kaḍaaṁ karapallavaaṁ ca piē</l>
+	    <l>tēsu ṭhavē <add resp="#HDV">sa</add> saddajuaṁ pasaacchi ṇiuṁjasu cāmaraaṁ</l>
+	    <l><app><lem>saṁgaapāamaṇōharaē</lem><rdg source="#Com">saṁgaiācaraṇē piaē</rdg></app> vivihōjjalavaṇṇapasāhaṇaē</l>
+	    <label>saṁgatā</label>
+	  </lg>
+	  <note type="chāyā">
+	    <lg>
+	      <l>hārarasayōryuga<choice><orig>pa</orig><reg>la</reg></choice>sya yugē sthāpitē sthāpaya nūpuraṁ</l>
+	      <l>dadasva punarapi sarūpayugaṁ kaṭakaṁ karapallavamapi <choice><orig>vi</orig><reg>pri</reg></choice>yē</l>
+	      <l>tēṣāṁ sthāpaya saśabdayugaṁ prasr̥tākṣi niyuṅkṣva cāmaraṁ</l>
+	      <l><app><lem>saṁgatikācaraṇē priyē</lem><rdg wit="#A #B">saṁgatakacaraṇapriyē</rdg></app> vividhōjjvalavarṇaprasādhanē</l>
+	    </lg>
+	  </note>
+	</quote>
+	<p>
+	  <s>saṁgatikāyāś caraṇa idamidaṁ sthāpaya.</s>
+	  <s>hāraś ca rasaś ca hārarasau tayōryuga<choice><orig>pa</orig><reg>la</reg></choice>sya yugē sthāpitē       tayōś caturni<choice><orig>vasu</orig><reg cert="low">vēśi</reg></choice> tayōrityarthaḥ.</s>
+	  <s><choice><orig>ta</orig><reg>ā</reg></choice>digurucaturmātracatuṣṭaya iti yāvat.</s>
+	  <s>paścādguruṁ sthāpaya.</s>
+	  <s>dēhi punarapi sarūpayugaṁ gurum.</s>
+	  <s>anantaramapi karapallavamantaguruṁ sthāpaya tēṣu sthāpitēṣu satsu.</s>
+	  <s>kiṁbhūtaṁ karapallavaṁ sahaśabdayugēna vartamānam.</s>
+	  <s>antē caiṣāṁ cāmaraṁ niyuṅkṣva.</s>
+	  <s>ādigurubhiḥ saptabhirguruṇā ca saṁgatāyāḥ pādō bhavatīti tātparyam.</s>
+	  <s>vividhairujjvalairvarṇaiḥ prasādhanaṁ yasyēti samāsaḥ.</s>
+	</p>
+      </div>
 
-      hārarasāṇa juassa <add resp="#HDV">ju</add>ē ṭhaviammi ṭhavijjaō ṇēuraaṁ
-      ṭhāi puṇōvi sarūvajuaṁ kaḍaaṁ karapallavaaṁ ca piē ।
-      tēsu ṭhavē <add resp="#HDV">sa</add> saddajuaṁ pasaacchi ṇiuṁjasu cāmaraaṁ
-      saṁga apāamaṇōharaē vivihōjjalavaṇṇapasāhaṇaē ॥ 34 ॥ saṁgatā |
-      hārarasayōryuga<choice><orig>pa</orig><reg>la</reg></choice>sya yugē sthāpitē sthāpaya nūpuraṁ
-      dadasva punarapi sarūpayugaṁ kaṭakaṁ karapallavamapi vi (pri ) yē ।
-      tēṣāṁ sthāpaya saśabdayugaṁ prasr̥tākṣi niyuṅkṣva cāmaraṁ
-      saṁgatikācaraṇē priyē vividhōjjvalavarṇaprasādhanē ॥ 34 ॥
-      saṁgatikāyāścaraṇa idamidaṁ sthāpaya । hāraśca rasaśca hārarasau tayōryuga<choice><orig>pa</orig><reg>la</reg></choice>sya yugē sthāpitē
-      tayōścaturnivasu (vēśi ?) tayōrityarthaḥ । taṁ (ā) digurucaturmātracatuṣṭaya iti yāvat । paścādguruṁ sthāpaya ।
-      dēhi punarapi sarūpayugaṁ gurum । anantaramapi karapallavamantaguruṁ sthāpaya tēṣu sthāpitēṣu satsu । kiṁbhūtaṁ
-      karapallavaṁ sahaśabdayugēna vartamānam । antē caiṣāṁ cāmaraṁ niyuṅkṣva । ādigurubhiḥ saptabhirguruṇā ca
-      saṁgatāyāḥ pādō bhavatīti tātparyam । vividhairujjvalairvarṇaiḥ prasādhanaṁ yasyēti samāsaḥ ॥ 34 ॥
-      <rdg source="#Com">0ujalaaṁ viṇiuṁjasu</rdg> 
-2 <rdg wit="#A #B">vānapayō0 (pīnapayō ? )</rdg>
-3 <rdg source="#Com">saṁgaiācaraṇē piaē</rdg> 
-4 <rdg wit="#A #B">saṁgatakacaraṇapriyē</rdg>
+      <!-- UP TO HERE !-->
+
       <pb n="28"/>
 
       <div type="commentary-block">

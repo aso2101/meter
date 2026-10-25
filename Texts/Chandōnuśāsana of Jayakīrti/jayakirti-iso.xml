@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/tei.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="san-Latn">Jayakīrti's Chandōnuśāsana</title>
+        <title xml:lang="san-Deva">जयकीर्तिकृतं छन्दोनुशासनम्</title>
+      </titleStmt>
+      <publicationStmt><p>Placeholder</p></publicationStmt>
+      <sourceDesc><listWit><witness xml:id="Gemini">Gemini OCR of the printed edition</witness><witness xml:id="Claude">Claude, reading the page images (chapter 2 only), not proofread</witness></listWit><p>OCR of a printed edition (jayakirti.pdf; pp. 41–71 of the edition), transliterated to ISO; not yet proofread.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="san-Latn">
+    <body>
+      <head>atha jayakīrtikr̥taṁ chandōnuśāsanam</head>
+      <pb n="41"/>
+    <div type="adhikāra" n="1">
+      <head>prathamō’dhikāraḥ</head>
+      <ab type="sūtra" n="1">śrīvardhamānamānamya chandasāṁ pūrvamakṣaram ।<lb/>lakṣyalakṣaṇamāvīkṣya vakṣyē chandō’nuśāsanam</ab>
+      <ab type="sūtra" n="2">chandaḥśāstraṁ vahitraṁ tadvivikṣōḥ kāvyasāgaram ।<lb/>chandōbhāg vāṅmayaṁ sarvaṁ na kiṁcicchandasā vinā</ab>
+      <ab type="sūtra" n="3">nāgarañcakāravakrō gururdvimātrō gasaṁjñakō jñēyaḥ ।<lb/>laghurēkamātrikaḥ syādr̥jururdhvāṅgulanibhō lasaṁjñaśca</ab>
+      <ab type="sūtra" n="4">dīrghō guruḥ plutō’pi hrasvō laghurēva vā guruḥ pādāntē ।<lb/>saṁyōgavisargānusvāravyañjanaparō guruḥ syād hrasvaḥ</ab>
+      <ab type="sūtra" n="5">saṁyōgaparō’pi jātu varṇaḥ<lb/>śaithilyāllaghutāmupaiti tasmāt ।<lb/>bhāṣāviṣayē’nyathā jagaddhā<lb break="no"/>ṣyēdaudau tu gurū laghū ca dr̥ṣṭau</ab>
+      <ab type="sūtra" n="6">mayarasatajabhanavarṇā bhūtōyānalamarunnabhō’rkēndudivaḥ ।<lb/>vr̥ttagaṇāḥ kramaśō’ṣṭau prastārē viddhi madhyamacchandasi tān</ab>
+      <ab type="sūtra" n="7">gurōradhastāllaghumāditaḥ kṣipēt<lb/>paraṁ likhēddūrdhvasamaṁ punastathā ।<lb/>pāścātyakhaṇḍaṁ guruṇā prapūrayēt<lb/>yāvadgaṇaḥ sarvalaghutvamāpyatē</ab>
+      <ab type="sūtra" n="8">sarvagururmagaṇaḥ kṣitirādilaghuryaḥ payōgaṇō jñēyaḥ ।<lb/>madhyalaghū rō’gniḥ syādantaguruḥ sō marunnāmā</ab>
+      <ab type="sūtra" n="9">antarlaghustagaṇaḥ khaṁ madhyagururjagaṇa ucyatē sūryaḥ ।<lb/>ādigururbhaścandraḥ sarvasvanaḥ svastrikāḥ sarvē’pi</ab>
+      <ab type="sūtra" n="10">vāgvirāmō yatiḥ syātsaṁsyāpyatē śrutisundaram ।<lb/>pādāntē sūcitasthānē yuktapādāntē viśēṣataḥ</ab>
+      <note place="foot" n="†">Obvious mistakes of the scribe are corrected; the Avagraha is regularly marked though the scribe does not do so. The same is true of Sandhis.</note>
+      <pb n="42"/>
+      <ab type="sūtra" n="11">sandhikāraḥ samabhara ityēkō’rthastathēṣṭyatē’tra virāmaḥ ।<lb/>luptavibhaktirūpadamiti samāsapadamurucyatē yathā tatra yatiḥ</ab>
+      <ab type="sūtra" n="12">sañcāriṇāyyaghakulaharāṇyarhatō’nyatra na syuḥ<lb/>tatraivāptapravacanapadārthāṁśca yuktyā ghaṭantē ।<lb/>tasmāttanniścitamiti vinēyāḥ śrayantyātmavantō<lb/>yatyuktōdāharaṇamidamityādirasti prayōgaḥ</ab>
+      <ab type="sūtra" n="13">vāñchanti yatiṁ piṅgalavasiṣṭhakauṇḍinyakapilakambalamunayaḥ ।<lb/>nēcchanti bharatakōhalamāṇḍavyāśvatarasaitavādyāḥ kēcit</ab>
+      <ab type="sūtra" n="14">pr̥thagvidhānādracanāviśēṣaḥ<lb/>phalaṁ kavērlakṣaṇamādyamēva ।<lb/>prāgadyatarnīma ca nānyathātra<lb/>lōkaprasiddhau na kr̥tō vivādaḥ</ab>
+      <ab type="sūtra" n="15">uktamēkākṣaraṁ chandō’tyuktaṁ taddvyakṣaraṁ tathā ।<lb/>madhyamaṁ tryakṣaraṁ chandaḥ pratiṣṭhā caturakṣarī</ab>
+      <ab type="sūtra" n="16">supratiṣṭhā pañcākṣarī gāyatrī tu ṣaḍakṣarī ।<lb/>uṣṇik saptākṣarī jñēyānuṣṭubaṣṭākṣarī tataḥ</ab>
+      <ab type="sūtra" n="17">br̥hatī navākṣarī syātpaṅktirastu daśākṣarī tatastriṣṭup ।<lb/>ēkādaśākṣarītyapi śēṣāścaikaikavr̥ddhyā syuḥ</ab>
+      <ab type="sūtra" n="18">jagatī tathātijagatī śakkaryatiśakkarī tataścāṣṭiḥ ।<lb/>atyaṣṭiriṣṭiratidhr̥tirataḥ kr̥tiḥ prakr̥tikarākr̥tirvikr̥tiśca</ab>
+      <ab type="sūtra" n="19">saṁkr̥tirabhikr̥tirutkr̥tiriti ṣaḍviṁśatiranukramācchandāṁsi ।<lb/>vr̥ttānīha bhavanti hi ṣaḍviṁśati tatparaṁ tu mālāvr̥ttam</ab>
+      <ab type="sūtra" n="20">vr̥ttaṁ jātiriti dvēdhā padyaṁ tacca catuṣpadī ।<lb/>gaṇabaddhaṁ tathā vr̥ttaṁ jātirmātrāgaṇāśritā</ab>
+      <ab type="sūtra" n="21">vr̥ttaṁ samamardhasamaṁ viṣamaṁ mālāvkhyamiti caturdhā; jātiḥ ।<lb/>āryā mātrāsamakaṁ vaitālīya dvipadyapīti caturdhau</ab>
+      <ab type="sūtra" n="22">saṁskr̥tavācyāryādyāḥ prākr̥taviṣayē tu galitakādyā bahudhā ।<lb/>karṇāṭakē’kṣarādyā viṣayē ‡ śīrṣakādijātaya uditāḥ</ab>
+      <note place="foot" n="‡">One long or two short letters are missing.</note>
+      <pb n="43"/>
+      <ab type="sūtra" n="23">khaṇḍakāścaṇḍavr̥ṣṭādyāḥ pādāṁśaniyamōditāḥ ।<lb/>apādāniyamāśrōktā gaṇadhā gadyadaṇḍakāḥ</ab>
+      <ab type="sūtra" n="24">svacchandaḥsaṁjñā raghaṭā mātrākṣarasamōditāḥ ।<lb/>pādadvandvasamākīrṇā suśravyā saiva paddhatiḥ</ab>
+      <ab type="sūtra" n="25">pādā(r. dō’)kṣaramātrāniyamōditapiṇḍō’tha pādavatpadyaṁ syāt ।<lb/>pādadvitīyavarṇaḥ pādaṁ pādaṁ ya ēti sō’nuprāsaḥ</ab>
+      <ab type="sūtra" n="26">gadyaṁ hr̥dyamapādōktissamāsapadasaṁcitam ।<lb/>tatō’nyaccūrṇirityuktā vacanaṁ vākyabandhuram</ab>
+      <ab type="sūtra" n="27">samamēkēna dvābhyāmardhasamaṁ dr̥śyatē caturbhiḥ pādaiḥ ।<lb/>viṣamaṁ jātiśca tathā prastārapratyayē yathā tadvyāptiḥ</ab>
+      <ab type="sūtra" n="28">ēkadvitryādisaṁkhyārthaṁ candranētrapurādikam ।<lb/>chandō’rthaṁ gr̥hyatē lōkānnāprayuktaṁ prayujyatē</ab>
+      <trailer>iti jayakīrtikr̥tau chandō’nuśāsanē saṁjñādhikāraḥ prathamaḥ</trailer>
+    </div>
+    <div type="adhikāra" n="2">
+      <head>dvitīyādhikāraḥ</head>
+      <ab type="sūtra" n="1">yō’rhansō’vyāt</ab>
+      <ab type="sūtra" n="2">uktē gē śrīḥ</ab>
+      <ab type="sūtra" n="3">li nu khiddhi</ab>
+      <ab type="sūtra" n="4"><app><rdg wit="#Gemini">vindhyatyuktē । gau cētpadmam</rdg><rdg wit="#Claude">vidhyatyuktē । gau cētpadmam</rdg></app></ab>
+      <ab type="sūtra" n="5">lagau yadā । tadā sukham</ab>
+      <ab type="sūtra" n="6">glē tu yatra । jātu jatru</ab>
+      <ab type="sūtra" n="7">lili sati । baliriti</ab>
+      <ab type="sūtra" n="8"><app><rdg wit="#Gemini">mē madhyyē dhīmantaḥ । śyāmāṅgīṁ tāmāhuḥ</rdg><rdg wit="#Claude">mē madhyē dhīmantaḥ । śyāmāṅgīṁ tāmāhuḥ</rdg></app></ab>
+      <ab type="sūtra" n="9">vanaṁ cēnmanōjñaṁ । manō<lb break="no"/>hr̥jjanānām</ab>
+      <ab type="sūtra" n="10">rē sudhīrbhāsatē । sā sudhī dhīmatām</ab>
+      <ab type="sūtra" n="11" resp="#Claude">pavanē<lb/>pravaraṁ । praviduḥ pravarāḥ</ab>
+      <ab type="sūtra" n="12" resp="#Claude">tēnaiva sēnēti । kēnāpyamānīha</ab>
+      <ab type="sūtra" n="13" resp="#Claude">ravau tu rudhīha । suviddhi suvastu</ab>
+      <ab type="sūtra" n="14" resp="#Claude">yadyavibhōdya ca । hr̥dyamihōdhr̥ti</ab>
+      <ab type="sūtra" n="15" resp="#Claude">nagaṇayugaśca । dr̥giti jagati</ab>
+      <ab type="sūtra" n="16" resp="#Claude">prātiṣṭhēyī । gītirmōddaḥ</ab>
+      <ab type="sūtra" n="17" resp="#Claude">yagau vr̥ddhiḥ</ab>
+      <ab type="sūtra" n="18" resp="#Claude">rādagi carddhiḥ</ab>
+      <ab type="sūtra" n="19" resp="#Claude">sumatiḥ slau</ab>
+      <ab type="sūtra" n="20" resp="#Claude">tārā tagau</ab>
+      <ab type="sūtra" n="21" resp="#Claude">jagau jayā</ab>
+      <ab type="sūtra" n="22" resp="#Claude">bhagau sumukhī</ab>
+      <ab type="sūtra" n="23" resp="#Claude">madhu nagau</ab>
+      <ab type="sūtra" n="24" resp="#Claude">balī māli</ab>
+      <ab type="sūtra" n="25" resp="#Claude">yalau saśca</ab>
+      <ab type="sūtra" n="26" resp="#Claude">vartma<lb/>rājñi</ab>
+      <ab type="sūtra" n="27" resp="#Claude">kadalī sli</ab>
+      <ab type="sūtra" n="28" resp="#Claude">tālli trapu</ab>
+      <ab type="sūtra" n="29" resp="#Claude">japā jali</ab>
+      <ab type="sūtra" n="30" resp="#Claude">bhālli jatu</ab>
+      <ab type="sūtra" n="31" resp="#Claude">nali dayi</ab>
+      <!-- CHECK: Gemini OCR of sūtra 32 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="32" resp="#Claude">supratiṣṭhāyām ।<pb n="44"/><lb/>ṣaḍgurū prītiḥ</ab>
+      <ab type="sūtra" n="33"><app><rdg wit="#Gemini">kiṁca bhagau gaḥ. kāñcanamālā</rdg><rdg wit="#Claude">kiṁca bhagau gaḥ । kāñcanamālā</rdg></app></ab>
+      <ab type="sūtra" n="34">rādgau dhr̥tiḥ</ab>
+      <ab type="sūtra" n="35">satī jagau gaḥ</ab>
+      <ab type="sūtra" n="36">śarma bhalagāḥ</ab>
+      <ab type="sūtra" n="37" resp="#Claude">nandā talagaiḥ</ab>
+      <ab type="sūtra" n="38" resp="#Claude">salagai ramā</ab>
+      <ab type="sūtra" n="39" resp="#Claude">tiṣṭhadgu tādgau</ab>
+      <ab type="sūtra" n="40" resp="#Claude">sudatī sādgau</ab>
+      <ab type="sūtra" n="41" resp="#Claude">nalagi dhr̥tiḥ</ab>
+      <ab type="sūtra" n="42" resp="#Claude">gāyatryāṁ taṭī bhyau</ab>
+      <ab type="sūtra" n="43" resp="#Claude">mau cētsāvitrī syāt</ab>
+      <ab type="sūtra" n="44" resp="#Claude">tyau cēttanumadhyā</ab>
+      <ab type="sūtra" n="45" resp="#Claude">kāmalalitā bhyau</ab>
+      <ab type="sūtra" n="46" resp="#Claude">kanakalatā nyau</ab>
+      <ab type="sūtra" n="47" resp="#Claude">mātsaścēnmukulam</ab>
+      <ab type="sūtra" n="48" resp="#Claude">maṇirucirnarau</ab>
+      <ab type="sūtra" n="49" resp="#Claude">yadi sau kumudam</ab>
+      <ab type="sūtra" n="50" resp="#Claude">yadā yau<lb/>drutaṁ syāt</ab>
+      <ab type="sūtra" n="51" resp="#Claude">haṁsamālā rau</ab>
+      <ab type="sūtra" n="52" resp="#Claude">uṣṇihi bhajagdhunī</ab>
+      <ab type="sūtra" n="53" resp="#Claude">bhau gaparau kalikā</ab>
+      <ab type="sūtra" n="54" resp="#Claude">mau gaścēdgāndharvī syāt</ab>
+      <ab type="sūtra" n="55" resp="#Claude">tāt sgau bhramaramālā</ab>
+      <ab type="sūtra" n="56" resp="#Claude">kumāralalitā jsaug</ab>
+      <ab type="sūtra" n="57" resp="#Claude">mād bhō<lb/>gaścētsaralam</ab>
+      <ab type="sūtra" n="58" resp="#Claude">gōminīha rājjagau</ab>
+      <ab type="sūtra" n="59" resp="#Claude">citramiha bhanagaiḥ</ab>
+      <ab type="sūtra" n="60" resp="#Claude">nanagiha laṭahaḥ</ab>
+      <ab type="sūtra" n="61" resp="#Claude">bhsau giha madalēkhā</ab>
+      <ab type="sūtra" n="62" resp="#Claude">ānuṣṭubhi<lb/>tājjalagāḥ</ab>
+      <ab type="sūtra" n="63" resp="#Claude">mrau lgau cēdvakṣyatē kṣamā</ab>
+      <ab type="sūtra" n="64" resp="#Claude">mau gau cētsā<lb/>vidyunmālā</ab>
+      <ab type="sūtra" n="65" resp="#Claude">pramāṇikā jarau lagau</ab>
+      <ab type="sūtra" n="66" resp="#Claude">rāt jñalaiḥ samānyamāni</ab>
+      <ab type="sūtra" n="67" resp="#Claude">bhau ca gurū ca vitānam</ab>
+      <ab type="sūtra" n="68" resp="#Claude">citrapadā kvacidētat</ab>
+      <ab type="sūtra" n="69" resp="#Claude">māṇavakaṁ bhāttalagāḥ</ab>
+      <ab type="sūtra" n="70" resp="#Claude">nārācakaṁ tarau lagau</ab>
+      <ab type="sūtra" n="71" resp="#Claude">tau gau yadā<lb/>kētumālā</ab>
+      <ab type="sūtra" n="72" resp="#Claude">naralagaiḥ sumālatī</ab>
+      <ab type="sūtra" n="73" resp="#Claude">br̥hatyāṁ br̥hatyaṁ trayō yāḥ</ab>
+      <ab type="sūtra" n="74" resp="#Claude">māt tyau staścēt sundaralēkhā</ab>
+      <ab type="sūtra" n="75" resp="#Claude">br̥hatījamakṣi sajasaiḥ</ab>
+      <ab type="sūtra" n="76" resp="#Claude">rānnasau khalu halamukhī</ab>
+      <ab type="sūtra" n="77" resp="#Claude">jatau yadā cāruhāsinī</ab>
+      <ab type="sūtra" n="78" resp="#Claude">bhujagaśiśusr̥taṁ nau maḥ</ab>
+      <ab type="sūtra" n="79" resp="#Claude">vidyudayamatra bhajasaiḥ</ab>
+      <ab type="sūtra" n="80" resp="#Claude">bhau raparau<lb/>tadanūtsukam</ab>
+      <ab type="sūtra" n="81" resp="#Claude">bhadrikā bhavati rānnarau</ab>
+      <ab type="sūtra" n="82" resp="#Claude">nanarayutamupacyutam</ab>
+      <ab type="sūtra" n="83" resp="#Claude">gāthā mātsayugē kathitā</ab>
+      <ab type="sūtra" n="84" resp="#Claude">paṅktau śuddhavirāṇ masau jagau</ab>
+      <ab type="sūtra" n="85" resp="#Claude">mānyaugaḥ paṇavakamāha jñaḥ</ab>
+      <ab type="sūtra" n="86" resp="#Claude">rukmavatīyaṁ bhāti bhamasaiḥ</ab>
+      <ab type="sūtra" n="87" resp="#Claude">mattā mādbhaḥ saguruparaścēt</ab>
+      <ab type="sūtra" n="88" resp="#Claude">tyau sgāviti cētsā<lb/>madirākṣī</ab>
+      <ab type="sūtra" n="89" resp="#Claude">bhratritayādgiti citragatiḥ</ab>
+      <ab type="sūtra" n="90" resp="#Claude">rēphasadvayagairmaṇi<lb break="no"/>raṅkaḥ</ab>
+      <ab type="sūtra" n="91" resp="#Claude">bhau magurū yadi bandhūkākhyam</ab>
+      <!-- CHECK: Gemini OCR of sūtra 92 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="92" resp="#Claude">syānmayūrasāriṇī<pb n="45"/><lb/>rajau gau</ab>
+      <ab type="sūtra" n="93">mauktikaṁ rayau cējjagōttarau</ab>
+      <ab type="sūtra" n="94"><app><rdg wit="#Gemini">najanagadhr̥tvaritagatiḥ</rdg><rdg wit="#Claude">najanagadhr̥ttvarita<lb break="no"/>gatiḥ</rdg></app></ab>
+      <ab type="sūtra" n="95">haṁsakrīḍā mabhabhā gayutāḥ</ab>
+      <ab type="sūtra" n="96">triṣṭupchandasi<lb/>mātsajau maṇi gau</ab>
+      <ab type="sūtra" n="97"><app><rdg wit="#Gemini">dōdhakamatra tu bhannitayādrau</rdg><rdg wit="#Claude">dōdhakamatra tu bhannitayādgau</rdg></app></ab>
+      <ab type="sūtra" n="98">svāgatā<lb/>yadi ranau bhagurū gaḥ</ab>
+      <ab type="sūtra" n="99"><app><rdg wit="#Gemini">rānnrau lagayutau rathōḍdhatā</rdg><rdg wit="#Claude">rānnarau lagayutau rathōddhatā</rdg></app></ab>
+      <ab type="sūtra" n="100">viśrāmō’bdhau śālinī mēna tau gau</ab>
+      <ab type="sūtra" n="101">māt bhnau lagau cēt bhramara<lb break="no"/>vilasitam</ab>
+      <ab type="sūtra" n="102"><app><rdg wit="#Gemini">śrēṇirūyyabhāṇi rājjarau lagau</rdg><rdg wit="#Claude">śrēṇirabhyabhāṇi rājjarau lagau</rdg></app></ab>
+      <ab type="sūtra" n="103"><app><rdg wit="#Gemini">tājjau gaguruṇēvamupasthitā syāt</rdg><rdg wit="#Claude">tājjau<lb/>gaguruṇaivamupasthitā syāt</rdg></app></ab>
+      <ab type="sūtra" n="104">nanaralagayutaiva bhadrikā</ab>
+      <ab type="sūtra" n="105">sabharalagairaparāntikā bhavēt</ab>
+      <ab type="sūtra" n="106"><app><rdg wit="#Gemini">chinnagaṇasagayugasāg vr̥ntā</rdg><rdg wit="#Claude">dvinagaṇasagayugabhāg vr̥ntā</rdg></app></ab>
+      <ab type="sūtra" n="107" resp="#Claude">acyutaṁ rasasalguruṇōcyatē</ab>
+      <ab type="sūtra" n="108" resp="#Claude">tau taśca gau cēllayagrāhisaṁjñā</ab>
+      <ab type="sūtra" n="109" resp="#Claude">sāndrapadaṁ bhāttanagagiṣau kham</ab>
+      <ab type="sūtra" n="110" resp="#Claude">syānmōṭakamatra tajau jalagāḥ</ab>
+      <ab type="sūtra" n="111" resp="#Claude">vātōrmī mādbhatagā gēna yuktā</ab>
+      <ab type="sūtra" n="112" resp="#Claude">vātōrmī mādbhabhagāśca<lb/>surūpā</ab>
+      <ab type="sūtra" n="113" resp="#Claude">msau jgau gō rasakhaṁ sadaikarūpam</ab>
+      <ab type="sūtra" n="114" resp="#Claude">nayabhaga<lb break="no"/>gāścēcchrīḥ patitā ca</ab>
+      <ab type="sūtra" n="115" resp="#Claude">tau jēna gau cēdiyamindravajrā</ab>
+      <ab type="sūtra" n="116" resp="#Claude">upēndravajrā jatajā gurū cēt</ab>
+      <ab type="sūtra" n="117"><app><rdg wit="#Gemini">upēndravajrāraphuradindravajrā pādau vimiśrau yadi tau bhavētām । nānāvikalpairupajātirēṣā prakalpitārthaiḥ kavicindramālā</rdg><rdg wit="#Claude">upēndravajrāsphuradindravajrā<lb break="no"/>pādau vimiśrau yadi tau bhavētām ।<lb/>nānāvikalpairupajātirēṣā<lb/>prakalpitārthaiḥ kvacidindramālā</rdg></app></ab>
+      <ab type="sūtra" n="118"><app><rdg wit="#Gemini">jagatyāṁ caturyai bhujaṅgaprayātam</rdg><rdg wit="#Claude">jagatyāṁ caturyaṁ bhujaṅgaprayātam</rdg></app></ab>
+      <ab type="sūtra" n="119"><app><rdg wit="#Gemini">kāmāvatārastakarāairaiścaturbhistu</rdg><rdg wit="#Claude">kāmāvatārastakāraiścaturbhistu</rdg></app></ab>
+      <ab type="sūtra" n="120"><app><rdg wit="#Gemini">raiścaturbhirmatā vāgvidaiḥ sragviṇī</rdg><rdg wit="#Claude">raiścaturbhimitā vāgvidaiḥ sragviṇī</rdg></app></ab>
+      <ab type="sūtra" n="121"><app><rdg wit="#Gemini">iha tōṭakamāha catuḥsacitam</rdg><rdg wit="#Claude">iha tōṭakamāha catuḥsacittam</rdg></app></ab>
+      <ab type="sūtra" n="122">caturjagaṇaṁ yadi mauktikadāma</ab>
+      <ab type="sūtra" n="123">drutavilambitamatra nabhau<lb/>bharau</ab>
+      <ab type="sūtra" n="124"><app><rdg wit="#Gemini">mau yau pañcārthairviśramō vaiśvadēvī</rdg><rdg wit="#Claude">mau yau pañcāśvairviśramō vaiśvadēvī</rdg></app></ab>
+      <ab type="sūtra" n="125">pramitākṣarā<lb/>sajagaṇau yadi sau</ab>
+      <ab type="sūtra" n="126"><app><rdg wit="#Gemini">mādbhraśca smau jaladharamālādhvau (r. bdhau ) kham</rdg><rdg wit="#Claude">mādbhaśca smau jaladharamālābdhau<lb/>( r. bdhau ) kham</rdg></app></ab>
+      <ab type="sūtra" n="127">r̥tau jasajasā jalōddhatagatiḥ</ab>
+      <ab type="sūtra" n="128">sphuṭa<lb break="no"/>suragayatirnaumyau puṭaṁ syāt</ab>
+      <ab type="sūtra" n="129">atha navamālinī yadi najau bhyau</ab>
+      <ab type="sūtra" n="130">pramuditavadanātha nau rau ca cēt</ab>
+      <ab type="sūtra" n="131">candravartma bhavatīha<pb n="46"/><lb/>ranabhasaiḥ</ab>
+      <ab type="sūtra" n="132"><app><rdg wit="#Gemini">nabhajayaścai mukharaṁ kalahaṁsā</rdg><rdg wit="#Claude">nabhajayaścairmukharaṁ karahaṁsā</rdg></app></ab>
+      <ab type="sūtra" n="133" resp="#Claude">nabhasarair<lb break="no"/>bhavati mattakōkilam</ab>
+      <ab type="sūtra" n="134" resp="#Claude">r̥tuviratirnyau gajalalitā nyau</ab>
+      <ab type="sūtra" n="135" resp="#Claude">lalitapadā bharatasya najau jyau</ab>
+      <ab type="sūtra" n="136" resp="#Claude">mādbhrau yaḥ khaṁ puradhāmni<lb/>puṇḍarīkam</ab>
+      <ab type="sūtra" n="137" resp="#Claude">śivikā sayau syau ca mahēndravajrā</ab>
+      <ab type="sūtra" n="138" resp="#Claude">tyau tyau maṇimālā kvāpyajanicitrā</ab>
+      <ab type="sūtra" n="139" resp="#Claude">varatanuratra najau jarau gu<lb/>cēt</ab>
+      <ab type="sūtra" n="140" resp="#Claude">bhāttanasaiḥ syāt ratiriṣuviratiḥ</ab>
+      <ab type="sūtra" n="141" resp="#Claude">bhavati<lb/>nanarayaistu kāmadattā</ab>
+      <ab type="sūtra" n="142" resp="#Claude">gatiyatirdrutapadā mbhajayaiḥ syāt</ab>
+      <ab type="sūtra" n="143" resp="#Claude">vadanti vaṁśasthamidaṁ jatau jarau</ab>
+      <ab type="sūtra" n="144" resp="#Claude">syādindravaṁśā yadi tau jarau<lb/>gaṇau</ab>
+      <ab type="sūtra" n="145" resp="#Claude">yatrēndravaṁśācaraṇō yunakti cē<lb break="no"/>dvaṁśasthapādēna sahētyanēkadhā ।<lb/>karambajātirbhavatīha sā kvacit<lb/>kulālacakraṁ kva ca vaṁśamālikā</ab>
+      <!-- CHECK: Gemini OCR of sūtra 146 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="146" resp="#Claude">jñātā śrutirgatiyatibhāktabhau syau</ab>
+      <ab type="sūtra" n="147"><app><rdg wit="#Gemini">kr̥tōdyatiḥ smr̥tiriti jāddhsau yaḥ</rdg><rdg wit="#Claude">kr̥tōdyatiḥ smr̥tiriti<lb/>jādgasau yaḥ</rdg></app></ab>
+      <ab type="sūtra" n="148" resp="#Claude">śrutyaṁhriṇā smr̥ticaraṇō yathāsvaṁ<lb/>niyukti cēdiha bahubhirvikalpaiḥ ।<lb/>yadā samārddhasamaniyāmatō’nyat<lb/>siṁhaplutaṁ munidamasāgarōktam</ab>
+      <!-- CHECK: Gemini OCR of sūtra 149 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="149" resp="#Claude">alijagatyāṁ natau tau guruḥ kaumudī</ab>
+      <ab type="sūtra" n="150"><app><rdg wit="#Gemini">mnau jyau gaḥ puraviratiḥ praharṣiṇī syāt</rdg><rdg wit="#Claude">snau jnau gaḥ puraviratiḥ praha<lb break="no"/>rṣiṇī syāt</rdg></app></ab>
+      <ab type="sūtra" n="151" resp="#Claude">viśrāmō’bdhau ( r. mōbdhau ) mattamayūraṁ bhalagāḥ<lb/>sau</ab>
+      <!-- CHECK: Gemini OCR of sūtra 152 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="152" resp="#Claude">kuṭajaṁ vadanti kavayaḥ sajasasauḥ</ab>
+      <ab type="sūtra" n="153">yamau rau gaḥ<lb/>ṣaṣṭhē viśramaścandrikā syāt</ab>
+      <ab type="sūtra" n="154"><app><rdg wit="#Gemini">lakṣmīrbhavētsabhasajagairṣatau śrutau</rdg><rdg wit="#Claude">lakṣmīrbhavētsamasajagairmatiḥ śrutau</rdg></app></ab>
+      <ab type="sūtra" n="155"><app><rdg wit="#Gemini">najanasagairapi madalalitā syāt</rdg><rdg wit="#Claude">najanasagairapi mavalalitā syāt</rdg></app></ab>
+      <ab type="sūtra" n="156" resp="#Claude">najasajagairbhavati<lb/>mañjubhāṣiṇī</ab>
+      <ab type="sūtra" n="157" resp="#Claude">bhramarī sajau ca sasagāśca yadi syuḥ</ab>
+      <ab type="sūtra" n="158" resp="#Claude">maṇikuṇḍalaṁ syau sajagānvitau yadā</ab>
+      <ab type="sūtra" n="159" resp="#Claude">sajasā jagāviti jayā<lb break="no"/>rthaṁ nandinī</ab>
+      <ab type="sūtra" n="160" resp="#Claude">najajaragairacalaṁ kvacitsuvaktrā</ab>
+      <!-- CHECK: Gemini OCR of sūtra 161 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="161" resp="#Claude">ganta<lb break="no"/><pb n="47"/>bhakāracatuṣkayutāṅgaruciḥ</ab>
+      <ab type="sūtra" n="162"><app><rdg wit="#Gemini">nalinamalayati nau sajau guruḥ</rdg><rdg wit="#Claude">nalinamanalayati nau sajau guruḥ</rdg></app></ab>
+      <ab type="sūtra" n="163"><app><rdg wit="#Gemini">jabhau sajau giti rucirābdhiviśramā</rdg><rdg wit="#Claude">abhau sajau giti rucirābdhiviśramā</rdg></app></ab>
+      <ab type="sūtra" n="164"><app><rdg wit="#Gemini">vēdōdyati stabhasajagai rucirattadā</rdg><rdg wit="#Claude">vēdōdyati<lb break="no"/>stabhasajaiḥ rucistadā</rdg></app></ab>
+      <ab type="sūtra" n="165"><app><rdg wit="#Gemini">pādau yadā ruciracirōdgavāvimau vimiśritau yadi bhavataḥ kavīcchayā । samākṣaraṁ gaṇaviparītalakṣaṇaṁ chandaśritau bhavati tadā prakīrṇakam</rdg><rdg wit="#Claude">pādau yadā rucirucirōdbhavāvimau<lb/>vimiśritau yadi bhavataḥ kavīcchayā ।<lb/>samākṣaraṁ gaṇaviparītalakṣaṇaṁ<lb/>chandaścitau bhavati tadā prakīrṇakam</rdg></app></ab>
+      <ab type="sūtra" n="166"><app><rdg wit="#Gemini">śakkaryāṁ mrau ca tau gau candraśālādriyatyām</rdg><rdg wit="#Claude">śakvaryāṁ mrau ca tau gau candraśālādviyatyām</rdg></app></ab>
+      <ab type="sūtra" n="167">haṁsaśyāmā mabhanayagaga<lb break="no"/>bhāk khaṁ cābdhau</ab>
+      <ab type="sūtra" n="168"><app><rdg wit="#Gemini">mādbhavati hi lakṣmīḥ sāt tatau gau ca rudrā</rdg><rdg wit="#Claude">mādbhavati hi lakṣmīḥ syāt tatau gau ca rudrā</rdg></app></ab>
+      <ab type="sūtra" n="169"><app><rdg wit="#Gemini">prāhurvasantatilakāṁ tabhajā jagau gaḥ</rdg><rdg wit="#Claude">prāhurvasantatilakaṁ tabhajā jagau gaḥ</rdg></app></ab>
+      <ab type="sūtra" n="170"><app><rdg wit="#Gemini">yadi munivirati rnau ca tau gau vasataḥ</rdg><rdg wit="#Claude">yadi munivirati<lb break="no"/>rnau ca tau gau vasantaḥ</rdg></app></ab>
+      <ab type="sūtra" n="171"><app><rdg wit="#Gemini">prathitā sajasyalagabhāk tarātairyatiḥ</rdg><rdg wit="#Claude">prathitā sajasyalagabhāk tarāṅkairyatiḥ</rdg></app></ab>
+      <ab type="sūtra" n="172"><app><rdg wit="#Gemini">yatiyatiraparājitā nanarasalagāḥ</rdg><rdg wit="#Claude">yatiyatiparājitā nanaraslagāḥ</rdg></app></ab>
+      <ab type="sūtra" n="173">praharaṇakalikā nanabhana<lb break="no"/>laghugaiḥ</ab>
+      <ab type="sūtra" n="174"><app><rdg wit="#Gemini">sajanarlagāḥ śaraviratiḥ sudarśanā</rdg><rdg wit="#Claude">sajananalagāḥ śaraviratiḥ sudarśanā</rdg></app></ab>
+      <ab type="sūtra" n="175"><app><rdg wit="#Gemini">maṇikaṭikē sphuṭaṁ najabhajaiḥ salagaiḥ</rdg><rdg wit="#Claude">maṇika<lb break="no"/>ṭikaṁ sphuṭaṁ najabhajaiḥ salagaiḥ</rdg></app></ab>
+      <ab type="sūtra" n="176"><app><rdg wit="#Gemini">māt tnau sau gaścēdvrataviratirasabādhā</rdg><rdg wit="#Claude">māt tnau ssau gaścēdratavirati<lb break="no"/>rasaṁbādhā</rdg></app></ab>
+      <ab type="sūtra" n="177">ravimitalaghuguruyugamupacitram</ab>
+      <ab type="sūtra" n="178"><app><rdg wit="#Gemini">dardurakaṁ bhrāgaṇadvayēna rasau lagau</rdg><rdg wit="#Claude">dardurakaṁ<lb/>bhagaṇadvayēna rasau lagau</rdg></app></ab>
+      <ab type="sūtra" n="179"><app><rdg wit="#Gemini">bhājjasanagā yadi gurūdbanamayūraḥ</rdg><rdg wit="#Claude">bhājjasanagā yadi gurvanamayūraḥ</rdg></app></ab>
+      <ab type="sūtra" n="180"><app><rdg wit="#Gemini">śōbhatē vanalatā ranabhā bhaguru gaḥ</rdg><rdg wit="#Claude">śōbhatē vanalatā ranabhā bhagurū gaḥ</rdg></app></ab>
+      <ab type="sūtra" n="181">sabhasā jagau<lb/>giti gativiśramā sunandā</ab>
+      <ab type="sūtra" n="182"><app><rdg wit="#Gemini">atiśakkaryāja r̥ṣabhaḥ sajasāḥ sayau cēt</rdg><rdg wit="#Claude">atiśakvarīja r̥ṣabhaḥ sajasāḥ<lb/>sagrau cēt</rdg></app></ab>
+      <ab type="sūtra" n="183">lasati vasuvirāmā mālinī nau mayau yaḥ</ab>
+      <ab type="sūtra" n="184">nidhanagurumanulaghuriti śaśikalā</ab>
+      <ab type="sūtra" n="185">sragiti bhavati rasavirati<lb break="no"/>ratha ca sā</ab>
+      <ab type="sūtra" n="186"><app><rdg wit="#Gemini">+ ṇiyatisugapi ca maṇiguṇanikarā</rdg><rdg wit="#Claude">+ ṇiyatiyugapi ca maṇiguṇanikarā</rdg></app></ab>
+      <ab type="sūtra" n="187"><app><rdg wit="#Gemini">iyamapi gatigatiyatiriha rucirā</rdg><rdg wit="#Claude">ścayamapi gatigatimatiriha rucirā</rdg></app></ab>
+      <ab type="sūtra" n="188"><app><rdg wit="#Gemini">mrau mau mō’bdhau citraviśrāmaṁ jyōtiḥ kēṣāṁ mitraṁ syāt</rdg><rdg wit="#Claude">bhau mau mō’bdhau tri<lb break="no"/>rviśrāmaṁ jyōtiḥ kēṣāṁ mitraṁ syāt</rdg></app></ab>
+      <ab type="sūtra" n="189" resp="#Claude">najabhajarā bhavanti yadi<lb/>vasukēsaram</ab>
+      <ab type="sūtra" n="190" resp="#Claude">rājjarau jarau yadā mahōtsavō galagatam</ab>
+      <ab type="sūtra" n="191" resp="#Claude">sundaraṁ lviha ranau bhabharā maṇibhūṣaṇam</ab>
+      <ab type="sūtra" n="192" resp="#Claude">najajabhairarnindakaṁ<lb/>kalabhāṣiṇī</ab>
+      <!-- CHECK: Gemini OCR of sūtra 193 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="193" resp="#Claude">maṇḍūkīyaṁ turyē’rdhaścayaṁ viśramō mau mayau yaḥ<pb n="48"/><lb/></ab>
+      <ab type="sūtra" n="194"><app><rdg wit="#Gemini">mayūralalitaṁ bhavati jāt sanabhayāñcēt</rdg><rdg wit="#Claude">mayūralalitaṁ bhavati jāt sanabhayāścēt</rdg></app></ab>
+      <ab type="sūtra" n="195"><app><rdg wit="#Gemini">candralēkhā ṣṭadr̥kchēdā rarau tau mayuktau cēt</rdg><rdg wit="#Claude">candralēkhā<lb break="no"/>ṣṭadr̥kachēdā rarau tau sayuktau cēt</rdg></app></ab>
+      <ab type="sūtra" n="196" resp="#Claude">khaṁ purē ranabhabhā ryutā<lb/>ramaṇīyakam</ab>
+      <ab type="sūtra" n="197" resp="#Claude">sajanā nayau viṣamayatiravanirēlā</ab>
+      <ab type="sūtra" n="198" resp="#Claude">aṣṭibhavā bhacatuṣkasagaiḥ smaraśaramālā</ab>
+      <ab type="sūtra" n="199" resp="#Claude">padmamukhīha bhapañcakagaiḥ<lb/>sujanāvasatham</ab>
+      <ab type="sūtra" n="200" resp="#Claude">gatiyatinibhajajāgiti maṅgalamaṅganā</ab>
+      <ab type="sūtra" n="201" resp="#Claude">kamaladalamiṣuvirati nau najasagā gaścēt</ab>
+      <ab type="sūtra" n="202" resp="#Claude">bhratrinagai<lb break="no"/>rmunēḥ khamr̥ṣabhagajavilasitam</ab>
+      <ab type="sūtra" n="203" resp="#Claude">jarau jarau jagāvidaṁ vadanti pañcacā<lb break="no"/>maram</ab>
+      <ab type="sūtra" n="204" resp="#Claude">najabhajarā bhavanti guruṇēti vāṇinī syāt</ab>
+      <ab type="sūtra" n="205" resp="#Claude">jayānandaṁ<lb/>yānnau sulalitamr̥tucchitsarau gaḥ</ab>
+      <ab type="sūtra" n="206" resp="#Claude">nayanayasādgaḥ kharakha( r. ka )<lb break="no"/>rakhaṁ cēd bhuvi kāntam</ab>
+      <ab type="sūtra" n="207" resp="#Claude">najarabhā guruśca cintāmaṇirindumukhī</ab>
+      <ab type="sūtra" n="208" resp="#Claude">bhāti hi bhāminī bharanabhadvayagairbhuvanē</ab>
+      <ab type="sūtra" n="209" resp="#Claude">r̥tucchēdō’tyaṣṭau<lb/>yamanasabhalādgaḥ śikhariṇī</ab>
+      <ab type="sūtra" n="210" resp="#Claude">mandākrāntā gatir̥tuyatirmādbhanau tau<lb/>ca gau cēt</ab>
+      <ab type="sūtra" n="211" resp="#Claude">nasamarasalādu( r. dgu )cchēndō’ṅgē gatau ca hari<lb break="no"/>ṇyasau</ab>
+      <ab type="sūtra" n="212" resp="#Claude">jasau jasayalā gururvasuyatiśca pr̥thvī matā</ab>
+      <ab type="sūtra" n="213" resp="#Claude">digyati vaṁśapatrapatitaṁ bharanabhanalagaiḥ</ab>
+      <ab type="sūtra" n="214" resp="#Claude">najabhajajalagi tarkita<lb break="no"/>midaṁ bhuvi narkuṭakam</ab>
+      <ab type="sūtra" n="215" resp="#Claude">svararasaviśramō yadi tadēva hi kōki<lb break="no"/>lakam</ab>
+      <ab type="sūtra" n="216" resp="#Claude">śaraviratiriṣunagaṇagagiti vasudhārā</ab>
+      <ab type="sūtra" n="217" resp="#Claude">daśakhaṁ<lb/>tvatiśāyinī sasau jabhajagā guruścēt</ab>
+      <ab type="sūtra" n="218" resp="#Claude">dhr̥tau muktāmālā<lb/>yamanasatasairdryr̥tuviratiḥ</ab>
+      <ab type="sūtra" n="219" resp="#Claude">mātnau yau yaścētkusumitalatāvē<lb break="no"/>llitā khaṁ śarāṅkaiḥ</ab>
+      <ab type="sūtra" n="220" resp="#Claude">mālikōttaramālikā rasajā jbharaiśca gatāgatā</ab>
+      <ab type="sūtra" n="221" resp="#Claude">satanauryō ( r. nā yau ) yaḥ śararasayatirbhāti mandāramālā</ab>
+      <ab type="sūtra" n="222" resp="#Claude">dhūrjaṭiviśramaṇaṁ maṇimālā bhādbhau mabhasayutau</ab>
+      <ab type="sūtra" n="223" resp="#Claude">gatinidhiyatiriti nau yadi sau tyau paṅkajamuktā</ab>
+      <ab type="sūtra" n="224" resp="#Claude">bhavati ca<lb/>varadā dvayaṁ nau ca rau rau ca kēṣāṁ niśā</ab>
+      <ab type="sūtra" n="225" resp="#Claude">surabhiḥ puraśarayōryati<lb break="no"/>riti sāṅgajanabhasāḥ</ab>
+      <ab type="sūtra" n="226" resp="#Claude">atidhr̥tau nabharāḥ sajau jagurū tadā<lb/>taralaṁ smr̥tam</ab>
+      <!-- CHECK: Gemini OCR of sūtra 227 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="227" resp="#Claude">yamau nsau raugū rbhā rasarasayatirmēghavisphūrjitā<pb n="49"/><lb/>vā</ab>
+      <ab type="sūtra" n="228"><app><rdg wit="#Gemini">bhānvarkayati māsrajau satatagāḥ śārdūlavikrīḍitam</rdg><rdg wit="#Claude">bhānūdyati mātsajau satatagāḥ śārdūlavikrīḍitam</rdg></app></ab>
+      <ab type="sūtra" n="229"><app><rdg wit="#Gemini">digvirami rasau saṁtajā jagau śāṅgiṁ bhavēcca gatāgatam</rdg><rdg wit="#Claude">digvirāmi rasau satajā jgau śārṅgi bhavēcca gatāgatam</rdg></app></ab>
+      <ab type="sūtra" n="230"><app><rdg wit="#Gemini">jasau trisu(r. nu)kau guruśca rasayōryatiśca ratilīlā</rdg><rdg wit="#Claude">jasau triramu( r. nu )kau guruśca rasayōryatiśca ratilīlā</rdg></app></ab>
+      <ab type="sūtra" n="231"><app><rdg wit="#Gemini">kr̥tyāṁ bhūbhr̥tkubhr̥tyavaṁ marabhanayabhalā gaścētsuvadanā</rdg><rdg wit="#Claude">kr̥tyāṁ bhūbhr̥tkubhr̥tvaṁ marabhanayabhalā gaścētsuvadanā</rdg></app></ab>
+      <ab type="sūtra" n="232"><app><rdg wit="#Gemini">vr̥ttanāma vr̥ttamātra vartatē yadā tridhā rajau galau ca</rdg><rdg wit="#Claude">vr̥ttanāma<lb/>vr̥ttamatra vartatē yadā tridhā rajau galau ca</rdg></app></ab>
+      <ab type="sūtra" n="233"><app><rdg wit="#Gemini">sabharānmau yala gāstrayōdaśayatirmattēbhavikrīḍitam</rdg><rdg wit="#Claude">sabharānmau yala<lb break="no"/>gākhyōdaśayatirmattēbhavikrīḍitam</rdg></app></ab>
+      <ab type="sūtra" n="234">kāmalatā bharau nabhabharā<lb/>lgiti cōtpalamālikā kvacit</ab>
+      <ab type="sūtra" n="235"><app><rdg wit="#Gemini">bhatritayādgarasāllugurū yadi bhāsatē bhuvi bhāsuram</rdg><rdg wit="#Claude">bhritritayāddharasāṅgagurū yadi<lb/>bhāsatē bhuvi bhāsuram</rdg></app></ab>
+      <ab type="sūtra" n="236">nabhabhamāḥ sasalā giti mudrā rudrayatiḥ<lb/>kvacidujjvalam</ab>
+      <ab type="sūtra" n="237"><app><rdg wit="#Gemini">rātasapañcakamantalagaṁ puṭabhēdam( ka ?) matra gatāgatam</rdg><rdg wit="#Claude">rātsapañcakamantalagaṁ puṭabhēdama( ka ? )<lb break="no"/>matra gatāgatam</rdg></app></ab>
+      <ab type="sūtra" n="238" resp="#Claude">srau bhnau yau yaḥ prakr̥tyāṁ svaragiriviratiḥ<lb/>sragdharā nāma vr̥ttam</ab>
+      <ab type="sūtra" n="239" resp="#Claude">najabhajajastri citralatikā sati campa<lb break="no"/>kamālikā kvacit</ab>
+      <ab type="sūtra" n="240" resp="#Claude">nagaṇajakāracatuṣkabharairapi rañjitā vana<lb break="no"/>mañjarī</ab>
+      <ab type="sūtra" n="241" resp="#Claude">lalitagatirinavanaghikhē tātrinākhyātāyadāmāndī<lb break="no"/>tā ?</ab>
+      <ab type="sūtra" n="242" resp="#Claude">naṁ gaṇaṁ tririha raṁ gaṇaṁ tviti taraṅgapūrvapadamālikā</ab>
+      <ab type="sūtra" n="243" resp="#Claude">padmasañca rasāṅgajanabharaṁ haraviratiśca gatāgatam</ab>
+      <ab type="sūtra" n="244" resp="#Claude">ākr̥tināmni<lb/>madrakamidaṁ haridyati bharau narau naranagāḥ</ab>
+      <ab type="sūtra" n="245" resp="#Claude">satatānnaḥ saśca rau gaḥ<lb/>phaṇituragayatiḥ syānmahāsragdharākhyā</ab>
+      <ab type="sūtra" n="246" resp="#Claude">saptabhirantagabhairbhavatīti<lb/>gatāgatamatra latākusumam</ab>
+      <ab type="sūtra" n="247" resp="#Claude">nagaṇatō bhajagaṇau tridhā guruparau<lb/>yadā madanasāyakaḥ</ab>
+      <ab type="sūtra" n="248" resp="#Claude">atha vikr̥tau najau bhajabhajā bhalaugadvaya<lb break="no"/>tistadāśvalalitam</ab>
+      <ab type="sūtra" n="249" resp="#Claude">nagaṇajaṣaṭkayalādgiti haṁsagatiśca mahā<lb break="no"/>taruṇīta( da ? )yitam</ab>
+      <ab type="sūtra" n="250" resp="#Claude">mattākrīḍaṁ mau tnau nau nlau gururapi<lb/>ca viṣadharaśaraviramaṇam</ab>
+      <ab type="sūtra" n="251" resp="#Claude">citrakaṁ kva ca ranau tridhā ralagamatra<lb/>bhātyurutaraṅgamālikā</ab>
+      <ab type="sūtra" n="252" resp="#Claude">śaṅkhākhyamidaṁ bhagavadgaditaṁ tagaṇājja<lb break="no"/>gaṇāḥ ṣaḍatō lagurū</ab>
+      <ab type="sūtra" n="253" resp="#Claude">saṁkr̥tināmni vratanagaviratirbhāttanasaṁ<lb/>bhabhanayamapi tanvī</ab>
+      <ab type="sūtra" n="254" resp="#Claude">iha lalitalatā svaragiriviratirnanabhanaja<lb break="no"/>nanayaśōbhā</ab>
+      <ab type="sūtra" n="255" resp="#Claude">haṁsapadaṁ syādbhāca gaṇāḥ syurnataśaravasuyati masa<lb break="no"/>bhananānyau</ab>
+      <!-- CHECK: Gemini OCR of sūtra 256 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="256" resp="#Claude">atha mahāmadanasāyakō nagaṇatastridhā bhajagaṇau<pb n="50"/><lb/>ranaidhanau</ab>
+      <ab type="sūtra" n="257"><app><rdg wit="#Gemini">abhikr̥tibhavamiti gatina--sa-purabhagū haṁsalayē bhujagādriyatiḥ</rdg><rdg wit="#Claude">abhikr̥tibhavamiti gatina-sa-purabhag haṁsalayaṁ<lb/>bhujagādriyatiḥ</rdg></app></ab>
+      <ab type="sūtra" n="258"><app><rdg wit="#Gemini">krauñcapadaṁ bhātkiṁca maṁsau bhnau trinagaṇagurū śaraśaravasuyatayaḥ</rdg><rdg wit="#Claude">krauñcapadaṁ bhātkica masau bhnau trinagaṇaguru<lb/>śaraśaravasuyatayaḥ</rdg></app></ab>
+      <ab type="sūtra" n="259"><app><rdg wit="#Gemini">muntēbhārakhyaṁ mau mau māt tyau maścāntē gaḥ syādviśrāmō’bdhau caturasminbāṇē’pyēvam</rdg><rdg wit="#Claude">mantēbhākhyaṁ mau mau māt tyau maścāntē gaḥ<lb/>syādviśrāmō’bdhau caturasminbāṇē’pyēvam</rdg></app></ab>
+      <ab type="sūtra" n="260">utkr̥tyāṁ mau tnau nau<lb/>raḥ slau gururapi phaṇiharaviratirbhujaṅgavijr̥mbhitam</ab>
+      <ab type="sūtra" n="261"><app><rdg wit="#Gemini">mānnāḥ ṣaḍbha (r. dsa ) gayugamapi nidhirasarasāviramaṇidamapavāhākhyam</rdg><rdg wit="#Claude">mānnāḥ<lb/>ṣaḍbha( r. ṭsa )gayugamapi nidhirasarasaviramaṇamidamapavāhākhyam</rdg></app></ab>
+      <ab type="sūtra" n="262"><app><rdg wit="#Gemini">vasuvasuyatiratha guruyugaparavasurnayugiti vanalatikā syāt</rdg><rdg wit="#Claude">vasuvasuyatiratha guruyugaparavasunayayugiti vanalatikā syāt</rdg></app></ab>
+      <ab type="sūtra" n="263"><app><rdg wit="#Gemini">naya nayanānnratrayamapi gau cēdrasarasavasuyatiririti makarandam</rdg><rdg wit="#Claude">naya<lb break="no"/>nayanāṅgatrayamapi gau cēdrasarasavasuyatiriti makarandam</rdg></app></ab>
+      <ab type="sūtra" n="264"><app><rdg wit="#Gemini">manu viratirnarjau bhajagaṇatritayaṁ bhajalā gururyadi sudhākalaśaḥ</rdg><rdg wit="#Claude">manu<lb break="no"/>viratirnajau bhajagaṇatritayaṁ bhajalā gururyadi sudhākalaśaḥ</rdg></app></ab>
+      <ab type="sūtra" n="265"><app><rdg wit="#Gemini">mālāvr̥ttaṁ gativasusuyati mabharasamitanasa-vikasitakusumam</rdg><rdg wit="#Claude">mālā<lb break="no"/>vr̥ttaṁ gativasuvasuyati mabharasamitanasa-vikasitakusumam</rdg></app></ab>
+      <ab type="sūtra" n="266"><app><rdg wit="#Gemini">mālāvr̥ttaṁ mālāvr̥ttēṣvatha vasudhūrjaṭiyatnanvī(r. ntaṁ dhī ?)taṁ khyātaṁ mau tanabhā mau bhmau</rdg><rdg wit="#Claude">mālā<lb break="no"/>vr̥ttaṁ mālāvr̥ttēṣvatha vasudhūrjaṭiyattanvī( r. ttaṁ dhī ? )taṁ khyātaṁ mau<lb/>tanabhā mau bhmau</rdg></app></ab>
+      <ab type="sūtra" n="267"><app><rdg wit="#Gemini">gatinagaṇabhanabhanasakalitaṁ tripadalalitaṁ tadanuyati militam</rdg><rdg wit="#Claude">gatinagaṇabhanabhanasakalitaṁ tripadalalitaṁ tadanuyati<lb break="no"/>bhilitam</rdg></app></ab>
+      <ab type="sūtra" n="268"><app><rdg wit="#Gemini">nasabhanatajāṅgī tasayaṣṭupāṅgī lasatīti tadaṅga viratistribhaṅgī</rdg><rdg wit="#Claude">nasabhanatajāṅkī tasayabhr̥dupāṅkī lasatīti taddhaṅga<lb break="no"/>viratistribhaṅgī</rdg></app></ab>
+      <ab type="sūtra" n="269">nanabhanajananairnanalagamiha cēnmunigirivasuyati<lb break="no"/>riti maṇikiraṇaḥ</ab>
+      <ab type="sūtra" n="270"><app><rdg wit="#Gemini">trivasugayātiratha navanagaṇalagiha suvihita gatiriti bhavati kalā</rdg><rdg wit="#Claude">trivasugayatiratha navanagaṇalagiha suvihita<lb break="no"/>gatiriti bhavati kalā</rdg></app></ab>
+      <ab type="sūtra" n="271"><app><rdg wit="#Gemini">vr̥ttalalitaṁ lalitanr̥ttamapi sundara lyāttannranaṁ bhajasanā bhajasanā bhyau</rdg><rdg wit="#Claude">vr̥ttalalitaṁ lalitanr̥ttamapi sundara<lb break="no"/>layāttavaranaṁ bhajasanā bhajasanā bhyau</rdg></app></ab>
+      <ab type="sūtra" n="272">nagaṇadaśakamapi saguru<lb/>sayati yadi sugamarati lasati jagati laharikā</ab>
+      <ab type="sūtra" n="273"><app><rdg wit="#Gemini">tribhaṁnana mupari ca vidurbhāyutayagaṇamavanērbhavati lalitapadagarbhamiha cakrē</rdg><rdg wit="#Claude">tribhanana<lb break="no"/>mupari ca bidurbhayutayagaṇamavanērbhavati lalitapadgarbhamiha cakrē</rdg></app></ab>
+      <ab type="sūtra" n="274" resp="#Claude">citralayamatinibiḍamatra bhuvi bhananagaṇavattriridamiha budha paratra bhanaguru<lb break="no"/>bhāk</ab>
+      <ab type="sūtra" n="275" resp="#Claude">taraṇimitanagaṇalaghugurava iha diśi kakubhi hariti khalu<lb/>viratiriti bhuvi lalitalatikā</ab>
+      <ab type="sūtra" n="276"><app><rdg wit="#Gemini">prāyō’kṣarasamānyāhuḥ kvacinmātrāsamāni ca । mālāvr̥ttāni pādēṣu nātyārāñdha(?)kṣarātkila</rdg><rdg wit="#Claude">prāyō’kṣarasamānyāhuḥ kvacinmātrāsamāni ca ।<lb/>mālāvr̥ttāni pādēṣu nātyāśabdha(?)kṣarātkila</rdg></app></ab>
+      <trailer>iti jayakīrtikr̥tau chandō’nuśāsanē samavr̥ttādhikārō dvitīyaḥ</trailer>
+      <pb n="51"/>
+    </div>
+    <div type="adhikāra" n="3">
+      <head>tr̥tīyō’dhikāraḥ</head>
+      <ab type="sūtra" n="1">athātō’rdhasamaṁ vakṣyē yatprayōgānusāri tat ।<lb/>tadakṣarasamaṁ hīnamadhikaṁ cēti dr̥śyatē</ab>
+      <ab type="sūtra" n="2" resp="#Claude">upacitrakamardhasamēṣvidaṁ<lb/>sau salagā yadi bhau bhagurū gaḥ</ab>
+      <ab type="sūtra" n="3" resp="#Claude">yatra rukbhāra( ? )gaṇatritayādgau<lb/>najajayamapyanu sā drutamadhyā</ab>
+      <ab type="sūtra" n="4" resp="#Claude">saha satritayēna guruścēt<lb/>bhatritayēna ca vēgavatī gau</ab>
+      <ab type="sūtra" n="5" resp="#Claude">tāñjau⟨?⟩ guruṇātha mātsajau gau<lb/>bhadrairbhadravirāṭ svabhāṇi vr̥ttam</ab>
+      <ab type="sūtra" n="6" resp="#Claude">sajasā bhavanti guruṇātha<lb/>kētumatī bharau yadi nagau gaḥ</ab>
+      <ab type="sūtra" n="7" resp="#Claude">ākhyānakī tau jagaṇēna gau cēt<lb/>tathā jatau jēna gurudvayāntau</ab>
+      <ab type="sūtra" n="8" resp="#Claude">jatau jagau gastatajā gurū cē<lb break="no"/>dākhyānakī syādviparītapūrvā</ab>
+      <ab type="sūtra" n="9" resp="#Claude">rājjagau jarau lagau<lb/>yadā tadā pravartakam</ab>
+      <ab type="sūtra" n="10" resp="#Claude">lagapāra-sakāragaṇaistribhi<lb break="no"/>rnabhabharaistu gaṇairhariṇīplutā</ab>
+      <ab type="sūtra" n="11" resp="#Claude">yadi nanaralagā najau jarau<lb/>tadaparavaktramakāri sūribhiḥ</ab>
+      <ab type="sūtra" n="12" resp="#Claude">nagaṇayugarayēṇa puṣpitāgrā<lb/>najajaragairviditā jinavratāṁśaiḥ</ab>
+      <ab type="sūtra" n="13" resp="#Claude">sābhidhā yavadhvanērmatō ( r. tup ) striyāṁ hi<lb/>rajau rajau punarjarau jarau ca gaścēt</ab>
+      <pb n="52"/>
+      <ab type="sūtra" n="14">syādiha māninī diśi yatirbharanabhanalagāḥ ॥<lb/>najabhajanā gaṇāḥ sasahitā yadi haraviratiḥ</ab>
+      <ab type="sūtra" n="15"><app><rdg wit="#Gemini">sasajā gurusaṁyutāstataḥ sabharā lagau ca vibōdhitā bhavēt</rdg><rdg wit="#Claude">sasajā gurusaṁyutāstataḥ<lb/>sabharā lgau ca vibōdhitā bhavēt</rdg></app></ab>
+      <ab type="sūtra" n="16">sasajā guruyugmasaṁyutāḥ syuḥ<lb/>sabharā yaśca subōdhitā priyā vā</ab>
+      <ab type="sūtra" n="17"><app><rdg wit="#Gemini">bhāti narāṁ bhagaṇābhyāṁ talagāai rnajanasagairapi vilasitalīlā</rdg><rdg wit="#Claude">bhāti narāṁ bhagaṇābhyāṁ talagai<lb break="no"/>rnajanasagairapi vilasitalīlā</rdg></app></ab>
+      <ab type="sūtra" n="18" resp="#Claude">puramitanagaṇayamatha mau gaḥ ।<lb/>kṣāntiḥ prōktā cūḍēyam</ab>
+      <ab type="sūtra" n="19" resp="#Claude">viṣadharaviramaṇamudadhinagaṇasā<lb/>yatiyatirurugī nanabhanalaghugā</ab>
+      <ab type="sūtra" n="20" resp="#Claude">āmalakī bhacatuṣṭayamatra tu ।<lb/>bhatrayagā giti saiva ca cukṣā</ab>
+      <ab type="sūtra" n="21" resp="#Claude">jatau jarau śaṁkhanidhistu tau jarau ।<lb/>śrīpālyakīrtīśamatē sunandinī</ab>
+      <ab type="sūtra" n="22" resp="#Claude">tau ñrau⟨?⟩ tathā padmanidhirjatau jarau ।<lb/>svayambhudēvēśamatē tu nandinī</ab>
+      <ab type="sūtra" n="23" resp="#Claude">bhāmā bhavēdbhuvi gatibhāgvirāmā ।<lb/>tabhau yadā sayamatha jādbhasau yaḥ</ab>
+      <ab type="sūtra" n="24" resp="#Claude">tathōditā yatiriha jādbhasau yaḥ ।<lb/>tādbhaḥ sayāvapi viparītabhāmā</ab>
+      <ab type="sūtra" n="25" resp="#Claude">cūḍāmaṇistadvayajā gurū cēt ।<lb/>prajñāmahōdayamatā tabhajā jagau gaḥ</ab>
+      <ab type="sūtra" n="26" resp="#Claude">salilanidhiguṇitadharaṇidharalaghuradhigatagururayamasamacaraṇaḥ ।<lb/>taditara iti guruparaśikhivihitalaghudaśatayayutiraghaṭi sa khaluśikhā</ab>
+      <!-- CHECK: Gemini OCR of sūtra 27 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="27" resp="#Claude">vyatihr̥tapariśatayamayamabhavanikhilacaraṇasamupajanitapadaracanā ।<pb n="53"/><lb/>iyamiti bhavati hi bhuvi parikuṭilacalananigadanasadr̥śasamabhidhā*</ab>
+      <trailer>iti jayakīrtikr̥tau chandō’nuśāsanē ardhasamavr̥ttādhikārastr̥tīyaḥ</trailer>
+    </div>
+    <div type="adhikāra" n="4">
+      <head>caturthō’dhikāraḥ</head>
+      <ab type="sūtra" n="1">athātō viṣamaṁ vakṣyē yatprayōgānusāri tat ।<lb/>tat tridhā lakṣaṇē dr̥ṣṭaṁ samānōnādhikākṣaram</ab>
+      <ab type="sūtra" n="2"><app><rdg wit="#Gemini">caturakṣaratō yaścētrō cēdādyakṣarāttanau tu । vaktravadviṣamāṇaṁ tadvaktramānuṣṭubhaṁ bhāti</rdg><rdg wit="#Claude">caturakṣaratō yaścēnnō cēdādyakṣarātsnau tu ।<lb/>vaktravadviṣamāṇaṁ tadvaktramānuṣṭubhaṁ bhāti</rdg></app></ab>
+      <ab type="sūtra" n="3">ōjayōryagaṇēnābdhēryugmayōrjagaṇēna ca ।<lb/>ślōkēṣu kathyatē pathyā śrōtrapathyā yatastataḥ</ab>
+      <ab type="sūtra" n="4"><app><rdg wit="#Gemini">jagaṇē’bdhēryadaujayōryagaṇō yugmayōścēttham । viparītōktalakṣaṇādviparītādi pathyā syāt</rdg><rdg wit="#Claude">jagaṇō’bdhēryadaujayōryagaṇō yugmayōścēttham ।<lb/>viparītōktalakṣaṇādviparītādi pathyā syāt</rdg></app></ab>
+      <ab type="sūtra" n="5"><app><rdg wit="#Gemini">abdhēryugmamacaraṇē naścēdyugmē yakāraścēt । yasyāṁ sāpi tu capalānuṣṭubmadhyē bhavatyēvam</rdg><rdg wit="#Claude">abdhērayugmacaraṇē naścēdyugmē yakāraścēt ।<lb/>yasyāṁ sāpi tu capalānuṣṭubmadhyē bhavatyēvam</rdg></app></ab>
+      <ab type="sūtra" n="6"><app><rdg wit="#Gemini">vaktravadviṣamaḥ pādaḥ samē laghuścētsaptamē । anuṣṭubvipulāsvēvaṁ piṅlācāryavipulā</rdg><rdg wit="#Claude">vaktravadviṣamaḥ pādaḥ samē laghuścētsaptamē ।<lb/>anuṣṭubvipulāstvēvaṁ piṅgalācāryavipulā</rdg></app></ab>
+      <ab type="sūtra" n="7">śrutikāntaṁ laghau sati pratipādaṁ tu saptamē ।<lb/>sutarāmatra vibudhairmatā saitavavipulā</ab>
+      <ab type="sūtra" n="8" resp="#Claude">bhavēdyadābdhēḥ paratō bhakāraḥ sarvatra tadā ।<lb/>bhakārasaṁjñāṁ vipulāṁ bhaṇantyanuṣṭubnipuṇāḥ</ab>
+      <ab type="sūtra" n="9" resp="#Claude">paratō’bdhēryatra rēphē paritaḥ pādēṣu dr̥ṣṭē ।<lb/>vipulānāṁ rēphasaṁjñā vipulā bhavēttadānīm</ab>
+      <ab type="sūtra" n="10" resp="#Claude">nakārō’bdhēryadi bhavēdviṣamāṁhrau yuji tathā ।<lb/>sphuṭaṁ nakāravipulā vipulājñairiti matā</ab>
+      <ab type="sūtra" n="11" resp="#Claude">sarvataścaturbhyaḥ parō yadyasau takārō bhavēt ।<lb/>vipulāsu jātiṣvatastakārasaṁjñāṁ tāṁ viduḥ</ab>
+      <ab type="sūtra" n="12" resp="#Claude">yakārō’bdhērayukpādē yadi kaścidyuji gaṇaḥ ।<lb/>kaścidōjē jō yujyēvaṁ saṁkīrṇavipulā dvidhā</ab>
+      <note place="foot" n="*">The ms. adds the words khaṁjā nāma hereafter.</note>
+      <pb n="54"/>
+      <!-- CHECK: Gemini OCR of sūtra 13 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="13" resp="#Claude">yau prathamē hi vaktrādau nādyātsnāviti vāritau ।<lb/>tau kvacidapi dr̥śyētē lakṣyēṣu śrutisundaram</ab>
+      <ab type="sūtra" n="14">dvātriṁśadakṣarō granthaḥ sōnuṣṭup ślōka ityapi ।<lb/>ślōkastu gadyatē padyaṁ puṇyaślōkairmanīṣibhiḥ</ab>
+      <ab type="sūtra" n="15">prōktamanuṣṭubhi vaktraṁ pathyā viparītapathyayā capalā ।<lb/>piṅgalasaitavavipulā bharanatavipulāśca saṁkīrṇāḥ</ab>
+      <ab type="sūtra" n="16"><app><rdg wit="#Gemini">prathamō’yamaṣṭavarṇō dvādaśavarṇō dvitīyakaḥ pādaḥ syāt । ṣōḍaśavarṇō’tha tr̥tīyō viṁśatyakṣarastūryaḥ । yasya tadētatpadacatururdhvaṁ nānāgati trayōdaśadhā</rdg><rdg wit="#Claude">prathamō’yamaṣṭavarṇō ।<lb/>dvādaśavarṇō dvitīyakaḥ pādaḥ syāt ।<lb/>ṣōḍaśavarṇō’tha tr̥tīyō viṁśatyakṣarasturyō ।<lb/>yasya tadētatpadacaturūrdhvaṁ nānāgati trayōdaśadhā</rdg></app></ab>
+      <ab type="sūtra" n="17"><app><rdg wit="#Gemini">tadanu saha tathā yā । bhavati yatiśrudiyamiti pīḍā । dviguruparakalaghumayacaraṇacatuṣkā । kacidaghaṭi paduruciriha lipimitirajaniṁ taccēt</rdg><rdg wit="#Claude">tadanu saha tathā yā ।<lb/>bhavati yatibhr̥diyamiti pīḍā ।<lb/>dviguruparakalaghumayacaraṇacatuṣkā ।<lb/>kvacidaghaṭi padaruciriha lipimitirajani taccēt</rdg></app></ab>
+      <ab type="sūtra" n="18" resp="#Claude">pratyādiriyamapi ca ।<lb/>pīḍā praticaraṇamubhayaguru ॥<lb/>pūrvatra bhavati samuparigalaghuvisr̥ti ।<lb/>sā kvāpyanupadarucirucitalipiparimitiriti ca</ab>
+      <ab type="sūtra" n="19" resp="#Claude">pādākṣaramitirasyāḥ ।<lb/>prāgvad bhavati samupapadapīḍā ॥<lb/>ādyantaguruyugasakalalaghucaraṇāsau ।<lb/>kvāpyēvamatipadaruciratiruciramr̥dupadavr̥ttiḥ</ab>
+      <ab type="sūtra" n="20" resp="#Claude">prathamaśakala iha viparītau ।<lb/>yadi padarucipādau ॥<lb/>caraṇayugamaparamapi bhavati yathāsvaṁ ।<lb/>praticaraṇakalitayatirati padarucikalikāsau</ab>
+      <!-- CHECK: Gemini OCR of sūtra 21 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="21" resp="#Claude">bhūyō’pi sadanupadarucikali<lb break="no"/>kākhyēyamiti bhavati ॥<pb n="55"/><lb/>paurastyacaraṇayugamiha khalu vicalati ।<lb/>pāścātyacaraṇayugamacalitamatiśayitamaghaṭi</ab>
+      <ab type="sūtra" n="22"><app><rdg wit="#Gemini">ādau vyatihr̥tamatipadarucyāḥ । pādau yadi viparītau ॥ pādadvitayamitaradiha bhavati yathāsvaṁ । syādityāpi surucirayatiratipadarucikalikāravyā</rdg><rdg wit="#Claude">ādau vyatihr̥tamatipadarucyāḥ ।<lb/>pādau yadi viparītau ॥<lb/>pādadvitayamitaradiha bhavati yathāsvaṁ ।<lb/>syādityapi surucirayatiratipadarucikalikākhyā</rdg></app></ab>
+      <ab type="sūtra" n="23"><app><rdg wit="#Gemini">apasarati padarucivilagmaṁ । kramayugalamatha na khalu calati caturtham ॥ prathama iha tr̥tīyō । yadi bhavati vikr̥tagatiriti padarucilavalī syāt</rdg><rdg wit="#Claude">apasarati padarucivilambaṁ ।<lb/>kramayugalamatha na khalu calati caturtham ॥<lb/>prathama iha tr̥tīyō ।<lb/>yadi bhavati vikr̥tagatiriti padarucilavalī syāt</rdg></app></ab>
+      <ab type="sūtra" n="24"><app><rdg wit="#Gemini">syādēvamanupapadarucilavali kākhyā praticaraṇaniyatagurulaghurapi ॥ pādanyasanamiha tu । tadvatsamanubhavati jagati suniścitapadavisr̥ti</rdg><rdg wit="#Claude">syādēvamanupadarucilavali<lb break="no"/>kākhyā praticaraṇaniyatagurulaghurapi ॥<lb/>pādanyasanamiha tu ।<lb/>tadvatsamanubhavati jagati sunicitapadavisr̥ti</rdg></app></ab>
+      <ab type="sūtra" n="25"><app><rdg wit="#Gemini">madhyāṁhiyugalamatipadarucyāḥ । pūrvaṁ bhavati; caramacaraṇa iha yathāsvam ॥ ādyaṁhiratha tr̥tīyaḥ । padyē’ṣviyamapi ca sayatiratipadarucalavalī syāt</rdg><rdg wit="#Claude">madhyāṁhriyugalamatipadarucyāḥ ।<lb/>pūrvaṁ bhavati; caramacaraṇa iha yathāsvam ॥<lb/>ādyaṁhriratha tr̥tīyaḥ ।<lb/>padyēṣviyamapi ca sayatiratipadarucilavalī syāt</rdg></app></ab>
+      <ab type="sūtra" n="26" resp="#Claude">yadi bhavati gaditapadarucyāḥ ।<lb/>prathamataracaraṇa iha sa khalu caturthaḥ ॥<lb/>tricaraṇamupasarati ca padaruciyugamr̥tadhārā ।<lb/>jitasadamr̥tadhārā</ab>
+      <ab type="sūtra" n="27" resp="#Claude">ādyaṁhriranupadarucivadiha ।<lb/>turyō yadi bhavati niyatagurulaghutati ॥<lb/>anyatra caraṇamaghaṭi tadanupadaruciyugamr̥ta- ।<lb/>dhārēyamiti bhavati</ab>
+      <ab type="sūtra" n="28" resp="#Claude">pādaḥ prathama iha yadi turīyaḥ ।<lb/>pādatrayamanusarati tadatipadarucyāḥ ॥<pb n="56"/><lb/>pādairasamagatibhiratipadaruciyugamamr̥tadhārā ।<lb/>pādatrakavibhiruktā</ab>
+      <ab type="sūtra" n="29" resp="#Claude">padacaturūrdhvā pīḍā pratyāpīḍā ca bhavati saṁpīḍā ॥<lb/>kalikā lavalī cāmr̥tadhārā tisraḥ pr̥thak pr̥thak tridhāstāḥ</ab>
+      <ab type="sūtra" n="30" resp="#Claude">ōjapādē’nuṣṭubhō yēya ( 9 ) mā jagatyā vivardhitā ∥ 8 ∥<lb/>sā vijātigāthā jambukakathā (11) paśyatyādivaducyatē (8)</ab>
+      <ab type="sūtra" n="31" resp="#Claude">anuṣṭub viṣamākhyānāṁ ṣaḍbhiḥ pādairyathōditaiḥ ।<lb/>jātigāthā bhavatyēvamēnāṁ tu cchāndasīṁ viduḥ ॥<lb/>' daśa dharmaṁ na jānantī ' tyādērādiprayōgataḥ</ab>
+      <ab type="sūtra" n="32" resp="#Claude">yathā— daśa dharmaṁ na jānanti dhr̥tarāṣṭra nibōdha tān ।<lb/>mattaḥ pramatta unmattaḥ śrāntaḥ kruddhō bubhukṣitaḥ ।<lb/>tvaramāṇaśca bhīruśca lubdhaḥ kāmī tvamī daśa</ab>
+      <ab type="sūtra" n="33" resp="#Claude">iyaṁ ṣaṭpadagāthā ।<lb/>sajasā laghuḥ prathamakē’tha ।<lb/>nasajagurukā dvitīyakē ॥<lb/>bhanau ca jalagiti tr̥tīyatarē ।<lb/>yadi turyakē sajasajāgihōdgatā</ab>
+      <ab type="sūtra" n="34" resp="#Claude">prathamadvitīyakaturīya— ।<lb/>caraṇaniyamō’tra pūrvavat ॥<lb/>syāttr̥tīyacaraṇē ranabhaṁ ।<lb/>guruṇēti saurabhakamudgatōdgatam</ab>
+      <ab type="sūtra" n="35" resp="#Claude">nagaṇadvayaṁ sayugalaṁ ca ।<lb/>yadi padi tr̥tīyakē tathā ॥<lb/>viṣamamapi lalitamityabhavat ।<lb/>mr̥dupādalālitatayōdgatādikē</ab>
+      <ab type="sūtra" n="36" resp="#Claude">atha ( +tat ? )tr̥tīyacaraṇē tu ।<lb/>nabhajalaghugaṁ pravartatē ॥<lb/>jagati kīrtiranuvartigatiḥ ।<lb/>kavicārukīrtimuninā prakīrtitā</ab>
+      <pb n="57"/>
+      <ab type="sūtra" n="37" resp="#Claude">nsau jbhau gau prathamē; dvitīyakē sanajā gauṁ ।<lb/>dvinasaṁ tadanu tr̥tīyakē, caturthē ॥<lb/>triguṇitanagaṇajayāḥ ।<lb/>pracupitamidamuditamupasthitapūrvam</ab>
+      <ab type="sūtra" n="38" resp="#Claude">yasyaitasya tr̥tīyapādakē dvinasaṁ dviḥ ।<lb/>nitarāṁ tadiha vividdhi vardhamānam ॥<lb/>pracupitaniyamasamānamitaradapi sakalaṁ ।<lb/>samuditamr̥dupadapadavīkamitīdam</ab>
+      <ab type="sūtra" n="39" resp="#Claude">yadyēvaṁ tajarāstr̥tīyakē pādē tasya ।<lb/>prathamē yatirapi cārṣabhaṁ purastāt ॥<lb/>syācchuddhavirāḍidaṁ yadi ।<lb/>pracupitaniyamaniyamitāparalakṣmā</ab>
+      <ab type="sūtra" n="40" resp="#Claude">jātivijātī gāthā tathōdgatā saurabhakasulalitē kīrtiḥ ।<lb/>bhavatītyupasthitapracupitakamatō vardhamānamapi śuddhavirāṭ</ab>
+      <trailer>iti jayakīrtikr̥tau chandō’nuśāsanē viṣamavr̥ttādhikāraścaturthaḥ</trailer>
+    </div>
+    <div type="adhikāra" n="5">
+      <head>pañcamō’dhikāraḥ</head>
+      <ab type="sūtra" n="1"><app><rdg wit="#Gemini">dvigurustathāntagururādiguruśca catulaṁghuśca madhyaguruḥ । iti pañcāryādigaṇāḥ prastārē’tra tu gurōradhō laghū dvau dvau staḥ</rdg><rdg wit="#Claude">dvigurustathāntagururādiguruśca caturlaghuśca madhyaguruḥ ।<lb/>iti pañcāryādigaṇāḥ prastārē’tra nu gurōradhō laghukau dvau</rdg></app></ab>
+      <ab type="sūtra" n="2"><app><rdg wit="#Gemini">sapta caturmātragaṇā guruṇāryārddhadvayē na cāyuji jaḥ । jaḥ ṣaṣṭhō nlagaṇō vā laghuraparē trigaṇaviṣamāṁghriḥ</rdg><rdg wit="#Claude">sapta caturmātragaṇā guruṇāryārddhadvayē na cāyuji jaḥ ।<lb/>jaḥ ṣaṣṭhō nlagaṇō vā laghuraparē trigaṇaviṣamāṁhniḥ</rdg></app></ab>
+      <ab type="sūtra" n="3"><app><rdg wit="#Gemini">pādau prathamavr̥tīyau dvādaśamātrau dvitīya āryāyāḥ । aṣṭādaśamātrō’sau caturthakaḥ pañcadaśamātraḥ</rdg><rdg wit="#Claude">pādau prathamatr̥tīyau dvādaśamātrau dvitīya āryāyāḥ ।<lb/>aṣṭādaśamātrō’sau caturthakaḥ pañcadaśamātraḥ</rdg></app></ab>
+      <ab type="sūtra" n="4">āryaujapādanidhanē yatyāṁ pathyōbhayatra, pūrvārdhē ।<lb/>yatyāṁ tu pūrvapathyā parārdhayatyāṁ ca parapathyā</ab>
+      <ab type="sūtra" n="5" resp="#Claude">vipulā syādāryāviṣamapādayuganidhanayatyatikramaṇāt ।<lb/>nlagaṇaṁ pratyāryādivirāmaniyāmaṁ pravakṣyāmaḥ</ab>
+      <!-- CHECK: Gemini OCR of sūtra 6 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="6" resp="#Claude">nlē pañcamē caturthagaṇāntē padamiha hi vasati tadanu tathā ।<pb n="58"/><lb/>ṣaṣṭhē ṣaṣṭhagaṇādau saptamakē nlē ca ṣaṣṭhāntē</ab>
+      <ab type="sūtra" n="7"><app><rdg wit="#Gemini">gurumadhyagau bhavantau gaṇau jakārau dvitīyakacaturthau । syātāṁ yadāryādaladvayē sarvacapalā syāt</rdg><rdg wit="#Claude">gurumadhyagau bhavantau gaṇau jakārau dvitīyakacaturthau ।<lb/>syātāṁ tathā yadāryādaladvayē sarvacapalā syāt</rdg></app></ab>
+      <ab type="sūtra" n="8">jagaṇau dvitīyaturyau tathōditāvubhayapārśvaguruyuktau ।<lb/>pūrvārdhē yasyāḥ sā mukhacapalā śēṣamāryāvat</ab>
+      <ab type="sūtra" n="9">pūrvārdhamihāryāvat paścārdhē pūrvaparaguruśliṣṭau ।<lb/>dr̥ṣṭau dvitīyaturyau yadā tu jau jaghanacapalā syāt</ab>
+      <ab type="sūtra" n="10"><app><rdg wit="#Gemini">gurvantasaptagaṇabhāgāryāpūrvārdhalakṣaṇaṁ sakalam । yadyubhayārdhē yasyāḥ pravartatē sā tu gītiriti gītā</rdg><rdg wit="#Claude">gurvantasaptagaṇabhāgāryāpūrvārdhalakṣaṇaṁ sakalam ।<lb/>yadyubhayārdhē yasyāḥ pravartatē sā nu gītiriti gītā</rdg></app></ab>
+      <ab type="sūtra" n="11">yō’yamiha ṣaṣṭhalaghubhāgāryāparadalagatō niyamaḥ ।<lb/>sakalaḥ śakalayugē cēdyasyāstāmāhurupagītim</ab>
+      <ab type="sūtra" n="12"><app><rdg wit="#Gemini">ṣaṣṭhalaghubhāgyādāryāparadalaniyamō’tra pūrvārdhē । guruparasaptagaṇāryāprāgvanniyamaḥ parē yadōdgītiḥ</rdg><rdg wit="#Claude">ṣaṣṭhalaghubhāgyadāryāparadalaniyamō’tra pūrvārdhē ।<lb/>guruparasaptagaṇāryāprāgvanniyamaḥ parē yadōdgītiḥ</rdg></app></ab>
+      <ab type="sūtra" n="13"><app><rdg wit="#Gemini">sarvacaturmātragaṇō gurvantāṣṭamagaṇōbhayārdhēḥ skandhaḥ । pūrvatrigaṇaujāṁghriḥ sarvatrāyuji na jō; nlajau vā ṣaṣṭhaḥ</rdg><rdg wit="#Claude">sarvacaturmātragaṇō gurvantāṣṭamagaṇōbhayārdhaḥ skandhaḥ ।<lb/>pūrvatrigaṇaujāṁhriḥ sarvatrāyuji na jō; nlajau vā ṣaṣṭhaḥ</rdg></app></ab>
+      <ab type="sūtra" n="14"><app><rdg wit="#Gemini">sarvalaghuḥ skandhō’sau gurvantāṣṭamagaṇatvatō nāsti bhr̥śam । sarvagururnāsti tathā pūrvaimatānniyataṣaṣṭhajanlagaṇatvāt</rdg><rdg wit="#Claude">sarvalaghuḥ skandhō’sau gurvantāṣṭamagaṇatvatō nāsti bhr̥śam ।<lb/>sarvagururnāsti tathā pūrvamatānniyataṣaṣṭhajanlagaṇatvāt</rdg></app></ab>
+      <ab type="sūtra" n="15"><app><rdg wit="#Gemini">triṁśadvābhraścatvārō lāstē skandhasya varṇakā nyūnāścēt । vardhantē cēddvābhyāṁ lāḥ ṣaṣṭiścatasraścātuḥṣaṣṭiḥ syuḥ</rdg><rdg wit="#Claude">triṁśaddvāścatvārō lāstē skandhasya varṇakā nyūnāścēt ।<lb/>vardhantē cēddvābhyāṁ lāḥ ṣaṣṭistatkalāścatuḥṣaṣṭiḥ syuḥ</rdg></app></ab>
+      <ab type="sūtra" n="16" resp="#Claude">sphurati sa tu niyataguruparapurahatalaghudaśakaghaṭitasayaśakalayugaḥ ।<lb/>surucirayatiyutamr̥dupadaviracitagaticaraṇavisr̥tiriti budhayāditaḥ⟨?⟩</ab>
+      <!-- CHECK: Gemini OCR of sūtra 17 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="17" resp="#Claude">āryāgītērardhēnāryārdhaṁ kiṁcanapi kathamapi saha cēt ।<lb/>āryāvidaiḥ praṇītētyāryaiḥ saṁkīrṇajātiriyam</ab>
+      <ab type="sūtra" n="18" resp="#Claude">skandhasya ṣaṣṭhadhāmanyabhitaścaikō l yadōpaskandhaḥ ।<lb/>utskandhaḥ paurastyē pāścātyārdhē tadāvaskandhaḥ</ab>
+      <ab type="sūtra" n="19" resp="#Claude">gītistu ripucchandaḥ saptamaragaṇē tr̥tīyakē lalitā ।<lb/>tadubhayari bhadrikā syātṣaṣṭhaṁ tu vimucya rabahulā vicitrā</ab>
+      <!-- CHECK: Gemini OCR of sūtra 20 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="20" resp="#Claude">sugatacaturgatimātragaṇāṁhri pragaṇitamalāntagaṇanidhanadalam ।<pb n="59"/><lb/>nagaṇavikalpitajagaṇaturyapadaṁ jagaṇēna naujadhāma dhruvakam</ab>
+      <ab type="sūtra" n="21">tadīyaviṣamāspadē’pi yadā jagaṇō’tha ṣaṣṭhō’nyathā tathā vā ।<lb/>tadā tathā skandhakē’pidū+ripucchandaādi virūḍhasaṁjñām</ab>
+      <ab type="sūtra" n="22"><app><rdg wit="#Gemini">gāthāryādidalādāryāśayugē pūrvavatparārdhē tadgaṇayugavr̥ddhyā । udvyavasamupādhiparā mālāgāthā tatō’pyadhikā</rdg><rdg wit="#Claude">gāthāryādidalādāryāṁśayugē pūrvavatparārdhē tadgaṇayugavr̥dhdyā ।<lb/>udvyavasamupādhiparā mālāgāthā tatō’pyadhikā</rdg></app></ab>
+      <ab type="sūtra" n="23" resp="#Claude">āryā pathyātritayaṁ vipulā capalātrayaṁ tathā gītiḥ ।<lb/>upagītiścōdgītiścāryāgītirapi saiva ca skandhaḥ</ab>
+      <ab type="sūtra" n="24" resp="#Claude">saṁkīrṇacatuṣkamupaskandhaścōtskandha ityavaskandhaḥ ।<lb/>gatibhēdaripucchandō dhruvakamatastatra saptavidhagāthāśca</ab>
+      <ab type="sūtra" n="25" resp="#Claude">praticaraṇakayatiyugacaladhr̥tiratha ।<lb/>gatihatagatilaghuratimr̥dugatiriti ॥<lb/>samamapi samamiti na tu bhuvi samaghaṭi ।<lb/>samajani pr̥thagiha lasamakasamitiṣu</ab>
+      <ab type="sūtra" n="26" resp="#Claude">mātrāsamakēṣu vadanti catu—<lb/>rmātrōktacaturgaṇamāryajanāḥ ।<lb/>mātrāsamakaṁ gaparāṁśāntaṁ<lb/>mātrā navamīha tu laghvī syāt</ab>
+      <ab type="sūtra" n="27" resp="#Claude">bhagaṇō bhavati tr̥tīyagaṇōtrā<lb break="no"/>muktaḥ pūrvavadēva sunētrā ।<lb/>vadi pūrgaṇa(?) muninētyupacitrā ।<lb/>sōktāṁhrāviti ṣōḍaśamātrā</ab>
+      <ab type="sūtra" n="28" resp="#Claude">catasr̥bhya ēva mātrābhyō jō ।<lb/>nlau vānyadiha tathā viślōkaḥ ॥<lb/>kāvyaṁ hi tēna puṇyaślōkāḥ ।<lb/>prajñāmahōdayāḥ kathayanti</ab>
+      <ab type="sūtra" n="29" resp="#Claude">mātrābhyō’ṣṭābhya ēva yasyā ।<lb/>jō nlau vā pūrvavadiha śēṣam ॥<lb/>saviśēṣādvānavāsikēti ।<lb/>pravadanti viśēṣavādinastām</ab>
+      <pb n="60"/>
+      <ab type="sūtra" n="30" resp="#Claude">mātrābhya imau catasr̥bhyaḥ sau ।<lb/>yatrābhihitāvitaratprāgvat ॥<lb/>mātrāsamajātiṣu sā kathitā ।<lb/>citrāṁśavirāmavicitratayā</ab>
+      <ab type="sūtra" n="31" resp="#Claude">kaiścinmātrāsamakādīnāṁ ।<lb/>pādairmiśrairdvitricaturṇām ॥<lb/>pādākulakaṁ kavipādaistad ।<lb/>vyāpāditaṁ catuṣpadyēvam</ab>
+      <ab type="sūtra" n="32" resp="#Claude">apratipāditapādairgantaiḥ ।<lb/>pratipāditapādairapi sārdham ॥<lb/>prōktaṁ piṅgalapādākulakaṁ ।<lb/>tilakaṁ sucatuṣṣaṣṭikalānām</ab>
+      <ab type="sūtra" n="33" resp="#Claude">yasyāḥ pūrvārdhē’ṣṭau dīrghā dviḥ syuḥ syāt sānaṅgakrīḍā ।<lb/>tadaparaśakalaka iha jalanidhihatasaduditavasuparimitasulaghava iti</ab>
+      <ab type="sūtra" n="34" resp="#Claude">guruparanidhiyutakr̥timitalaghusuruciradalayugayugatirucirā ।<lb/>gurutarakavijanaviracitakr̥tiṣu ca varapadagatiriyamavagatā</ab>
+      <ab type="sūtra" n="35" resp="#Claude">mātrāsamakācaladhr̥tyupacitrāvānavāsikāviślōkāḥ ।<lb/>citrāpādākulakānaṅgakrīḍāhvayātirucirā gaditāḥ</ab>
+      <ab type="sūtra" n="36" resp="#Claude">acaladhr̥tirgītyāryānaṅgakrīḍā śikhā bhavēnnāmnā ।<lb/>atirucirā tatra tu cūlikā matā piṅga (+la ) sya matē</ab>
+      <ab type="sūtra" n="37" resp="#Claude">acaladhr̥tiḥ samavr̥ttaṁ syādatirucirārdhasamamanaṅgakrīḍā ।<lb/>viṣamamiha tatkimityabhyadhāyi kavibhiḥ kalāsamakē</ab>
+      <pb n="61"/>
+      <trailer>iti jayakīrtikr̥tau chandō’nuśāsanē āryājātimātrāsamaka- jātyadhikāraḥ pañcamaḥ</trailer>
+    </div>
+    <div type="adhikāra" n="6">
+      <head>ṣaṣṭhō’dhikāraḥ</head>
+      <ab type="sūtra" n="1"><app><rdg wit="#Gemini">vaitālīyādīnāṁ ṣaṇmātragaṇō’ṣṭadhāṣṭalaḥ ṣōḍaśadhā । tricaturgurustaḥ prastārō’trāpi gurōradhō laghū dvau dvau staḥ</rdg><rdg wit="#Claude">vaitālīyādīnāṁ ṣaṇmātragaṇō’ṣṭadhāṣṭalaḥ ṣōḍaśadhā ।<lb/>tricaturgurutaḥ prastārō’trāpi gurōradhō laghū dvau dvau staḥ</rdg></app></ab>
+      <ab type="sūtra" n="2" resp="#Claude">viṣamē padi ṣaṭ samē’ṣṭa vai ।<lb/>vaitālīyakalā ralagparāḥ ।<lb/>asamātra laghusthiti naṁ cēt ।<lb/>laghavaḥ ṣaṇna nirantarāḥ samē</ab>
+      <ab type="sūtra" n="3" resp="#Claude">mātrāniyamō’tra pūrvavatsyāt ।<lb/>aupacchandasikaṁ tathā rayāntam ।<lb/>mātrāgaṇalakṣaṇadvayēna ।<lb/>vyāpādyanta imē vicitrapādāḥ</ab>
+      <ab type="sūtra" n="4" resp="#Claude">sūtravidōktaṁ pratipādaṁ ।<lb/>yatra parau bhagaṇēna gakārau ।<lb/>sātra matāpātalikā syu<lb break="no"/>rmātrā vaitālīyavadasyāḥ</ab>
+      <ab type="sūtra" n="5" resp="#Claude">vaitālīyasamāṁhrilakṣaṇaṁ ।<lb/>pratipādaṁ khalu yatra vartatē ।<lb/>tatsamavaitālīyanāmakaṁ ।<lb/>saṁdr̥śyaṁ chandō’nuśāsanē</ab>
+      <ab type="sūtra" n="6" resp="#Claude">viṣamāṁhrigataṁ yadatra tad ।<lb/>vaitālīyasya lakṣaṇam ।<lb/>paritō viṣamābhidhānabhr̥d ।<lb/>vaitālīyaṁ taducyatē</ab>
+      <ab type="sūtra" n="7" resp="#Claude">aupacchandasikasya lakṣaṇaṁ yat ।<lb/>samapādōditamatra vartatē cēt ।<lb/>pratipādaṁ tannāma tatsamaupa<lb break="no"/>cchandasikaṁ chandōvidaiḥ⟨?⟩ praṇītam</ab>
+      <pb n="62"/>
+      <ab type="sūtra" n="8" resp="#Claude">ōjāṁhrigataṁ tathā yadaupa<lb break="no"/>cchandasikākhyasya lakṣaṇaṁ cēt ।<lb/>abhitō viṣamābhidhānakaupa<lb break="no"/>cchandasikaṁ chandasīha dr̥ṣṭam</ab>
+      <ab type="sūtra" n="9" resp="#Claude">āpātalikājātisamāṁhri<lb break="no"/>praṇiyatalakṣaṇamaṣṭakalādyam ।<lb/>yatra yadā bhagurudvitayāntaṁ ।<lb/>pratyaṁhri samāpātalikā sā</ab>
+      <ab type="sūtra" n="10" resp="#Claude">āpātalikāviṣamāṁhri<lb break="no"/>praṇihitalakṣmaṇyabhitō’smin ।<lb/>ṣaṇmātrādyādi⟨?⟩[ + ga ]yugmē ।<lb/>sati viṣamāpātalikā syāt</ab>
+      <ab type="sūtra" n="11" resp="#Claude">samayōryadi pādayōrgurau ।<lb/>turyapañcamakalāsamāgamē ॥<lb/>vaitālīyōktayōryadā ।<lb/>prācyavr̥ttiriti nāma vartatē</ab>
+      <ab type="sūtra" n="12" resp="#Claude">udīcyavr̥ttirbhavēdyadā ।<lb/>vaitālīyagataujapādayōḥ ।<lb/>gurau satīha prayuktayō<lb break="no"/>rdvaitīyīkatr̥tīyamātrayōḥ</ab>
+      <ab type="sūtra" n="13" resp="#Claude">udīcyavr̥ttyōjalakṣaṇaṁ ।<lb/>prācyavr̥ttisamapādalakṣaṇam ।<lb/>yathāsvamatrēti cētsmr̥taṁ ।<lb/>vr̥ttajātinipuṇaiḥ pravartakam</ab>
+      <ab type="sūtra" n="14" resp="#Claude">yatpravartakasamāṁhrilakṣaṇaṁ ।<lb/>lakṣyatēṁhriṣu caturṣu kēvalam ।<lb/>lalitajātiṣu niśātabuddhaya<lb break="no"/>stāmuśanti bahudhāparāntikam</ab>
+      <pb n="63"/>
+      <!-- CHECK: Gemini OCR of sūtra 15 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="15" resp="#Claude">pravartakaujāṁhrilakṣaṇaṁ ।<lb/>pravartatē cēnnirantaram ।<lb/>pravartakaiśchandasāmasau ।<lb/>pravartitā cāruhāsinī</ab>
+      <ab type="sūtra" n="16" resp="#Claude">yadi caupacchandasākhyajātau ।<lb/>prācyavr̥ttiniyamō bhavēdyathāsvam ।<lb/>viditaupacchandasābhidhāna<lb break="no"/>prācyavr̥ttiriyamucyatē vidhijñaiḥ</ab>
+      <ab type="sūtra" n="17" resp="#Claude">udīcyavr̥ttīyalakṣaṇaṁ cē<lb break="no"/>daupacchandasikē yathāsvamittham ।<lb/>tadōcyatē’sau kalāpravīṇai<lb break="no"/>raupacchandasikādyudīcyavr̥ttiḥ</ab>
+      <ab type="sūtra" n="18" resp="#Claude">pravartakīyaṁ yathāsvamaupa<lb break="no"/>cchandasē’tra yadabhāṇi lakṣaṇaṁ tat ।<lb/>pravartayatyaṁśamētadaupa<lb break="no"/>cchandasaprajanitaṁ pravartakākhyam</ab>
+      <ab type="sūtra" n="19" resp="#Claude">sundaraṁ sayatilakṣaṇaṁ yadaupa<lb break="no"/>cchandasaprakaṭitāparāntikōktam ।<lb/>chandasīha jayakīrtināmni caupa<lb break="no"/>cchandasaprajanitāparāntikā syāt</ab>
+      <ab type="sūtra" n="20" resp="#Claude">upāgataṁ cāruhāsinībhā<lb break="no"/>gupētyupacchandasīha taccēt⟨?⟩ ।<lb/>vipañcyatē cārulakṣaṇaṁ tat ।<lb/>prapañcataścāruhāsinīyam</ab>
+      <ab type="sūtra" n="21" resp="#Claude">āpātalikāhvayajātau ।<lb/>prācyavr̥ttigaditiryadi yasyām ।<pb n="64"/><lb/>sāpi tadāpātalikākhya<lb break="no"/>prācyavr̥ttirabhavadgavr̥ttyā⟨?⟩</ab>
+      <ab type="sūtra" n="22" resp="#Claude">udīcyavr̥ttērniyamō’sau ।<lb/>yadi tu bhavatyāpātalikāyām ।<lb/>udīcyavr̥ttistviti nāmnā ।<lb/>gaditāpātalikādirabhijñaiḥ</ab>
+      <ab type="sūtra" n="23" resp="#Claude">udīritāpātalikāyāṁ ।<lb/>yatpravartakamataṁ paridr̥ṣṭam ॥<lb/>yadā tadāpātalikādiḥ ।<lb/>syātpravartakamihārdhasamābham</ab>
+      <ab type="sūtra" n="24" resp="#Claude">āparāntikamidaṁ khalu lakṣma ।<lb/>prāpitaṁ yadi tadā talikāyām ॥<lb/>sāparā tadabhidhā talikādiḥ ।<lb/>śrīpurāṇakavipuṁgavagītā</ab>
+      <ab type="sūtra" n="25" resp="#Claude">pracōditāpātalikāyāṁ ।<lb/>sa cēdvidhiścārvabhidhāyāḥ⟨?⟩ ।<lb/>suvinmatāpātalikādiḥ ।<lb/>sucāruhāsinyapi cēt</ab>
+      <ab type="sūtra" n="26" resp="#Claude">ayujōrlaghavō’ṣṭa daśa yujō<lb break="no"/>rlau jō vā guruṇā tadantayōḥ ।<lb/>rlagaṇē tu tadādilaghuyati<lb break="no"/>rna viṣamalaghutō’trēti māgadhī</ab>
+      <ab type="sūtra" n="27" resp="#Claude">tōyadhimātragaṇatritayād<lb break="no"/>gō yadi nātra jakāragaṇaḥ ।<lb/>sthāyitr̥tīyapadāhnayugē⟨?⟩ sati ।<lb/>sō’yamabhāṇi guṇōguṇibhiḥ</ab>
+      <!-- CHECK: Gemini OCR of sūtra 28 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="28" resp="#Claude">ṣaṭkalataścatuṣkalagaṇāḥ pañcaiva gurustarāstathā⟨?⟩ ।<pb n="65"/><lb/>jō rlagaṇō’thavā dvitīyē ṣaṣṭhē ca na cētaratra jaḥ ॥<lb/>rlē sati tatra kararasasthānē prathamalaghau tu yatirasau ।<lb/>syād dvipadīti ṣaṭkalagaṇē lna samō’tra parēṇa yujyatē</ab>
+      <ab type="sūtra" n="29"><app><rdg wit="#Gemini">prāktanalakṣaṇadvipadikāniyamaḥ sakalaḥ sa vartatē’smin । vyaktamatō’dhikē sati gurau pratipādamitīdamabjanālam ॥ ṣaṣṭhagaṇāntalaghuvihīnā cētprathamadvipadikāsau । niścitaśēṣalakṣaṇayutā bhavatīti hi kāmalēkhā</rdg><rdg wit="#Claude">prāktanalakṣaṇadvipadikāniyamaḥ sakalaḥ sa vartatē’smin ।<lb/>vyaktamatō’dhikē sati gurau pratipādamitīdamabjanālam ॥<lb/>ṣaṣṭhagaṇāntalaghuvihīnā cētprathamadvipadikāsau ।<lb/>niṣṭhitaśēṣalakṣaṇayutā bhavatīti hi kāmalēkhā</rdg></app></ab>
+      <ab type="sūtra" n="30"><app><rdg wit="#Gemini">ūhitōktitatō galāṁśasaptakaṁ nirantaraṁ । gō hi naidhanē nakārasaptakaṁ yadāthavā ॥ vyāhitaṁ tadubhayamiśrasaptakaṁ tadā tathō tsāhamāhurutsavaṁ ca gōgrahādikē budhāḥ</rdg><rdg wit="#Claude">ūhitōktitō galāṁśasaptakaṁ nirantaraṁ ।<lb/>gō hi naidhanē nakārasaptakaṁ yadāthavā ॥<lb/>vyāhitaṁ tadubhayamiśrasaptakaṁ tadā tathō<lb break="no"/>tsāhamāhurutsavaṁ ca gōgrahādikē budhāḥ</rdg></app></ab>
+      <ab type="sūtra" n="31" resp="#Claude">mahōtsavō jakārataḥ sagōtsavāṁśaṣaṭkayē ।<lb/>* * * * *<lb/>jakāratō glayugmakaṁ nakāragaṇavikalpitaṁ ।<lb/>svakāri guruparaṁ yadā prakāśyatē tadā ramā</ab>
+      <ab type="sūtra" n="32" resp="#Claude">utsavāṁhripūrvakaṁ yadā ramāṁhrikōttaraṁ ramāṁhriyugalakōttaram ।<lb/>prōtsamānvaritatadaṁhrikōtsavāṁhrinaidhanaṁ ramāṁhririti ca naidhanam ॥<lb/>yatsumōdayajjanaṁ ramaikapādadalaparaṁ tathōtsavādi vā param ।<lb/>ta(+tsa)mīritaṁ layānugāmi yamakavattaraṁ vicitragati layōttaram</ab>
+      <ab type="sūtra" n="33" resp="#Claude">nagaṇayugalatō’tha raiḥ saptabhirdaṇḍakaścaṇḍavr̥ṣṭiprapātastathaikōttaram ।<lb/>praticaraṇavr̥ddhayō’rṇārṇavavyālajīmūtalīlākarōddāmaśaṅkhādayaḥ ॥<lb/>pracita iti nayugmatō yaistathānyairamiśrīkr̥taistatpramāṇairyadōtpadyatē ।<lb/>śaragirigatilōkalabvādikā⟨?⟩ścaṇḍavātānda⟨?⟩siṁhāhvayāstē’nvitāṁ<lb break="no"/>śōttarāḥ</ab>
+      <!-- CHECK: Gemini OCR of sūtra 34 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="34" resp="#Claude">caṇḍavr̥ṣṭyādikādau laghūktau niyāmō’tra⟨?⟩ yō varjayitvēti taṁ paṇḍitaiḥ<lb/>ścyarēphādibhi⟨?⟩rdaṇḍakāṁśaistathā kēvalairyē kr̥tāḥ ।<lb/>daṇḍakā vr̥ttaśabdādikā vr̥ttavattē hi pādōktalakṣmētarā daṇḍakā<lb/>yē tu tē gadyapūrvāśca mālādikāstē’thavānēkadhā ॥<pb n="66"/><lb/>yastathōtsavōktagaṇamayō gurūttaraḥ sa cōtsavābhidhānadaṇḍakō<lb/>mahārhadādidēvatāstavē smr̥taḥ ।<lb/>jagaṇētarābdhimātrāgaṇō’tra bhr̥śamayuji dhāmni bhavati jagaṇō’thavā<lb/>nlagaṇa ēṣa nidhanē guruśca tu hi citradaṇḍakaḥ</ab>
+      <ab type="sūtra" n="35" resp="#Claude">vaitālīyamataḥ samavaitālīyaṁ ca viṣamavaitālīyam ।<lb/>aupacchandasikāpātalikē ca tathā tridhā tridhā navadhēti</ab>
+      <ab type="sūtra" n="36" resp="#Claude">tattattripañcakaṁ prācyavr̥ttisaṁjñāpyudīcyavr̥ttiśca ।<lb/>sārdhaṁ pravarttakēnāparāntikā cāruhāsinīti jinamitāḥ</ab>
+      <ab type="sūtra" n="37" resp="#Claude">māgadhikā guṇajātirdvipadītrayamutsavadvitayamapi ca ramā ।<lb/>pañcalayōttaravidhayō’pi caṇḍavr̥ṣṭyādidaṇḍakā gaṇadhōktāḥ</ab>
+      <trailer>iti jayakīrtikr̥tau chandō’nuśāsanē miśrādhikāraḥ ṣaṣṭhaḥ</trailer>
+    </div>
+    <div type="adhikāra" n="7">
+      <head>saptamō’dhikāraḥ</head>
+      <ab type="sūtra" n="1"><app><rdg wit="#Gemini">vakṣyē’kṣaratripadyēḷākṣarikāṣaṭpadīcatuṣpadikāḥ । chandō’vataṁsasaṁjñā madanavatīgītikādimapi karṇāṭē</rdg><rdg wit="#Claude">vakṣyē’kṣaratripadyēlākṣarikāṣaṭpadīcatuṣpadikāḥ ।<lb/>chandō’vataṁsasaṁjñā madanavatīgītikādimapi karṇāṭē</rdg></app></ab>
+      <ab type="sūtra" n="2"><app><rdg wit="#Gemini">raladhā ratimadanaśarā dvitricaturgādayō’bdhivasusunr̥pasaṁkhyāḥ । prastārē pūrvagurōradhō laghū dvau parasya caikaikalaghuḥ</rdg><rdg wit="#Claude">raladhā ratimadanaśarā dvitricaturgādayō’bdhivasunr̥pasaṁkhyāḥ ।<lb/>prastārē pūrvagurōradhō laghū dvau parasya caikaikalaghuḥ</rdg></app></ab>
+      <ab type="sūtra" n="3"><app><rdg wit="#Gemini">dvitricaturvarṇāṁ gāthāścituḥpañcavarṇakā lādigaṇāḥ । kramaśō raladhēṣu bhavantyēkaikalaghurna vartatē’tra gaṇādau</rdg><rdg wit="#Claude">dvitricaturvarṇā gādyāstricatuḥpañcavarṇakā lādigaṇāḥ ।<lb/>kramaśō ralabēṣu bhavantyēkaikalaghurna vartatē’tra gaṇādau</rdg></app></ab>
+      <ab type="sūtra" n="4"><app><rdg wit="#Gemini">aṅgajagaṇayugād bāṇagaṇē । saṅgatē pratipadamalpākṣaram ॥ śr̥ṅgārapiṇḍādikānyēṣu tatt । saṅgītaṁ karṇāṭakē prasiddham</rdg><rdg wit="#Claude">aṅgajagaṇayugād bāṇagaṇē ।<lb/>saṅgatē pratipādamalpākṣaram ॥<lb/>śr̥ṅgārapiṇḍādikāvyēṣu tat ।<lb/>saṅgītaṁ karṇāṭakē prasiddham</rdg></app></ab>
+      <ab type="sūtra" n="5"><app><rdg wit="#Gemini">yadi tu ratigaṇaḥ pādādau pādamadhyē । madanagaṇayugaṁ pādāntē bāṇagaṇam । tadidamantarākṣaramakṣaraṅgā(r. ṅgair) gītaṁ । viditamāhr̥tē karṇāṭēśvarakathādau</rdg><rdg wit="#Claude">yadi tu ratigaṇaḥ pādādau pādamadhyē ।<lb/>madanagaṇayugaṁ pādāntē bāṇagaṇam ॥<lb/>tadidamantarākṣaramakṣarajñā ( r. jñair ) gītaṁ ।<lb/>viditamārhatē karṇāṭēśvarakathādau</rdg></app></ab>
+      <ab type="sūtra" n="6"><app><rdg wit="#Gemini">prathamē ratirēva manmathaḥ syād dvitīyē tr̥tīyē’ pyatha caturthē bāṇagaṇastu pañcamasthāna ēva ॥ grathitaṁ lakṣaṇamiti yasya tanmadhyamākṣarākhyaṁ । prathitaṁ karṇāṭamālatīmādhavaprabhr̥tikāvyē</rdg><rdg wit="#Claude">prathamē ratirēva manmathaḥ syāddvitīyē tr̥tīyē’- ।<lb/>pyatha caturthē bāṇagaṇastu pañcamasthāna ēva ॥<pb n="67"/><lb/>prathitaṁ lakṣaṇamiti yasya tanmadhyamākṣarākhyaṁ ।<lb/>prathitaṁ karṇāṭamālatīmādhavaprabhr̥tikāvyē</rdg></app></ab>
+      <ab type="sūtra" n="7"><app><rdg wit="#Gemini">ratipatigaṇayugmādratitaḥ smarayugmaṁ ratirapi (add ca punaḥ) pratipadaṁ vartatē yasmiṁstatsamānākṣaraṁ nāma ॥ śrutikāntamakṣaradakṣairādr̥tamasagākhyakavinā । pratipāditaṁ nanu karṇāṭakumārasaṁbhavakāvyē</rdg><rdg wit="#Claude">ratipatigaṇayugmādratitaḥ smarayugmaṁ ratirapi ( add ca punaḥ ) ।<lb/>pratipādaṁ vartatē yasmiṁstatsamānākṣaraṁ nāma ॥<lb/>śrutikāntamakṣaradakṣairādr̥tamasagākhyakavinā ।<lb/>pratipāditaṁ nanu karṇāṭakumārasaṁbhavakāvyē</rdg></app></ab>
+      <ab type="sūtra" n="8">ādau ratigaṇō madhyē’tra smaragaṇapañcakamantē tu bāṇagaṇaḥ ।<lb/>pādēṣviha ratirvā dvitīyē turyē ca sthānē tanmahākṣarākhyam ॥<lb/>pādādiprabhr̥tīti kēvalaṁ smaragaṇaṣaṭkayaṁ bāṇāntaṁ kēcidāhuḥ ।<lb/>pādē pādē’tra pratigaṇamapi yatirlakṣyatē sarvēṣāmakṣarāṇām</ab>
+      <ab type="sūtra" n="9" resp="#Claude">karakarābdhitryaṁśa---- ।<lb/>caraṇā digrasaratiḥ ॥<lb/>smaramayī lādigiriharāṁśā cānta---- ॥<lb/>viramaṇāccitrā tripadikā</ab>
+      <ab type="sūtra" n="10" resp="#Claude">sarvalakṣaṇamatra ।<lb/>pūrvavaddharadhāmni ॥<lb/>gurvādibāṇagaṇabhāg vicitrā syāt ॥<lb/>pūrvaṁ karṇāṭacchandōmatē</ab>
+      <ab type="sūtra" n="11" resp="#Claude">mātrābhirdvōṣaṣṭyā⟨?⟩ ।<lb/>citrā syādityēvam ॥<lb/>mātrā vardhantē kvacidasyā nyūnāstāḥ ॥<lb/>sūtraṁ pūrvōktaṁ kimamūbhiḥ</ab>
+      <ab type="sūtra" n="12" resp="#Claude">r̥tuhatagiripari--- ।<lb/>mitalaghuriyamatha ॥<lb/>yatiyutirakhilagururiha na bhavati ॥<lb/>yatipatigaditamata iti</ab>
+      <!-- CHECK: Gemini OCR of sūtra 13 was merged/misaligned; reading below is from the page image only -->
+      <ab type="sūtra" n="13" resp="#Claude">sarvalaghurna cēt ।<lb/>sarvathā tripadikā ॥<pb n="68"/><lb/>sarvagurustu na bhavēd girīśayō---- ।<lb/>rgurvādilagaṇapratiṣēdhāt</ab>
+      <ab type="sūtra" n="14"><app><rdg wit="#Gemini">tripadī tr̥tīyāṁhā--- । vapamuñcatyēlēti ॥ supaṭhitā gēyavidanaiḥ1</rdg><rdg wit="#Claude">tripadī tr̥tīyāṁhrā--- ।<lb/>vapamuñcatyēlēti ॥<lb/>supaṭhitā gēyavidjanaiḥ¹</rdg></app></ab>
+      <ab type="sūtra" n="15">madanādyāḥ śaragaṇāntāḥ ।<lb/>yadi caraṇāścatvāraḥ ॥<lb/>gaditāścēccatuṣpadikā ।<lb/>viditāsau cūḍāmaṇau</ab>
+      <ab type="sūtra" n="16">kandarpagaṇatō ratigaṇacatuṣkaṁ cēt ।<lb/>chandasi jayakīrtērādivarāhākhyā ॥<lb/>chandō’vataṁsanāmēti catuṣpadikā ।<lb/>saṁdr̥ṣṭāsau kumārasaṁbhavādau</ab>
+      <ab type="sūtra" n="17"><app><rdg wit="#Gemini">smaragaṇaḥ paritō’tra । śaragaṇaḥ puraṣaṣṭha--- । caraṇāntayōstadantē virāmaḥ ॥ karakarapuragaṇāḥ । dvirihatyābharaṇāścēt । sphurati ṣaṭcaraṇavat ṣaṭpadikā2</rdg><rdg wit="#Claude">smaragaṇaḥ paritō’tra । śaragaṇaḥ puraṣaṣṭha---- ।<lb/>caraṇāntayōstadantē virāmaḥ ॥<lb/>karakarapuragaṇāḥ । dvirihatyāścaraṇāścēt ।<lb/>sphurati ṣaṭcaraṇavat ṣaṭpadikā²</rdg></app></ab>
+      <ab type="sūtra" n="18"><app><rdg wit="#Gemini">smararatipūrvaṁ smararatimadhyaṁ smarayugagurunidhanam । caraṇacatuṣkaṁ sthirataracaturuttaraśatamātramidam ॥ karivasumātrāviramaṇayuktaṁ cēt sphurati tadākṣarikā । gurupararajagaṇataragatimātrādharagaṇabhāgathavā</rdg><rdg wit="#Claude">smararatipūrvaṁ smararatimadhyaṁ smarayugagurunidhanam ।<lb/>caraṇacatuṣkaṁ sthirataracaturuttaraśatamātramidam ॥<lb/>karivasumātrāviramaṇayuk cēt sphurati tadākṣarikā ।<lb/>guruparajagaṇētaragatimātrādharagaṇabhāgathavā</rdg></app></ab>
+      <note place="foot" n="1">pañca kāmā ratiścaikā kāmō’ntē caraṇatrayē । pratyēkaṁ tāsu cēdētāśchandasvatyō’khilā matāḥ ॥ 125 ॥ gaṇādērnyūnatādhikyādēlābhāsā imā matāḥ ॥ 126 ॥ ---saṁgītaratnākara ( Adyar Ed. 1944 ) IV·</note>
+      <note place="foot" n="2">ṣaṣṭhastr̥tīyastrigaṇa pr̥thag dvidvigaṇāḥ parē । catvāraścaraṇā bāṇaprāntau ṣaṣṭhatr̥tīyakau ॥ 272 ॥ śēṣāstu mānmathagaṇā yasyāṁ sā ṣaṭpadī matā । karṇāṭabhāṣayā tālavarjitā nādamuktikā ॥ 273 ॥ —saṁgītaratnākara ( Adyar Ed. 1944 ) IV·</note>
+      <pb n="69"/>
+      <ab type="sūtra" n="19"><app><rdg wit="#Gemini">prathamaka iha guruparakr̥tiparimitalaghuruditarē--- । pyatha pādā ratigaṇaparagatimadanagaṇāḥ syuḥ ॥ prathitapadāvalayastaiścēditi madanavatī । prathitayatiḥ praticaraṇaṁ dvāviṁśatimātrā</rdg><rdg wit="#Claude">prathamaka iha guruparakr̥tiparimitalaghurditarē---- ।<lb/>pyatha pādā ratigaṇaparagatimadanagaṇāḥ syuḥ ॥<lb/>prathitapadāvalayastaiścēditi madanavatī ।<lb/>prathitayatiḥ praticaraṇaṁ dvāviṁśatimātrā</rdg></app></ab>
+      <ab type="sūtra" n="20"><app><rdg wit="#Gemini">ragaṇō dvitīyē ṣaṣṭhē ca । lagaṇō dhagaṇō vānyatra pañcasvardhayōśca ॥ trigaṇō’yuk samapādō’bdhigaṇō । nigaditā gītikālaṁkārē prabhusēnēyaiḥ</rdg><rdg wit="#Claude">ragaṇō dvitīyē ṣaṣṭhē ca ।<lb/>lagaṇō dhagaṇō vānyatra pañcasvardhayōśca ॥<lb/>trigaṇō’yuk samapādō’bdhigaṇō ।<lb/>nigaditā gītikālaṁkārē prabhusēnīyaiḥ</rdg></app></ab>
+      <ab type="sūtra" n="21"><app><rdg wit="#Gemini">ādirgurupūrvaścētpādō gurūpūrvakāstathānyē jātau । pādō laghupūrvaścēdādiḥ śēṣāstathaiva bhāṣāviṣayē</rdg><rdg wit="#Claude">ādirgurupūrvaścētpādō gurupūrvakāstathānyē jātau ।<lb/>pādō laghupūrvaścēdādiḥ śēṣāstathaiva bhāṣāviṣayē</rdg></app></ab>
+      <ab type="sūtra" n="22">kimētāvanti padyāni cēhānuktānyanēkadhā ।<lb/>santi ṣaṭpratyayē tāni dr̥śyantē sūcitāni ca</ab>
+      <trailer>iti jayakīrtikr̥tau chandō’nuśāsanē karṇāṭaviṣayabhāṣājātyadhikāraḥ saptamaḥ</trailer>
+    </div>
+    <div type="adhikāra" n="8">
+      <head>aṣṭamō’dhikāraḥ</head>
+      <ab type="sūtra" n="1"><app><rdg wit="#Gemini">gaṇānāṁ pratyayānāṁ ca mukhyaḥ prastāra ēva saḥ । tasmātprastārasūtraṁ tadr̥cchēkaṁ sarvatra dr̥śyatē</rdg><rdg wit="#Claude">gaṇānāṁ pratyayānāṁ ca mukhyaḥ prastāra ēva saḥ ।<lb/>tasmātprastārasūtraṁ taddhyēkaṁ sarvatra dr̥śyatē</rdg></app></ab>
+      <ab type="sūtra" n="2"><app><rdg wit="#Gemini">gurōradhastāllaghumāditaḥ kṣipētparaṁ likhēddūrdhvasamaṁ punastathā । pāścātyakhaṇḍaṁ guruṇā prapūrayēdyāvatpadaṁ sarvalaghutvamāpyatē</rdg><rdg wit="#Claude">gurōradhastāllaghumāditaḥ kṣipētparaṁ likhēdūrdhvasamaṁ punastathā ।<lb/>pāścātyakhaṇḍaṁ guruṇā prapūrayēdyāvatpadaṁ sarvalaghutvamāpyatē</rdg></app></ab>
+      <ab type="sūtra" n="3"><app><rdg wit="#Gemini">vinyasya sarvagurvēkadvicatuṣkānsamardhasamaviṣamāṁhīn । prastārayētpr̥thakpr̥thagiti kramāt vr̥ttavidhirayaṁ prastāraḥ</rdg><rdg wit="#Claude">vinyasya sarvagurvēkadvicatuṣkānsamārdhasamaviṣamāṁhrīn ।<lb/>prastārayētpr̥thakpr̥thagiti kramāt vr̥ttavidhirayaṁ prastāraḥ</rdg></app></ab>
+      <ab type="sūtra" n="4">ēkaikēnāntaritā prastāraprathamapaṅktiriha gurulaghunā ।<lb/>tattaddviguṇitagalataḥ kramāddvitīyādipaṅktayō’ntaritāḥ syuḥ</ab>
+      <ab type="sūtra" n="5">ardhasamaprastārē saṁdr̥śyantē samārdhasamavr̥ttāni ।<lb/>viṣamaprastārē’tra tu samārdhasamaviṣamavr̥ttarūpāṇyakhilam</ab>
+      <ab type="sūtra" n="6">jātīnāmapi caturaḥ pādānvinyasya saṁbhavatsarvagurūn ।<lb/>prastārayēditi prāggaṇasaṁbhavamapi laghuprayōgaṁ jñātvā</ab>
+      <ab type="sūtra" n="7"><app><rdg wit="#Gemini">pr̥cchakavr̥ttamitāṅkaṁ dalayēllaghu samadalē likhēdguru viṣamē । saikatvācchandōmiti janayēditi naṣṭavr̥ttarūpakamaṅgāt</rdg><rdg wit="#Claude">pr̥cchakavr̥ttamitāṅkaṁ dalayēllaghu samadalē likhēdguru viṣamē ।<lb/>saikatvācchandōmiti janayēditi naṣṭavr̥ttarūpakamaṅkāt</rdg></app></ab>
+      <pb n="70"/>
+      <ab type="sūtra" n="8"><app><rdg wit="#Gemini">rūpitavr̥ttapratigalamaikādidviguṇitāḥ syurupari tadaṅkān । lagatānsaikānyuktvā tāvatithaṁ vr̥ttamiti vadētprastārē</rdg><rdg wit="#Claude">rūpitavr̥ttapratigalamēkādidviguṇitāḥ syurupari tadaṅkān ।<lb/>lagatānsaikānyuktvā tāvatithaṁ vr̥ttamiti vadētprastārē</rdg></app></ab>
+      <ab type="sūtra" n="9"><app><rdg wit="#Gemini">chandōvarṇānaikādhikarūpānukramānnidhāyā (+dhastā)t । tattaduparyupari tathā kṣipēditi punaḥ punarbahnēkai kam</rdg><rdg wit="#Claude">chandōvarṇānēkādhikarūpānutkramānnidhāyā (+dhastā)t ।<lb/>tattaduparyupari tathā kṣipēditi punaḥ punarjahannēkaikam</rdg></app></ab>
+      <ab type="sūtra" n="10"><app><rdg wit="#Gemini">ādyanta( r. ntē ) sarvalagē ēkādilaghūni madhyavr̥ttānyēṣu । piṇḍīkr̥tēṣu saṁkhyā saikōddiṣṭāikapiṇḍatā vā saṁkhyā</rdg><rdg wit="#Claude">ādyanta( r. ntē ) sarvalagē ēkādilaghūni madhyavr̥ttānyēṣu ।<lb/>piṇḍīkr̥tēṣu saṁkhyā saikōddiṣṭāṅkapiṇḍitā vā saṁkhyā</rdg></app></ab>
+      <ab type="sūtra" n="11">chandō’kṣarē samadalē śūnyaṁ nyasya viṣamē tathā rūpam ।<lb/>rūpē taddviguṇaṁ khē vargaḥ samavr̥ttasaṁkhyā syāt</ab>
+      <ab type="sūtra" n="12">jñātasamavr̥ttasaṁkhyā tattadguṇatō’rdhasamakasaṁkhyā mūlāt ।<lb/>tattadguṇātsamūlārdhasamamitērviṣamavr̥ttamitirapamūlā</ab>
+      <ab type="sūtra" n="13"><app><rdg wit="#Gemini">pañcavidhavr̥ttasaṁkhyā sthānē svākṣarahr̥tē dvitīyādidalē । dalitatr̥tīyacaturthē sārdhāntē vr̥ttavarṇagurulaghumātrā</rdg><rdg wit="#Claude">pañcavidhavr̥ttasaṁkhyā sthānē svākṣarahatē dvitīyādidalē ।<lb/>dalitatr̥tīyacaturthē sārdhāntē vr̥ttavarṇagurulaghumātrā</rdg></app></ab>
+      <ab type="sūtra" n="14"><app><rdg wit="#Gemini">jātyaṁhicatuṣkē pratigaṇaṁ kṣipēttatra saṁbhavadraṇasaṁkhyām । guṇa(+yē) danyōnyaṁ tatsaṁkhyā syātsarvajātisaṁkhyēti matā</rdg><rdg wit="#Claude">jātyaṁhricatuṣkē pratigaṇaṁ kṣipēttatra saṁbhavadgaṇasaṁkhyām ।<lb/>guṇa (+yē) danyōnyaṁ tatsaṁkhyā syātsarvajātisaṁkhyēti matā</rdg></app></ab>
+      <ab type="sūtra" n="15"><app><rdg wit="#Gemini">āryātha saptapañcāśanmātrā skandhakaścatuḥṣaṣṭikalaḥ । taddvanmātrāsamakaṁ sadvādaśaśatakalā dvipadikētyādēḥ</rdg><rdg wit="#Claude">āryātha saptapañcāśanmātrā skandhakaścatuḥṣaṣṭikalaḥ ।<lb/>tadvanmātrāsamakaṁ sadvādaśaśatakalā dvipadikētyādēḥ</rdg></app></ab>
+      <ab type="sūtra" n="16">jātērmātrāpiṇḍē svākṣararahitē kr̥tē sthitā guravaḥ syuḥ ।<lb/>gururahitē’kṣarasaṁkhyā laghurahitē’rdhīkr̥tē tu gurusaṁkhyā syāt</ab>
+      <ab type="sūtra" n="17"><app><rdg wit="#Gemini">chandaḥsaṁkhyā hatā dvābhyāmēkarūpavivarjitā । chinnavr̥ttāṅgaluvyāmiradhvayōgō bhavēditi</rdg><rdg wit="#Claude">chandaḥsaṁkhyā hatā dvābhyāmēkarūpavivarjitā ।<lb/>chinnavr̥ttāṅgulavyāptiradhvayōgō bhavēditi</rdg></app></ab>
+      <ab type="sūtra" n="18"><app><rdg wit="#Gemini">prastārō naṣṭamuddiṣṭamēkadvyādilaghukiyā । saṁkhyānamadhvayōgaścētyuktaṁ pratyayaṣaṭkayam</rdg><rdg wit="#Claude">prastārō naṣṭamuddiṣṭamēkadvyādilaghukriyā ।<lb/>saṁkhyānamadhvayōgaścētyuktaṁ pratyayaṣaṭkayam</rdg></app></ab>
+      <ab type="sūtra" n="19">māṇḍavyapiṅgalajanāśrayasaitavākhya<lb break="no"/>śrīpādapūjyajayadēvabudhādikānām ।<lb/>chandāṁsi vīkṣya vividhānapi satprayōgān<lb/>chandō’nuśāsanamidaṁ jayakīrtinōktam</ab>
+      <trailer>iti jayakīrtikr̥tau chandō’nuśāsanē ( prastārādipratyayādhikāraḥ )</trailer>
+      <trailer>saṁvat 1192 āṣāḍhaśudi 10 śanau likhitam</trailer>
+    </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/tei.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="san-Latn">Bhaṭṭa Kēdāra's Vr̥ttaratnākara</title>
+        <title xml:lang="san-Deva">भट्टकेदारविरचितो वृत्तरत्नाकरः</title>
+      </titleStmt>
+      <publicationStmt><p>Placeholder</p></publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Gemini"><label>Gemini OCR of the printed edition</label></witness>
+          <witness xml:id="Claude"><label>Claude, reading the page images; not proofread</label></witness>
+        </listWit>
+        <p>OCR of a printed critical edition (kedara.pdf; edition pp. 71–93), transliterated to ISO; not yet proofread. The sigla of the manuscripts in the apparatus (A, Ba, Bb, Br, Jn, Nr, Pa, Pb, Rm, Sd, Sk, Sm, Ss, Su, Vs, Wa, Wb, Wc, Wg, Wo) are those of the edition; their descriptions are not yet entered.</p>
+        <listWit><witness xml:id="A"><label>A</label></witness><witness xml:id="Ba"><label>Ba</label></witness><witness xml:id="Bb"><label>Bb</label></witness><witness xml:id="Br"><label>Br</label></witness><witness xml:id="Jn"><label>Jn</label></witness><witness xml:id="Nr"><label>Nr</label></witness><witness xml:id="Pa"><label>Pa</label></witness><witness xml:id="Pb"><label>Pb</label></witness><witness xml:id="Rm"><label>Rm</label></witness><witness xml:id="Sd"><label>Sd</label></witness><witness xml:id="Sk"><label>Sk</label></witness><witness xml:id="Sm"><label>Sm</label></witness><witness xml:id="Ss"><label>Ss</label></witness><witness xml:id="Su"><label>Su</label></witness><witness xml:id="Vs"><label>Vs</label></witness><witness xml:id="Wa"><label>Wa</label></witness><witness xml:id="Wb"><label>Wb</label></witness><witness xml:id="Wc"><label>Wc</label></witness><witness xml:id="Wg"><label>Wg</label></witness><witness xml:id="Wo"><label>Wo</label></witness></listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="san-Latn">
+    <body>
+      <head>atha bhaṭṭakēdāraviracitaḥ vr̥ttaratnākaraḥ</head>
+    <div type="adhyāya" n="1">
+      <head>prathamō’dhyāyaḥ</head>
+      <lg n="1">
+        <l><app><rdg wit="#Gemini">sukhasaṁtānasiddhyarthaṁ natvā brahmācyutārcitam</rdg><rdg wit="#Claude">sukhasaṁtānasidhdyarthaṁ natvā brahmācyutārcitam</rdg></app></l>
+        <l>gaurīvināyakōpētaṁ śaṁkaraṁ lōkaśaṁkaram</l>
+      </lg>
+      <lg n="2">
+        <l><app><rdg wit="#Gemini">vēdārthaśaivaśāstrajñaḥ pabbēkō’bhūd dvijōttamaḥ</rdg><rdg wit="#Claude">vēdārthaśaivaśāstrajñaḥ pavvēkō’bhūd dvijōttamaḥ</rdg></app></l>
+        <l>tasya putrō’sti kēdāraḥ śivapādārcanē rataḥ</l>
+      </lg>
+      <app type="apparatus" n="2a"><rdg wit="#Rm">vēdāntaśaiva 0</rdg><rdg wit="#Ss" n="Ss (v. l.)">vēdārthasarva 0</rdg></app>
+      <app type="apparatus" n="2b"><rdg wit="#Nr">pavyēkō</rdg><rdg wit="#Rm">paṭhyēkō</rdg><rdg wit="#Sk #Su" n="Su (c)">pibbēkō</rdg><note type="Gemini-reading">pabyēkō Nr; paṭhyēkō Rm; pibbēkō Sk, Su (c).</note></app>
+      <lg n="3">
+        <l><app><rdg wit="#Gemini">tēnēdaṁ kriyatē chandō lakṣyalakṣaṇasaṁyuktam</rdg><rdg wit="#Claude">tēnēdaṁ kriyatē chandō lakṣyalakṣaṇasaṁyutam</rdg></app></l>
+        <l>vr̥ttaratnākaraṁ nāma bālānāṁ sukhasiddhayē</l>
+      </lg>
+      <app type="apparatus" n="3d"><rdg wit="#Bb #Pb #Rm #Sk #Sm #Su" n="Su (b)">- sukhabuddhayē</rdg></app>
+      <lg n="4">
+        <l>piṅgalādibhirācāryairyaduktaṁ laukikaṁ dvidhā</l>
+        <l>mātrāvarṇavibhēdēna chandastadiha kathyatē</l>
+      </lg>
+      <app type="apparatus" n="4c"><rdg wit="#Br">- varṇavibhāgēna</rdg></app>
+      <lg n="5">
+        <l><app><rdg wit="#Gemini">ṣaḍadhyāyanibaddhasya chandasō’sya parisruṭam</rdg><rdg wit="#Claude">ṣaḍadhyāyanibaddhasya chandasō’sya parisphuṭam</rdg></app></l>
+        <l>pramāṇamiti vijñēyaṁ ṣaṭtriṁśadadhikaṁ śatam</l>
+      </lg>
+      <app type="apparatus" n="5c"><note>pramāṇamapi 0 Ba, Br, Jn, Pa, Rm, Vs. Stz 5 is dropped by Ss.</note></app>
+      <lg n="6">
+        <l><app><rdg wit="#Gemini">myarastajabhangairlāntairēbhirdaśabhirakṣaraiḥ</rdg><rdg wit="#Claude">myarastajabhnagairlāntairēbhirdaśabhirakṣaraiḥ</rdg></app></l>
+        <l>samastaṁ vāṅmayaṁ vyāptaṁ trailōkyamiva viṣṇunā</l>
+      </lg>
+      <lg n="7">
+        <l>sarvagurmō mukhāntalau yarāvantagalau satau</l>
+        <l><app><rdg wit="#Gemini">gmadhyādyau jabhau trilō nō’ṣṭau bhavantyatra gaṇāstrikāḥ</rdg><rdg wit="#Claude">gmadhyādyau jbhau trilō nō’ṣṭau bhavantyatra gaṇāstrikāḥ</rdg></app></l>
+      </lg>
+      <lg n="8">
+        <l>jñēyāḥ sarvāntamadhyādiguravō’tra catuṣkalāḥ</l>
+        <l>gaṇāścaturlaghūpētāḥ pañcāryādiṣu saṁsthitāḥ</l>
+      </lg>
+      <app type="apparatus" n="8a"><rdg wit="#Rm #Su" n="Su (b)">-sarvādimadhyānta</rdg><note type="Gemini-reading">-sarvōdimadhyānta Rm, Su (b).</note></app>
+      <app type="apparatus" n="8d"><rdg wit="#Rm">pathyāryā 0</rdg></app>
+      <lg n="9">
+        <l>sānusvārō visargāntō dīrghō yuktaparaśca yaḥ</l>
+        <l><app><rdg wit="#Gemini">vā pādāntē tvasau vakrō jñēyō’nyō mātrikō lr̥juḥ</rdg><rdg wit="#Claude">vā pādāntē tvasau gvakrō jñēyō’nyō mātrikō r̥juḥ</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="9c"><rdg wit="#Br #Su" n="Su (b)">vā padāntē 0</rdg><rdg wit="#Bb #Sk #Su" n="Su (c)">vā pādāntas 0</rdg></app>
+      <app type="apparatus" n="9d"><rdg wit="#Ba #Bb #Jn #Su" n="Su (a, b)">- mātr̥kō 0</rdg></app>
+      <lg n="10">
+        <l>padādāviha varṇasya saṁyōgaḥ kramasaṁjñakaḥ</l>
+        <l>puraḥsthitēna tēna syāllaghutāpi kvacid gurōḥ*</l>
+      </lg>
+      <app type="apparatus" n="10a"><note>pādādāviha 0 Ba, Bb, Br, Nr, Pa, Pb, Rm, Sd, Sk, Sm, Su (a), Ss, Vs. Jn notices pādādau but rejects it</note><note>Br notices padādau and prefers it but does not adopt it.</note></app>
+      <app type="apparatus" n="10b"><rdg wit="#Rm">- kramasaṁjñitaḥ</rdg></app>
+      <app type="apparatus" n="10c"><rdg wit="#Rm">purasthitēna 0</rdg><note type="Gemini-reading">parasthitēna 0 Rm.</note></app>
+      <note place="foot" type="extra-stanza">* 10. 1 taruṇaṁ sarṣapaśākaṁ navaudanaṁ picchilāni ca dadhīni ।<lb/>alpavyayēna sundari grāmyajanō miṣṭamaśnāti ॥<lb/>[1 b picchalāni Ba, Bb, Pa, Sk, Sm, Ss, Su (b). 1 d mr̥ṣṭama0 Sd, Su (b, c).</note>
+      <lg n="11">
+        <l>abdhibhūtarasādīnāṁ jñēyāḥ saṁjñāstu lōkataḥ</l>
+        <l>jñēyaḥ pādaścaturthāṁśō yatirvicchēdasaṁjñitā</l>
+      </lg>
+      <app type="apparatus" n="11b"><rdg wit="#Sm #Su" n="Su (b)">jñēyā saṁjñātra 0</rdg><rdg wit="#Rm">jñēyāḥ saṁkhyāstu 0</rdg></app>
+      <app type="apparatus" n="11d"><rdg wit="#Sm #Su #Vs" n="Sm (b), Su (b)">- saṁjñakā</rdg><rdg wit="#Ba #Bb #Jn #Pa #Sk #Sm" n="Sm (a)">- saṁjñikā</rdg><rdg wit="#Nr">- saṁjñitaḥ</rdg><rdg wit="#Rm">- saṁjñakaḥ</rdg></app>
+      <lg n="12">
+        <l>yuksamaṁ viṣamaṁ cāyuk sthānaṁ sadbhirnigadyatē</l>
+        <l>samamardhasamaṁ vr̥ttaṁ viṣamaṁ ca tathāparam</l>
+      </lg>
+      <app type="apparatus" n="12d"><rdg wit="#Jn">- tataḥ param</rdg><rdg wit="#Rm">- tridhā matam</rdg></app>
+      <lg n="13">
+        <l><app><rdg wit="#Gemini">aṁghrayō yasya catvārastulyalakṣaṇalakṣitāḥ</rdg><rdg wit="#Claude">aṁhrayō yasya catvārastulyalakṣaṇalakṣitāḥ</rdg></app></l>
+        <l>tacchandaḥśāstratattvajñāḥ samaṁ vr̥ttaṁ pracakṣatē</l>
+      </lg>
+      <app type="apparatus" n="13a–14a"><rdg wit="#Ba #Nr #Pa #Pb #Rm #Sm #Vs">aṁghrayō 0 prathamāṁghri 0</rdg></app>
+      <lg n="14">
+        <l><app><rdg wit="#Gemini">prathamāṁghrisamō yasya tr̥tīyaścaraṇō bhavēt</rdg><rdg wit="#Claude">prathamāṁhrisamō yasya tr̥tīyaścaraṇō bhavēt</rdg></app></l>
+        <l><app><rdg wit="#Gemini">dvitīyastūryavad vr̥ttaṁ tadardhasamamucyatē</rdg><rdg wit="#Claude">dvitīyasturyavad vr̥ttaṁ tadardhasamamucyatē</rdg></app></l>
+      </lg>
+      <lg n="15">
+        <l>yasya pādacatuṣkē’pi lakṣma bhinnaṁ parasparam</l>
+        <l>tadāhurviṣamaṁ vr̥ttaṁ chandaḥśāstraviśāradāḥ</l>
+      </lg>
+      <lg n="16">
+        <l>ārabhyaikākṣarātpādādēkaikākṣaravardhitaiḥ</l>
+        <l><app><rdg wit="#Gemini">pr̥thakchandō bhavētpādyairyāvat ṣaḍviṁśatiṁ gataiḥ</rdg><rdg wit="#Claude">pr̥thakchandō bhavētpādairyāvat ṣaḍviṁśatiṁ gataiḥ</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="16d"><rdg wit="#Bb #Nr #Pa #Pb #Rm #Sm #Ss #Su #Vs" n="Su (a)">- ṣaḍviṁśakaṁ 0 Su (c). - gatam</rdg></app>
+      <lg n="17">
+        <l>tadūrdhvaṁ caṇḍavr̥ṣṭyādidaṇḍakāḥ parikīrtitāḥ</l>
+        <l>śēṣaṁ gāthāstribhiḥ ṣaḍbhiścaraṇaiścōpalakṣitāḥ</l>
+      </lg>
+      <lg n="18">
+        <l>uktātyuktā tathā madhyā pratiṣṭhānyā supūrvikā</l>
+        <l>gāyatryuṣṇiganuṣṭup ca br̥hatī paṅktirēva ca</l>
+      </lg>
+      <app type="apparatus" n="18b"><rdg wit="#Rm">- pratiṣṭhā supratiṣṭhitā</rdg></app>
+      <lg n="19">
+        <l>triṣṭup ca jagatī caiva tathātijagatī matā</l>
+        <l><app><rdg wit="#Gemini">śakkarī sātipūrvā syādaṣṭyatyaṣṭī tataḥ smr̥tē</rdg><rdg wit="#Claude">śakvarī sātipūrvā syādaṣṭyatyaṣṭī tataḥ smr̥tē</rdg></app></l>
+      </lg>
+      <lg n="20">
+        <l>dhr̥tiścātidhr̥tiścaiva kr̥tiḥ prakr̥tirākr̥tiḥ</l>
+        <l>vikr̥tiḥ saṁkr̥tiścāpi tathābhikr̥tirutkr̥tiḥ</l>
+      </lg>
+      <app type="apparatus" n="20c"><rdg wit="#Br #Rm">caiva ( for cāpi )</rdg></app>
+      <app type="apparatus" n="20d"><rdg wit="#Br #Nr #Rm #Vs">tathātikr̥ti0</rdg><note type="Gemini-reading">tathātikr̥ti0 Br, Nr, Rm, Vs. 1 c. - yaṁ nalaghū vā Ba, Br, Nr, Pa, Pb, Sd, Wa, Wb, Wc, Wg; - yaṁ nalaghu rvā Bb; - yaṁ nagaṇō vā Vs. 2 b. - sayatipada 0 Ba, Bb, Br, Jn, Nr, Pa, Pb, Rm, Sd, Vs, Wa. 3 d. prakīrtitaṁ nāgarājēna Br, Nr, Pb, Wa, Wc. 4 a. ullaṁghya0 Br, Pa, Pb, Rm, Wa, Wc. 5 a. dalayōrdvayōrja0 Ba. 7 b. ca ( for tu) Br, Pa, Wa. 7 c. - cōktā Pb. 10</note></app>
+      <lg n="21">
+        <l>ityuktāśchandasāṁ saṁjñāḥ kramaśō vacmi sāṁpratam</l>
+        <l>lakṣaṇaṁ sarvavr̥ttānāṁ mātrāvr̥ttānupūrvakam</l>
+      </lg>
+      <trailer>iti bhaṭṭakēdāraviracitē vr̥ttaratnākarākhyē chandasi saṁjñāvidhānō nāma prathamō’dhyāyaḥ ॥ 1 ॥ [ graṁ0 ślō0 21. ]</trailer>
+    </div>
+    <div type="adhyāya" n="2">
+      <head>dvitīyō’dhyāyaḥ</head>
+      <lg n="1">
+        <l><app><rdg wit="#Gemini">lakṣmautatsaptagaṇā gōpētā bhavati nēha viṣamē jaḥ</rdg><rdg wit="#Claude">lakṣmaitatsaptagaṇā gōpētā bhavati nēha viṣamē jaḥ</rdg></app></l>
+        <l>ṣaṣṭhō’yaṁ ca nalaghu vā prathamē’rdhē niyatamāryāyāḥ</l>
+      </lg>
+      <app type="apparatus" n="1c" resp="#Claude"><rdg wit="#Ba #Br #Nr #Pa #Pb #Sd #Wa #Wb #Wc #Wg">- yaṁ nalaghū vā</rdg><rdg wit="#Bb">- yaṁ nalaghu vō</rdg><rdg wit="#Vs">- yaṁ nagaṇō vā</rdg></app>
+      <app type="apparatus" n="1"><rdg wit="#Ba #Pb #Sm" n="Sm (b)">gaḥ śrīḥ</rdg><note>Su (a, b, c)</note><rdg wit="#Br #Nr #Pa">guḥ śrīḥ</rdg></app>
+      <lg n="2">
+        <l><app><rdg wit="#Gemini">ṣaṣṭhē dvitīyalātparakē nlē mukhalācca sa yadi padanīyamaḥ</rdg><rdg wit="#Claude">ṣaṣṭhē dvitīyalātparakē nlē mukhalācca sa yadi padaniyamaḥ</rdg></app></l>
+        <l>caramē’rdhē pañcamakē tasmādiha bhavati ṣaṣṭhō laḥ</l>
+      </lg>
+      <app type="apparatus" n="2b" resp="#Claude"><rdg wit="#Ba #Bb #Br #Jn #Nr #Pa #Pb #Rm #Sd #Vs #Wa">- sayatipada 0</rdg></app>
+      <lg n="3">
+        <l>triṣvaṁśakēṣu pādō dalayōrādyēṣu dr̥śyatē yasyāḥ</l>
+        <l>pathyēti nāma tasyāśchandōvidbhiḥ samākhyātam</l>
+      </lg>
+      <app type="apparatus" n="3d" resp="#Claude"><rdg wit="#Br #Nr #Pb #Wa #Wc">prakīrtitaṁ nāgarājēna</rdg></app>
+      <lg n="4">
+        <l><app><rdg wit="#Gemini">saṁlaṅghya gaṇatrayamādimaṁ śakalayōrdyōrbhavati pādaḥ</rdg><rdg wit="#Claude">saṁlaṅghya gaṇatrayamādimaṁ śakalayōrdvayōrbhavati pādaḥ</rdg></app></l>
+        <l>yasyāstāṁ piṅgalanāgō vipulāmiti samākhyāti</l>
+      </lg>
+      <app type="apparatus" n="4a" resp="#Claude"><rdg wit="#Br #Pa #Pb #Rm #Wa #Wc">ullaṁghya0</rdg></app>
+      <lg n="5">
+        <l>ubhayārdhayōrjakārau dvitīyaturyau gamadhyagau yasyāḥ</l>
+        <l>capalēti nāma tasyāḥ prakīrtitaṁ nāgarājēna</l>
+      </lg>
+      <app type="apparatus" n="5a" resp="#Claude"><rdg wit="#Ba">dalayōrdvayōrja0</rdg></app>
+      <lg n="6">
+        <l>ādyaṁ dalaṁ samastaṁ bhajēta lakṣma capalāgataṁ yasyāḥ</l>
+        <l>śēṣē pūrvajalakṣmā mukhacapalā sōditā muninā</l>
+      </lg>
+      <lg n="7">
+        <l><app><rdg wit="#Gemini">prākpratipāditamardhaṁ prathamē, prathamētarē tu capalāyāḥ</rdg><rdg wit="#Claude">prākpratipāditamardhē prathamē, prathamētarē tu capalāyāḥ</rdg></app></l>
+        <l>lakṣmāśrayēta sōktā viśuddhadhībhirjaghanacapalā</l>
+      </lg>
+      <app type="apparatus" n="7b" resp="#Claude"><rdg wit="#Br #Pa #Wa">ca ( for tu )</rdg></app>
+      <app type="apparatus" n="7c" resp="#Claude"><rdg wit="#Pa">- cōktā</rdg></app>
+      <lg n="8">
+        <l>āryāprathamadalōktaṁ yadi kathamapi lakṣaṇaṁ bhavēdubhayōḥ</l>
+        <l>dalayōḥ kr̥tayatiśōbhāṁ tāṁ gītiṁ gītavān bhujaṅgēśaḥ</l>
+      </lg>
+      <lg n="9">
+        <l><app><rdg wit="#Gemini">āryādvitīyakē’rdhē yaduditaṁ lakṣaṇaṁ tatsyāt</rdg><rdg wit="#Claude">āryādvitīyakē’rdhē yadgaditaṁ lakṣaṇaṁ tatsyāt</rdg></app></l>
+        <l>yadyubhayōrapi dalayōrupagītiṁ tāṁ munirbrūtē</l>
+      </lg>
+      <app type="apparatus" n="9a"><rdg wit="#Su">- kē’śē</rdg><note type="Gemini-reading">- kē’ddhē Su.</note></app>
+      <app type="apparatus" n="9b"><rdg wit="#Wg">yadgītaṁ lakṣaṇaṁ0</rdg><note type="Gemini-reading">yaddītaṁ lakṣaṇaṁ 0 Wg.</note></app>
+      <lg n="10">
+        <l>āryāśakaladvitayaṁ vyatyayaracitaṁ bhavēdyasyāḥ</l>
+        <l><app><rdg wit="#Gemini">sōdgītiḥ kila gaditā tadvadvataṁśabhēdasaṁyuktā</rdg><rdg wit="#Claude">sōdgītiḥ kila gaditā tadvadyatyaṁśabhēdasaṁyuktā</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="10c"><rdg wit="#Br #Rm #Sk #Sm #Wa">kathitā ( for gaditā )</rdg></app>
+      <lg n="11">
+        <l>āryāpūrvārdhaṁ yadi guruṇaikēnādhikēna nidhanē yuktam</l>
+        <l>itarattadvannikhilaṁ yadīyamuditaivamāryāgītiḥ</l>
+      </lg>
+      <app type="apparatus" n="11d"><rdg wit="#Br #Wa #Wb #Wg">bhavati yadīyamuditēyamā0</rdg><rdg wit="#Nr">bhavati yadīyamardhamuditāryā0</rdg><rdg wit="#Rm #Sd #Sm" n="Sm (b)">dalaṁ yadīyamuditēyamā0</rdg><rdg wit="#Sk #Ss #Vs">dalaṁ yadīyamuditaivamā0</rdg><rdg wit="#Pa #Wc">yadīyamardhamuditaivamā0</rdg><rdg wit="#Pb">yadīyamardhamu-ditēyamā0</rdg><rdg wit="#Ba">yadīyamuditā kilēyamā0</rdg><note>yadīyamuditēyamā0 Jn. Note that according to Jn, Sm and Su, this line contains only 17 Mātrās as against 20 acc. to others.</note></app>
+      <app type="apparatus" n="11"><rdg wit="#A #Sm #Ss #Wa #Wb #Wo #Wg">kumāralalitā0 Ba, Bb, Br, Jn, Rm, P</rdg><rdg wit="#Vs">kumāralatikā0</rdg></app>
+      <lg n="12">
+        <l>ṣaḍ viṣamē’ṣṭau samē kalā—</l>
+        <l>stāśca samē syurnō nirantarāḥ ॥</l>
+        <l>na samātra parāśritā kalā</l>
+        <l>vaitālīyē’ntē ralau guruḥ</l>
+      </lg>
+      <app type="apparatus" n="12a"><rdg wit="#Wa">ṣaḍ viṣamē samē’ṣṭau kalāḥ</rdg><note type="Gemini-reading">ṣaḍ viṣamē samē’ṣṭau kalāḥ Ws.</note></app>
+      <app type="apparatus" n="12b"><rdg wit="#Rm #Wa #Wc #Wg">ṣaṭ ca samē syurnō0</rdg></app>
+      <app type="apparatus" n="12c"><rdg wit="#Bb">- parēṇa yujyatē</rdg></app>
+      <app type="apparatus" n="12"><note>saragairhaṁsa0 Ba, Br, Pa, Wa, Wb, Wo, Wg. 11 and 12 are dropped in Pb and Sk.</note></app>
+      <lg n="13">
+        <l>paryantē yau tathaiva śēṣa—</l>
+        <l>maupacchandasikaṁ sudhībhiruktam</l>
+      </lg>
+      <app type="apparatus" n="13ab"><rdg wit="#Bb #Sm #Su" n="Sm (a), Su (b)">- śēṣaṁ caupa0</rdg><rdg wit="#Ss">- śēṣaṁ tvaupa0</rdg><rdg wit="#Ba #Br #Pa #Vs">śēṣaṁ hyaupa0⟨?⟩</rdg></app>
+      <lg n="14">
+        <l><app><rdg wit="#Gemini">āpātalikā kathitaiyaṁ</rdg><rdg wit="#Claude">āpātalikā kathitēyaṁ</rdg></app></l>
+        <l>bhādgurukāvatha pūrvavadanyat</l>
+      </lg>
+      <lg n="15">
+        <l><app><rdg wit="#Gemini">tr̥tīyayug dakṣiṇāmtikā</rdg><rdg wit="#Claude">tr̥tīyayug dakṣiṇāntikā</rdg></app></l>
+        <l>samastapādēṣu dvitīyalaḥ</l>
+      </lg>
+      <lg n="16">
+        <l>udīcyavr̥ttirdvitīyalaḥ</l>
+        <l><app><rdg wit="#Gemini">sahitō’nyēna bhavēdyugmayōḥ</rdg><rdg wit="#Claude">sahitō’gryēṇa⟨?⟩ bhavēdayugmayōḥ</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="16b"><note>saktō’grēṇa0⟨?⟩ All Mss. except Su.</note></app>
+      <lg n="17">
+        <l>pūrvēṇa yutō’tha pañcamaḥ</l>
+        <l>prācyavr̥ttiruditēti yugmayōḥ</l>
+      </lg>
+      <app type="apparatus" n="17b"><note>- ruditaiva0 Rm, Wr⟨?⟩.</note><note type="Gemini-reading">- ruditēva0 Rm, Wr.</note></app>
+      <lg n="18">
+        <l>yadā samāvōjayugmakau</l>
+        <l><app><rdg wit="#Gemini">pūrvōrbhavati tatpravr̥ttakam</rdg><rdg wit="#Claude">pūrvayōrbhavati tatpravr̥ttakam</rdg></app></l>
+      </lg>
+      <lg n="19">
+        <l>asya yugmaracitāparāntikā</l>
+      </lg>
+      <lg n="20">
+        <l>ayugbhavā cāruhāsinī</l>
+      </lg>
+      <app type="apparatus" n="20"><rdg wit="#Br #Wa">ayugmayuk0</rdg></app>
+      <lg n="21">
+        <l>vaktraṁ nādyānnasau syātāmabdhēryō’nuṣṭubhi khyātam</l>
+      </lg>
+      <lg n="22">
+        <l><app><rdg wit="#Gemini">yujōrjēna sariddarttuḥ pathyāvaktraṁ prakīrtitam</rdg><rdg wit="#Claude">yujōrjēna saridbhartuḥ pathyāvaktraṁ prakīrtitam</rdg></app></l>
+      </lg>
+      <lg n="23">
+        <l>ōjayōrjēna vāridhēstadēva viparītādi</l>
+      </lg>
+      <app type="apparatus" n="23a"><note>ayujōrjēna0 Rm, Sk, Ss, Wr⟨?⟩.</note></app>
+      <lg n="24">
+        <l>capalāvaktramayujōrnakāraścētpayōrāśēḥ</l>
+      </lg>
+      <lg n="25">
+        <l>yasyāṁ laḥ saptamō yugmē sā yugmavipulā matā</l>
+      </lg>
+      <lg n="26">
+        <l>saitavasyākhilēṣvapi</l>
+      </lg>
+      <lg n="27">
+        <l>bhēnābdhitō bhādvipulā</l>
+      </lg>
+      <lg n="28">
+        <l>itthamanyā raścaturthāt</l>
+      </lg>
+      <lg n="29">
+        <l>nō’mbudhēścēnnavipulā</l>
+      </lg>
+      <lg n="30">
+        <l><app><rdg wit="#Gemini">tō’bdhēstatpūrvānyā bhavēt*</rdg><rdg wit="#Claude">tō’bdhēstapūrvānyā bhavēt *</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="30"><note>tō’mbudhēstapūrvā bhavēt Wb. 29 and 30. dropped in Sd.</note><note type="Gemini-reading">tō’mbudhēstatpūrvā bhavēt Wb. 29 and</note></app>
+      <note place="foot" type="extra-stanza">* 30. 1 ambhōnidhērmastatpūrvā Ba, Jn.</note>
+      <lg n="31">
+        <l><app><rdg wit="#Gemini">dvigguṇitavasusulaghuracaladhr̥tiriti</rdg><rdg wit="#Claude">dvikaguṇitavasulaghuracaladhr̥tiriti</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="31"><rdg wit="#Br #Nr #Pa #Pb #Wa #Wc">dviguṇita ... riti ca ( ha Pa, Wc )</rdg><rdg wit="#Rm">dvikaguṇita ... riha</rdg><note type="Gemini-reading">dviguṇita ... riti ca ( dr̥ Pa, Wo ) Br, Nr, Pa, Pb, Wa, Wc; dvikaguṇita ... riha Rm.</note></app>
+      <lg n="32">
+        <l><app><rdg wit="#Gemini">mātrāsamakaṁ navamō lr̥ gantam</rdg><rdg wit="#Claude">mātrāsamakaṁ navamō l gantam</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="32"><rdg wit="#Rm">- lāntyaḥ</rdg><rdg wit="#Nr #Pa">- lāntam</rdg></app>
+      <lg n="33">
+        <l>jō nlāvathāmbudhērviślōkaḥ</l>
+      </lg>
+      <app type="apparatus" n="33"><rdg wit="#Br #Su" n="Br (v. l.), Su (b)">jō nlāvatha jaladhērviślōkaḥ</rdg><note type="Gemini-reading">jō 0nlāvatha jaladhērviślōkaḥ Br (v. l.), Sn (b).</note></app>
+      <lg n="34">
+        <l><app><rdg wit="#Gemini">taddugalādvānavāsikā syāt</rdg><rdg wit="#Claude">tadyugalādvānavāsikā syāt</rdg></app></l>
+      </lg>
+      <lg n="35">
+        <l>bāṇāṣṭanavasu yadi laścitrā</l>
+      </lg>
+      <app type="apparatus" n="35"><rdg wit="#Vs">pañcāṣṭanavasu0</rdg></app>
+      <lg n="36">
+        <l><app><rdg wit="#Gemini">aṣṭābhyō’tha galāvucitrā</rdg><rdg wit="#Claude">aṣṭābhyō’tha galāvupacitrā</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="36"><rdg wit="#Wa #Wo">aṣṭābhyō ga ( gā Pa ) lyā upacitrā Ba, Br, Pa. Vs.</rdg><rdg wit="#Wb">-gādyā0</rdg><rdg wit="#Su" n="Su (b)">-gāllāvupa0</rdg><rdg wit="#Ba #Ss #Vs">-bhādgāvupa0</rdg><rdg wit="#Ba #Jn #Vs">navamē bhavati gurāvupa-citrā</rdg><rdg wit="#Ba #Br #Nr #Pa #Pb #Ss #Wa #Wo">upacitrā navamē parayuktē</rdg><note>abdhi-yugādbhaścēdupacitrā Rm, Wg. 36 is dropped in Sk.</note><note type="Gemini-reading">aṣṭābhyō ga ( gā Pa ) lyā upacitrā Ba, Br, Pa. Vs. Wa, Wc; - gādyā0 Wb; - gālvāvupa0 Su (b); - bhādgāvu0 Ba, Ss, Vs; navamē bhavati gurāvupacitrā Ba, Jn, Vs; upacitrā navamē parayuktē Ba, Br, Nr, Pa, Pb, Ss, Wa, Wc; abdhiyugāṅkaṣvēṣūpacitrā Rm, Wg. 36 is dropped in Sk.</note></app>
+      <lg n="37">
+        <l><app><rdg wit="#Gemini">yadtītakr̥tavividhalakṣmayutai—</rdg><rdg wit="#Claude">yadatītakr̥tavividhalakṣmayutai —</rdg></app></l>
+        <l>rmātrāsamādipādaiḥ kalitam ॥</l>
+        <l>aniyatavr̥ttaparimāṇasahitaṁ</l>
+        <l>prathitaṁ jagatsu pādākulakam</l>
+      </lg>
+      <app type="apparatus" n="37c"><rdg wit="#Br #Nr #Pa #Pb #Wa">-parimāṇayuktaṁ</rdg></app>
+      <lg n="38">
+        <l>vr̥ttasya lō vinā varṇairgā varṇā gurubhistathā</l>
+        <l>guravō lairdalē nityaṁ pramāṇamiti niścitam</l>
+      </lg>
+      <app type="apparatus" n="38a" resp="#Claude"><rdg wit="#Ba #Br #Nr #Pa #Pb #Rm #Sd">lā ( for lō )</rdg></app>
+      <lg n="39">
+        <l>śikhiguṇitadaśalaghuracita—</l>
+        <l><app><rdg wit="#Gemini">mapagatalaghuyugalamaparamidasarivalam</rdg><rdg wit="#Claude">mapagatalaghuyugalamaparamidamakhilam</rdg></app></l>
+        <l>saguru śakalayugalakamapi</l>
+        <l><app><rdg wit="#Gemini">suparighaṭitalalitapadanaciti bhavati śikhā</rdg><rdg wit="#Claude">suparighaṭitalalitapadaniciti bhavati śikhā</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="39b"><rdg wit="#Ba #Br #Nr #Pa #Pb #Rm #Wa #Wb #Wo #Wg">-padavitatibhavati śikhā</rdg></app>
+      <lg n="40">
+        <l>vinimayavihitaśakalayugalalaghu —</l>
+        <l>lalitapadavitatiracitagaṇanicayā</l>
+        <l>śrutisukhakr̥diyamapi jagati</l>
+        <l><app><rdg wit="#Gemini">jaśira upagatavati ñi sati bhavati khañjā</rdg><rdg wit="#Claude">jaśira upagatavati ñci sati bhavati khajā</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="40a"><rdg wit="#Br #Nr #Pb #Wa #Wb #Wo #Wg">vinimayavinihita ... yugalakalitapadavitativiracitaguṇa0</rdg><rdg wit="#Sm" n="Sm (a)">vinimayanihita ... tativiracitagaṇa0</rdg><rdg wit="#Rm">-guṇanicayā</rdg><rdg wit="#Pa">-yugalaghukalita ... viracita0</rdg></app>
+      <app type="apparatus" n="40b"><rdg wit="#Br #Nr #Pb #Rm #Wa #Wb #Wo #Wg">-jagati ñci jaśira upa0</rdg><note type="Gemini-reading">- jagati ñi jaśira upa0 Br, Nr, Pb, Rm, Wa, Wb, Wc, Wg.</note></app>
+      <lg n="41">
+        <l><app><rdg wit="#Gemini">aṣṭāvardhē gā vyatyastā</rdg><rdg wit="#Claude">aṣṭāvardhē gā dvyabhyastā</rdg></app></l>
+        <l>yasyāḥ sānaṅgakrīḍōktā</l>
+        <l><app><rdg wit="#Gemini">dalaparamapi vasuguṇitasalilanidhi—</rdg><rdg wit="#Claude">dalamaparamapi vasuguṇitasalilanidhi-</rdg></app></l>
+        <l><app><rdg wit="#Gemini">laghukaraviracitapadavitati bhavati</rdg><rdg wit="#Claude">laghukaviracitapadavitati bhavati</rdg></app></l>
+      </lg>
+      <lg n="42">
+        <l>triguṇanavalaghuravasitigururiti</l>
+        <l>dalayugakr̥tatanuratirucirā</l>
+      </lg>
+      <trailer>iti bhaṭṭakēdāraviracitē vr̥ttaratnākarākhyē chandasi mātrāvr̥ttā- dhikārō nāma dvitīyōdhyāyaḥ ॥ 2 ॥ [ graṁ0 ślō0 32, a0 8 ]</trailer>
+    </div>
+    <div type="adhyāya" n="3">
+      <head>tr̥tīyō’dhyāyaḥ</head>
+      <lg n="1">
+        <l>g śrīḥ</l>
+      </lg>
+      <app type="apparatus" n="1"><note>given after 4 in Pb.</note></app>
+      <lg n="2">
+        <l>gau strī</l>
+      </lg>
+      <app type="apparatus" n="2a"><rdg wit="#Vs">- gurukau cēt</rdg></app>
+      <lg n="3">
+        <l>mō nārī</l>
+      </lg>
+      <lg n="4">
+        <l>rō mr̥gī*</l>
+      </lg>
+      <note place="foot" type="extra-stanza">* 4. 1 ya kēsā Rm.</note>
+      <lg n="5" resp="#Claude">
+        <l>mgau cētkanyā*</l>
+      </lg>
+      <app type="apparatus" n="5a"><rdg wit="#Bb #Vs">viṣamē sajau0</rdg></app>
+      <note place="foot" type="extra-stanza">* 5. 1 jga lāsinī Rm. 5. 2 bhgau sumukhī Rm. 5. 3 yagau vrīḍā Rm. 5. 4 gauṁ samr̥ddhiḥ Rm. 5. 5 sumatiḥ sgau Rm.</note>
+      <!-- CHECK: Gemini has 2 line(s) for verse 6, I read 1; Gemini text kept as a note -->
+      <lg n="6">
+        <l>bhgau giti paṅktiḥ*</l>
+      </lg>
+      <note type="Gemini-reading">mgau cētkanyā* .. 5 / .. bhgau giti paṅkti*</note>
+      <app type="apparatus" n="6"><rdg wit="#Ba #Bb #Br #Nr #Pa #Sd #Sk #Sm #Ss #Vs #Wa #Wb #Wc">ākhyānakī0 ga ( gam Bb, Ss ) ōjē</rdg><rdg wit="#Rm">ākhyātakī0 ga ōjē</rdg><rdg wit="#Wg">ākhyātikī0 ga ōjē</rdg></app>
+      <note place="foot" type="extra-stanza">* 6. 1 satī jagau gaḥ Rm. 6. 2 mandā talagaiḥ Rm. 6. 3 gauṁ giti prītiḥ Rm.</note>
+      <!-- CHECK: Gemini has 1 line(s) for verse 7, I read 2; Gemini text kept as a note -->
+      <lg n="7">
+        <l>tyau stastanu-</l>
+        <l>madhyā</l>
+      </lg>
+      <note type="Gemini-reading">tyau stastanumadhyā</note>
+      <app type="apparatus" n="7a"><rdg wit="#Nr #Rm #Vs #Wa #Wc">cēt ( for syāt )</rdg></app>
+      <app type="apparatus" n="7b"><rdg wit="#Bb #Ss">- gmēṣā0</rdg><note type="Gemini-reading">- śamēṣā0 Bb, Ss.</note></app>
+      <lg n="8">
+        <l>śaśivadanā nyau</l>
+      </lg>
+      <app type="apparatus" n="8" resp="#Claude"><rdg wit="#Br #Nr #Vs #Wa #Wc">b. - nabhau bharakau0</rdg></app>
+      <!-- CHECK: Gemini has 2 line(s) for verse 9, I read 1; Gemini text kept as a note -->
+      <lg n="9">
+        <l>tsau cēdvasumatī*</l>
+      </lg>
+      <note type="Gemini-reading">tsau / cētsumatī*</note>
+      <note place="foot" type="extra-stanza">* 9. 1 (A) kāmalatikā bhyau Ba, Jn; (B) -lalitā bhyau Vs. 9. 2 (A) mau sāvitrīmāhuḥ Rm, Wg; (B) vidyullēkhā( nmālā Wo ) mō maḥ Ba, Br, Nr, Pa, Pb, Vs, Wb. 9. 3 mrau yasyāḥ sā nadī Rm, Wg. 9. 4 (A) msau prōktaṁ mukulam Rm, Wg; syānmaḥ sō mukulam Wo; (B) syānmaḥ sō’nukūlam Su (b); (C) syānmsau sōmakulam Ba, Jn. 9. 5 yayau sōmarājī Ba, Jn, Pa, Ss (T), Su (b), Vs, Wo. 9. 6 mālinī māṁbhyām syāt Rm, Wg. 9. 7 syādrau sragviṇī Ba, Jn, Pa, Ss (T), Su (b), Vs, Wo. 9. 8 syādrasau kulakam Pa. 9. 9 sayugaṁ ramaṇī Rm, Wg.</note>
+      <!-- CHECK: Gemini has 1 line(s) for verse 10, I read 2; Gemini text kept as a note -->
+      <lg n="10">
+        <l>msau gaḥ</l>
+        <l>syānmadalēkhā</l>
+      </lg>
+      <note type="Gemini-reading">msau gaḥ syānmadalēkhā</note>
+      <lg n="11">
+        <l><app><rdg wit="#Gemini">kumāralalitaṁ jasaug</rdg><rdg wit="#Claude">kumāralalitaṁ jsaug</rdg></app></l>
+      </lg>
+      <!-- CHECK: Gemini has 2 line(s) for verse 12, I read 1; Gemini text kept as a note -->
+      <lg n="12">
+        <l>saragā haṁsamālā*</l>
+      </lg>
+      <note type="Gemini-reading">saragā / haṁsamālā*</note>
+      <note place="foot" type="extra-stanza">* 12. 1 cūḍāmaṇistabhagāḥ (gāt Nr) Ba, Bb. Jn, Nr, Pa, Ss (T), Wb. 12. 2 madhumati nanagāḥ Ba, Bb, Jn (T), Nr, Pa, Sk, Sm (T), Ss (T), Su (b), Vs, Wb, Wc. 12. 3 madhumatī nabhagāḥ Jn ( v. l. ), Rm.</note>
+      <lg n="13">
+        <l>mō mō gō gō vidyunmālā</l>
+      </lg>
+      <lg n="14">
+        <l>bhau giti citrapadā gaḥ</l>
+      </lg>
+      <lg n="15">
+        <l>māṇavakaṁ bhāttalagāḥ</l>
+      </lg>
+      <lg n="16">
+        <l>mnau gau haṁsarutamētat</l>
+      </lg>
+      <lg n="17">
+        <l>jau samānikā galau ca</l>
+      </lg>
+      <lg n="18">
+        <l>pramāṇikā jarau lagau</l>
+      </lg>
+      <lg n="19">
+        <l>vitānamābhyāṁ yadanyat*</l>
+      </lg>
+      <note place="foot" type="extra-stanza">* 19. 1 kumāralalitā jsau gau Vs. 19. 2 (A) nārācaka tarau lagau Bb, Jn, Ss, Su(b), Vs, Wa, Wb; (B) nārācikā0 Pa, Nr, Rm, Wa, Wc, Wg. 19. 3 nāgarakaṁ bharau lagau Rm, Wg. 19. 4 jauṁ gagau ca siṁhalēkhā Ba, Jn, Su, Vs.</note>
+      <lg n="20">
+        <l>rānnasāviha halamukhī</l>
+      </lg>
+      <lg n="21" resp="#Claude">
+        <l>bhujaga-</l>
+        <l>śiśubhr̥tā nau maḥ*</l>
+      </lg>
+      <app type="apparatus" n="21"><rdg wit="#Br #Pb #Sm #Su #Wa" n="Su (a, b)">-śiśusr̥tā0</rdg></app>
+      <note place="foot" type="extra-stanza">* 21. 1 syānmaṇimadhyaṁ bhānmamayuk Jn. 21. 2 bhadrikā bhavati rau narau Ba, Jn (T), Pa. Ss, Su, Vs, Wc; bhadrikēti ranairiyam Nr (T), Wb.</note>
+      <!-- CHECK: Gemini has 2 line(s) for verse 22, I read 1; Gemini text kept as a note -->
+      <lg n="22">
+        <l>msau jgau śuddhavirāḍidaṁ matam</l>
+      </lg>
+      <note type="Gemini-reading">bhujaṅgaśiśubhr̥tā nau maḥ* .. 21 / .. msau jagau śuddhavirāḍidaṁ matam</note>
+      <lg n="23">
+        <l><app><rdg wit="#Gemini">mnau yagau cēti paṇavanāmēdam</rdg><rdg wit="#Claude">mnau ygau cēti paṇavanāmēdam</rdg></app></l>
+      </lg>
+      <!-- CHECK: Gemini has 2 line(s) for verse 24, I read 1; Gemini text kept as a note -->
+      <lg n="24">
+        <l>jauṁ ragau mayūrasāriṇī syāt</l>
+      </lg>
+      <note type="Gemini-reading">jau ragau / mayūrasāriṇī syāt</note>
+      <lg n="25">
+        <l><app><rdg wit="#Gemini">bhabhau sagayuktau rukmavatītham</rdg><rdg wit="#Claude">bhmau sagayuktau rukmavatīyam</rdg></app></l>
+      </lg>
+      <lg n="26">
+        <l>jñēyā mattā mabhasagayuktā</l>
+      </lg>
+      <app type="apparatus" n="26"><rdg wit="#Pa #Pb" n="Pb ( another name हंसी Vs )">mattā jñēyā0</rdg></app>
+      <lg n="27">
+        <l>narajagairbhavēnmanōramā</l>
+      </lg>
+      <lg n="28">
+        <l>tjau jō guruṇēyamupasthitā*</l>
+      </lg>
+      <app type="apparatus" n="28"><note>This is dropped by Rm, Sk, Ss, Vs.</note></app>
+      <note place="foot" type="extra-stanza">* 28. 1 tvaritagatistu najanagaiḥ Rm, Wg. 28. 2 dīpakamālā cēd bhamau jagau Ba, Jn. 28. 3 dīpakamālā cēd dvau bhnau tagau Pa, Wo. 28. 4 campaka ( pañcaka Bb, Wb. ) mālā cēd bhamasādgaḥ ( sādguḥ Pa, sā gaḥ Rm ) Bb, Jn, Pa, Rm, Sk (T), Ss (T), Su (b), Wb, Wo, Wg. 28. 5 mnau jgau cēti paṇavanāmakam Ba, Br, Nr, Pa, Pb, Wa, Wr. 28. 6 jñēyā ( uktā Bb ) haṁsī mabhanagayutā ( -samaṁ Bb ) Ba, Bb, Jn ( Wrongly -yuktā ). 28. 7 raśca sau sagururmaṇirāgaḥ Rm, Wg. 28. 8 trisagā api mēghavitānam Rm, Wg.</note>
+      <lg n="29">
+        <l>syādindravajrā yadi tau jagau gaḥ</l>
+      </lg>
+      <!-- CHECK: Gemini has 1 line(s) for verse 30, I read 2; Gemini text kept as a note -->
+      <lg n="30">
+        <l>upēndravajrā jatajā-</l>
+        <l>statō gau</l>
+      </lg>
+      <note type="Gemini-reading">upēndravajrā jatajāstatō gau</note>
+      <lg n="31">
+        <l>anantarōdīritalakṣmabhājau pādau yadīyāvupajātayastāḥ</l>
+        <l><app><rdg wit="#Gemini">itthaṁ kilānyāsvapi miśritāsu smaranti jātiṣvidamēva nām</rdg><rdg wit="#Claude">itthaṁ kilānyāsvapi miśritāsu smaranti jātiṣvidamēva nāma</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="31ab"><rdg wit="#Ba #Vs" n="Vs (the latter rejects the dual reading)">-bhājaḥ pādā yadīyā upa0</rdg></app>
+      <lg n="32">
+        <l><app><rdg wit="#Gemini">najajalagērgaditā sumukhī</rdg><rdg wit="#Claude">najajalagairgaditā sumukhī</rdg></app></l>
+      </lg>
+      <lg n="33">
+        <l><app><rdg wit="#Gemini">dōdhakavr̥ttamidaṁ bhabhabhādvau</rdg><rdg wit="#Claude">dōdhakavr̥ttamidaṁ bhabhabhādgau</rdg></app></l>
+      </lg>
+      <lg n="34">
+        <l><app><rdg wit="#Gemini">śālinyuktā stau tagau gō’bdhilōkaiḥ</rdg><rdg wit="#Claude">śālinyuktā mtau tagau gō’bdhilōkaiḥ</rdg></app></l>
+      </lg>
+      <!-- CHECK: Gemini has 1 line(s) for verse 35, I read 2; Gemini text kept as a note -->
+      <lg n="35">
+        <l>vātōrmīyaṁ gaditā mbhau</l>
+        <l>tagau gaḥ</l>
+      </lg>
+      <note type="Gemini-reading">vātōrmīyaṁ gaditā mbhau tagau gaḥ</note>
+      <app type="apparatus" n="35"><rdg wit="#Br #Nr #Pb">kathitā (for gaditā)</rdg></app>
+      <lg n="36">
+        <l>mbhau nlau gaḥ syād bhramaravilasitam</l>
+      </lg>
+      <app type="apparatus" n="36"><rdg wit="#Ba #Bb #Jn #Sk #Sm #Ss">-bhramaravilasitā</rdg></app>
+      <lg n="37">
+        <l>pañcarasaiḥ śrīrbhatanagagaiḥ syāt</l>
+      </lg>
+      <app type="apparatus" n="37" resp="#Claude"><rdg wit="#Rm #Wg">srī⟨?⟩ ( for śrīḥ )</rdg><rdg wit="#Nr #Pa">bāṇarasaiḥ syāt ... ... śrīḥ</rdg><rdg wit="#Wc">bāṇarasaiḥ śrīrbha ... śca</rdg></app>
+      <lg n="38">
+        <l>rō narāviha rathōddhatā lagau</l>
+      </lg>
+      <app type="apparatus" n="38" resp="#Claude"><rdg wit="#Bb #Br #Nr #Pa #Pb #Rm #Sk #Ss">rānnarāviha0</rdg></app>
+      <!-- CHECK: Gemini has 2 line(s) for verse 39, I read 1; Gemini text kept as a note -->
+      <lg n="39">
+        <l>svāgatēti ranabhādguruyugmam</l>
+      </lg>
+      <note type="Gemini-reading">svāgatēti / ranabhādguruyugmam</note>
+      <lg n="40">
+        <l>nanasagagururacitā vr̥ntā</l>
+      </lg>
+      <app type="apparatus" n="40" resp="#Claude"><rdg wit="#Ba #Bb #Br #Pa #Pb #Rm #Sm #Ss #Wa #Wo #Wg" n="Wg ( the last three and Rm notice पृथ्वी as another name)">vr̥ttā ( for vr̥ntā )</rdg></app>
+      <lg n="41" resp="#Claude">
+        <l>nanaralagurubhiśca bhadrikā</l>
+      </lg>
+      <app type="apparatus" n="41" resp="#Claude"><note>su for ca Rm, Wo, Wg. -lagayutēha candrikā Bb, Wg, ( also Rm ).</note></app>
+      <lg n="42">
+        <l><app><rdg wit="#Gemini">nanaralagurumiśra bhadrikā .. 41</rdg><rdg wit="#Claude">śyēnikā rajau ralau guru-</rdg></app></l>
+        <l><app><rdg wit="#Gemini">.. śyēnikā rajau ralau gururyadā</rdg><rdg wit="#Claude">ryadā</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="42" resp="#Claude"><rdg wit="#Rm #Wg">vaitikā⟨?⟩ ( for śyēnikā )</rdg></app>
+      <lg n="43">
+        <l><app><rdg wit="#Gemini">upasthitamidaṁ jasau tādgakārau*</rdg><rdg wit="#Claude">upasthitamidaṁ jsau tādgakārau*</rdg></app></l>
+      </lg>
+      <note place="foot" type="extra-stanza">* 43. 1 śikhaṇḍitamidaṁ jsau tgau guruścēt( -jsau tō gurū cēt Ba ) Ba, Bb, Jn (T), Pa, Ss, Vs. 43. 2 śikhaṇḍitamidaṁ jsau ragau gaścēt Wb. 43. 3 tjau jgau guruṇēyamupasthitōktā Ba, Bb, Rm, Sk, Ss (T), Wb, Wg. 43. 4 vidhyaṅgamālā bhavēttau tagau gaḥ Ba. 43. 5 asuvilāsō natanalagavaḥ Ss, Wb. 43. 6 kupuruṣajanitā nanau gauṁ gaḥ Nr, Pa. 43. 7 nanaralagayutēha candrikā Bb, Wg. (See 3. 41.) 43. 8 anavasitā nyau bhgau gu ṣaḍantē Nr, Pa. 43. 9 bhavati nō rau kāmadā lagau Vs. 43. 10 (A) mauktikamālā yadi bhatanādgau Bb, Jn, Nr, Pa, Pb, Rm, Sm (b), Ss, Su ( a, b ), Wb, Wo, Wg; -bhatanagagāścēt Ba; (B) sāndra( bhadra0 Wb )padaṁ bhtau nagagurubhiśca Ss, Wb. 43. 11 sāndrapadaṁ bhtau nagalaghubhiśca Ba, Bb, Jn (T), Pa, Su (a b), Vs. ( -syād bhatanalagaiśca Ba. ). 43. 12 maḥ sō jō guruyugmamēkarūpam Rm ( -yugmaṁ caikarūpam Wrongly Wb ). 43. 13 upacitramidaṁ sasasa lagau Nr, Pa, Vs.</note>
+      <!-- CHECK: Gemini has 1 line(s) for verse 44, I read 2; Gemini text kept as a note -->
+      <lg n="44">
+        <l>candravartma gaditaṁ</l>
+        <l>tu ranabhasaiḥ</l>
+      </lg>
+      <note type="Gemini-reading">candravartma gaditaṁ tu ranabhasaiḥ</note>
+      <app type="apparatus" n="44" resp="#Claude"><rdg wit="#Br #Nr #Wa">-nigadanti ra0</rdg></app>
+      <lg n="45">
+        <l>jatau tu vaṁśasthamudīritaṁ jarau</l>
+      </lg>
+      <!-- CHECK: Gemini has 1 line(s) for verse 46, I read 2; Gemini text kept as a note -->
+      <lg n="46">
+        <l>syādi-</l>
+        <l>ndravaṁśā tatajai rasaṁyutaiḥ</l>
+      </lg>
+      <note type="Gemini-reading">syādindravaṁśā tatajai rasaṁsyutaiḥ</note>
+      <lg n="47">
+        <l>iha tōṭakamambudhisaiḥ prathitam</l>
+      </lg>
+      <app type="apparatus" n="47" resp="#Claude"><rdg wit="#Rm">pramitam</rdg><rdg wit="#Su" n="Su (b)">pravitam</rdg><note>kathitam Su (a) ( for prathitam ).</note></app>
+      <lg n="48">
+        <l>drutavilambitamāha nabhau bharau</l>
+      </lg>
+      <lg n="49">
+        <l>vasuyugaviratirnau myau puṭō’yam</l>
+      </lg>
+      <app type="apparatus" n="49" resp="#Claude"><rdg wit="#Nr #Pa #Pb #Vs">muniśaraviratirnau0</rdg></app>
+      <lg n="50">
+        <l>pramuditavadanā bhavēnnau rarau</l>
+      </lg>
+      <app type="apparatus" n="50" resp="#Claude"><rdg wit="#Br #Nr">-nau ca rau</rdg></app>
+      <!-- CHECK: Gemini has 9 line(s) for verse 51, I read 2; Gemini text kept as a note -->
+      <lg n="51">
+        <l>nayasahitau nyau kusuma-</l>
+        <l>vicitrā</l>
+      </lg>
+      <note type="Gemini-reading">nayasahitau nyau kusuma- / 37. strī (for śrīḥ) Rm, Wg; bāṇarasaiḥ syāt ... ... śrīḥ Nr, Pa; bāṇarataiḥ / śrībhai ... śva Wc. 38. rānnarāviha0 Bb, Br, Nr, Pa, Pb, Rm, Sk, Ss. 40. / vr̥ttā (for vr̥ntā) Ba, Bb, Br, Pa, Pb, Rm, Sm, Ss, Wa, Wc, Wg (the last / three and Rm notice pr̥thvī as another name). 41. su for ca Rm, Wc, Wg. - / lagayutēha candrikā Bb, Wg, (also Rm). 42. vaitikā (for śyēnikā) Rm, Wg. 44. - / nigadanti ra0 Br, Nr, Wa. 47. pramitam Rm; pravitam Su (b); kathitam Su (a) (for / prathitam). 49. muniśaraviratirnau Nr, Pa, Pb, Vs. 50. - nau ca rau Br, Nr. / vicitrā</note>
+      <lg n="52">
+        <l>rasairjasajasā jalōddhatagatiḥ</l>
+      </lg>
+      <lg n="53" resp="#Claude">
+        <l>bhujaṅgaprayātaṁ</l>
+        <l>bhavēdyaiścaturbhiḥ</l>
+      </lg>
+      <!-- CHECK: Gemini has 2 line(s) for verse 54, I read 1; Gemini text kept as a note -->
+      <lg n="54">
+        <l>raiścaturbhiryutā sragviṇī saṁmatā</l>
+      </lg>
+      <note type="Gemini-reading">bhujaṅgaprayātaṁ bhavēccaiścaturbhiḥ .. / 53 .. raiścaturbhiryutā sragviṇī saṁmatā</note>
+      <!-- CHECK: Gemini has 1 line(s) for verse 55, I read 2; Gemini text kept as a note -->
+      <lg n="55">
+        <l>bhuvi</l>
+        <l>bhavēnnabhajaraiḥ priyaṁvadā</l>
+      </lg>
+      <note type="Gemini-reading">bhuvi bhavēnnabhajaraiḥ priyaṁvadā</note>
+      <lg n="56">
+        <l>tyau tyau maṇimālā chinnā guhavaktraiḥ</l>
+      </lg>
+      <lg n="57">
+        <l>dhīrairabhāṇi lalitā tabhau jarau</l>
+      </lg>
+      <app type="apparatus" n="57"><note>dropped by Vs.</note></app>
+      <!-- CHECK: Gemini has 1 line(s) for verse 58, I read 2; Gemini text kept as a note -->
+      <lg n="58">
+        <l>pramitākṣarā sajasa-</l>
+        <l>sairuditā</l>
+      </lg>
+      <note type="Gemini-reading">pramitākṣarā sajasasairuditā</note>
+      <lg n="59">
+        <l>nanabharasahitāmihitōjjvalā</l>
+      </lg>
+      <app type="apparatus" n="59"><rdg wit="#Wa #Wo">-mahitōjjvalā Br, Nr, Pa, Pb</rdg></app>
+      <lg n="60">
+        <l><app><rdg wit="#Gemini">pañcāśvaiśchinnā</rdg><rdg wit="#Claude">pañcāśvai-</rdg></app></l>
+        <l><app><rdg wit="#Gemini">vaiśvadēvī mamau yau</rdg><rdg wit="#Claude">śchinnā vaiśvadēvī mamau yau</rdg></app></l>
+      </lg>
+      <!-- CHECK: Gemini has 1 line(s) for verse 61, I read 2; Gemini text kept as a note -->
+      <lg n="61">
+        <l>abdhyaṅgaiḥ syājjaladharamālā mbhau</l>
+        <l>smau</l>
+      </lg>
+      <note type="Gemini-reading">abdhyaṅgaiḥ syājjaladharamālā mbhau smau</note>
+      <app type="apparatus" n="61"><rdg wit="#Br #Nr #Rm #Pa #Pb #Wa #Wc">abdhyaṣṭābhirjala0</rdg><rdg wit="#Rm" n="Rm ( v. l. )">abdhyaṁgaiḥ⟨?⟩ syājjala0⟨?⟩</rdg><note type="Gemini-reading">abdhyaṣṭābhirjala 0 Br, Nr, Rm, Pa, Pb, Wa, Wc; abdhyaṁśaiḥ ujjva0 Rm ( v. l. ).</note></app>
+      <!-- CHECK: Gemini has 2 line(s) for verse 62, I read 1; Gemini text kept as a note -->
+      <lg n="62">
+        <l>iha navamālinī najabharau bhyau</l>
+      </lg>
+      <note type="Gemini-reading">iha navamālinī / najaparau bhyau</note>
+      <app type="apparatus" n="62"><rdg wit="#Wa">-navamālikā0</rdg><rdg wit="#Br #Nr #Pa #Pb">-vanamālikā0 Wr. -navamālikā najabhayaiḥ syāt</rdg><note type="Gemini-reading">- navamālikā 0 Wa; - vanamālikā 0 Wr. -navakālikā najabhayēḥ syāt Br, Nr, Pa, Pb.</note></app>
+      <!-- CHECK: Gemini has 1 line(s) for verse 63, I read 2; Gemini text kept as a note -->
+      <lg n="63">
+        <l>bhavati najāvatha</l>
+        <l>mālatī jarau</l>
+      </lg>
+      <note type="Gemini-reading">bhavati najāvatha mālatī jarau</note>
+      <app type="apparatus" n="63"><rdg wit="#Wg">mālinī ( for mālatī )</rdg><note>dropped by Br.</note></app>
+      <lg n="64">
+        <l>iti vada tāmarasaṁ najajādyaḥ*</l>
+      </lg>
+      <app type="apparatus" n="64"><rdg wit="#Br #Nr #Pa #Pb #Wa #Wb">iha (for iti ) Ba, Jn, Sm, Wc. abhinavatā0</rdg><note>dropped by Vs.</note></app>
+      <note place="foot" type="extra-stanza">* 64. 1 caturjagaṇaṁ vada mauktikadāma Ba, Bb, Jn ( T ), Nr ( T ), Ss (T), Su (b), Vs, Wb; jajāviha mauktikadāma jajau cēt (v. l.) Ba, Bb, Jn, Sk. 64. 2 (A) jatau jarau śuddhavirāḍidaṁ matam Jn, Vs; (B) manīṣiṇaḥ kē’pi vasantamañjarī Ba. ( See vaṁśastha 3. 45 ). 64. 3 jabhau jarau vadati pañcacāmaram Nr (T), Pa. 64. 4 (A) jarau jarau vadanti pañcacāmaram Ba, Bb, Jn (T), Sk, Sm (T), Su(b), Vs, Wb; (B) vibhāvarī tu sā jarau jarau yataḥ Wb; (C) jarau jarau mataṁ vasantacāmaram Jn, Pa. 64. 5 tyau tyāviti ( viha Ba ) nirdiṣṭā puṣpavicitrā Ba, Bb, Pa. Sm (T), Wb. 64. 6 (A) bhavati tatirnajajai rasaṁyutaiḥ Pa, Vs, Wb; (B) varatanuratra najau jarau bhavēt Ba. 64. 7 lalitamabhihitaṁ nau mrau nāmataḥ Ba, Br (T), Nr, Pa, Pb, Wa. 64. 8 nayugarayugalaṁ ca gaurī matā Nr; Pa; nayugarayugayukca gaurī matā Ba, Br (T), Pb, Wa. See 3. 50. 64. 9 svaraśaraviratirnanau rau prabhā Ba, Bb, Br, Jn (T), Nr (T), Pa, Rm, Sk, Sm (T), Ss(T), Su (b), Vs, Wb, Wg. 64. 10 drutapadaṁ nabhajayaiḥ kalitaṁ syāt Ss. 64. 11 drutapadaṁ bhavati nabhanayāścēt Nr. Pa; drutapadaṁ [ -hrutapadaṁ- Br ] nabhanayaracitaṁ syāt Ba, Br (T), Ss, Wa. 64. 12 pañcamunī mbhau sātsayutā lalanā Ba, Br ( T- lalitā ), Nr, Pa, Pb, Wa.</note>
+      <lg n="65">
+        <l>turagarasa-</l>
+        <l><app><rdg wit="#Gemini">yatirnau tatau gaḥ kṣamā</rdg><rdg wit="#Claude">yatinau⟨?⟩ tatau⟨?⟩ gaḥ kṣamā</rdg></app></l>
+      </lg>
+      <lg n="66">
+        <l><app><rdg wit="#Gemini">mnau jyau gastridaśayatiḥ praharṣaṇīyam</rdg><rdg wit="#Claude">mnau jrau gastridaśayatiḥ praharṣaṇīyam</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="66"><rdg wit="#Ba #Bb #Jn #Nr #Pa #Sk #Sm #Wa #Wc #Wg" n="Sm (b)">- praharṣiṇīyam</rdg></app>
+      <lg n="67">
+        <l><app><rdg wit="#Gemini">caturbhairhariha rucirā jabhau sajagāḥ</rdg><rdg wit="#Claude">caturgrahairiha rucirā jabhau sjagāḥ</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="67"><rdg wit="#Wc">ati Nr, Pa, Wa</rdg><rdg wit="#Pa">iti Br, Pb ( for iha ). - jabhasjagāḥ Br, Nr. - jabhau sajaug Bb, Sm (a). - ratirucirāmbudhigrahaiḥ</rdg><note type="Gemini-reading">ati- Nr, Pa, Wa Wc; iti Br, Pb (for iha ). - jamasajgāḥ Br, Nr. - jabhau sajaug Bb, Sm (a). - ratirucirāmbudhiyahaiḥ Pa.</note></app>
+      <!-- CHECK: Gemini has 1 line(s) for verse 68, I read 2; Gemini text kept as a note -->
+      <lg n="68">
+        <l>vēdai randhrairmtau</l>
+        <l>yasagā mattamayūram</l>
+      </lg>
+      <note type="Gemini-reading">vaidai randhraimtau yasagā mattamayūram</note>
+      <lg n="69">
+        <l>sajasā jagau bhavati mañjubhāṣiṇī</l>
+      </lg>
+      <lg n="70">
+        <l><app><rdg wit="#Gemini">nasataragurubhiścandrikāśvaṣaḍbhiḥ*</rdg><rdg wit="#Claude">nanataragurubhiścandrikāśvaṣaḍbhiḥ*</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="70" resp="#Claude"><note>- caturbhiḥ ( for śvaṣaḍbhiḥ ) Ba, Br, Ss, Su(b), Wa, Wb. Dropped in Pa.</note></app>
+      <note place="foot" type="extra-stanza">* 70. 1 jatau sajau gō bhavati mañjuvādinī Wb; - mañjuhāsinī Ba, Jn, Vs; - mañjubhāṣiṇī Bb; - mandabhāṣiṇī Pa, Su (b), Wc.</note>
+      <note place="foot" type="extra-stanza">70. 2 upasthitamidaṁ jsau tsau sagurukaṁ cēt Bb, Nr, Wb; - tsau yadi guruḥ syāt Ba, Jn, Su (b), Vs.</note>
+      <note place="foot" type="extra-stanza">70. 3 vēdairgrahaistabharā jagau prabhāvatī Wb.</note>
+      <note place="foot" type="extra-stanza">70. 4 vēdagrahaistata ( r. bha )-sajagāḥ prabhāvatī Su (b).</note>
+      <note place="foot" type="extra-stanza">70. 5 bhavati mr̥gēndramukhaṁ najau jarau gaḥ Ba.</note>
+      <note place="foot" type="extra-stanza">70. 6 kuṭila ( kuṭaja Jn ) gatirnajau satabhistau gunā ( guruḥ Ba ) Ba, Jn, Ss, Vs.</note>
+      <note place="foot" type="extra-stanza">70. 7 nanatatagurubhiścandrikāśvartubhiḥ Bb, Jn, Nr, Pb, Sk, Sm, Vs, Wc.</note>
+      <note place="foot" type="extra-stanza">70. 8 bhavati bhuvi nanasarairgēna gaurī Wb.</note>
+      <note place="foot" type="extra-stanza">70. 9 r̥tumuniyatirvidyunnasau tau guruḥ Nr, Pa.</note>
+      <note place="foot" type="extra-stanza">70. 10 nasarayugagaiścandralēkhartulōkaiḥ Nr, Pa, Wc.</note>
+      <note place="foot" type="extra-stanza">70. 11 yamau rau vikhyātā cañcarīkāvalī gaḥ Ba, Br (T), Nr, Pb, Rm, Wg.</note>
+      <note place="foot" type="extra-stanza">70. 12 sajasā jagau yadi tadā sunandinī Su (b).</note>
+      <note place="foot" type="extra-stanza">70. 13 (a) iha nandinī sajasasairguruyuktaiḥ Ba, Wb; navana° Ss, Vs; nanu na° Jn. (b) sajasā bhavēdiha sagau kuṭajākhyam Jn, Ss, Su (b), Vs.</note>
+      <lg n="71">
+        <l><app><rdg wit="#Gemini">mtau</rdg><rdg wit="#Claude">mtau nsau gāvakṣagrahavirati-</rdg></app></l>
+        <l><app><rdg wit="#Gemini">nsau gāvakṣamahaviratirasaṁbādhā</rdg><rdg wit="#Claude">rasaṁbādhā</rdg></app></l>
+      </lg>
+      <lg n="72">
+        <l>nanarasalaghugaiḥ svarairaparājitā</l>
+      </lg>
+      <lg n="73">
+        <l><app><rdg wit="#Gemini">nanabhanalagiti</rdg><rdg wit="#Claude">nanabha-</rdg></app></l>
+        <l><app><rdg wit="#Gemini">praharaṇakalitā</rdg><rdg wit="#Claude">nalagiti praharaṇakalitā</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="73"><rdg wit="#Ba #Bb #Rm #Su #Vs #Wc #Wg" n="Su (b)">laghugaiḥ ( for lagiti ) Br, Nr. kalikā ( for kalitā )</rdg></app>
+      <lg n="74">
+        <l>uktā vasantatilakā tabhajā jagau gaḥ</l>
+      </lg>
+      <lg n="75">
+        <l>siṁhōddhatēyamuditā munikaśyapēna*</l>
+      </lg>
+      <app type="apparatus" n="75" resp="#Claude"><rdg wit="#Nr #Rm #Pa #Sm #Su #Vs #Wc" n="Sm (b), Su (b)">siṁhōnnatē°</rdg><rdg wit="#Br">siṁhōnnataṁ</rdg><rdg wit="#Rm">siṁhōddhataṁ Pb, Wa, Wb. ti gaditā°</rdg><rdg wit="#Ba #Bb #Br #Jn #Nr #Pb #Rm #Sk #Sm #Ss #Wa #Wb #Wg">taduditā° Wb, taduditaṁ° Br, Pb, Wa. - kāśyapēna</rdg></app>
+      <note place="foot" type="extra-stanza">* 75. 1 uddharṣiṇīti kavirājavasundharēṇa Su; - ṇīyamuditā muni- ( kila Bb, Jn, ) saitavēna Bb, Br, Jn, Nr, Pa, Pb, Sm (b), Vs, Wa; - ṇīti gaditā kila saitavēna Ba.</note>
+      <note place="foot" type="extra-stanza">75. 2 gōmānasēna gaditā ( kathitā Su (a) ) madhumādhavīti Pa, Sm (b), Su (a); gōgēna saiva gadi° Su (c); gōbhēna sēna gadi° Bb, Su (b); sōmēna saiva gadi° Wb; nāgēna saiva gadi° Ba, Jn; gargēṇa saiva bhaṇitā° Vs; nāgēna sēyamudi° Br; rāmēṇa sēyamudi° Wa.</note>
+      <note place="foot" type="extra-stanza">75. 3 karṇōtpalēti gaditā kavisundarēṇa Pa; Sm (b).</note>
+      <note place="foot" type="extra-stanza">75. 4 śōbhāvatīyamuditā bhujagādhipēna Pb.</note>
+      <!-- CHECK: Gemini has 1 line(s) for verse 76, I read 2; Gemini text kept as a note -->
+      <lg n="76">
+        <l>induvadanā bhajasanaiḥ</l>
+        <l>saguruyugmaiḥ</l>
+      </lg>
+      <note type="Gemini-reading">induvadanā bhajasanaiḥ saguruyugmaiḥ</note>
+      <lg n="77">
+        <l><app><rdg wit="#Gemini">dviḥ saptacchidralōlā msau mbhau gau cēt</rdg><rdg wit="#Claude">dviḥ saptacchidlōlā msau mbhau gau caraṇē cēt*</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="77" resp="#Claude"><rdg wit="#Wb">syāt ( for cēt )</rdg></app>
+      <note place="foot" type="extra-stanza">* 77. 1 yugādibhiḥ kuṭilamiti mataṁ mbhau nyau gau Jn (T), Vs.</note>
+      <note place="foot" type="extra-stanza">77. 2 nanatajagurugaiḥ saptayatirnadī syāt Nr; Pa.</note>
+      <note place="foot" type="extra-stanza">77. 3 najabhajagairguruśca vasuṣaṭ kumārī Nr, Pa, Pb.</note>
+      <note place="foot" type="extra-stanza">77. 4 (a) najabhajalagyutā dhr̥tiriyaṁ kathitā Ba, Jn (T), Su (b), Vs. (b) najabhajalā guruśca bhavati pramadā Nr, Pa.</note>
+      <note place="foot" type="extra-stanza">77. 5 trinanagagiti vasuyati supavitram Nr, Pa.</note>
+      <note place="foot" type="extra-stanza">77. 6 naranarairlagau ca racitaṁ sukēsaram Nr, Pa, Pb.</note>
+      <note place="foot" type="extra-stanza">77. 7 (a) mbhau nyau gau cējjaladhi daśa ca haṁsaśyēnī Jn (T), Vs. (b) vēdē cābjē kuṭilamiha mabhau nyau gau cēt Pb. (c) madhyakṣāmā yugadaśavirāmā mbhau nyau gau Nr, Pa.</note>
+      <note place="foot" type="extra-stanza">77. 8 mbhau nyau lagau cēdbhavati jagati candraurasaḥ⟨?⟩ Jn (T), Vs.</note>
+      <note place="foot" type="extra-stanza">77. 9 lakṣmīrantavirāmā msau tabhau guruyugmam Nr, Pa.</note>
+      <note place="foot" type="extra-stanza">77. 10 sajasēna caiva yalagēna pathyā matā Ba.</note>
+      <note place="foot" type="extra-stanza">77. 11 (a) sajasā ylagāśca vasudhā sapañcagrahaiḥ Ba, Bb, Jn (T); (b) sajasaylagairiṣukhagaiśca pathyā matā Vs; (c) sajasā yalau giti śaragrahairmañjarī Nr, Pa.</note>
+      <note place="foot" type="extra-stanza">77. 12 yugadigbhiḥ kuṭilamiti mataṁ mbhau nyau gau Ba.</note>
+      <lg n="78">
+        <l><app><rdg wit="#Gemini">dviratahayalayugmatha giti śaśikalā</rdg><rdg wit="#Claude">dvihatahayalaghuratha giti śaśikalā</rdg></app></l>
+      </lg>
+      <!-- CHECK: Gemini has 1 line(s) for verse 79, I read 2; Gemini text kept as a note -->
+      <lg n="79">
+        <l>sragiti bhavati rasanavakayati-</l>
+        <l>riyam</l>
+      </lg>
+      <note type="Gemini-reading">sragiti bhavati rasanavakayatiriyama</note>
+      <lg n="80">
+        <l><app><rdg wit="#Gemini">vasuhayayatiriraha maṇiguṇanikaraḥ</rdg><rdg wit="#Claude">vasuhayayatiriha maṇiguṇanikaraḥ</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="80" resp="#Claude"><note>muni ( for haya ) and - maṇigaṇakiraṇaḥ Rm.</note></app>
+      <lg n="81">
+        <l>nanamayayutēyaṁ</l>
+        <l>mālinī bhōgilōkaiḥ</l>
+      </lg>
+      <lg n="82">
+        <l>bhavati najau bhajau rasahitau prabhadrakam</l>
+      </lg>
+      <!-- CHECK: Gemini has 2 line(s) for verse 83, I read 1; Gemini text kept as a note -->
+      <lg n="83">
+        <l>sajanā nayau śaradaśakaviratirēlā</l>
+      </lg>
+      <note type="Gemini-reading">sajanā nayau / śaradśakaviratirēlā</note>
+      <app type="apparatus" n="83" resp="#Claude"><rdg wit="#Br #Nr #Pa #Wa">- daśa-yatiriyamēlā</rdg><rdg wit="#Rm #Wc #Wg">- daśayatiratirēkhā ( lēkhā Wc )</rdg><rdg wit="#Ba">- nayau ca śaradaśayatirihailā</rdg></app>
+      <!-- CHECK: Gemini has 7 line(s) for verse 84, I read 2; Gemini text kept as a note -->
+      <lg n="84">
+        <l>mrau myau yāntau</l>
+        <l>bhavētāṁ⟨?⟩ saptāṣṭakaiścandralēkhā*</l>
+      </lg>
+      <note type="Gemini-reading">mrau myau yāntau / 75 siṁhōnnatē0 Nr, Rm, Pa, Sm (b), Su (b), Vs, Wc; siṁhōddhataṁ .Br; strihōddhataṁ / Pb, Wa, Wb. ti gaditā0 Rm; taduditā0 Wb. taduditaṁ0 Br, Pb, Wa. - kāśyapēna Ba, Bb, / Br, Jn, Nr, Pb, Rm, Sk, Sm, Ss, Wa, Wb, Wg. 77 syāt ( for cēt ) Wb. 80. muni / (for haya) and - maṇigaṇakiraṇaḥ Rm. 83. - daśa-yatiriyamēlā Br, Nr, Pa, Wa; - daśayatiratirēkhā / ( lēkhā Wc ) Rm, Wc, Wg; - nayau ca śaradśayatirihailā Ba. / bhavētāṁ samāptaikaiścandralēkhā*</note>
+      <app type="apparatus" n="84"><rdg wit="#Ba #Br #Nr #Rm #Sm #Su #Wa #Wb #Wc #Wg" n="Su (b)">- saptāṣṭabhiśca°</rdg><note type="Gemini-reading">0 samāptabhiśca 0 Ba, Br, Nr, Rm, Sm, Su (b), Wa, Wb, Wo, Wg.</note></app>
+      <note place="foot" type="extra-stanza">* 84. 1 chandō bhavēttabhajajai rayutairmr̥daṅgakam Bb, Wb.</note>
+      <note place="foot" type="extra-stanza">84. 2 najabhajarairvirājitamidaṁ sukēsaram Ba, Bb, Nr, Pa, Su (a, b ), Wb.</note>
+      <note place="foot" type="extra-stanza">84. 3 nanatabharakr̥tāṅgaiḥ ( kr̥tāṣṭa Bb ) svarairupamālinī Bb, Pa, Nr.</note>
+      <note place="foot" type="extra-stanza">84. 4 mā bāṇā yasyāṁ sā kāmakrīḍāsaṁjñā jñātavyā Ba, Bb, Jn (T), Sk, Ss (T), Su (b), Wb; mā bāṇāḥ syuryasyāṁ sā kāmakrīḍāsaṁjñā jñēyā (sujñātavyā Pa; saṁjñātavyā Vs, ) Nr, Pa Vs; kāmakrīḍā chandō jātaṁ kr̥tvā mābhyāṁ mammairvā Su (b, v. l.).</note>
+      <note place="foot" type="extra-stanza">84. 5 rānnabhadvitayarairuditaṁ ramaṇīyakam Ba, Jn (T), Su(b), Vs.</note>
+      <note place="foot" type="extra-stanza">84. 6 candrakāntābhidhā rau myau yō virāmaḥ svarāṣṭau Ba, Bb, Jn (T), Vs; candralēkhābhidhā° Nr.</note>
+      <note place="foot" type="extra-stanza">84. 7 candralēkhābhidhānaṁ bhavētpañcabhī raiḥ sphuṭam Pa, Wb.</note>
+      <note place="foot" type="extra-stanza">84. 8 bhavataḥ sajau sasayutā vr̥ṣabhastatō yaḥ Jn (T), Vs.</note>
+      <note place="foot" type="extra-stanza">84. 9 sagaṇaiḥ śivavaktramitaiḥ kathitā ( gaditā Ba ) nalinī Ba, Su (b).</note>
+      <!-- CHECK: Gemini has 1 line(s) for verse 85, I read 2; Gemini text kept as a note -->
+      <lg n="85">
+        <l>jratrinagaiḥ svarātkhamr̥ṣabhagajavi-</l>
+        <l>lasitam</l>
+      </lg>
+      <note type="Gemini-reading">atrinagaiḥ svarātsmr̥ṣabhabhagajavilasitam</note>
+      <app type="apparatus" n="85"><rdg wit="#Br #Pb #Rm">jrau trinagāḥ svarāt ( svarāḥ Rm ) khamr̥°</rdg><note type="Gemini-reading">au trinagāḥ svarāt ( svarāḥ Rm ) khamr̥0 Br, Pb, Rm.</note></app>
+      <lg n="86">
+        <l>najabhajaraiḥ sadā bhavati vāṇinī gayuktaiḥ*</l>
+      </lg>
+      <app type="apparatus" n="86"><rdg wit="#Rm #Wg">tadā ( for sadā ) Vs. najabhajataiḥ° - gānvitaiḥ</rdg></app>
+      <note place="foot" type="extra-stanza">* 86. 1 jarau jarau tatō jagau ca pañcacāmaraṁ vadēt Nr; jarau jarau jagāvidaṁ vadanti pañcacāmaram Bb, Vs, Wb; laghurgururnirantaraṁ ( rau Jn ) yadā sa ( yadīha Pa ) pañcacāmaraḥ ( °ram Pa, Wa ) Ba, Jn, Pa, Pb, Wa.</note>
+      <note place="foot" type="extra-stanza">86. 2 najarabhabhēna gēna ca syānmaṇikalpalatā Ba, Jn, Vs.</note>
+      <note place="foot" type="extra-stanza">86. 3 saṁkathitā bharau naranagāśca dhīralalitā Nr, Pa.</note>
+      <note place="foot" type="extra-stanza">86. 4 pañcabhakārayutāśvagatiryadi cāntyaguruḥ Nr; - yatā khagatiryadi cāntaguruḥ Pb, Wa; - kr̥tāśva(sva Wb)gatiryadi cā (vā Jn)-ntaguruḥ Ba, Jn, Pa, Vs, Wb; - kr̥tāśva... gaditāntaguruḥ Bb.</note>
+      <note place="foot" type="extra-stanza">86. 5 citrasaṁjñamīritaṁ rajau rajau ragau ca vr̥ttam Nr, Pa.</note>
+      <lg n="87" resp="#Claude">
+        <l>rasai rudraiśchinnā yamanasabhalā gaḥ śikhariṇī</l>
+      </lg>
+      <lg n="88">
+        <l><app><rdg wit="#Gemini">rasai rudraiśchinnā yamanasabhā gaḥ śikhariṇī .</rdg><rdg wit="#Claude">jasau jasayalā</rdg></app></l>
+        <l><app><rdg wit="#Gemini">87 .. jasau jasayalā vasugrahayatiśca pr̥thvī guruḥ</rdg><rdg wit="#Claude">vasugrahayatiśca pr̥thvī guruḥ</rdg></app></l>
+      </lg>
+      <lg n="89">
+        <l>diṅmuni vaṁśapatrapatitaṁ bharanabhanalagaiḥ</l>
+      </lg>
+      <lg n="90">
+        <l><app><rdg wit="#Gemini">rasayugahayainsau mrau slau gō yadā hariṇī tadā</rdg><rdg wit="#Claude">rasayugahayairnsau mrau slau gō yadā hariṇī tadā</rdg></app></l>
+      </lg>
+      <!-- CHECK: Gemini has 2 line(s) for verse 91, I read 1; Gemini text kept as a note -->
+      <lg n="91">
+        <l>mandākrāntā jaladhiṣaḍagairmbhau natau tādgurū cēt</l>
+      </lg>
+      <note type="Gemini-reading">mandākrāntā / jaladhiṣaḍgaimbhau natau tādgurū cēt</note>
+      <lg n="92">
+        <l>yadi bhavatō</l>
+        <l><app><rdg wit="#Gemini">nasau bhajajalā guru narkuṭakam</rdg><rdg wit="#Claude">najau bhajajalā guru narkuṭakam</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="92"><rdg wit="#Nr #Pa #Pb #Wa #Wg">sagu ( for guru ) Ba, Wa. hayadaśabhirnajau°</rdg><rdg wit="#Rm #Wg">hayadaśa° guru tatkuṭakam</rdg><note type="Gemini-reading">sagū ( for guru ) Ba, Wa. hyadaśabhirnajau 0 Nr, Pa, Pb, Wa, Wg; hyadaśa 0 guru tatkuṭakam Rm, Wg.</note></app>
+      <!-- CHECK: Gemini has 1 line(s) for verse 93, I read 2; Gemini text kept as a note -->
+      <lg n="93">
+        <l>muniguhakārṇavaiḥ kr̥tayatiṁ vada</l>
+        <l>kōkilakam*</l>
+      </lg>
+      <note type="Gemini-reading">muniguhakārṇavaiḥ kr̥tayatiṁ vada kōkilakam*</note>
+      <app type="apparatus" n="93"><rdg wit="#Nr #Pa #Pb #Wc">- kr̥tayati vada°</rdg><rdg wit="#Wa">- kr̥tayatirvada°</rdg><rdg wit="#Wg">- kr̥tayatirvanakō°</rdg><note type="Gemini-reading">- kr̥tayati vada0 Nr, Pa, Pb, Wc; - kr̥tayatirvēda 0 Wa; - kr̥tayatirvanakō 0 Wg.</note></app>
+      <note place="foot" type="extra-stanza">* 93. 1 samadavilāsinī najabhajairbhlagairinaśaraiḥ Bb.</note>
+      <note place="foot" type="extra-stanza">* 93. 2 rasayugahayayuṅ ( kair Pb ) nau mrau sō lagau ( slau sagau Pb ) hi yadā hariḥ Nr, Pb.</note>
+      <note place="foot" type="extra-stanza">93. 3 najabhajēṣu gau yadi vadanti ca vāṇinīṁ tām Wb.</note>
+      <note place="foot" type="extra-stanza">93. 4 bhavētkāntā yugarasahayairyabhau narasā lagau Nr.</note>
+      <note place="foot" type="extra-stanza">93. 5 sasajairatiśāyinī matā (bhavēt Pa, Wb) bhajaparairgurubhyām Ba, Jn (T), Pa, Wb.</note>
+      <note place="foot" type="extra-stanza">93. 6 (a) sasajā bhajagā gu diksvarairbhavati citralēkhā Nr, Pa; (b) sasajā bhajagā guruśca saptaviratirdrutā syāt Vs.</note>
+      <lg n="94">
+        <l><app><rdg wit="#Gemini">syādbhūtartuvyaiḥ kusumavitālavēllitā matau nayau yau*</rdg><rdg wit="#Claude">syādbhūtartvaśvaiḥ kusumitalatāvēllitā mtau nayau yau*</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="94"><note>syādbāṇartvaśvaiḥ° Su (ac). † 3 letters missing.</note><note type="Gemini-reading">syādvāṇatvaiścaiḥ 0 Su (ac). ‡3 letters missing.</note></app>
+      <note place="foot" type="extra-stanza">* 94. 1 bhavati nayugalaṁ rabhau rau daśabhirgirīndrairlatā Su (b); - bhirgajēndrairlatā Ba.</note>
+      <note place="foot" type="extra-stanza">94. 2 (a) iha nanaracatuṣkamiṣṭaṁ tu nārācamācakṣatē Wb; (b) yadiha (ca Ba ) nayugalaṁ tatō vēdarairmahāmālikā Ba, Br (T), Nr, Pa, Pb, Wa; (c) kathitamiha nanau rarau cēdrarau siṁhavikrīḍitam Rm, Wg.</note>
+      <note place="foot" type="extra-stanza">94. 3 daśavasuviratirnanau raiścaturbhiryutā lālasā Jn, (T), Pa, Su (b), Vs, Wb; - lālasī Ba; - sālasā Bb.</note>
+      <note place="foot" type="extra-stanza">94. 4 (a) tryadhikadaśayātirnanau rau bhavētāṁ rarau tārakā Ba, Jn (T); (b) triyutadaśaśaracchiduktā nanau rau tatō rau niśā Su (b); (c) tryadhikadaśayārtirnanau rau rarau † ca priyā Wb; daśaśikhiśarabhūvirāmā nanau rau rarau ca priyā Pa.</note>
+      <note place="foot" type="extra-stanza">94. 5 pañcabhakārakr̥tāśvagatiryadi cāntasaracitā Nr; - ntasaniratā Br (T), Pb, Wa.</note>
+      <note place="foot" type="extra-stanza">94. 6 bhādrananā nasau bhramarapadakamidamabhihitam Nr, Pa.</note>
+      <note place="foot" type="extra-stanza">94. 7 varṇāśvairmananatatamakaḥ kīrtitā citralēkhēyam Nr, Pa.</note>
+      <note place="foot" type="extra-stanza">94. 8 mbhau njau bhrau cēccalamidamuditaṁ yugairmunibhiḥ svaraiḥ Nr; Pa.</note>
+      <note place="foot" type="extra-stanza">94. 9 arthāśvāśvairmabhanayarayugairvr̥ttaṁ mataṁ kēśaram Nr.</note>
+      <note place="foot" type="extra-stanza">94. 10 mātsō jau bharasaṁyutau karitrāṇakai ( khai Ba )rhariṇaplutam Ba, Br (T), Nr, Pa, Pb, Wa; - kairharanartakam Wg (See below No, 14).</note>
+      <note place="foot" type="extra-stanza">94. 11 śārdūlaṁ vada māsaṣaṭkayati maḥ sō jasau rō maścēt Nr.</note>
+      <note place="foot" type="extra-stanza">94. 12 sudhā tarkaistarkairbhavati r̥tubhiryō mō nasatasāḥ Ba, Nr, Wc.</note>
+      <note place="foot" type="extra-stanza">94. 13 syād ( tat Ba ) bhūtartvaśvairmau mbhau viratiścēt siṁhavisphūrjitaṁ yau Ba, Jn (T), Su (b), Vs.</note>
+      <note place="foot" type="extra-stanza">94. 14 sau jajau bharasaṁyutau karibāṇakai( khai Ba. )rharanartakam Ba, Rm; - bāṇakhaṁ haranartakam Jn (T).</note>
+      <note place="foot" type="extra-stanza">94. 15 sau jayā bharasaṁyutāvr̥tubāṇāśvairnarakuttanam⟨?⟩ Bb.</note>
+      <lg n="95">
+        <l><app><rdg wit="#Gemini">rasaistraiśrau nasau raraguruyutā mēghavisphūrjitā syāt</rdg><rdg wit="#Claude">rasartvaśvairymau nsau raraguruyutā mēghavisphūrjitā syāt</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="95"><note>yutau ( for yutā ) Rm. Dropped by Nr and Vs.</note></app>
+      <lg n="96">
+        <l><app><rdg wit="#Gemini">sūryyāśvairmasajāḥ statāḥ saguravaḥ śārdūlavikrīḍitam*</rdg><rdg wit="#Claude">sūryāśvairmasajāḥ statāḥ saguravaḥ śārdūlavikrīḍitam*</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="96"><rdg wit="#Br #Jn #Nr #Pb #Sk #Sm #Ss #Su #Vs" n="Su (c)">masajastatāḥ</rdg><note type="Gemini-reading">1 gajāśvibhuturagairrjasau jasaptabhā gaścētsamudratatā Nr.</note></app>
+      <note place="foot" type="extra-stanza">* 96. 1 gajābdhituragairjasau jasatabhā gaścētsamudratatā Nr.</note>
+      <note place="foot" type="extra-stanza">96. 2 najabhayasā jagau ca racanā śūlikakubhiratra sā Jn (T), Su (b);</note>
+      <note place="foot" type="extra-stanza">96. 3 najabhayabhā jagau ca racanā munyarkayatiratra sā Ba.</note>
+      <note place="foot" type="extra-stanza">96. 4 nayugalalaguru nirantaraṁ yadā sa pañcacāmaraḥ Nr, pb, Wa; nayugalagalaghurnira° Br; nayugagurulaghurni° Wr.</note>
+      <note place="foot" type="extra-stanza">96. 5 vr̥ttaṁ bimbākhyaṁ śaramunituragairmtau nsau tatau cēdguruḥ Nr.</note>
+      <note place="foot" type="extra-stanza">96. 6 bhūtāśvāśvāntaṁ matanasararagaiḥ kīrtitaṁ puṣpadāma Nr.</note>
+      <note place="foot" type="extra-stanza">96. 7 ināśvairyā yabhanayajajagāḥ kīrtitā maṇimañjarī Nr.</note>
+      <note place="foot" type="extra-stanza">96. 8 rasaiḥ ṣaḍbhirlōkairyamanasajajā gururmakarandikā Nr, Pa.</note>
+      <note place="foot" type="extra-stanza">96. 9 iyaṁ chāyā khyātā r̥turasahayairyō manasā bhtau guruḥ Nr.</note>
+      <note place="foot" type="extra-stanza">96. 10 bhau jatau tau sagurukau yadā diggrahacchēdabhāgvallakī Ba, Su (b); - yadā digrasacchēdabhāg° Jn (T).</note>
+      <lg n="97">
+        <l>jñēyā</l>
+        <l><app><rdg wit="#Gemini">saptāśvaṣaḍbhirrmarabhanayayutā mlau gaḥ suvadanā</rdg><rdg wit="#Claude">saptāśvaṣaḍbhirmarabhanayayutā bhlau gaḥ suvadanā</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="97"><note>yutau ( for yutā ) Rm. Dropped by Vs.</note></app>
+      <lg n="98">
+        <l><app><rdg wit="#Gemini">trī rajau galau bhavēdihēdr̥śēna</rdg><rdg wit="#Claude">trī rajau galau</rdg></app></l>
+        <l><app><rdg wit="#Gemini">lakṣaṇēna vr̥ttanāma*</rdg><rdg wit="#Claude">bhavēdihēdr̥śēna lakṣaṇēna vr̥ttanāma*</rdg></app></l>
+      </lg>
+      <note place="foot" type="extra-stanza">* 98. 1 khyātā pūrvaiḥ suvaṁśā yadi marabhanāstadvayaṁ gō guruśca Ba, Jn (T), Su (b)</note>
+      <note place="foot" type="extra-stanza">98. 2 rasairaśvairaśvairyamananatatagairgēna śōbhēyamuktā Nr, Pa.</note>
+      <note place="foot" type="extra-stanza">98. 3 sajajā bharau salagāśca cēduditaṁ tadā pramadānanam Rm, Wg.</note>
+      <note place="foot" type="extra-stanza">98. 4 sabharā nmyā lagiti trayōdaśayatirmattēbhavikrīḍitam Wg; sabharānmau yalagākhya° (Rm v. l.) sabharā namlagiti° Rm.</note>
+      <lg n="99">
+        <l><app><rdg wit="#Gemini">mbhranairyānāṁ trayēṇa trimuniyatiyutā sragdharā</rdg><rdg wit="#Claude">mrabhnairyānāṁ trayēṇa trimuni-</rdg></app></l>
+        <l><app><rdg wit="#Gemini">kīrtitēyam*</rdg><rdg wit="#Claude">yatiyutā sragdharā kīrtitēyam*</rdg></app></l>
+      </lg>
+      <note place="foot" type="extra-stanza">* 99. 1 (a) bhavati najau hi siddhiriti bhājajajā yadi gē bhavēditaḥ ( diha Ba ) Ba, Jn (T), Pa; (b) salilanidhirbhavēdiha najau bhagaṇō jagaṇātrayaśca raḥ Nr.</note>
+      <note place="foot" type="extra-stanza">99. 2 najabhajajājarau haraharidviratiḥ khalu paṁcakāvalī Vs.</note>
+      <note place="foot" type="extra-stanza">99. 3 bhau bhabhabhāśca marau yadi kīrtaya putraka mattavilāsinīm Rm, Wg.</note>
+      <lg n="100">
+        <l><app><rdg wit="#Gemini">śrau naranā ranāvatha gururdiga—</rdg><rdg wit="#Claude">bhrau naranā ranāvatha gururdiga-</rdg></app></l>
+        <l><app><rdg wit="#Gemini">kairriāramaṁ hi mandrakamidam*</rdg><rdg wit="#Claude">kaistrirasaṁ⟨?⟩ hi bhadrakamidam*</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="100"><rdg wit="#Br #Jn #Nr #Pa #Pb #Sk #Sm #Ss #Su" n="Su (a, b)">bhadraka ( for bhadrakaṁ )</rdg><rdg wit="#Rm #Ss #Vs">prabhadrakaṁ ( for hi bhadrakaṁ )</rdg><note type="Gemini-reading">bhadraka ( for madrakaṁ ) Br, Jn, Nr, Pa, Pb, Sk, Sm, Ss, Su (a, b); prabhadrakaṁ ( for hi madrakaṁ ) Rm, Ss, Vs.</note></app>
+      <note place="foot" type="extra-stanza">* 100. 1 saptabhakārakr̥tāvasitau saguruḥ kavibhiḥ kathitā madirā Nr, Pa; saptabhirēva bhakāragaṇairguruṇā sahitā kathitā madirā Vs.</note>
+      <note place="foot" type="extra-stanza">100. 2 lālityaṁ bhujagēndrēṇa bhāṣitamētaccēnmamarastajanaguruḥ Jn (T), Su (b).</note>
+      <note place="foot" type="extra-stanza">100. 3 lālityaṁ bhujagēndrabhāṣitamētaccēnmasajayabhabhanagurubhiḥ Ba.</note>
+      <note place="foot" type="extra-stanza">100. 4 sajatā nasau rasau gaḥ phaṇituragahayaiḥ ( yugaiḥ Bb ) syānmahāsragdharākhyā Ba, Bb, Jn (T), Su (b).</note>
+      <lg n="101">
+        <l><app><rdg wit="#Gemini">yadiha najau bhajau sjabhalagāstadāśvalalitaṁ</rdg><rdg wit="#Claude">yadiha najau bhajau bhajabhalagāsta-</rdg></app></l>
+        <l><app><rdg wit="#Gemini">harākaiyatimat</rdg><rdg wit="#Claude">dāśvalalitaṁ harārkayatimat</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="101"><rdg wit="#Rm">- bhajau bhajabhalag tadā0</rdg><rdg wit="#Br #Nr">tadaśva ( for tadāśva ).</rdg><note type="Gemini-reading">- bhajau majabhalag tadā0 Rm; tadaśva ( for tadāśva). Br, Nr.</note></app>
+      <lg n="102" resp="#Claude">
+        <l>mattākrīḍaṁ mau tnau nau nlau giti</l>
+        <l>bhavati vasuśaradaśayatiyutam*</l>
+      </lg>
+      <app type="apparatus" n="102"><rdg wit="#Br #Nr #Rm">mattākrīḍā0 yutā Br, Nr, Pa, Pb, Rm, Vs, Wa. Wc, Wg. - tlau nau naligiti0</rdg><note type="Gemini-reading">mattākrīḍā 0 yutā Br, Nr, Pa, Pb, Rm, Vs, Wa, Wc, Wg. - lnau nau naliti0 Br, Nr, Rm.</note></app>
+      <note place="foot" type="extra-stanza">* 102. 1 bhairatha saptabhiratra kr̥tā guruṇā guruṇā ca mayuragatiḥ syāt Rm, Wg.</note>
+      <lg n="103">
+        <l><app><rdg wit="#Gemini">mattākrīḍaṁ mau tnau nau mlau giti bhavati vasuśaradaśayatiyunam* .. 102</rdg><rdg wit="#Claude">bhūtamunīnairyatiriha bhatanāḥ</rdg></app></l>
+        <l><app><rdg wit="#Gemini">.. bhūtamunīnairyatiriha bhatanāḥ sbhau bhanayaśca yadi bhavati tanvī</rdg><rdg wit="#Claude">sbhau bhanayāśca yadi bhavati tanvī</rdg></app></l>
+      </lg>
+      <lg n="104">
+        <l><app><rdg wit="#Gemini">krauñcapadā mmau</rdg><rdg wit="#Claude">krauñcapadā bhmau sbhau nanana-</rdg></app></l>
+        <l><app><rdg wit="#Gemini">sbhau nanananā iṣuśaravasumuniviratiriha bhavēt</rdg><rdg wit="#Claude">ngā iṣuśaravasumuniviratiriha bhavēt</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="104"><rdg wit="#Br #Nr #Pa #Pb #Rm #Ss">- nananā ngāviṣu0</rdg><rdg wit="#Ba #Vs">- nananngāviṣu0</rdg><rdg wit="#Ba">- nacatuṣkaṁ gayutamiṣuvasu0</rdg><note>( - nacatuṣkaṁ guru ca śaraviṣayavasumuniviratiḥ v. l. noted by Jn ).</note><note type="Gemini-reading">- nananā nāvibu0 Br, Nr, Pa, Pb, Rm, Ss; - janananāvibu0 Ba, Vs; - nacatuṣkaṁ gayutamiśravasu0 Ba; ( - nacatuṣkaṁ guru ca śaraviṣayavasumuniviratiḥ v. l. noted by Jn ).</note></app>
+      <lg n="105">
+        <l><app><rdg wit="#Gemini">vasvīśāśvacchēdōpētaṁ</rdg><rdg wit="#Claude">vasvīśāśvacchēdōpētaṁ mamata-</rdg></app></l>
+        <l><app><rdg wit="#Gemini">mamatanayuganarasalagairbhujaṅgavijr̥mbhitam</rdg><rdg wit="#Claude">nayuganarasalagairbhujaṅgavijr̥mbhitam</rdg></app></l>
+      </lg>
+      <lg n="106">
+        <l>mō nāḥ ṣaṭ sagagiti yadi</l>
+        <l><app><rdg wit="#Gemini">navarasarasaśarayatithunamapavāhākhyam*</rdg><rdg wit="#Claude">navarasarasaśarayatiyutamapavāhākhyam*</rdg></app></l>
+      </lg>
+      <note place="foot" type="extra-stanza">* 106. 1 myau ntau nau rasau lagau yadi ca āhurvasumadanadahanarṣibhirbhujagēritaṁ Ss.</note>
+      <note place="foot" type="extra-stanza">106. 2 myau tryau ( r. ntau ) nau rayau lagau ( r. lgau ) yadi0 bhujagēritaṁ Wb.</note>
+      <note place="foot" type="extra-stanza">106. 3 yatkiñciddr̥śyatē chandaḥ ṣaḍviṁśatyadhikākṣaram । śēṣajātyādikaṁ muktvā tatsarvaṁ daṇḍakāniha ॥ Jn (T). Jn introduces this verse as the sāmānyalakṣaṇa of daṇḍaka.</note>
+      <lg n="107">
+        <l><app><rdg wit="#Gemini">yadiha nayugalaṁ tataḥ sapta raiphāstadā</rdg><rdg wit="#Claude">yadiha nayugalaṁ tataḥ sapta</rdg></app></l>
+        <l><app><rdg wit="#Gemini">caṇḍavr̥ṣṭiprayātō bhavēddaṇḍakaḥ</rdg><rdg wit="#Claude">rēphāstadā caṇḍavr̥ṣṭiprayātō bhavēddaṇḍakaḥ</rdg></app></l>
+      </lg>
+      <lg n="108">
+        <l>praticaraṇavivr̥ddharēphāḥ</l>
+        <l><app><rdg wit="#Gemini">syurarṇavavyālajīmūtalīlākarōddāmaśaṅkhādayaḥ</rdg><rdg wit="#Claude">syurarṇārṇavavyālajīmūtalīlākarōddāmaśaṅkhādayaḥ</rdg></app></l>
+      </lg>
+      <lg n="109">
+        <l><app><rdg wit="#Gemini">pracitakasamābhidhō dhīradhībhiḥ smr̥tō</rdg><rdg wit="#Claude">pracitakasama-</rdg></app></l>
+        <l><app><rdg wit="#Gemini">daṇḍakō nadvayāduttaraiḥ saptabhiryaiḥ</rdg><rdg wit="#Claude">bhidhō dhīradhībhiḥ smr̥tō daṇḍakō nadvayāduttaraiḥ saptabhiyaiḥ</rdg></app></l>
+      </lg>
+      <note place="foot" type="extra-stanza">* 109. 1 nadvayātparatastakārēṇāpi kaściddaṇḍakā dr̥śyantē Rm.</note>
+      <note place="foot" type="extra-stanza">109. 2 ēvamēkōnasahasrākṣaravr̥ddhirbhavati daṇḍakaṁ vr̥ttam Rm.</note>
+      <trailer>iti bhaṭṭakēdāraviracitē vr̥ttaratnākarākhyē chandasi mātrāvr̥ttavarṇanō nāma tr̥tīyō’dhyāyaḥ ॥ 3 ॥ [ graṁ0 ślō0 45 ]</trailer>
+    </div>
+    <div type="adhyāya" n="4">
+      <head>caturthō’dhyāyaḥ</head>
+      <lg n="1">
+        <l>viṣamē yadi sau⟨?⟩ salagā dalē</l>
+        <l><app><rdg wit="#Gemini">bhau yuji bhādgurukānupacitram*</rdg><rdg wit="#Claude">bhau yuji bhādgurukāvupacitram*</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="1b"><rdg wit="#Br #Nr #Pb">syur ( for ’smān ) Ba, Br, Wa, Wc. vr̥ddhaiḥ ( for vr̥ddhāḥ )</rdg></app>
+      <app type="apparatus" n="1c"><rdg wit="#Vs">- pādaiḥ prasannasaundaryam</rdg></app>
+      <app type="apparatus" n="1d"><rdg wit="#Br #Nr #Pb #Wa #Wc">taduditamamalamatibhiḥ⟨?⟩ pada0</rdg><note type="Gemini-reading">taduditamamalaniyamiḥ pada0 Br, Nr, Pb, Wa, Wc.</note></app>
+      <note place="foot" type="extra-stanza">* 1. 1 sau lagau viṣamē yadi । sajajā gururlalitā samē Nr, Pa, Vs.</note>
+      <lg n="2">
+        <l>bhatrayamōjagataṁ guruṇī cēd</l>
+        <l>yuji ca najau jyayutau drutamadhyā</l>
+      </lg>
+      <app type="apparatus" n="2c"><rdg wit="#Ba #Sm" n="Sm (a)">sahita ( for kalita ) Nr, Wa, Wc. guruyugalakani0</rdg></app>
+      <app type="apparatus" n="2d"><note>riti for riha in text Ba, Rm, Ss, Vs. laghuviracitapadavitatiyatiriha0 ( riti0 Pa, Pb ) Br, Nr, Pa, Pb, Wa, Wc</note><rdg wit="#Wg">vidhr̥taruciraracitapadavitatiyatiriti pīḍaḥ</rdg></app>
+      <lg n="3">
+        <l>sayugātsagurū viṣamē cēd</l>
+        <l><app><rdg wit="#Gemini">bhāviha vēgavatī yuji bhādrau</rdg><rdg wit="#Claude">bhāviha vēgavatī yuji bhādgau</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="3b"><rdg wit="#Nr #Wa">sa yadi</rdg><rdg wit="#Wc" n="Wc ( for जगति )">sapadi</rdg><note type="Gemini-reading">sa yadi Nr, Wa; sapadi Wo (for jagati ).</note></app>
+      <app type="apparatus" n="3c"><rdg wit="#Ba #Jn #Rm #Sk #Sm #Ss #Wb #Wg">itaraditarajanitamapi yadi ca ( tu Wg ) turyam</rdg><rdg wit="#Br #Nr #Pb #Wa #Wc">gaditaṁ ( for janitaṁ in the last )</rdg><note>samyak ( for turyam in the last ) Su (b), Wa, Wc. Su (a) adds yadi ca and Su (c) only ca before turyam.</note></app>
+      <!-- CHECK: Gemini has 1 line(s) for verse 4, I read 2; Gemini text kept as a note -->
+      <lg n="4">
+        <l>ōjē taparau jarau guruścēn</l>
+        <l>msau jgaug bhadravirāḍ bhavēdanōjē</l>
+      </lg>
+      <note type="Gemini-reading">vr̥ttavarṇanō nāma caturthō’dhyāyaḥ</note>
+      <app type="apparatus" n="4b"><rdg wit="#Br #Nr #Rm #Wa">- ṇagatamanubhavati ca tr̥tīyaḥ ( yam Wa )</rdg><rdg wit="#Wg">- ṇakagatamanubhavati tr̥tīyam</rdg></app>
+      <app type="apparatus" n="4c"><rdg wit="#Nr">ca ( for hi ) Rm, Wg. aparamiha hi0</rdg></app>
+      <app type="apparatus" n="4d"><rdg wit="#Br #Wa #Wc">prakr̥tamakhilamapi yadidamanubhavati0</rdg><rdg wit="#Su" n="Su (b)">prakr̥tamaparamakhilamidamapi ca bhavati lavalyāḥ Sm, Ss, Wb. prakr̥tamaparamakhilamapi jagati bhavati lavalyāḥ</rdg></app>
+      <lg n="5">
+        <l>asamē sajau saguruyuktau</l>
+        <l><app><rdg wit="#Gemini">kētumatī samē bharanagādguḥ *</rdg><rdg wit="#Claude">kētumatī samē bharanagādgaḥ*</rdg></app></l>
+      </lg>
+      <note place="foot" type="extra-stanza">* 5. 1 (a) viṣamē sagaṇau jagau samē । sabharā laśca guruḥ śikhāmaṇiḥ Sd. (b) viṣamē sasajāstatō guruḥ । samapādē muralī sabhalagāḥ Vs. (c) sasajā viṣamē yadā guruḥ । sabharāḥ syāllalitā samē lagau Rm. (d) viṣamē yadi sau jagau, samē । sbharalā gō’paravaktramīritam Ba, Jn.</note>
+      <lg n="6">
+        <l><app><rdg wit="#Gemini">ākhyānakī tau jagurū gmōjē</rdg><rdg wit="#Claude">ākhyānikī tau jagurū gamōjē</rdg></app></l>
+        <l>jatāvanōjē jagurū guruścēt</l>
+      </lg>
+      <lg n="7">
+        <l>jatau jagau gō viṣamē samē syāt</l>
+        <l><app><rdg wit="#Gemini">tau jau ga ēṣā viparītapūrvā</rdg><rdg wit="#Claude">tau jgau ga ēṣā viparītapūrvā</rdg></app></l>
+      </lg>
+      <lg n="8">
+        <l><app><rdg wit="#Gemini">sayugātsalaghū viṣamē guru—</rdg><rdg wit="#Claude">sayugātsalaghū viṣamē guru-</rdg></app></l>
+        <l>ryuji nabhau ca bharau hariṇaplutā</l>
+      </lg>
+      <lg n="9">
+        <l>ayuji nanaralā guruḥ samē</l>
+        <l><app><rdg wit="#Gemini">jjamaparavaktramidaṁ tatō jarau*</rdg><rdg wit="#Claude">njamaparavaktramidaṁ tatō jarau*</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="9b"><rdg wit="#Ba #Jn #Su #Vs" n="Su (a)">tadapara0 najau jarau</rdg></app>
+      <note place="foot" type="extra-stanza">* 9. 1 (a) sasajāḥ prathamē padē gurū cēt । sabharā yēna ca mālabhāriṇī syāt Pa; viṣamē sasajā gurū, anōjē ( padē gurū cēt Ba ) । sabharā yaśca tu ( yēna tu Ba, yēna ca Su (a) ) mālabhāriṇīyam Ba, Su (a, c); viṣamē sasajēna gēna gēnā— । viṣamē sbhrēṇa tu mālabhāriṇīyam Vs. (b) viṣamē sasajā gurū, samē cēt । sabharā yaśca vasantamālikā sā Br, Pb, Wa. (c) viṣamē sasajā gurū, anōjē । sbharayāśchandāsikaṁ tadaupapūrvam Su (b), Wb.</note>
+      <lg n="10">
+        <l>ayuji nayugarēphatō yakārō</l>
+        <l>yuji ca najau jaragāśca puṣpitāgrā*</l>
+      </lg>
+      <note place="foot" type="extra-stanza">* 10. 1 ayuji nanabhabhāḥ samakē’pi tu । nayugarayugalaṁ tadā kaumudī Nr, Pa.</note>
+      <note place="foot" type="extra-stanza">10. 2 yadi viṣamē bhavatō najau jarau । sajayāḥ samē jagurū mañjusaurabham Nr, Pa.</note>
+      <note place="foot" type="extra-stanza">10. 3 rō jarau jasaṁyutau padē padē’tha । yugmē tarau jarau gururmr̥gī yavānī Nr, Pa.</note>
+      <lg n="11">
+        <l><app><rdg wit="#Gemini">vadantyaparavaktrākhyaṁ vaitālīya vipaścitaḥ</rdg><rdg wit="#Claude">vadantyaparavaktrākhyaṁ vaitālīyaṁ vipaścitaḥ</rdg></app></l>
+        <l>puṣpitāgrābhidhaṁ kēcidaupacchandasikaṁ tathā</l>
+      </lg>
+      <lg n="12">
+        <l><app><rdg wit="#Gemini">syādyugmakē rajau rajau samē tu</rdg><rdg wit="#Claude">syādayugmakē rajau rajau samē tu</rdg></app></l>
+        <l><app><rdg wit="#Gemini">jarau jarau gururyathātparā matīyam*</rdg><rdg wit="#Claude">jarau jarau gururyavātparā matīyam*</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="12a"><rdg wit="#Nr #Wa #Wc">cēt ( for tu )</rdg><note type="Gemini-reading">cēt ( for tu) Nr, Wa, Wo;</note></app>
+      <app type="apparatus" n="12"><rdg wit="#Vs">b - guruḥ parā yavānmatīyam</rdg></app>
+      <note place="foot" type="extra-stanza">* 12. 1 ōjē taparau bharau jarau gurū samē jau yau । kīrtitā budhairiyaṁ tu ṣaṭpadākhyā Nr, Pa.</note>
+      <trailer>iti bhaṭṭakēdāraviracitē vr̥ttaratnākarākhyē chandasi ardhasama- vr̥ttavarṇanō nāma caturthō’dhyāyaḥ ॥4॥ [ graṁ0 ślō0 8, a0 26 ]</trailer>
+    </div>
+    <div type="adhyāya" n="5">
+      <head>pañcamō’dhyāyaḥ</head>
+      <lg n="1">
+        <l>mukhapādō’ṣṭabhirvarṇaiḥ</l>
+        <l><app><rdg wit="#Gemini">parē’smānkarālayaiḥ kramādvr̥ddhāḥ</rdg><rdg wit="#Claude">parē’smānmakarālayaiḥ kramādvr̥ddhāḥ</rdg></app></l>
+        <l>satataṁ yasya vicitraiḥ pādaiḥ saṁpannasaundaryam</l>
+        <l><app><rdg wit="#Gemini">tadabhihitamamaladhībhiḥ padacaturūdhrvābhidhaṁ vr̥ttam</rdg><rdg wit="#Claude">tadabhihitamamaladhībhiḥ padacaturūrdhvābhidhaṁ vr̥ttam</rdg></app></l>
+      </lg>
+      <lg n="2">
+        <l>prathamamuditavr̥ttē</l>
+        <l>viracitaviṣamacaraṇabhāji</l>
+        <l><app><rdg wit="#Gemini">gurukayugalanidhana iha kalita āṅa</rdg><rdg wit="#Claude">gurukayugalanidhana iha kalita āṅga⟨?⟩</rdg></app></l>
+        <l><app><rdg wit="#Gemini">vidhutarucirapadavitatiyatiriha bhavati pīḍā</rdg><rdg wit="#Claude">vidhr̥tarucirapadavitatiyatiriha bhavati pīḍaḥ</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="2a"><rdg wit="#Bb #Br #Nr #Pa #Pb #Rm #Vs #Su" n="Su (a)">-gurūnēva</rdg><rdg wit="#Ss">-gurūnadaṁ⟨?⟩ Bb⟨?⟩,</rdg><rdg wit="#Sk">-gurū-ṇyēvaṁ</rdg><rdg wit="#Sm">-guruṁ caiva</rdg></app>
+      <lg n="3">
+        <l><app><rdg wit="#Gemini">prathamitacaraṇasamutthaṁ</rdg><rdg wit="#Claude">prathamamitaracaraṇasamutthaṁ</rdg></app></l>
+        <l>śrayati jagati lakṣma</l>
+        <l>itaraditaracaraṇajanitamapi turyam</l>
+        <l>caraṇayugalakamavikr̥tamaparamiti kalikā sā</l>
+      </lg>
+      <app type="apparatus" n="3c"><rdg wit="#Vs">mādāya ( for mādhāya )</rdg></app>
+      <app type="apparatus" n="3d"><rdg wit="#Nr">syādardhē’rdhē0</rdg><rdg wit="#Ba #Pa #Rm">tasyārdhē’rdhē0</rdg></app>
+      <lg n="4">
+        <l>dviguruyutasakalacaraṇāntā</l>
+        <l>mukhacaraṇaracitamanubhavati tr̥tīyaḥ</l>
+        <l>caraṇa iha hi lakṣma</l>
+        <l>prakr̥tamaparamakhilamapi yadi bhavati lavalī sā</l>
+      </lg>
+      <app type="apparatus" n="4ab"><rdg wit="#Rm">-naṅkānuparyādhāt⟨?⟩0</rdg><note type="Gemini-reading">- naṅkānuparyādyāt0 Rm.</note></app>
+      <app type="apparatus" n="4c"><rdg wit="#Rm">tu ( for ca in the text ) Ss, Vs. laghusthānē tu yēṅkāḥ syuḥ</rdg><rdg wit="#Ba">laghusthāstatra yē cāṅkā</rdg></app>
+      <lg n="5">
+        <l>prathamamadhivasati yadi turyam</l>
+        <l><app><rdg wit="#Gemini">caramacaraṇapadamavasatiguruyugmam</rdg><rdg wit="#Claude">caramacaraṇapadamavasitiguruyugmam</rdg></app></l>
+        <l>nikhilamaparamuparitanasamamiha lalitapādā</l>
+        <l>tritayamamr̥tadhārā</l>
+      </lg>
+      <app type="apparatus" n="5a"><rdg wit="#Ba">mapi ( for madhi )</rdg><note type="Gemini-reading">mapi ( for adhi ) Ba.</note></app>
+      <app type="apparatus" n="5b"><rdg wit="#Rm">mavasitaṁ ( for mavasiti ) Su (a, c). yugmā ( for yugmaṁ )</rdg></app>
+      <app type="apparatus" n="5c"><rdg wit="#Br #Nr #Pb #Vs #Wa #Wc">iti ( for iha in the text ) Pa. pāda- ( for pādā in the text ) Ss, Wb, Wg. akhila ( nikhila- Nr ) maparamuparigatamiti lalitapadayuktā</rdg></app>
+      <app type="apparatus" n="5d"><rdg wit="#Br #Nr #Pb #Su #Vs #Wa #Wc" n="Su (c)">tadiyama0</rdg></app>
+      <app type="apparatus" n="5c"><rdg wit="#Nr #Pb">kramataḥ ( for kramaśaḥ )</rdg><note type="Gemini-reading">kramaśaḥ ( for kramaśaśca ) Nr, Pb.</note></app>
+      <app type="apparatus" n="5d"><rdg wit="#Pb">vinyasēt ( for nikṣipēt )</rdg></app>
+      <lg n="6">
+        <l>sajamādimē salaghukau ca</l>
+        <l>nasajagurukaistathōdgatā</l>
+        <l><app><rdg wit="#Gemini">tryaṁhigatabhanajalā gayutāḥ</rdg><rdg wit="#Claude">tryaṁhrigatabhanajalā gayutāḥ</rdg></app></l>
+        <l>sajasā jagau caraṇamēkataḥ paṭhēt</l>
+      </lg>
+      <app type="apparatus" n="6b"><rdg wit="#Bb #Jn #Rm #Pa #Sk #Sm #Ss #Su #Vs #Wb #Wg" n="Su (c)">- gurukēśvathō0</rdg><rdg wit="#Br #Nr #Pb #Wa #Wc">- gurukairathō0</rdg><note type="Gemini-reading">- gurukaiścatathō0 Bb, Jn, Rm, Pa, Sk, Sm, Ss, Su (c), Vs, Wb, Wg; - gurukēśyō0 Br, Nr, Pb, Wa, Wc.</note></app>
+      <app type="apparatus" n="6c"><rdg wit="#Ba #Br #Nr #Rm #Pa #Pb #Vs #Wa #Wc #Wg">tryaṁghri ( for tryaṁhri )</rdg><note type="Gemini-reading">tryaṁghri ( for tyaṁhi ) Ba, Br, Nr, Pa, Pb, Vs, Wa, Wc, Wg.</note></app>
+      <app type="apparatus" n="6d"><rdg wit="#Ss #Su #Wg" n="Su (c)">- caramamēkataḥ0</rdg><rdg wit="#Rm">- carama ēkataḥ0</rdg></app>
+      <app type="apparatus" n="6b"><rdg wit="#Sm #Ss">tyajēt ( for tyajan )</rdg></app>
+      <app type="apparatus" n="6d"><rdg wit="#Ba #Bb #Nr #Pa #Rm #Vs">-lagakriyā</rdg><rdg wit="#Sk #Su" n="Su (a)">lagukriyā</rdg></app>
+      <lg n="7">
+        <l>caraṇatrayaṁ bhajati lakṣma</l>
+        <l>yadi sakalamudgatāgatam</l>
+        <l>nau bhagau bhavati saurabhakam</l>
+        <l><app><rdg wit="#Gemini">caraṇē yadiha bhavatastr̥tīyēkē</rdg><rdg wit="#Claude">caraṇē yadīha bhavatastr̥tīyakē</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="7a"><rdg wit="#Br #Nr #Pb #Wa #Wb #Wc">vrajati ( for bhajati )</rdg></app>
+      <app type="apparatus" n="7b"><rdg wit="#Rm #Wg">nikhila ( for sakala )</rdg></app>
+      <app type="apparatus" n="7a"><rdg wit="#Nr #Pa #Rm #Vs">lagakriyā0 Ba, Bb</rdg><rdg wit="#Sk">lagu0</rdg><note type="Gemini-reading">’ṅkakriyā 0 Ba, Bb Nr, Pa, Rm, Vs; laghu0 Sk.</note></app>
+      <lg n="8">
+        <l>nayugaṁ sakārayugalaṁ ca</l>
+        <l>bhavati caraṇē tr̥tīyakē</l>
+        <l>taduditamurumatibhirlalitam</l>
+        <l>yadi śēṣamasya khalu pūrvatulyakam</l>
+      </lg>
+      <app type="apparatus" n="8b"><rdg wit="#Ba #Bb #Rm #Su #Vs #Wg" n="Su (a)">bhajati caraṇaṁ tr̥tīyakaṁ</rdg></app>
+      <app type="apparatus" n="8d"><rdg wit="#Bb">tulyapūrvakam</rdg></app>
+      <app type="apparatus" n="8c"><rdg wit="#Nr #Pa #Rm">-likī vyāptiradhaḥ</rdg></app>
+      <app type="apparatus" n="8d"><rdg wit="#Nr #Pa #Rm #Vs">-tathāṁgulim</rdg><note type="Gemini-reading">- tathāṁgulis Nr, Pa, Rm, Vs.</note></app>
+      <lg n="9">
+        <l><app><rdg wit="#Gemini">msau jbhau gau prathamāṁghrirēkataḥ pr̥thaganyat</rdg><rdg wit="#Claude">msau jbhau gau prathamāṁhrirēkataḥ pr̥thaganyat</rdg></app></l>
+        <l>tritayaṁ sanajaragāstathā nanau saḥ</l>
+        <l>trinaparikalitajayau</l>
+        <l>pracupitamidamuditamupasthitapūrvam</l>
+      </lg>
+      <app type="apparatus" n="9a"><rdg wit="#Ba #Br #Nr #Pa #Rm #Wa #Wc #Wg">aṁghri ( for aṁhri )</rdg></app>
+      <app type="apparatus" n="9b"><rdg wit="#Wg">tatō ( for tathā ) Br, Nr, Wa, Wc. yaḥ ( for saḥ )</rdg></app>
+      <app type="apparatus" n="9d"><rdg wit="#Ba #Su" n="Su (b)">-miti gaditamupa0</rdg><rdg wit="#Wg">-midamaparamupa0</rdg></app>
+      <lg n="10">
+        <l><app><rdg wit="#Gemini">nau pādē’tha tr̥tīyēkē sanau nasayuktau</rdg><rdg wit="#Claude">nau pādē’tha tr̥tīyakē sanau nasayuktau</rdg></app></l>
+        <l><app><rdg wit="#Gemini">prathamāṁghrikr̥tayati pravardhamānam</rdg><rdg wit="#Claude">prathamāṁhrikr̥tayati pravardhamānam</rdg></app></l>
+        <l>tritayamaparamapi pūrvasadr̥śamiha bhavati</l>
+        <l>pratatamatibhiriti gaditaṁ khalu vr̥ttam</l>
+      </lg>
+      <app type="apparatus" n="10a"><rdg wit="#Br">yuktaṁ ( for yuktau )</rdg></app>
+      <app type="apparatus" n="10b"><rdg wit="#Br #Nr #Wa #Wc">aṁghri ( for aṁhri ) Ba, Br, Nr, Pa, Pb, Rm, Vs, Wa, Wc, Wg. -yatistu va0</rdg><rdg wit="#Pa">-yatīha va0</rdg><rdg wit="#Sk">-yatiśca va0</rdg></app>
+      <app type="apparatus" n="10c"><rdg wit="#Vs">-miha hi bhavēt</rdg></app>
+      <app type="apparatus" n="10d"><rdg wit="#Wg">pravaramati0</rdg><rdg wit="#Pb #Wa #Wc">vitatamati0 Vs. laghu ( for khalu )</rdg></app>
+      <lg n="11">
+        <l>asminnēva tr̥tīyapādakē tajarāḥ syuḥ</l>
+        <l><app><rdg wit="#Gemini">prathamē ca viratirāṣaṁ vadanti</rdg><rdg wit="#Claude">prathamē ca viratirārṣabhaṁ vadanti</rdg></app></l>
+        <l>tacchuddhavirāṭ puraḥsthitam</l>
+        <l>tritayamaparamapi yadi pūrvasamaṁ syāt</l>
+      </lg>
+      <app type="apparatus" n="11a"><rdg wit="#Ba #Br #Nr #Pb #Wa #Wc">-tr̥tīyakē yadā ta0</rdg></app>
+      <app type="apparatus" n="11b"><note>bhavanti ( for vadanti Br, Nr, Pb, Rm, Vs, Wa, Wb, Wc, Wg.</note><note type="Gemini-reading">bruvanti ( for vadanti Br. Nr, Pb, Rm, Vs, Wa, Wb, Wc, Wg.</note></app>
+      <app type="apparatus" n="11d"><note>yadi dropped in Rm, Wg.</note></app>
+      <lg n="12">
+        <l>viṣamākṣarapādaṁ vā pādairasamaṁ daśadharmavat</l>
+        <l>yacchandō nōktamatra gāthēti tatsūribhiḥ prōktam</l>
+      </lg>
+      <app type="apparatus" n="12c"><rdg wit="#Rm">yacchandasi nōktamatra</rdg></app>
+      <trailer>iti bhaṭṭakēdāraviracitē vr̥ttaratnākarākhyē chandasi viṣamavr̥tta- varṇanō nāma pañcamō’dhyāyaḥ ॥ 5 ॥   [ graṁ0 ślō0 19 ]</trailer>
+    </div>
+    <div type="adhyāya" n="6">
+      <head>ṣaṣṭhō’dhyāyaḥ</head>
+      <lg n="1">
+        <l>pādē sarvagurāvādyāllaghuṁ nyasya gurōradhaḥ</l>
+        <l>yathōpari tathā śēṣaṁ bhūyaḥ kuryādamuṁ vidhim</l>
+      </lg>
+      <note place="foot" type="extra-stanza">1. 1 prastārō naṣṭamuddiṣṭamēkadvyādilagakriyā । saṁkhyānamadhvayōgaśca ṣaḍētē pratyayāḥ smr̥tāḥ ॥ Bb, Br, Nr, Pa, Pb, Rm, Vs. Ba and Jn give it after v. 8; the latter calls it a saṁgrahaślōka Su mss. contain it but there is no trace of it in Sulhaṇa's commentary.</note>
+      <lg n="2">
+        <l><app><rdg wit="#Gemini">ūnē dadyād gurūnēva yāvatsarvalaghurbhavēt</rdg><rdg wit="#Claude">ūnē dadyād gurūṇyēva yāvatsarvalaghurbhavēt</rdg></app></l>
+        <l><app><rdg wit="#Gemini">prastārō’yaṁ samākhyātaḥcchandōvicitivēdibhiḥ</rdg><rdg wit="#Claude">prastārō’yaṁ samākhyātaśchandōvicitivēdibhiḥ</rdg></app></l>
+      </lg>
+      <lg n="3">
+        <l>naṣṭasya yō bhavēdaṅkastasyārdhē’rdhē samē ca laḥ</l>
+        <l>viṣamē caikamādhāya tadardhē’rdhē gururbhavēt</l>
+      </lg>
+      <lg n="4">
+        <l>uddiṣṭaṁ dviguṇānādyāduparyaṅkānsamālikhēt</l>
+        <l>laghusthā yē ca tatrāṅkāstaiḥ saikairmiśritairbhavēt</l>
+      </lg>
+      <lg n="5">
+        <l><app><rdg wit="#Gemini">varṇānvr̥ttabhavānēkānauttarādharyataḥ sthitān</rdg><rdg wit="#Claude">varṇānvr̥ttabhavānsaikān⟨?⟩auttarādharyataḥ sthitān</rdg></app></l>
+        <l>ēkādikramaśaścaitānuparyupari nikṣipēt</l>
+      </lg>
+      <lg n="6">
+        <l><app><rdg wit="#Gemini">upāntyatō nivartēta tyajanbhaikaikamūrdhvataḥ</rdg><rdg wit="#Claude">upāntyatō nivartēta tyajannēkaikamūrdhvataḥ⟨?⟩</rdg></app></l>
+        <l><app><rdg wit="#Gemini">uparyādyād gurōrēvamēkadvyādilaghukiyā</rdg><rdg wit="#Claude">uparyādyād gurōrēvamēkadvyādilaghukriyā</rdg></app></l>
+      </lg>
+      <lg n="7">
+        <l><app><rdg wit="#Gemini">laghukriyāṅkasaṁndōhē bhavētsaṁkhyā vimiśritē</rdg><rdg wit="#Claude">laghukriyāṅkasaṁdōhē bhavētsaṁkhyā vimiśritē</rdg></app></l>
+        <l>uddiṣṭāṅkasamāhāraḥ saikō vā janayēdimām</l>
+      </lg>
+      <lg n="8">
+        <l><app><rdg wit="#Gemini">saṁkhyaiva dviguṇaikōnā sadmiradhvā prakīrtitaḥ</rdg><rdg wit="#Claude">saṁkhyaiva dviguṇaikōnā sadbhiradhvā prakīrtitaḥ</rdg></app></l>
+        <l><app><rdg wit="#Gemini">vr̥ttasyāṅgulikīṁ vyāptimadhvaḥ kuryāttathāṅgulam</rdg><rdg wit="#Claude">vr̥ttasyāṅgulikīṁ vyāptimadhaḥ kuryāttathāṅgulam</rdg></app></l>
+      </lg>
+      <lg n="9">
+        <l>vaṁśē’bhūtkaśyapasya prakaṭaguṇagaṇaḥ śaivasiddhāntavēttā</l>
+        <l><app><rdg wit="#Gemini">vipraḥ pabbēkanāmā vimalataramatiḥ śaivatattvāvabōdhē .</rdg><rdg wit="#Claude">vipraḥ pavvēkanāmā vimalataramatiḥ śaivatattvāvabōdhē ॥</rdg></app></l>
+        <l>kēdārastasya sūnuḥ śivacaraṇayugārādhanaikāgracitta-</l>
+        <l><app><rdg wit="#Gemini">śchandastēnābhirāmaṁ praviracitamidaṁ vr̥ttaratnākarāyam</rdg><rdg wit="#Claude">śchandastēnābhirāmaṁ praviracitamidaṁ vr̥ttaratnākarākhyam</rdg></app></l>
+      </lg>
+      <app type="apparatus" n="9a"><rdg wit="#Ba">.kāśya0</rdg></app>
+      <app type="apparatus" n="9b"><rdg wit="#Jn #Ss">-vēdatattvāvabōdhē ( dhī</rdg><rdg wit="#Ba #Jn #Sd #Sk #Sm #Ss #Vs">dhaiḥ Ba )</rdg><rdg wit="#Bb #Nr #Pa">vēdatattvārthabōdhē ( dhaḥ Bb )</rdg><rdg wit="#Pb">vēdaśāstrārthavēttā</rdg><rdg wit="#Rm">vēdaśāstrāvabōdhī</rdg></app>
+      <trailer>iti śrībhaṭṭakēdāraviracitē vr̥ttaratnākarākhyē chandasi ṣaṭpratyayavarṇanō nāma ṣaṣṭhō’dhyāyaḥ ॥ 6 ॥ [ graṁ0 ślō0 10 a0 20 ]</trailer>
+      <trailer>sarvagranthāgram– 21+32. 8 + 45 + 8. 26 + 19 + 10. 20 = ślō0 136 a0 22.</trailer>
+    </div>
+    </body>
+  </text>
+</TEI>
