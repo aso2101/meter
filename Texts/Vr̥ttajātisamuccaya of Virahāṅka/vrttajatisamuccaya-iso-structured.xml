@@ -897,7 +897,7 @@
 	    <note type="chāyā">
 <lg n="4">
   <l>vastukagītikāmadhyē vicāryaikakaṁ dvipathakaṁ vā</l>
-  <l>vistāritakaṁ ca kavibhiṣkriyantē [sutanu icchayā ] </l>
+  <l>vistāritakaṁ ca kavibhiṣkriyantē <add resp="#HDV">sutanu icchayā</add> </l>
 </lg>
      </note>
 	  </quote>
@@ -2054,7 +2054,7 @@
 	<quote type="base-text">
 	  <lg n="33">
 	    <l>pharisaṁ maṇiṁ mahūē dūrūjjalavaṇṇadiṇṇasōhammi</l>
-	    <l>assakkaṁtāpāaē bahusahia[a]lōadiṇṇaharisammi </l>
+	    <l>assakkaṁtāpāaē bahusahia<add resp="#HDV">a</add>lōadiṇṇaharisammi </l>
 	    <label>assakantā [ aśvakrāntā] । </label>
 	  </lg>
 	  <p>
@@ -2157,7 +2157,7 @@
           <note type="chāyā">
             <lg n="36">
               <l>mugdhikē bahuvidagdhalōka susukhāvahāyāḥ pañcamaṁ tr̥tīyaṁ <choice><orig>vau</orig><reg>cē</reg></choice> ha hāribandhikāyāḥ</l>
-              <l><choice><orig>gu</orig><reg>ku</reg></choice>ru caturṣvapi [pādēṣu ] madhurā<choice><orig>kṣā</orig><reg>kṣa</reg></choice> ravatyāḥ harirathagajayōdhānāṁ naranāthaṁ drutāyāḥ</l>
+              <l><choice><orig>gu</orig><reg>ku</reg></choice>ru caturṣvapi <add resp="#HDV">pādēṣu</add> madhurā<choice><orig>kṣā</orig><reg>kṣa</reg></choice> ravatyāḥ harirathagajayōdhānāṁ naranāthaṁ drutāyāḥ</l>
             </lg>
           </note>
 	</quote>
@@ -2301,7 +2301,7 @@
           <note type="chāyā">
             <lg n="41">
               <l>śrayaḥ purōhitā dhvajāgraṁ pādēṣu caturṣvapi vibhaktam</l>
-              <l>vadanēna tulitaśaśibimbē siddhēḥ sadā [ prasr̥tākṣi ]</l>
+              <l>vadanēna tulitaśaśibimbē siddhēḥ sadā <add resp="#HDV">prasr̥tākṣi</add></l>
             </lg>
           </note>
 	</quote>
@@ -2345,7 +2345,7 @@
           <lg n="43">
             <l><choice><orig>sa</orig><reg>pa</reg></choice> muhamma purōhiāṇa jualaaṁ</l>
             <l>patthivaō vippauvva taiaō</l>
-            <l>jīsēvi [hōi] utthabāṇaō</l>
+            <l>jīsēvi <add resp="#HDV">hōi</add> utthabāṇaō</l>
             <l>sā gandhāritti ṇāma duvaiā</l>
             <label>gandhārī</label>
           </lg>
@@ -2362,7 +2362,7 @@
       </div>
       <div type="commentary-block" n="44">
 	<p>
-          <s><q type="pratīka">jīsē pā[a]ē</q> iti.</s>
+          <s><q type="pratīka">jīsē pā<add resp="#HDV">a</add>ē</q> iti.</s>
 	</p>
 	<quote type="base-text">
           <lg n="44">
@@ -2410,7 +2410,7 @@
           </note>
 	</quote>
 	<p>
-      <s>kadravāḥ pādē sāmānyēna [mantrī] prathamagaṇō bhavati paścāccaturmātrapañcamātrau</s>
+      <s>kadravāḥ pādē sāmānyēna <add resp="#HDV">mantrī</add> prathamagaṇō bhavati paścāccaturmātrapañcamātrau</s>
     </p>
     </div>
     <div type="commentary-block" n="46">
@@ -2420,7 +2420,7 @@
       <pb n="32"/>
       <quote type="base-text">
         <lg n="46">
-	  <l>maṁtiaō saturaṁgaō taī [ a ]rahaṁgaammi</l>
+	  <l>maṁtiaō saturaṁgaō taī <add resp="#HDV">a</add>rahaṁgaammi</l>
 	  <l>sōccia hōi cautthaō paṁcamabāṇaammi</l>
 	  <l>chaṭṭhō a paumarāaō maṇaharabaṁdhaammi</l>
 	  <l>jāsu paṁkaavaaṇiē laliāpāaammi</l>
@@ -2465,7 +2465,7 @@
         </note>
       </quote>
     <p>
-      <s>vipulāyāḥ sarvē karēṇāntaguruṇā [ caturmātrēṇa] tathā suragajēnādilaghunā pañcamātrēṇa bhavanti.</s>
+      <s>vipulāyāḥ sarvē karēṇāntaguruṇā <add resp="#HDV">caturmātrēṇa</add> tathā suragajēnādilaghunā pañcamātrēṇa bhavanti.</s>
       <s>kēvalaṁ ca sa<choice><orig>mā</orig><reg>mau</reg></choice> dvitīyacaturthī asyāḥ pramukhē sthitē <add resp="#HDV">na</add> <app><lem>vārēṇēndrēṇa</lem><rdg wit="#A #B">varuṇēndrēṇa</rdg></app> caturmā<choice><orig>trō</orig><reg>trē</reg></choice><add resp="#HDV">ṇō</add> palakṣitau.</s>
       <s>ataēva cārdhasamāḥ.</s>
       <s>prathamadvitīyapadaracitārthasya tr̥tīyacaturthaviraci<app><lem>tāparārdhēna</lem><rdg wit="#A #B">tāsarāvēna</rdg></app> sādr̥śyam.</s>
@@ -2505,7 +2505,7 @@
       <pb n="33"/> 
       <quote type="base-text">
 	<lg n="49">
-	  <l>rayaṇāara[a]mmi</l>
+	  <l>rayaṇāara<add resp="#HDV">a</add>mmi</l>
 	  <l>rahaturaā hāraō a</l>
 	  <l>samarē <choice><orig>sa</orig><reg>su</reg></choice>muhīa</l>
 	  <l>jōhajuaṁ <app><lem>suragavō</lem><rdg source="#Com">vaśruti ?</rdg></app> a</l>
@@ -2568,7 +2568,7 @@
         </note>
       </quote>
       <p>
-	<s>sārasikāyāḥ saṁba<choice><orig>ndha</orig><reg>ndhi</reg></choice> karatrikaṁ pādatrikaṁ ca gurvantaṁ viṣama[sama] pāda<app><lem>viṣayē vidhēhi</lem><rdg wit="#A #B">viṣayō vidhēti</rdg></app>.</s>
+	<s>sārasikāyāḥ saṁba<choice><orig>ndha</orig><reg>ndhi</reg></choice> karatrikaṁ pādatrikaṁ ca gurvantaṁ viṣama<add resp="#HDV">sama</add> pāda<app><lem>viṣayē vidhēhi</lem><rdg wit="#A #B">viṣayō vidhēti</rdg></app>.</s>
         <s>sārasikēvāntē guruṇā rahitā bhāminī bhavatītyarthaḥ.</s>
       </p>
     </div>
@@ -2724,7 +2724,7 @@
         <note type="chāyā">
           <lg n="3">
             <l>saptaviṁśatiddīrā yasyāḥ dr̥śyantē trīṇi gandhāni</l>
-            <l>sā [ gāthānāṁ ] gāthā ādyā triṁśadakṣarā lakṣmīḥ</l>
+            <l>sā <add resp="#HDV">gāthānāṁ</add> gāthā ādyā triṁśadakṣarā lakṣmīḥ</l>
           </lg>
         </note>
       </quote>
@@ -2821,12 +2821,12 @@
     <div type="commentary-block" n="6">
       <quote type="base-text">
         <lg n="6">
-          <l>[lakṣmī] r̥ddhirbuddhirlajjā vidyā kṣamā ca dīrghā ca</l>
+          <l><add resp="#HDV">lakṣmī</add> r̥ddhirbuddhirlajjā vidyā kṣamā ca dīrghā ca</l>
           <l>gaurī rājijrjyōtsnā chāyā kāntirmahāmatiṣkīrtiḥ</l>
         </lg>
         <note type="chāyā">
           <lg n="6">
-            <l>mugdhā manōharā rōhiṇī viśālā sudhā [śivā] hariṇī</l>
+            <l>mugdhā manōharā rōhiṇī viśālā sudhā <add resp="#HDV">śivā</add> hariṇī</l>
             <l>cakravākī sārasikā kurarī haṁsī ca haṁsavadhūriti</l>
           </lg>
         </note>
@@ -2893,7 +2893,7 @@
         <note type="chāyā">
           <lg n="9">
             <l>pañcānāṁ sadā puratō dvayōścāgrē vāraṇānāṁ niyamitaḥ</l>
-            <l>yathā dayitē pūrvārdhē tathaiva paścārthē['pi skandhakasya narēndraḥ ]</l>
+            <l>yathā dayitē pūrvārdhē tathaiva paścārthē<add resp="#HDV">'pi skandhakasya narēndraḥ</add></l>
           </lg>
         </note>
       </quote>
@@ -3003,7 +3003,7 @@
       </quote>
     <p>
       <s>tēnaiva piṅgalēna sā svasmin lakṣaṇē upagītiḥ bhaṇitā ।</s>
-      <s>yasyā gāthā [ yāḥ ] paścārdhēna sadr̥śamēva dvayēpi lakṣaṇaṁ bhavati ।</s>
+      <s>yasyā gāthā <add resp="#HDV">yāḥ</add> paścārdhēna sadr̥śamēva dvayēpi lakṣaṇaṁ bhavati ।</s>
       <s>ṣaṣṭhacaturdaśayōrlaghurityarthaḥ</s>
     </p>
     </div>
@@ -3176,7 +3176,7 @@
       <!-- CHECK: lone <lg n=21>: Prakrit/chāyā/quotation unclear -->
       <quote type="base-text">
         <lg n="21">
-          <l>krīḍana <add resp="#HDV">ka</add>sya [pādē] caturmātragaṇatrayē sthāpitē madhyala ghōścaturthagurōrvā sthitirvidhēyētyarthaḥ</l>
+          <l>krīḍana <add resp="#HDV">ka</add>sya <add resp="#HDV">pādē</add> caturmātragaṇatrayē sthāpitē madhyala ghōścaturthagurōrvā sthitirvidhēyētyarthaḥ</l>
           <l>anti<choice><orig>mē</orig><reg>mā</reg></choice> dhvajapatā<choice><orig>kē</orig><reg>kā</reg></choice> yasyēti pādaviśēṣaṇam । vihagādhipatirgaruḍaḥ । viṣadharō bhujagā<lb break="no"/>dhipaḥ</l>
         </lg>
       </quote>
@@ -3341,7 +3341,7 @@
       <s>vaitālīyasya lakṣaṇaṁ vakṣyati ।</s>
       <s>tasmin rēphasakārau yathāsaṁkhyēna la<choice><orig>sau</orig><reg>śau</reg></choice> bhāṣasē uccārayasi tadā tāṁ māgadhikāmityasmilakṣaṇē nirmitāmupariṣṭhāmiti muṇēsu jānīhi ।</s>
       <s>ētaduktaṁ bhavati ।</s>
-      <s>vaitālīya<lb break="no"/>mēva [ māgadhikā ] | māgavikayā bhāṣayā samuccāraṇāt</s>
+      <s>vaitālīya<lb break="no"/>mēva <add resp="#HDV">māgadhikā</add> | māgavikayā bhāṣayā samuccāraṇāt</s>
     </p>
     </div>
     <div type="commentary-block" n="29">
@@ -3368,7 +3368,7 @@
       </quote>
     <p>
       <s>mātrāṇāṁ pañca pādā viṣamacchandasō'sadr̥śākṣarā bhavanti ।</s>
-      <s>maṇirūpētyādinā mātrā [ yāṁ] gurulaghuracanāṁ abhyanujñātavān ।</s>
+      <s>maṇirūpētyādinā mātrā <add resp="#HDV">yāṁ</add> gurulaghuracanāṁ abhyanujñātavān ।</s>
       <s>nāmabhēdamāśritya madhyamānāṁ lakṣaṇaṁ nirūpitam ।</s>
       <s>na tu madhyamānāmētra yasmātprathamatr̥tīyapañcamōstrayōdaśabhyō mātrābhyaḥ ṣōḍaśa yāvadvidhēyaḥ ।</s>
       <s>ēvaṁ dvitīyacaturthāvēkādaśabhyaḥ caturdaśa yāvadityudāharaṇāt śāstrāntarēbhyō lakṣyāccāsmābhiradhigatam ।</s>
@@ -3408,7 +3408,7 @@
         </p>
         <note type="chāyā">
           <lg n="30">
-            <l>karaibhyāḥ bhavati trayōdaśa mātrā [bhi]: sa caturdaśa mōdanikāyāḥ</l>
+            <l>karaibhyāḥ bhavati trayōdaśa mātrā <add resp="#HDV">bhi</add>: sa caturdaśa mōdanikāyāḥ</l>
             <l>pañcadaśai cārunētryāḥ yasyāḥ ṣōḍaśāntamikā tasyā nāma rāhusēnikā</l>
           </lg>
         </note>
@@ -3433,7 +3433,7 @@
           <lg n="31">
             <l>duvahō mōvaṇiāsaṁjuttau raḍḍā</l>
             <l>ētāsāṁ mātrāṇāṁ anti<choice><orig>ma</orig><reg>mō</reg></choice> yadā dvipathakō bhavati</l>
-            <l>tatastāsāṁ nāmaiṁ [raḍḍā sphuṭaṁ ] chandasi kavijanō brūtē</l>
+            <l>tatastāsāṁ nāmaiṁ <add resp="#HDV">raḍḍā sphuṭaṁ</add> chandasi kavijanō brūtē</l>
           </lg>
         </note>
       </quote>
@@ -3444,7 +3444,7 @@
     <p>
       <s>suisuhā<choice><orig>va</orig><reg>iṁ</reg></choice> ityādi ।</s>
       <s>su<choice><orig>ī</orig><reg>i</reg></choice> suhāī viṇippiṇu iha patthārasāarē suaṇu vivihavittā<choice><orig>ī</orig><reg>ī</reg></choice> susaṁciaguṇamaṇōharē ।</s>
-      <s>aḍila hōi āhīriāi ṇaaṁgi bhā<choice><orig>sa</orig><reg>sā</reg></choice> i sajamaēhiṁ pāē [hiṁ] samaddha samēhiṁ kuṇa saā ॥</s>
+      <s>aḍila hōi āhīriāi ṇaaṁgi bhā<choice><orig>sa</orig><reg>sā</reg></choice> i sajamaēhiṁ pāē <add resp="#HDV">hiṁ</add> samaddha samēhiṁ kuṇa saā ॥</s>
       <s>32 ॥</s>
     </p>
     <p>
@@ -3624,7 +3624,6 @@
           <l>bahuēhiṁ jō raijjaī sō bhaṇṇai rāsaō ṇāma</l>
         </lg>
         <p xml:lang="pra-Latn">
-          <s>[ catuthōṁ niyamaḥ</s>
           <s>gāhā rāsaalakkhaṇatthē ।</s>
         </p>
         <note type="chāyā">
@@ -3663,8 +3662,8 @@
       </p>
       <quote type="base-text">
         <lg n="40">
-          <l>viramaṇirūviavārṇaē avalaṁbiagīia atthasī [ sē ]saēsuṁ</l>
-          <l>causu vi saṇa[a] vāhiē iha mālāsīsaassa pāaēsuṁ</l>
+          <l>viramaṇirūviavārṇaē avalaṁbiagīia atthasī <add resp="#HDV">sē</add>saēsuṁ</l>
+          <l>causu vi saṇa<add resp="#HDV">a</add> vāhiē iha mālāsīsaassa pāaēsuṁ</l>
         </lg>
         <note type="chāyā">
           <lg n="40">
@@ -3686,11 +3685,11 @@
       <s>ityēkapadaṁ <app n="1" type="footnote"><lem wit="#A #B">nāmakō</lem></app> <app n="2" type="footnote"><rdg wit="#A #B">caraṇē samupahita</rdg></app> <app n="3" type="footnote"><rdg wit="#A #B">labāhatamadhya</rdg></app> <app n="4" type="footnote"><rdg wit="#A #B">viruddhānananātha</rdg><rdg wit="#A #B">vināmēti</rdg><rdg wit="#A #B">vāraṇaē</rdg><rdg wit="#A #B">satatau</rdg><rdg wit="#A #B">pīnau</rdg><note>śēṣa repeated after turaṁga AB. padātipayōdhararathān AB. 6  7  8  9 caturdhāpi satubāhō AP 10  11</note></app> <pb n="49"/> pādaśca ।</s>
       <s>tathā karatalalāvaṇya<choice><orig>va</orig><reg>ni</reg></choice> rjitānyaśōkavr̥kṣasya mugdhānyabhijātāni pallvāni kisalayāni yayā ।</s>
       <s>tathā vibuddhasya kandōvasya vikasitōtpalasya sadr̥śē nayanē yasyāḥ ।</s>
-      <s>tathā kaumudyāṁ kārtika pau<choice><orig>rṇi</orig><reg>rṇa</reg></choice> māsyāṁ yō'sau mr̥gāṅkaḥ candramāḥ [tēna] sadr̥śaṁ vadanaṁ yasyāḥ sā tathābhūtā iti dvitīyaḥ pādaḥ ।</s>
+      <s>tathā kaumudyāṁ kārtika pau<choice><orig>rṇi</orig><reg>rṇa</reg></choice> māsyāṁ yō'sau mr̥gāṅkaḥ candramāḥ <add resp="#HDV">tēna</add> sadr̥śaṁ vadanaṁ yasyāḥ sā tathābhūtā iti dvitīyaḥ pādaḥ ।</s>
       <s>hē ēvaṁbhūtaguṇayuktē mātaṁgādīn sthāpaya ।</s>
       <s>kiṁbhūtān ।</s>
       <s>tr̥tīyō niyuktaḥ stanō viprō vā 'yēṣām ।</s>
-      <s>śēṣāṁśca mātaṁga [turaga ]padātiyōdharathān sāmānyēna caturmātragaṇān samānasaṁkhyān tulyagaṇanān sthāpaya icchayā ṣōḍhā daśavā dvādaśadhā lakṣyānusārēṇēti ।</s>
+      <s>śēṣāṁśca mātaṁga <add resp="#HDV">turaga</add>padātiyōdharathān sāmānyēna caturmātragaṇān samānasaṁkhyān tulyagaṇanān sthāpaya icchayā ṣōḍhā daśavā dvādaśadhā lakṣyānusārēṇēti ।</s>
       <s>tathā viṣamasthānē vāviruddhō naranāthō yēṣāṁ tathā vikaṭairvistīrṇaiḥ pādamārgēḥ pādagatibhirdīrghatarāṇi racitāni yāni śrutisukhāni madhurāṇi varṇāni vācakāni tairyē dīrghatarāḥ samāsāḥ tadyuktam ।</s>
       <s>anyacca ।</s>
       <s>virāmēntē nirūpitō bāṇō yēṣāṁ tānēvaṁbhūtāngaṇān sthāpaya caturṣvapi pādēṣu ।</s>
@@ -3725,7 +3724,7 @@
       <quote type="base-text">
         <lg n="42">
           <l>māṇiṇi dāvijjaṁtuaṁ tuha daṁsaṇasuharasāviapaharaṇa</l>
-          <l>virahaṁkaraṇa muddhiē ahi[a] kkharasīsaaṁti bīaaṁ<choice><orig>mi</orig><reg>pi</reg></choice></l>
+          <l>virahaṁkaraṇa muddhiē ahi<add resp="#HDV">a</add> kkharasīsaaṁti bīaaṁ<choice><orig>mi</orig><reg>pi</reg></choice></l>
         </lg>
         <p xml:lang="pra-Latn">
           <s>ahiakkharasīsaaṁ [adhikākṣarāśīrṣakaṁ ] ।</s>
@@ -3740,7 +3739,7 @@
     <p>
       <s>hē mānini dvitīyamadhikākṣarāśīrṣakaṁ taṁtra virahāṅkēna darśyamānaṁ adhikākṣaraṁ arthaśēṣō yasya tathā gītikāyāṁ samāptam।</s>
       <s>śēṣamudāharaṇaparipūraṇam ।</s>
-      <s>śāstrārthavicakṣaṇā yē puruṣāḥ [tēṣāṁ ] śrutisukhāvaham ।</s>
+      <s>śāstrārthavicakṣaṇā yē puruṣāḥ <add resp="#HDV">tēṣāṁ</add> śrutisukhāvaham ।</s>
       <s>virahāṅka iti ācāryasya nāma ।</s>
       <s>kiṁbhūtēna virahāṅkēna tēthē darśanādyatsukhaṁ tadēva rasa iva rasaḥ tasminnavitr̥ṣṇēna ।</s>
       <s>anyēṣāṁ 'maitē adhikākṣaraiva <add resp="#HDV">sa</add>gītika adhikākṣarauśīrṣakam</s>
@@ -3777,14 +3776,14 @@
         </p>
         <note type="chāyā">
           <lg n="43">
-            <l>adhikākṣarāśīrṣakasyā<add resp="#HDV">va</add> lambitārthacētitā viniyujyatē saṁgatauṅgi madhyē yadi [ni ]rvāpitā</l>
+            <l>adhikākṣarāśīrṣakasyā<add resp="#HDV">va</add> lambitārthacētitā viniyujyatē saṁgatauṅgi madhyē yadi <add resp="#HDV">ni</add>rvāpitā</l>
             <l>tatō jānīhi trikalakami<choice><orig>va</orig><reg>ti</reg></choice> bahuchandōvidbhaṇitaṁ dvitīyaṁ śīrṣakamiti nāma jānīhi mugdhē</l>
           </lg>
         </note>
       </quote>
     <p>
       <s>ityadhikākṣarā ।</s>
-      <s>asyaivārthē nirvāpitāmāha<lb break="no"/>ahi[a]kkharasīsaassa jaṁ maē tuha kahiaṁ lakkhaṇaṁ pialliē ।</s>
+      <s>asyaivārthē nirvāpitāmāha<lb break="no"/>ahi<add resp="#HDV">a</add>kkharasīsaassa jaṁ maē tuha kahiaṁ lakkhaṇaṁ pialliē ।</s>
       <s>bhaṇiaṁ taṁ ca imammi tialaaai sasaharavayaṇē kavīhiṁ chaṁda ॥</s>
       <s>44 ॥</s>
     </p>
@@ -3814,7 +3813,7 @@
       <quote type="base-text">
         <lg n="44">
           <l>ca nāmadvayamityarthaḥ । nirvāpitā- udāharaṇapatitō yō'rthō vyākhyāyatē । adhikākṣarāśīrṣakasyēti</l>
-          <l>ētaduktaṁ bhavati । yadēvādhikākṣarāśarṣikasya tava mayā bhaṇitaṁ [ lakṣaṇaṁ] tadēvāsmin trikala kē</l>
+          <l>ētaduktaṁ bhavati । yadēvādhikākṣarāśarṣikasya tava mayā bhaṇitaṁ <add resp="#HDV">lakṣaṇaṁ</add> tadēvāsmin trikala kē</l>
           <l>kavibhirnirūpitamiti karaṇō ciṁtaṁtassētyādinā</l>
         </lg>
       </quote>
@@ -3912,7 +3911,7 @@
       <s><!-- OCR noise: 1 --> khaṇḍōdgatāyāḥ viṣamapādau karṇamātrau karamātrau vā bhavataḥ ।</s>
       <s>gurudvayēnāntaguruṇā vētyarthaḥ ।</s>
       <s>hē dīrghadhavalākṣi sarvē cāsyāḥ pādāḥ samā viṣamāśca virāmasthānē dattōjjvalatrimātrāḥ sarvapādānāmantē trimātrōntaguruḥ kartavya iti ।</s>
-      <s>samau ca pādāvēvaṁbhūtau vidhēyau — kr̥tau dvitīyatr̥tīyau [śarau ] pañcamātrau niyamēna sayamakō tathā samasaṁkhyāstura <add resp="#HDV">ga</add>gajāḥ yayōstau kr̥tadvitīyatr̥tīyaśasaniyamasayamakasama<lb break="no"/>saṁkhyaturagagajau ।</s>
+      <s>samau ca pādāvēvaṁbhūtau vidhēyau — kr̥tau dvitīyatr̥tīyau <add resp="#HDV">śarau</add> pañcamātrau niyamēna sayamakō tathā samasaṁkhyāstura <add resp="#HDV">ga</add>gajāḥ yayōstau kr̥tadvitīyatr̥tīyaśasaniyamasayamakasama<lb break="no"/>saṁkhyaturagagajau ।</s>
       <s>anyacca ।</s>
       <s>sanarēndrau sāmānyasaṁjñāyāmitaratra madhya gururgr̥ ( ) hītavya ityarthaḥ ।</s>
       <s>kiṁtu anarēndrāvētau viṣamasthānēṣu vidhēyau ॥</s>
@@ -3947,7 +3946,7 @@
     </div>
     <div type="commentary-block" n="49">
       <p>
-        <s><q type="pratīka">• vaiālia[a]ssa</q> iti ।</s>
+        <s><q type="pratīka">• vaiālia<add resp="#HDV">a</add>ssa</q> iti ।</s>
       </p>
       <quote type="base-text">
         <lg n="49">
@@ -3994,7 +3993,7 @@
         <note type="chāyā">
           <lg n="50">
             <l>āpātalikāyāṁ dvimātrāstrayaḥ punaścara<choice><orig>ṇē</orig><reg>ṇō</reg></choice> maṇihārau</l>
-            <l>samapādamukhēṣu viniryuktaḥ [tasya ] maṇirvā rasō varṣibhiḥ</l>
+            <l>samapādamukhēṣu viniryuktaḥ <add resp="#HDV">tasya</add> maṇirvā rasō varṣibhiḥ</l>
           </lg>
         </note>
       </quote>
@@ -4006,11 +4005,11 @@
     </div>
     <div type="commentary-block" n="51">
       <p>
-        <s>ētēṣāṁ viśēṣalakṣaṇārthaṁ gāthāmāha - <q type="pratīka">[ [i]ālia</q> iti ।</s>
+        <s>ētēṣāṁ viśēṣalakṣaṇārthaṁ gāthāmāha - <q type="pratīka">[ <add resp="#HDV">i</add>ālia</q> iti ।</s>
       </p>
       <quote type="base-text">
         <lg n="51">
-          <l>vaiāliauacchaṁdasaāvā [a]liāṇa mī kuṇa samēsē</l>
+          <l>vaiāliauacchaṁdasaāvā <add resp="#HDV">a</add>liāṇa mī kuṇa samēsē</l>
           <l>pāēsu tiṇṇi ghaḍaṇaṭṭhiē rasē dīhadhavalacchi</l>
         </lg>
         <p xml:lang="pra-Latn">
@@ -4044,14 +4043,14 @@
         </p>
         <note type="chāyā">
           <lg n="52">
-            <l>prathamā<choice><orig>nu</orig><reg>ni</reg></choice> yuktahastidvitī[yāsitr̥tī] yarathāṅgaturagaiḥ samasaṁkhyayā śēṣapadātiyōdhasyandanagajēndraiḥ</l>
+            <l>prathamā<choice><orig>nu</orig><reg>ni</reg></choice> yuktahastidvitī<add resp="#HDV">yāsitr̥tī</add> yarathāṅgaturagaiḥ samasaṁkhyayā śēṣapadātiyōdhasyandanagajēndraiḥ</l>
             <l>kriyatē udgatāyāḥ sarvādarēṇa virāmasthi<choice><orig>ti</orig><reg>ta</reg></choice> yamakaiḥ samanilayā viruddhēvasudhādhipaiścaturbhirapi pādaiḥ</l>
           </lg>
         </note>
       </quote>
     <p>
       <s>ugatā ēvaṁvidhaiḥ pādaiḥ kriyatē ।</s>
-      <s>prathamē niyuktaṁ hastī dvitīyaścāsistr̥tīyaśca rathaṅgaṁ turaṁgava samasaṁkhyayā śēṣāśca padātiprabhr̥tayaḥ sāmānyēna caturmātrā yēṣāṁ samanilayē sam̐masthānē aviruddhō <app n="1" type="footnote"><note>āvālia AB.</note></app> <app n="2" type="footnote"><rdg wit="#A #B">viṇiyuktamaṇirvā</rdg></app> <app n="3" type="footnote"><rdg wit="#A #B">dvayasyāntē</rdg></app> <app n="4" type="footnote"><rdg wit="#A #B">racaṇa</rdg></app> <app n="5" type="footnote"><rdg wit="#A #B">mā kuṇa sairasamēsuṁ</rdg></app> <app n="6" type="footnote"><rdg wit="#A #B">sthitaṁ rasāṁdīdhavalākṣi</rdg></app> <app n="7" type="footnote"><rdg wit="#A #B">paḍhamamaṇiuttēti</rdg></app> <app n="8" type="footnote"><rdg wit="#A #B">udgatā ca</rdg></app> <app n="9" type="footnote"><rdg wit="#A #B">samalikayāvisuddha</rdg></app> <app n="10" type="footnote"><rdg wit="#A #B">rathāṅgasturaṅgē vā</rdg></app> <app n="11" type="footnote"><rdg wit="#A #B">caturdhā</rdg></app> <app n="12" type="footnote"><rdg wit="#A #B">samatitayē</rdg></app> <app n="13" type="footnote"><note>samasthānaviruddhō A; 0 viruddhā B.</note></app> <pb n="54"/> vasudhādhipa[śca] yēṣāṁ tairiti</s>
+      <s>prathamē niyuktaṁ hastī dvitīyaścāsistr̥tīyaśca rathaṅgaṁ turaṁgava samasaṁkhyayā śēṣāśca padātiprabhr̥tayaḥ sāmānyēna caturmātrā yēṣāṁ samanilayē sam̐masthānē aviruddhō <app n="1" type="footnote"><note>āvālia AB.</note></app> <app n="2" type="footnote"><rdg wit="#A #B">viṇiyuktamaṇirvā</rdg></app> <app n="3" type="footnote"><rdg wit="#A #B">dvayasyāntē</rdg></app> <app n="4" type="footnote"><rdg wit="#A #B">racaṇa</rdg></app> <app n="5" type="footnote"><rdg wit="#A #B">mā kuṇa sairasamēsuṁ</rdg></app> <app n="6" type="footnote"><rdg wit="#A #B">sthitaṁ rasāṁdīdhavalākṣi</rdg></app> <app n="7" type="footnote"><rdg wit="#A #B">paḍhamamaṇiuttēti</rdg></app> <app n="8" type="footnote"><rdg wit="#A #B">udgatā ca</rdg></app> <app n="9" type="footnote"><rdg wit="#A #B">samalikayāvisuddha</rdg></app> <app n="10" type="footnote"><rdg wit="#A #B">rathāṅgasturaṅgē vā</rdg></app> <app n="11" type="footnote"><rdg wit="#A #B">caturdhā</rdg></app> <app n="12" type="footnote"><rdg wit="#A #B">samatitayē</rdg></app> <app n="13" type="footnote"><note>samasthānaviruddhō A; 0 viruddhā B.</note></app> <pb n="54"/> vasudhādhipa<add resp="#HDV">śca</add> yēṣāṁ tairiti</s>
     </p>
     </div>
     <div type="commentary-block" n="53">
@@ -4155,7 +4154,7 @@
         <lg n="56">
           <l>viramaṭṭhāṇaēsu pasaacchi kaṇṇaēhiṁ viiṇṇaēhiṁ</l>
           <l>samaṇilaāviruddhaṇiasmiamaṇōharēhiṁ pēōharēhiṁ</l>
-          <l>aṭṭāṇī aṇilaē sarāsaṇēhiṁ [kaāsaṇēhiṁ]</l>
+          <l>aṭṭāṇī aṇilaē sarāsaṇēhiṁ <add resp="#HDV">kaāsaṇēhiṁ</add></l>
           <l>ai sāmuggaāi sēsē piē gaēhiṁ vilaggaēhiṁ</l>
         </lg>
         <p xml:lang="pra-Latn">
@@ -4164,7 +4163,7 @@
         <note type="chāyā">
           <lg n="56">
             <l>virāmasthānē prasr̥tōkṣi karṇairvitīrṇaiḥ samanilayāviruddha niyamitapayōdharairmanōharaiḥ</l>
-            <l>tr̥tīyasthānē dvitīryaṁnilayē śarāsanaiḥ kr̥tāsanaiḥ [ayi ] sāmudgakāyāḥ śēṣē priyē” gajairvilagṅgaiḥ</l>
+            <l>tr̥tīyasthānē dvitīryaṁnilayē śarāsanaiḥ kr̥tāsanaiḥ <add resp="#HDV">ayi</add> sāmudgakāyāḥ śēṣē priyē” gajairvilagṅgaiḥ</l>
           </lg>
         </note>
       </quote>
@@ -4186,7 +4185,7 @@
         <lg n="57">
           <l>dē</l>
           <l>pakkhiṇāhaa<add resp="#HDV">ha</add>tthāṇaṁ</l>
-          <l><choice><orig>saṁ</orig><reg>aṁ</reg></choice>taammi du[ē] hārā</l>
+          <l><choice><orig>saṁ</orig><reg>aṁ</reg></choice>taammi du<add resp="#HDV">ē</add> hārā</l>
           <l>imassa saā pāē</l>
           <l>haṁsagāmiṇi gāhassa</l>
           <label>gāthaḥ</label>
@@ -4283,7 +4282,7 @@
     <p>
       <s>gajādibhiḥ saha niyuktō yōdhō yēṣāṁ tē ।</s>
       <s>tathā pañcabhiścaturmātraiḥ pādaḥ kāryaḥ ।</s>
-      <s>raṇē samēsvi <lb break="no"/>ruddhē ca narādhipē vilāṁnā śōbhā yēṣāṁ ṣaṣṭhē ca nirūpitaṁ marakataṁ [taiḥ] virāmayamakaiḥ lalitāṁ sthāpaya ।।</s>
+      <s>raṇē samēsvi <lb break="no"/>ruddhē ca narādhipē vilāṁnā śōbhā yēṣāṁ ṣaṣṭhē ca nirūpitaṁ marakataṁ <add resp="#HDV">taiḥ</add> virāmayamakaiḥ lalitāṁ sthāpaya ।।</s>
       <s>60 ।।</s>
     </p>
     </div>
@@ -4307,7 +4306,7 @@
         </note>
       </quote>
     <p>
-      <s>rasaśca [ nūpuraṁ ca] bhāvaśca maṇiśca tē rasanūpurabhāvamaṇayaḥ tēṣāṁ yadyugaṁ dvirāvr̥ttiḥ asmin sthitē sati niyamēna rūpayugaṁ maṇisahitaṁ niyuṅkṣva pañca karā ityarthaḥ</s>
+      <s>rasaśca <add resp="#HDV">nūpuraṁ ca</add> bhāvaśca maṇiśca tē rasanūpurabhāvamaṇayaḥ tēṣāṁ yadyugaṁ dvirāvr̥ttiḥ asmin sthitē sati niyamēna rūpayugaṁ maṇisahitaṁ niyuṅkṣva pañca karā ityarthaḥ</s>
     </p>
       <app n="1" type="footnote"><lem wit="#A #B">nāsāvayuktaṁ</lem></app>
       <app n="2" type="footnote"><rdg wit="#A #B">dhvajārathaṁ</rdg></app>
@@ -4363,7 +4362,7 @@
         </note>
       </quote>
     <p>
-      <s>rathatrayaṁ sthāpayitvā paścā[t gajadvayaṁ karṇaṁ ca sthā] payēti śēṣaḥ ।</s>
+      <s>rathatrayaṁ sthāpayitvā paścā<add resp="#HDV">t gajadvayaṁ karṇaṁ ca sthā</add> payēti śēṣaḥ ।</s>
       <s>ētadutphulakē paścārdhē'pi lakṣaṇam ।</s>
       <s>atrāpi dvipathakavadyatividhānam</s>
     </p>
@@ -4407,7 +4406,7 @@
           <l><choice><orig>aṁ</orig><reg>saṁ</reg></choice> gaaaṁ ṇāma imaṁ mattāvittāṇa majjhami</l>
         </lg>
         <p xml:lang="pra-Latn">
-          <s>gāhā aṇaṁtaravatthuasahiā saṁgaaṁ ॥ [ saṁgatakaṁ ] ।</s>
+          <s>gāhā aṇaṁtaravatthuasahiā saṁgaaṁ ॥ <add resp="#HDV">saṁgatakaṁ</add> ।</s>
         </p>
         <note type="chāyā">
           <lg n="65">
@@ -4451,10 +4450,10 @@
       </p>
       <quote type="base-text">
         <lg n="67">
-          <l>paḍhamaṁ da[i]ē hōi turaṁga aṁsēṁ</l>
+          <l>paḍhamaṁ da<add resp="#HDV">i</add>ē hōi turaṁga aṁsēṁ</l>
           <l>bīaṁ ca gaaṁ taiaṁ sadaṇaṁ ca</l>
           <l>vihaāhivaī cāmēraaṁ ca pāē</l>
-          <l>vī[thi]tti<choice><orig>ī</orig><reg>i</reg></choice> maṁ jāṇasu cchaṁda ammi</l>
+          <l>vī<add resp="#HDV">thi</add>tti<choice><orig>ī</orig><reg>i</reg></choice> maṁ jāṇasu cchaṁda ammi</l>
           <label>bīthī</label>
         </lg>
         <note type="chāyā">
@@ -4525,7 +4524,7 @@
           <l>sāmi ēkaaṁ ṇāma vajjiaṁ lakkhaṇē ṇāmaṁ</l>
         </lg>
         <p xml:lang="pra-Latn">
-          <s>gāhā bīca uppaatthē vāṇaṁtughayaṁ ēkkaā ॥ [ ēkakaṁ ] ।</s>
+          <s>gāhā bīca uppaatthē vāṇaṁtughayaṁ ēkkaā ॥ <add resp="#HDV">ēkakaṁ</add> ।</s>
         </p>
         <note type="chāyā">
           <lg n="70">
@@ -4594,7 +4593,7 @@
           <l>taṁ jāṇaha khaḍahaḍaaṁ puvvakaīhiṁ viṇiṭṭiṁ</l>
         </lg>
         <p xml:lang="pra-Latn">
-          <s>gāhā khaḍahaḍaalakkhaṇatthē । [ khaḍahaḍakaṁ ] |</s>
+          <s>gāhā khaḍahaḍaalakkhaṇatthē । <add resp="#HDV">khaḍahaḍakaṁ</add> |</s>
         </p>
         <note type="chāyā">
           <lg n="73">
@@ -4650,7 +4649,7 @@
         <note type="chāyā">
           <lg n="75">
             <l>tatkasmāddhr̥daya rātriṁ divaṁ ca nō nirvr̥tiṁ tvaṁ labhalē</l>
-            <l>durlabhamaurgē vinivartasvāthavā śāntaṁ [ni ] vartiṣyasē</l>
+            <l>durlabhamaurgē vinivartasvāthavā śāntaṁ <add resp="#HDV">ni</add> vartiṣyasē</l>
           </lg>
         </note>
       </quote>
@@ -4702,7 +4701,7 @@
       <quote type="base-text">
         <lg n="77">
           <l>nūpurabhāvamaṇi sarasaṁ yadi mauktikaṁ prēkṣasē pīnapayōdharē sparśayōryugam</l>
-          <l>pāda [ yugaṁ ca] sanūpuraṁ purataḥ sthitaṁ jānīhi lakṣa<choice><orig>ṇa</orig><reg>ṇē</reg></choice> manōharaṁ dayitē</l>
+          <l>pāda <add resp="#HDV">yugaṁ ca</add> sanūpuraṁ purataḥ sthitaṁ jānīhi lakṣa<choice><orig>ṇa</orig><reg>ṇē</reg></choice> manōharaṁ dayitē</l>
         </lg>
         <note type="chāyā">
           <lg n="77">
@@ -4755,7 +4754,7 @@
         </note>
       </quote>
     <p>
-      <s>[tāṁ sālabhañjikāṁ] jānīhi yadi gajēndrādayaḥ pādē nirūpitā bhavanti</s>
+      <s><add resp="#HDV">tāṁ sālabhañjikāṁ</add> jānīhi yadi gajēndrādayaḥ pādē nirūpitā bhavanti</s>
     </p>
     </div>
     <div type="commentary-block" n="80">
@@ -4791,7 +4790,7 @@
       <quote type="base-text">
         <lg n="81">
           <l>sāgarapādaracitapadātituraṁga gajarathavihaganāthaviniyōjitāntam</l>
-          <l>samarē mukhē turaṁgakaravālarathāṅgaṁ pāṇidhvajā[prā] bhyāmudgītakarūpakam</l>
+          <l>samarē mukhē turaṁgakaravālarathāṅgaṁ pāṇidhvajā<add resp="#HDV">prā</add> bhyāmudgītakarūpakam</l>
         </lg>
         <note type="chāyā">
           <lg n="81">
@@ -4865,7 +4864,7 @@
         </lg>
         <note type="chāyā">
           <lg n="84">
-            <l>yatra sarvatra pādēṣu caturmātratrayaṁ bhavati samarē samapādē yannūpuraṁ taccandrōdyōtakākṣaṁ [khyaṁ ]</l>
+            <l>yatra sarvatra pādēṣu caturmātratrayaṁ bhavati samarē samapādē yannūpuraṁ taccandrōdyōtakākṣaṁ <add resp="#HDV">khyaṁ</add></l>
             <l>vr̥ttaṁ jānīhi</l>
           </lg>
         </note>
@@ -4898,7 +4897,7 @@
     </div>
     <div type="commentary-block" n="86">
       <p>
-        <s>saṁdāni[tēṁ]kādīnāṁ lakṣaṇamāha- <q type="pratīka">dōhiṁ saṁdāṇiaa</q> iti ।</s>
+        <s>saṁdāni<add resp="#HDV">tēṁ</add>kādīnāṁ lakṣaṇamāha- <q type="pratīka">dōhiṁ saṁdāṇiaa</q> iti ।</s>
       </p>
       <quote type="base-text">
         <lg n="86">
@@ -4989,7 +4988,7 @@
       <!-- CHECK: lone <lg n=88>: Prakrit/chāyā/quotation unclear -->
       <quote type="base-text">
         <lg n="88">
-          <l>ślōkāditi (bhirdr̥śyanta ēva । ē ( tataśca [ parēṇa ] guhākhyādūrdhvamicchayā mahākāvyādikaṁ kāvyaṁ kuruta</l>
+          <l>ślōkāditi (bhirdr̥śyanta ēva । ē ( tataśca <add resp="#HDV">parēṇa</add> guhākhyādūrdhvamicchayā mahākāvyādikaṁ kāvyaṁ kuruta</l>
           <l>kēvalaṁ kulakasaṁjñā na bhavatītyarthaḥ । parēṇēti tr̥tīyāntapratirūpakō nipātaḥ</l>
         </lg>
       </quote>
@@ -5125,16 +5124,16 @@
         <note type="chāyā">
           <lg n="93">
             <l>pañcamatr̥tīyasuva (paṇa ratnavirāmēṣu kavivr̥ṣabhairniyuktā bhāmini kāvyēṣu</l>
-            <l>prathamadvitīyacaturthī madhurākṣarēṣu trayō'pi mugdhē yōdhā bhavanti [ lalitāpādēṣu ]</l>
+            <l>prathamadvitīyacaturthī madhurākṣarēṣu trayō'pi mugdhē yōdhā bhavanti <add resp="#HDV">lalitāpādēṣu</add></l>
           </lg>
         </note>
       </quote>
     <p>
-      <s>[lalitā]pādēṣu pañca<add resp="#HDV">ma</add>tr̥tīyau suparṇau garuḍau jā<choice><orig>taḥ</orig><reg>tau</reg></choice> kiṁbhūtēṣu ।</s>
+      <s><add resp="#HDV">lalitā</add>pādēṣu pañca<add resp="#HDV">ma</add>tr̥tīyau suparṇau garuḍau jā<choice><orig>taḥ</orig><reg>tau</reg></choice> kiṁbhūtēṣu ।</s>
       <s>ratnaṁ virāmē yēṣām ।</s>
       <s>tathā prathamadvitīyacaturthāstrayōpi yōdha bhavanti ।</s>
       <s>kiṁbhūtāḥ ।</s>
-      <s>[ bhāmini ] kāvyēṣu svaprabandhēṣu madhurākṣarēṣu kavivr̥ṣabhaiḥ kaviśrēṣṭhaiḥ niyuktā racitāḥ</s>
+      <s><add resp="#HDV">bhāmini</add> kāvyēṣu svaprabandhēṣu madhurākṣarēṣu kavivr̥ṣabhaiḥ kaviśrēṣṭhaiḥ niyuktā racitāḥ</s>
     </p>
     </div>
     <div type="commentary-block" n="94">
@@ -5145,7 +5144,7 @@
         <lg n="94">
           <l>thaṇaharō saaṇṇō ṇariṁdaō</l>
           <l>pamuhē a diṇṇō dumattaō</l>
-          <l>pā[a] ēṇa pā<choice><orig>u</orig><reg>ō</reg></choice> a jaṁ ṭhi<choice><orig>u</orig><reg>ō</reg></choice></l>
+          <l>pā<add resp="#HDV">a</add> ēṇa pā<choice><orig>u</orig><reg>ō</reg></choice> a jaṁ ṭhi<choice><orig>u</orig><reg>ō</reg></choice></l>
           <l>taṁ viāṇa aṁtē vihasaṇaṁ</l>
           <label>vibhūṣaṇā</label>
         </lg>
@@ -5191,9 +5190,9 @@
       <s>kiṁbhūtāḥ bhavanti ।</s>
       <s>kavivr̥ṣabhaiḥ kaviśrēṣṭhaiḥ niyuktā bhāmini kāvyēṣu svaprabandhēṣu ।</s>
       <s>prathamadvitīyacaturtha- madhurākṣarēṣu trayōpi davvē racitā niyuktāḥ ।</s>
-      <s><app n="1" type="footnote"><rdg source="#Com">aṁtapamuhadiṇṇō</rdg><rdg wit="#A #B">madhyaguru ēva</rdg><rdg wit="#A #B">daṁtō trimātrō</rdg><rdg wit="#A #B">punaḥ sthitā yāmakaracanēti</rdg><rdg wit="#A #B">gavahiṁ vilaggaēēhiṁ</rdg><note>2  3 Com. seems to read jêmiō 4 chaṁdē Com. 5  6  7 The dropped portion of Commentary on v. 93 mentioned in note above (from lalitāpādēṣu to trayōpi yōdhāḥ both inclusive) is copied out here between the words galitāḥ and sayamakā: in both A &amp; B. Reconstructed from Com. . 9  10</note></app> <pb n="68"/> paṁcamata[i] aēhiṁ muddhē ṇarāhivēhiṁ ।</s>
+      <s><app n="1" type="footnote"><rdg source="#Com">aṁtapamuhadiṇṇō</rdg><rdg wit="#A #B">madhyaguru ēva</rdg><rdg wit="#A #B">daṁtō trimātrō</rdg><rdg wit="#A #B">punaḥ sthitā yāmakaracanēti</rdg><rdg wit="#A #B">gavahiṁ vilaggaēēhiṁ</rdg><note>2  3 Com. seems to read jêmiō 4 chaṁdē Com. 5  6  7 The dropped portion of Commentary on v. 93 mentioned in note above (from lalitāpādēṣu to trayōpi yōdhāḥ both inclusive) is copied out here between the words galitāḥ and sayamakā: in both A &amp; B. Reconstructed from Com. . 9  10</note></app> <pb n="68"/> paṁcamata<add resp="#HDV">i</add> aēhiṁ muddhē ṇarāhivēhiṁ ।</s>
       <s>bīacautthachaṭṭaga atura asaṁdaṇēhiṁ ॥</s>
-      <s><choice><orig>pa</orig><reg>pā</reg></choice> ā pamuha [ a ]mmi ghaḍiā du<add resp="#HDV">ma</add>ttaēhiṁ jāṇaha laṁbiāê galiāê pāaēhiṁ ॥</s>
+      <s><choice><orig>pa</orig><reg>pā</reg></choice> ā pamuha <add resp="#HDV">a</add>mmi ghaḍiā du<add resp="#HDV">ma</add>ttaēhiṁ jāṇaha laṁbiāê galiāê pāaēhiṁ ॥</s>
       <s>96 ॥</s>
       <s>laṁbiā [ lambitā ] |</s>
     </p>
@@ -5202,7 +5201,7 @@
       <quote type="base-text">
         <lg n="96">
           <l>pañcamatr̥tī<choice><orig>ya</orig><reg>yaiḥ</reg></choice> mugdhē narādhipaiḥ dvitīyacaturthaṣaṣṭhairgajaturagasyandanaiḥ</l>
-          <l>pādāḥ pramukhē ghaṭitā dvimātraiḥ jānīhi lambitāyā galitā[yāḥ] prākr̥taiḥ</l>
+          <l>pādāḥ pramukhē ghaṭitā dvimātraiḥ jānīhi lambitāyā galitā<add resp="#HDV">yāḥ</add> prākr̥taiḥ</l>
         </lg>
         <note type="chāyā">
           <lg n="96">
@@ -5232,7 +5231,7 @@
       </quote>
     <p>
       <s><add resp="#HDV">sā</add> sudhā nāma galitā ya<choice><orig>sya</orig><reg>syā</reg></choice> bahunā kavisārthēna kavisamūhēna pramukhē <choice><orig>ra</orig><reg>ta</reg></choice> thā virāmē dvimātrau nirūpitau ।</s>
-      <s>dvitīyacaturthābhyāṁ [ yōdhābhyāṁ ] sahitēti sudhāviśēṣaṇam</s>
+      <s>dvitīyacaturthābhyāṁ <add resp="#HDV">yōdhābhyāṁ</add> sahitēti sudhāviśēṣaṇam</s>
     </p>
     </div>
     <div type="commentary-block" n="98">
@@ -5303,11 +5302,11 @@
         </note>
       </quote>
     <p>
-      <s>yā mayāsminlakṣaṇē prathamaṁ khaṇḍōdgatā [' iti bhaṇitā sā mukhagalitā ]khyā bhavati ।</s>
+      <s>yā mayāsminlakṣaṇē prathamaṁ khaṇḍōdgatā <add resp="#HDV">' iti bhaṇitā sā mukhagalitā</add>khyā bhavati ।</s>
       <s>iyāṁstu bhēdō yadiyaṁ daṇḍakasya sadr̥śīṁ padaracanāṁ bibharti sadr̥śaistrikairnibandhanamādau laghusthitiścēti kartavyamityarthaḥ ।</s>
       <s>anyacya ।</s>
       <s>samāṁśikā samāna saṁkhyagaṇā ।</s>
-      <s>sama [iti] dvitīyacaturthāpēkṣayā ।</s>
+      <s>sama <add resp="#HDV">iti</add> dvitīyacaturthāpēkṣayā ।</s>
       <s>prathamatr̥tīyau yasyāḥ 'karēṁmētta ' (4-47) ityādinā niyatalakṣaṇātrēva ।</s>
       <s>ētaduktaṁ bhavati ।</s>
       <s>prathamatr̥tīyau khaṇḍōdgatāsadr̥śau dvitīyacaturthī daṇḍakacchāyāviti</s>
@@ -5341,7 +5340,7 @@
     </div>
     <div type="commentary-block" n="102">
       <p>
-        <s>tr̥tīyō na[vagaṇaiḥ] bhavati, ēkādaśabhiścaturtha iti । <q type="pratīka">atra kēcit daṇḍakapada<choice><orig>gī</orig><reg>ga</reg></choice> tīnāṁ niyamō'yam</q> iti .</s>
+        <s>tr̥tīyō na<add resp="#HDV">vagaṇaiḥ</add> bhavati, ēkādaśabhiścaturtha iti । <q type="pratīka">atra kēcit daṇḍakapada<choice><orig>gī</orig><reg>ga</reg></choice> tīnāṁ niyamō'yam</q> iti .</s>
       </p>
       <quote type="base-text">
         <lg n="102">
@@ -6008,7 +6007,7 @@
       <quote type="base-text">
         <lg n="35">
           <l>surēndrēbhaṁ karṇaṁ caraṇapaṭahaṁ candravadanē</l>
-          <l><choice><orig>ppa</orig><reg>pri</reg></choice> [yē pādē ] yasmillalitagamanē paśyasi punaḥ</l>
+          <l><choice><orig>ppa</orig><reg>pri</reg></choice> <add resp="#HDV">yē pādē</add> yasmillalitagamanē paśyasi punaḥ</l>
           <l>niyuktaṁ kēyūraṁ marakatayutaṁ bhāvasahitaṁ</l>
           <l>dhvajaścāntē yasyāḥ sutanu kathitā sā śikhariṇī</l>
         </lg>
@@ -6083,7 +6082,7 @@
         <lg n="41">
           <l>mukhē rūpaṁ cakaṁ maṇirapi bhavētkarṇaratnē niyuktē</l>
           <l>tatō mañjīraṁ cēdrasaniyamitaṁ śabdarūpē punadvai</l>
-          <l>surēndrēbhaṁ mattaṁ [priya ] sakhi tatō vīkṣasē satpatākaṁ</l>
+          <l>surēndrēbhaṁ mattaṁ <add resp="#HDV">priya</add> sakhi tatō vīkṣasē satpatākaṁ</l>
           <l>suparṇa muktāḍhyaṁ viramaniyataṁ candrakāntēti gītā</l>
         </lg>
       </quote>
@@ -6120,7 +6119,7 @@
     <div type="commentary-block" n="44">
       <quote type="base-text">
         <lg n="44">
-          <l>muktādiratnasahitau payōdhēra [ rasau] tathaiva subhagē</l>
+          <l>muktādiratnasahitau payōdhēra <add resp="#HDV">rasau</add> tathaiva subhagē</l>
           <l>māṇikyarūpacaraṇaṁ dhvajaṁ ca sahasā nivēśya saravam</l>
           <l>graivēyakaṁ niyamitaṁ varōru racayētsadā sapaṭahaṁ</l>
           <l>antē ca nūpurayutaṁ śaśāṅkavadanē śaśāṅkacaritam</l>
@@ -6173,7 +6172,7 @@
           <l>cāmararūpē śabdasamētē punarapi varatanu salalitacamaraṁ</l>
           <l>paśyasi bālē ratnamatō vai varatanu śaśimukhi sumadhurakaṭakam</l>
           <l>rūpasamuktaṁ vai dhvajaratnaṁ bhavati <add resp="#HDV">hi</add> mr̥durghanêvipulakucayugē</l>
-          <l>krauñcapadī [vai] tridvijayutā viracita karatalaniyamitaviramī</l>
+          <l>krauñcapadī <add resp="#HDV">vai</add> tridvijayutā viracita karatalaniyamitaviramī</l>
         </lg>
       </quote>
     <app n="1" type="footnote"><lem wit="#A #B">kuryānmuktāṁ</lem></app>
@@ -6260,7 +6259,7 @@
     <p>
       <s>naṣṭōddiṣṭamityēkavadbhāvaḥ ।</s>
       <s>laghukriyā upalakṣaṇam ।</s>
-      <s>gurukriyā [ yā ] api vidhānāt</s>
+      <s>gurukriyā <add resp="#HDV">yā</add> api vidhānāt</s>
     </p>
     </div>
     <div type="commentary-block" n="3">
@@ -6390,7 +6389,7 @@
         </note>
       </quote>
     <p>
-      <s>āstē [?] madhyē yōṅkaḥ sa paripāṭhyā bhajyatē [uparisthitaṁ nva] pratyēkaṁ paripāṭyā mucyatē ।</s>
+      <s>āstē [?] madhyē yōṅkaḥ sa paripāṭhyā bhajyatē <add resp="#HDV">uparisthitaṁ nva</add> pratyēkaṁ paripāṭyā mucyatē ।</s>
       <s>yathā tryakṣarasya caturvaikaikēṣu prathamēnaikaikēna madhyamanantaraṁ bhajyatē ।</s>
       <s>tēnāpi dvitīyēna tr̥tīyaṁ caturthaṁ tu mucyatē ।</s>
       <s>uparisthitēḥ ।</s>
@@ -6429,7 +6428,7 @@
       <s>pātanaṁ pātaḥ ।</s>
       <s>prastārāṇāṁ pātaḥ prastārapātaḥ ।</s>
       <s>vakṣyamāṇanyāyēna anyēṣāmapyantaḥ pravēśa ityarthaḥ ।</s>
-      <s>' ēkammivi patthārē patthārā [ bahuarā ] viṇiddiṭṭhā' (6-17) iti prastārapātagaṇanā labhyatē ।</s>
+      <s>' ēkammivi patthārē patthārā <add resp="#HDV">bahuarā</add> viṇiddiṭṭhā' (6-17) iti prastārapātagaṇanā labhyatē ।</s>
       <s>yathā sarvatraiva tāvatprathamē guṇanē kriyamāṇē upariṣṭātphalaṁ bhavati ।</s>
       <s>yathā tryakṣarasya catuṣkamiti tatpramāṇātprastārapātagaṇanā vācyā ।</s>
       <s>yathā tryakṣarasya svēna saha prastāratrayamāpatati iti ।</s>
@@ -6440,12 +6439,12 @@
       <s>yathā kiyam̐nti trilaghūni vr̥ttānyasminsaṁbhavantīti cintāyāṁ tasmātparicchēdaḥ kriyatē yathai<choice><orig>va</orig><reg>kaṁ</reg></choice> triladhviti ।</s>
       <s>ēvaṁ dvitīyād dvilaghuniśvayō yathā trīṇi dvilaghūnīti ।</s>
       <s>tadvattr̥tīyādēka<lb break="no"/>laghunirṇayaśca yathā trīṇyēvaikalaghūnīti ।</s>
-      <s>caturthādārabhya [ ēva]mēva pratilō<choice><orig>ma</orig><reg>ga</reg></choice> tyā trigurvādīnāṁ kāryam ।</s>
+      <s>caturthādārabhya <add resp="#HDV">ēva</add>mēva pratilō<choice><orig>ma</orig><reg>ga</reg></choice> tyā trigurvādīnāṁ kāryam ।</s>
       <s>caturakṣarādīnāṁ cānayaiva diśā gatirūhyā ।</s>
       <s>anyaccāsminsūciprastārē kriyamāṇē saṁkhyā labhyatē ।</s>
       <s>sarvēṣāmēvaikatra yōjitānāṁ gaṇanāt ।</s>
       <s>tathā cōktamanyai : – “ ēṣvēva piṇḍitēṣu <add resp="#HDV">ca</add> saṁkhyā prastāravira<lb break="no"/>citā bhavati " ( jayadēva. 8.11) tēna tryakṣarasyāṣṭī prabhēdāḥ kathanīyāḥ caturakṣarasya ca ṣōḍaśa iti ।</s>
-      <s>yasmāt tryakṣarasya ēkaka trika[trika] ēkakānāṁ ēkatra gaṇanādaṣṭā ēvōtpadyantē</s>
+      <s>yasmāt tryakṣarasya ēkaka trika<add resp="#HDV">trika</add> ēkakānāṁ ēkatra gaṇanādaṣṭā ēvōtpadyantē</s>
     </p>
       <!-- OCR noise: . -->
     <!-- OCR noise: । -->
@@ -6505,14 +6504,14 @@
       <s>dvitīyakōṣṭhakē uparibhavakōṣṭhakadvayāṅkātparimāṇamēkaṁ dvau cēti <choice><orig>tū</orig><reg>tri</reg></choice> kaṁ sthāpanīyam ।</s>
       <s>tr̥tīyē tathaiva ।</s>
       <s>caturthē tvēkakasyaiva sthitiḥ ।</s>
-      <s>ēvaṁ tatra ēkaka [trika]trikaika<lb break="no"/>kōpalakṣitā paṅktirjāyatē ।</s>
+      <s>ēvaṁ tatra ēkaka <add resp="#HDV">trika</add>trikaika<lb break="no"/>kōpalakṣitā paṅktirjāyatē ।</s>
       <s>udāharaṇaṁ <!-- OCR noise: R --> R ☑ <!-- OCR noise: 1 --> | 1 | R R ।</s>
       <s>paścāccaturthē paṅkibhāgē pañca<lb break="no"/>R R R 3 3 1 kōṣṭhakē tāvadādyantayōrnirvivādamēka ēva ।</s>
       <s>dvitīyē tūpariṣṭātkōṣṭakadvayānmiśrīkr̥tya catuṣkaṁ sthāpanīyam ।</s>
       <s>tr̥tīyē tathaivōpariṣṭātṣaṭkamiti ।</s>
       <s>caturthataḥ catuṣkaṁ pañcamē tvavivādaḥ ।</s>
-      <s>ēvaṁ caturthī paṅktirēkacatuṣka<lb break="no"/>[ ṣaṭka catuṣka] ēkakōpalakṣitā bhavati ।</s>
-      <s>udāharaṇaṁ 1 1 <!-- OCR noise: 1 --> <!-- OCR noise: 2 --> <!-- OCR noise: 1 --> <!-- OCR noise: 1 --> <!-- OCR noise: 3 --> 3 1 <!-- OCR noise: 1 --> <!-- OCR noise: 4 --> <!-- OCR noise: 6 --> <!-- OCR noise: 4 --> <!-- OCR noise: 1 --> ēvaṁ sarvatra kartavyaṁ yāvat ṣaḍvaṁśa[tita]mī paṅktirāyātēti ।</s>
+      <s>ēvaṁ caturthī paṅktirēkacatuṣka<lb break="no"/><add resp="#HDV">ṣaṭka catuṣka</add> ēkakōpalakṣitā bhavati ।</s>
+      <s>udāharaṇaṁ 1 1 <!-- OCR noise: 1 --> <!-- OCR noise: 2 --> <!-- OCR noise: 1 --> <!-- OCR noise: 1 --> <!-- OCR noise: 3 --> 3 1 <!-- OCR noise: 1 --> <!-- OCR noise: 4 --> <!-- OCR noise: 6 --> <!-- OCR noise: 4 --> <!-- OCR noise: 1 --> ēvaṁ sarvatra kartavyaṁ yāvat ṣaḍvaṁśa<add resp="#HDV">tita</add>mī paṅktirāyātēti ।</s>
       <s>tadā caivamēkākārē paṅktisamūhē sthitē</s>
     </p>
     </div>
@@ -6623,7 +6622,7 @@
       <quote type="base-text">
         <lg n="15">
           <l>raaṇāī jahicchāi viḍaṁ mujhē ṭhavēha pattharaṁ</l>
-          <l>tāva a piṁḍēa [phuḍaṁ] pharilā savvē ṭhi jāva</l>
+          <l>tāva a piṁḍēa <add resp="#HDV">phuḍaṁ</add> pharilā savvē ṭhi jāva</l>
         </lg>
         <note type="chāyā">
           <lg n="15">
@@ -6695,7 +6694,7 @@
       <quote type="base-text">
         <lg n="18">
           <l>aṭṭakkharapatthārē uttāīō huaṁti savvē a</l>
-          <l>viha[ī]chaṁdami tahā patthārō navavihō hōi</l>
+          <l>viha<add resp="#HDV">ī</add>chaṁdami tahā patthārō navavihō hōi</l>
         </lg>
         <note type="chāyā">
           <lg n="19">
@@ -6722,7 +6721,7 @@
       <s>ētacca patākāyāṁ darśitaṁ dhruvam ।</s>
       <s>ēvaṁ br̥hatyāṁ navavidhasya prastārasyāntarbhāvō'nvēṣyaḥ ।</s>
       <s>tathōtkr̥tau sarvēṣāmēvēti mayā bhaṇitāni yuktyā ।</s>
-      <s>sā ca yuktirbhayā patākā [ yā]mēva darśitā ।</s>
+      <s>sā ca yuktirbhayā patākā <add resp="#HDV">yā</add>mēva darśitā ।</s>
       <s>tvaṁ tu prayatnēnābhiyōgēna lakṣaya jānīhi ॥</s>
       <s>18-19॥</s>
     </p>
@@ -6763,7 +6762,7 @@
       <s>mātrā parimāṇam ।</s>
       <s>sā kadācinnyūnatvēna pūryatē kadācidādhikyēna ।</s>
       <s>tēna dvayamapi parihartuṁ prathamaḥ sparśō dīyatē ।</s>
-      <s>yatraiva na pūryatē tatra dīya[ta ] iti vacanādvāthāyāḥ pañcamē prabhēdē dvitīyāṁśē prathamacarmairasyādhaḥ sparśē kr̥tē purataśca guruṣu sthāpitēṣu mārgē prathamagaṇasthānē gurudvayaṁ kr̥tvā mātrā pūraṇa<lb break="no"/>sparśō yadi vā gāthāpēkṣayā prathamō dīyatē tatra prathamaḥ pañcamātrō dvitīyaśca trimātra āyātīti dōṣaḥ parihr̥taḥ ।</s>
+      <s>yatraiva na pūryatē tatra dīya<add resp="#HDV">ta</add> iti vacanādvāthāyāḥ pañcamē prabhēdē dvitīyāṁśē prathamacarmairasyādhaḥ sparśē kr̥tē purataśca guruṣu sthāpitēṣu mārgē prathamagaṇasthānē gurudvayaṁ kr̥tvā mātrā pūraṇa<lb break="no"/>sparśō yadi vā gāthāpēkṣayā prathamō dīyatē tatra prathamaḥ pañcamātrō dvitīyaśca trimātra āyātīti dōṣaḥ parihr̥taḥ ।</s>
       <s>yasmādgāthādīni kēvalamātrāvr̥ttāni na bhavanti tēṣāṁ dōṣa ēva nāsti ।</s>
       <s>aṁśakavr̥ttānāṁ tu yasminnētrāṁśakē mātrā na pūryatē tasminnētra prathamē lādau kr̥tē dōṣasyāvasara ēva nāsti ।</s>
       <s>mātrāvr̥tta<lb break="no"/>prastārē yathā caturmātrī ēva prathamaṁ gurudvayē kr̥tē dvitīyasya prabhēdasya prathamaṁ laghu kr̥tvānantaraṁ puratō gurau kr̥tē trimātra prasaṁgānmātrāyā na pūraṇamataḥ sparśē kr̥tē dvitīyacaturmātrō'nantaraṁ tr̥tīyē dvitīyagaṇāntyasya gurōradhō ladhau kr̥tē mātrāparipūraṇārthaṁ kaṭakē ca vihitē trimātrasyaivāsaraḥ ।</s>
@@ -6879,7 +6878,7 @@
       <pb n="91"/>
       <quote type="base-text">
         <lg n="25">
-          <l>ēē paṁca paaisā majjhimaaṁ tiuṇaaṁ karēja [i]ha</l>
+          <l>ēē paṁca paaisā majjhimaaṁ tiuṇaaṁ karēja <add resp="#HDV">i</add>ha</l>
           <l>saṁkhā vaṇṇā mattā lahuguruā hōnti pāālē</l>
         </lg>
         <note type="chāyā">
@@ -6891,7 +6890,7 @@
       </quote>
     <p>
       <s>ēvamanēna prakārēṇa pañca prabhēdā bhavanti ।</s>
-      <s>tadyathā aṣṭau caturviṁśatirdvādaśa[dvādaśa dvādaśa ] cēti ।</s>
+      <s>tadyathā aṣṭau caturviṁśatirdvādaśa<add resp="#HDV">dvādaśa dvādaśa</add> cēti ।</s>
       <s>tēṣāṁ ca yanmēdhyamaṁ sthānaṁ tat triguṇaṁ kuru ।</s>
       <s>dvādaśa tribhirguṇayitvā ṣaṭtriṁśadbhavanti ।</s>
       <s>ēvaṁ kr̥tē saṁkhyādīnāṁ pañcānāṁ lābhō bhavati ॥</s>
@@ -6911,15 +6910,15 @@
         </lg>
       </quote>
     <p>
-      <s>dōvaḍḍi [ikahāṇī] ēkkkaṁ va tahā majjhē ।</s>
+      <s>dōvaḍḍi <add resp="#HDV">ikahāṇī</add> ēkkkaṁ va tahā majjhē ।</s>
     </p>
     </div>
     <div type="commentary-block" n="27">
       <!-- CHECK: lone <lg n=27>: Prakrit/chāyā/quotation unclear -->
       <quote type="base-text">
         <lg n="27">
-          <l>tā [samappai ēaṁ dōcia ṇihaṇē ṭhiā jāva</l>
-          <l>ia saṁvalipatthārō] mattāvittāṇa kāavva</l>
+          <l>tā <add resp="#HDV">samappai ēaṁ dōcia ṇihaṇē ṭhiā jāva</add></l>
+          <l><add resp="#HDV">ia saṁvalipatthārō</add> mattāvittāṇa kāavva</l>
         </lg>
       </quote>
     <p>
@@ -6971,9 +6970,9 @@
       <quote type="base-text">
         <lg n="28">
           <l>tr̥tīyasyāṁ tr̥tīyātsthānāt yathā sapta laghavō varṇā dvātriṁśat paśñcaviṁśatiśva gurava iti । ēvaṁ sarvatra</l>
-          <l>kartavyam । udāharaṇam — 3, 30, 27 । 5, 31,26 । 7, 32, 25 । gāthā[ nā ] mityupalakṣaṇaṁ</l>
+          <l>kartavyam । udāharaṇam — 3, 30, 27 । 5, 31,26 । 7, 32, 25 । gāthā<add resp="#HDV">nā</add> mityupalakṣaṇaṁ</l>
           <l>prādhānyāt । tēna skandhakādīnāmayamēvōpāyaḥ । skandhakē yathā prathamaṁ catvārō dvitīyaṁ catustriṁśat tr̥tīyē</l>
-          <l>triṁśat । atraiva tathāpi tathaiva vr̥ddhihōnī । na kēvalaṁ skandhādīnāṁ yāvatsumanaḥ prabhr̥tīnāṁ dvipadīnāma<lb break="no"/>pyanyēṣāṁ ca । yathā sumanasaḥ prathamamaṣṭau tatō dvātriṁśaccaturviṁśati [ścēti] sthānatrayē sthāpitē tathaiva</l>
+          <l>triṁśat । atraiva tathāpi tathaiva vr̥ddhihōnī । na kēvalaṁ skandhādīnāṁ yāvatsumanaḥ prabhr̥tīnāṁ dvipadīnāma<lb break="no"/>pyanyēṣāṁ ca । yathā sumanasaḥ prathamamaṣṭau tatō dvātriṁśaccaturviṁśati <add resp="#HDV">ścēti</add> sthānatrayē sthāpitē tathaiva</l>
           <l>vr̥ddhikṣaya vidhēyau । atra tāvatsamarpyatē yāvaccatvārōntē śiṣyantē । ēvaṁ sati prathamabhēdē'ṣṭau laghavō varṇā</l>
           <l>dvātriṁśat caturviṁśatiśva gurava iti kathyantē</l>
         </lg>
@@ -6992,7 +6991,7 @@
         <note type="chāyā">
           <lg n="29">
             <l>tripañcāśatpañcapañcāśat hau caiva kramēṇa sthāpayitvā</l>
-            <l>dvihāni <add resp="#HDV">ka</add> vr̥ddhirēkaikaṁ hiyatē tathā [ madhyē ]</l>
+            <l>dvihāni <add resp="#HDV">ka</add> vr̥ddhirēkaikaṁ hiyatē tathā <add resp="#HDV">madhyē</add></l>
             <l>viparītaśālmalē rbhavati vidhānamidaṁ chātē</l>
           </lg>
         </note>
@@ -7087,8 +7086,8 @@
         </lg>
         <note type="chāyā">
           <lg n="33">
-            <l>ardhamardhamavatē bahuśō bhāṁgā [dyāvacca samāptam</l>
-            <l>yannidhanē tadvr̥ttaṁ naṣṭē ca pratyaya ēṣaḥ ]</l>
+            <l>ardhamardhamavatē bahuśō bhāṁgā <add resp="#HDV">dyāvacca samāptam</add></l>
+            <l><add resp="#HDV">yannidhanē tadvr̥ttaṁ naṣṭē ca pratyaya ēṣaḥ</add></l>
           </lg>
         </note>
       </quote>
@@ -7233,7 +7232,7 @@
       </quote>
     <p>
       <s>naṣṭavidhau ya ēva praśnamārōpi<choice><orig>tē</orig><reg>tā</reg></choice> bhavantyaṅkāstasmādēvaikamapamr̥jya mūlāṅkaṁ hi datvā jānīhi budhyasva ।</s>
-      <s>yathā pañcamī gāthā <add resp="#HDV">ka</add>tyakṣarēti praśnē pañcakasya sthāpitasyaikamavalupya catvāraḥ mūlamādyapari<lb break="no"/>māṇaṁ triṁśat [ca ēvaṁ] catustriṁśatsu sthitēṣu tatparimāṇā gāthā vācyā ।</s>
+      <s>yathā pañcamī gāthā <add resp="#HDV">ka</add>tyakṣarēti praśnē pañcakasya sthāpitasyaikamavalupya catvāraḥ mūlamādyapari<lb break="no"/>māṇaṁ triṁśat <add resp="#HDV">ca ēvaṁ</add> catustriṁśatsu sthitēṣu tatparimāṇā gāthā vācyā ।</s>
       <s>yathā catustriṁśadakṣarā gāthēyamiti</s>
     </p>
     </div>
@@ -7254,7 +7253,7 @@
         </note>
       </quote>
     <p>
-      <s>uddiṣṭē vidhau prathamaṁ varṇānāṁ gaṇanāṁ kr̥tvā ēkaṁ dēyaṁ yasmindattē mūlamavalupya yacchēṣaṁ [tat ] parimāṇaṁ vācyam ।</s>
+      <s>uddiṣṭē vidhau prathamaṁ varṇānāṁ gaṇanāṁ kr̥tvā ēkaṁ dēyaṁ yasmindattē mūlamavalupya yacchēṣaṁ <add resp="#HDV">tat</add> parimāṇaṁ vācyam ।</s>
       <s>yathā catustriṁśadakṣarā gāthā sā kiṁ dvitīyā tataḥ tr̥tīyā hantānyā kāciditi praśnē tēṣāṁ varṇānāṁ gaṇanāṁ kr̥tvā ēka ca tatrādhikaṁ kr̥tvā pañcatriṁśadaṅkē sthitē mūlaibhūtamavalupyatē ।</s>
       <s>yacchēṣaṁ tatrai pañcakaṁ tadēvōddiṣṭē jñātavyaṁ yathā pañcamī gāthājātiriyamiti ।</s>
       <s>anyēṣāmapyayamēvōpāyaḥ</s>
@@ -7266,7 +7265,7 @@
       </p>
       <quote type="base-text">
         <lg n="39">
-          <l>saviappau [ṇaṁ] kāūṇa muṁca hēṭṭāu aṁsaē sēsē</l>
+          <l>saviappau <add resp="#HDV">ṇaṁ</add> kāūṇa muṁca hēṭṭāu aṁsaē sēsē</l>
           <l>paḍilōmaṁ uddiṭṭaṁ puraō ṭuṁ viāṇēhi</l>
         </lg>
         <note type="chāyā">
@@ -7287,11 +7286,11 @@
       <s>yathā prathamē madhyagurvabhāvāccatvārō dvitīyē pañca tr̥tīyē tathaiva catvāraḥ caturthē 'paiñcēti yāvadupāntyaṁ caturvikalpamāyātamiti ।</s>
       <s>udā0 IIS | IIS | SS | ISI | s$| • S | SS | ISI | SS | ISI | SS | S | ITS | SS |ss <!-- OCR noise: 4 --> <!-- OCR noise: * --> <!-- OCR noise: 2 --> <!-- OCR noise: ૪ --> <!-- OCR noise: 9 --> <!-- OCR noise: 93 --> <!-- OCR noise: * --> <!-- OCR noise: . --> <!-- OCR noise: ૪ --> <app n="1" type="footnote"><note>prastādava0 A; prastāvādava0 B.</note></app> <app n="2" type="footnote"><rdg wit="#A #B">mūlabandhaṁ vijānīhi</rdg></app> <app n="3" type="footnote"><rdg wit="#A #B">sthitē punaḥ pari0</rdg></app> <app n="4" type="footnote"><rdg wit="#A #B">ēvaṁ ca</rdg></app> <app n="5" type="footnote"><rdg wit="#A #B">kulakusatamava 0</rdg></app> <app n="6" type="footnote"><rdg wit="#A #B">tatratatra</rdg></app> <app n="7" type="footnote"><rdg wit="#A #B">tathaiva</rdg></app> <app n="8" type="footnote"><rdg wit="#A #B">muṁha</rdg></app> <app n="9" type="footnote"><note>viāṇihisi Com</note></app> <app n="10" type="footnote"><note>kuryāttaḥ A; kuryādantaḥ B.</note></app> <app n="11" type="footnote"><rdg wit="#A #B">ēkēdi0</rdg></app> <app n="12" type="footnote"><note>gāthā iti ?</note></app> <app n="13" type="footnote"><note>paṁcamapaṁcēti AB.</note></app> <pb n="96"/> <!-- OCR noise: 4 --> <!-- OCR noise: 4 --> <!-- OCR noise: 9 --> IIS|$$|‡ | SII |Ş| anēka kramēṇa saṁsthāpya antimēna ṣōḍaśasya maṇēradhaḥ sthitēna ēkakēna pratilōmaṁ pañcadaśādhaḥsthitaṁ catuṣkaṁ guṇayēt ।</s>
       <s>ēkēna ētadguṇitaṁ tatsvarūpamēva bhavati (15) ।</s>
-      <s>anaṁnta<add resp="#HDV">ra</add> ādiguru<lb break="no"/>svarūpasya śēṣaṁ viprāṁśa ēkō yō bhavati tasminmuktē trikaṁ [ saṁ] padyatē ।</s>
-      <s>[tēna] paścāccaturdaśādhaḥ sthitasyai<lb break="no"/>kakasya guṇaināt [trayamēva bhavati (14) ।</s>
-      <s>śēṣābhāvāt trayōdaśādhaḥ sthitasya catuṣkasya guṇanēna dvādaśa saṁpadyantē ।</s>
-      <s>tataśca śēṣāṇāṁ karacaraṇaviprāṇāṁ tyāgāt nava jāyantē (13) ।</s>
-      <s>tairdvādaśādhaḥ sthitasya pañca<lb break="no"/>kasya guṇanāt pañcacatvāriṁśadbhavanti] trayāṇāṁ narēndracaraṇaviprāṇāṁ śēṣāṇāṁ <add resp="#HDV">ca</add> tyāgāt dvācatvāriṁśat śiṣyantē ( 12 ) ।</s>
+      <s>anaṁnta<add resp="#HDV">ra</add> ādiguru<lb break="no"/>svarūpasya śēṣaṁ viprāṁśa ēkō yō bhavati tasminmuktē trikaṁ <add resp="#HDV">saṁ</add> padyatē ।</s>
+      <s><add resp="#HDV">tēna</add> paścāccaturdaśādhaḥ sthitasyai<lb break="no"/>kakasya guṇaināt <add resp="#HDV">trayamēva bhavati (14) ।</add></s>
+      <s><add resp="#HDV">śēṣābhāvāt trayōdaśādhaḥ sthitasya catuṣkasya guṇanēna dvādaśa saṁpadyantē ।</add></s>
+      <s><add resp="#HDV">tataśca śēṣāṇāṁ karacaraṇaviprāṇāṁ tyāgāt nava jāyantē (13) ।</add></s>
+      <s><add resp="#HDV">tairdvādaśādhaḥ sthitasya pañca<lb break="no"/>kasya guṇanāt pañcacatvāriṁśadbhavanti</add> trayāṇāṁ narēndracaraṇaviprāṇāṁ śēṣāṇāṁ <add resp="#HDV">ca</add> tyāgāt dvācatvāriṁśat śiṣyantē ( 12 ) ।</s>
       <s>tairapi ēkādaśādhaḥ sthitasya catuṣkasya guṇanērnē trayīṇāṁ ca śēṣāṇāṁ karacaraṇa<lb break="no"/>viprāṇāṁ mōkṣātpañcaṣaṣṭyadhikasya śatasyāvasthānam (11) ।</s>
       <s>tatō'pi tēna daśamādhaḥ sthitasya pañcakasya kalanāccaturṇāmantagurumadhyaguru ādigurusarvalaghūnāṁ tyāgādēkaviṁśatyadhikāni aṣṭau śatāni jāyantē (10) ।</s>
       <s>taiśca navamādhōvartinaḥ catuṣkasyai guṇanāt dvayatyāgācca sahasratrayaṁ dvyaśītyadhikaṁ ca śatadvayaṁ saṁpadyatē (9) ।</s>
@@ -7302,7 +7301,7 @@
       <s>tairapi caturthē madhyagurōradhaḥ pañcānāṁ kalanācchēṣasya gaṇadvayasya tyāgāt paśñcalakṣāṇi caturviṁśa <add resp="#HDV">ti</add> sahasrāṇi navaśatāni triṣaṣṭya <lb break="no"/>dhikāni bhavanti (4) ।</s>
       <s>taiśca tr̥tīyē dvigurōravaścaturṇāṁ guṇanīt trayāṇāṁ tyāgat viṁśatilakṣāṇi navanava<add resp="#HDV">ti</add> sahasrāṇi aṣṭau śatāni caikōnapañcāśadadhikāni bhavanti (3) ।</s>
       <s>tairapi dvitīyē'ntagurōradhaḥ pañcānāṁ saṁkalanāt trayāṇāṁ ca tyāgādēkā kōṭirlakṣāṇi ca [ catvāri navanavatisahasrāṇi dvicatvā<lb break="no"/>riṁśadadhikē ca śatē dvē saṁpadyētē ।</s>
-      <s>tataśca prathamēntagurōradhastaiścaturṇāṁ guṇanāt dvayōśca varjanāt kōṭya<lb break="no"/>ścatasraḥ ēkōnaviṁśatirlakṣāṇi ṣaṇṇavatisahasrāṇi navaśatāni [ ṣaṭ ] ṣaṣṭyadhikāni bhavanti ।</s>
+      <s>tataśca prathamēntagurōradhastaiścaturṇāṁ guṇanāt dvayōśca varjanāt kōṭya<lb break="no"/>ścatasraḥ ēkōnaviṁśatirlakṣāṇi ṣaṇṇavatisahasrāṇi navaśatāni <add resp="#HDV">ṣaṭ</add> ṣaṣṭyadhikāni bhavanti ।</s>
       <s>tatpramāṇā gāthēyamiti kathanīyamiti</s>
     </p>
       <!-- OCR noise: c -->
@@ -7330,14 +7329,14 @@
       <s>śēṣē ca sa hi sarūpamēva ।</s>
       <s>yadyēkaḥ śiṣyatē tadā prathamaṁ dvau cēṁ<lb break="no"/>dantaguruṁ tr̥tīyē madhyagurumādiguruṁ vā ।</s>
       <s>kiṁ ca labdhē śēṣē ēkakādau gaṇaṁ dēhi ēkēnādhikaṁ bhāgahāriṇaṁ kurvityarthaḥ ।</s>
-      <s>yathā pūrvōktāyāmē<choice><orig>ka</orig><reg>va</reg></choice> kōṭicatuṣṭayamē kōnaviṁśatirlakṣāṇi ṣaṇṇavatisahasrāṇi [ ṣaṭ ] ṣaṣṭyadhi<lb break="no"/>kāni ca navaśatānīti naṣṭāṅkaṁ sthāpayitvā kēnacitpr̥ṣṭē kīdr̥śamasyā rūpaṁ aṁśakānāmiti ।</s>
+      <s>yathā pūrvōktāyāmē<choice><orig>ka</orig><reg>va</reg></choice> kōṭicatuṣṭayamē kōnaviṁśatirlakṣāṇi ṣaṇṇavatisahasrāṇi <add resp="#HDV">ṣaṭ</add> ṣaṣṭyadhi<lb break="no"/>kāni ca navaśatānīti naṣṭāṅkaṁ sthāpayitvā kēnacitpr̥ṣṭē kīdr̥śamasyā rūpaṁ aṁśakānāmiti ।</s>
       <s>paścādayaṁ rāśirnivēśyaḥ ।</s>
       <s>anantaraṁ prathamāṁśānayanē tadīyēna vikalpēnōddharēt ।</s>
       <s>tadīyō vikalpaścatuṣkam ।</s>
       <s>kōṭī<lb break="no"/>(ṭi) rēkā lakṣacatuṣkaṁ navanavatisahasrāṇi dvē ca śatē ēkacatvāriṁśadadhikē ityanēna caturbhāgēna śōdhanam ।</s>
       <s>śōdhitē dvau śiṣyētē yau tatparimāṇaṁ dvitīyamantaguruṁ sthāpayēt ।</s>
       <s>udā0 I IS | anantaraṁ yēnaiva bhāgarūpamapahr̥<choice><orig>taṁ</orig><reg>tat</reg></choice> labdhē śēṣē gaṇaṁ dēhīti vacanāt saikaṁ kuryāt yathā tadvācatvāriṁśadbhavanti ।</s>
-      <s>anantaraṁ dvitīyagaṇānayanāvasarē yattadbhāgāpahāri saikaṁ kr̥taṁ tasya dvitīyasvavikalpēna pañcakēna [uddhārē] viṁśatirlakṣāṇi navanavatisahasrāṇyaṣṭau śatāni aṣṭacatvāriṁśadityanēna pañcabhāgēna bhāgamapa <lb break="no"/>hr̥tya dvāvavaśiṣyatē yau tētsvarūpa ēvāntagurustatra nivēśyaḥ ।</s>
+      <s>anantaraṁ dvitīyagaṇānayanāvasarē yattadbhāgāpahāri saikaṁ kr̥taṁ tasya dvitīyasvavikalpēna pañcakēna <add resp="#HDV">uddhārē</add> viṁśatirlakṣāṇi navanavatisahasrāṇyaṣṭau śatāni aṣṭacatvāriṁśadityanēna pañcabhāgēna bhāgamapa <lb break="no"/>hr̥tya dvāvavaśiṣyatē yau tētsvarūpa ēvāntagurustatra nivēśyaḥ ।</s>
       <s>udā0 IIS | tasmin saikakr̥tē navāntē bhavanti ।</s>
       <s>anantaraṁ tr̥tīyāvasarē tasyānantarabhāgāpahāriṇaḥ pañca lakṣāṇi caturviṁśatisahasrāṇi dvāṣaṣṭyadhikāni navaśatānītyanēna caturbhāgēpahr̥tē ēkasmin śiṣṭē tatsvarūpamēva tr̥tīyē prathamaṁ dviguruṁ kuryāt ।</s>
       <s>udā0 ss | bhāgāpahāriṇaścāntē dvayōḥ saikayōḥ kr̥tayōḥ trayōntē saṁpadyantē ।</s>
@@ -7348,12 +7347,12 @@
       <s>anantaraṁ bhāgahāriṇaṁ saikaṁ kr̥tvā ṣaṣṭāvasarē trayōdaśasahasrāṇi caturviṁśatyadhikaṁ śataṁ cētyanēna dvibhāgēna ṣaṣṭhasaṁbhavinā bhāgē hr̥tē rśiṣṭē caikasmin tatra prathamaḥ ṣaṣṭhē<choice><orig>ti</orig><reg>pi</reg></choice> madhyaguruḥ ।</s>
       <s>udā0 IIS, IIS, S S, I S I, S S, I S I ।</s>
       <s>tatōpi taṁ saikaṁ nivārya yathāntē pañcānāmavasthānam ।</s>
-      <s>saptamasya cāvasarē tasyaikāśītyadhikē dvātriṁśatā śataiścaturbhāgē hr̥tē śiṣṭē caikasmin prathamaṁ tatra gaṇaṁ [dviguruṁ ] kāryam ।</s>
+      <s>saptamasya cāvasarē tasyaikāśītyadhikē dvātriṁśatā śataiścaturbhāgē hr̥tē śiṣṭē caikasmin prathamaṁ tatra gaṇaṁ <add resp="#HDV">dviguruṁ</add> kāryam ।</s>
       <s>udā0 I I S, I I S, S S, IS I, SS, IS I, SS | anantaramapi bhārgahāriṇa saikakr̥tē niḥsaṁśa<lb break="no"/>yatvādaṣṭamē gurusthitērnavamasyāvasarē tasya śatānyaṣṭa viṁśatiścētyanēna caturbhāgē kr̥tē dvayōśca śēṣatvādantē<lb break="no"/>guruṁ tatra sthāpayēt ।</s>
       <s>paścādapi bhāgahāriṇi saikēṁ kr̥tē daśamasya cāvasarē śatēna catuḥṣaṣṭyā pañcabhāgē hr̥tē śiṣṭē caikasminprathamastatra kartavyaḥ ।</s>
       <s>bhāgāpahārī ca saikaḥ kāryaḥ ।</s>
       <s>udā0 IIS, IIS, SS, I S I, S S, I S I, S S, S; IIS, SS | paścāttasyāpyēkādaśāvasarē ēkacatvāriṁśatā caturbhāgē hr̥tē śēṣatvāccaikasya prathama ēva dhēyaḥ ।</s>
-      <s>IIS, IIS, SS, ISI, SS, ISI SS, SII, I IS SS Ss tatastasyāpi dvādaśāvasarē saikasya aṣṭabhiḥ pañcabhāgāpaharaṇād dvayōśca [śēṣā ] dantagurōrēvāba- <app n="1" type="footnote"><lem wit="#A #B">hr̥taṁ</lem></app> <app n="2" type="footnote"><rdg wit="#A #B">tausva 0</rdg></app> <app n="3" type="footnote"><rdg wit="#A #B">lakṣaṇamēkaṁ</rdg></app> <app n="4" type="footnote"><rdg wit="#A #B">trakasya</rdg></app> <app n="5" type="footnote"><rdg wit="#A #B">dēkasmin</rdg></app> <app n="6" type="footnote"><rdg wit="#A #B">ṣaṣṭhē</rdg></app> <app n="7" type="footnote"><rdg wit="#A #B">prathamaṁ madhyamaguruḥ</rdg></app> <app n="8" type="footnote"><rdg wit="#A #B">tāpahāriṇi</rdg></app> <app n="9" type="footnote"><rdg wit="#A #B">danantaraguruṁ</rdg></app> <pb n="98"/> sthitiḥ ।</s>
+      <s>IIS, IIS, SS, ISI, SS, ISI SS, SII, I IS SS Ss tatastasyāpi dvādaśāvasarē saikasya aṣṭabhiḥ pañcabhāgāpaharaṇād dvayōśca <add resp="#HDV">śēṣā</add> dantagurōrēvāba- <app n="1" type="footnote"><lem wit="#A #B">hr̥taṁ</lem></app> <app n="2" type="footnote"><rdg wit="#A #B">tausva 0</rdg></app> <app n="3" type="footnote"><rdg wit="#A #B">lakṣaṇamēkaṁ</rdg></app> <app n="4" type="footnote"><rdg wit="#A #B">trakasya</rdg></app> <app n="5" type="footnote"><rdg wit="#A #B">dēkasmin</rdg></app> <app n="6" type="footnote"><rdg wit="#A #B">ṣaṣṭhē</rdg></app> <app n="7" type="footnote"><rdg wit="#A #B">prathamaṁ madhyamaguruḥ</rdg></app> <app n="8" type="footnote"><rdg wit="#A #B">tāpahāriṇi</rdg></app> <app n="9" type="footnote"><rdg wit="#A #B">danantaraguruṁ</rdg></app> <pb n="98"/> sthitiḥ ।</s>
       <s>udā0 IIS, IIS, SS, ISI, SS, ISI, SS, S; IIS, SS, SS, I IS anantaraṁ trayōdaśāvasarē tasya saikasya dvābhyāṁ ca caturbhāgāpaharaṇādēkasyāvaśiṣṭatvāttatra prathamasyaivāva<lb break="no"/>sthānam ।</s>
       <s>udā0 IIS, I IS SS, ISI SS, ISI, SS, S; I IS, S S, SS, IIS, SS | tadapi saikaṁ kāryam ।</s>
       <s>caturdaśasya laghōḥ sthitirnivācanaiva ।</s>
@@ -7449,7 +7448,7 @@
       </p>
       <quote type="base-text">
         <lg n="43">
-          <l><choice><orig>tī</orig><reg>ti</reg></choice>[ṇaṁ] hiṁtō viuṇā viguṇāō vaḍiā tahā vēā</l>
+          <l><choice><orig>tī</orig><reg>ti</reg></choice><add resp="#HDV">ṇaṁ</add> hiṁtō viuṇā viguṇāō vaḍiā tahā vēā</l>
           <l>cauvaṇṇēsuvi viuṇā viuṇāvi viḍiō vēāṁ</l>
         </lg>
         <note type="chāyā">
@@ -7543,13 +7542,13 @@
         </lg>
         <note type="chāyā">
           <lg n="46">
-            <l>antimavarṇādviguṇaṁ vaivarṇē <add resp="#HDV">ca</add> dviguṇaṁ ku[ruta ]</l>
+            <l>antimavarṇādviguṇaṁ vaivarṇē <add resp="#HDV">ca</add> dviguṇaṁ ku<add resp="#HDV">ruta</add></l>
             <l>pādākṣaraparimāṇaṁ saṁkhyāyā ēṣa nirdēśaḥ</l>
           </lg>
         </note>
       </quote>
     <p>
-      <s>sarvasyaiva chandasō yatpādē parimāṇamakṣarāṇāṁ yathā tryakṣarādīnāṁ trikādi tatra yōntimō varṇastad dviguṇīkr̥taṁ yāvatpādākṣara [ pari] māṇaṁ tāvatpratyēkavarṇē dviguṇaṁ kuryāt ।</s>
+      <s>sarvasyaiva chandasō yatpādē parimāṇamakṣarāṇāṁ yathā tryakṣarādīnāṁ trikādi tatra yōntimō varṇastad dviguṇīkr̥taṁ yāvatpādākṣara <add resp="#HDV">pari</add> māṇaṁ tāvatpratyēkavarṇē dviguṇaṁ kuryāt ।</s>
       <s>ēṣa saṁkhyāyā vidhiḥ ।</s>
       <s>yathā tryakṣarasya kiyatī saṁkhyā bhavatīti pr̥ṣṭhē tasyāntimē varṇē tr̥tīryāṁkṣarē yathā dvidvikau caturthamiti (?) bhavati ।</s>
       <s>paścāttr̥tīyamapi dviguṇīkr̥tyāṣṭakē sati vaktavyaṁ yathā tryakṣaramaṣṭasaṁkhyamiti</s>
@@ -7574,7 +7573,7 @@
       </quote>
     <p>
       <s>anayā prakriyā ēkākṣarē dvāvēva bhavataḥ ।</s>
-      <s>anantaraṁ varṇānāmakṣarāṇāṁ [vr̥ddhayā] prastaritavyaṁ yāvad dviguṇāḥ dviguṇasaṁkhyāyā dvātriṁśadbhavanti (?) dviguṇayā dviguṇā saṁkhyā (?) ṣaḍviṁśatirbhavanti ।</s>
+      <s>anantaraṁ varṇānāmakṣarāṇāṁ <add resp="#HDV">vr̥ddhayā</add> prastaritavyaṁ yāvad dviguṇāḥ dviguṇasaṁkhyāyā dvātriṁśadbhavanti (?) dviguṇayā dviguṇā saṁkhyā (?) ṣaḍviṁśatirbhavanti ।</s>
       <s>yathā yayakṣarē catvārastryakṣarēṣṭau caturakṣarē ṣōḍaśa ityēvamādyā vadanti</s>
     </p>
     <p>
@@ -7612,17 +7611,17 @@
       <app n="9" type="footnote"><note>maṭṭhasahasāī satarī AB. This line is found at the end of v. 60 in both AB.</note></app>
       <pb n="101"/>
     <p>
-      <s>idānīṁ gāyatryantānāṁ uṣṇigantānāṁ utkr̥tya [ntā]nāṁ pūrvēṣāṁ chandasāṁ sākalyēna kā saṁkhyā bhavatīti tadantavidhimāha —  <ref type="pratīka">patthāra</ref> iti ।</s>
-      <s>[ patthārē patthariē jittiamēttāī hōṁti vittāī ।</s>
-      <s>maggē tāvaticci dōhiṁ rahiāṇi kijjati ॥</s>
-      <s>48 a ॥] prastārē prastaritē yāvanmātrāṇi bhavanti vr̥ttāni ।</s>
+      <s>idānīṁ gāyatryantānāṁ uṣṇigantānāṁ utkr̥tya <add resp="#HDV">ntā</add>nāṁ pūrvēṣāṁ chandasāṁ sākalyēna kā saṁkhyā bhavatīti tadantavidhimāha —  <ref type="pratīka">patthāra</ref> iti ।</s>
+      <s><add resp="#HDV">patthārē patthariē jittiamēttāī hōṁti vittāī ।</add></s>
+      <s><add resp="#HDV">maggē tāvaticci dōhiṁ rahiāṇi kijjati ॥</add></s>
+      <s><add resp="#HDV">48 a ॥</add> prastārē prastaritē yāvanmātrāṇi bhavanti vr̥ttāni ।</s>
       <s>mārgē tāvantyēva dvābhyāṁ rahitāni kriyantē ॥</s>
       <s>48 a ॥</s>
       <s>kasyārdhē(?) chandasi prastārē trihitē sēti yāvanmātrāṇi vr̥ttāni bhavanti yathā gāyatryasya catu:<lb break="no"/>ṣaṣṭirmārgē paścādbhāgēpi dvābhyāṁ rahitāni tāvantyēva kriyantē uktādīnāṁ yathā dviṣaṣṭiriti ।</s>
       <s>sarvaṁ dvāṣaṣṭiścatuḥṣaṣṭiścēti miśrīkr̥tya ṣaḍviṁśatyadhikaṁ śataṁ gāyatryāntaraṁ tadantaphalaṁ vācyam ।</s>
       <s>ēvamēvōtkr̥tyantā<lb break="no"/>nāmapi vidhēyam ॥</s>
       <s>48a ॥</s>
-      <s>varṇasaṁkhyōpasaṁhāradvārēṇa mātrāvr̥ttānāmāha — ēvaṁ ca0 [iti] ēvaṁ ca vaṇṇaivittē mattāvittāṇa annahā hōi ।</s>
+      <s>varṇasaṁkhyōpasaṁhāradvārēṇa mātrāvr̥ttānāmāha — ēvaṁ ca0 <add resp="#HDV">iti</add> ēvaṁ ca vaṇṇaivittē mattāvittāṇa annahā hōi ।</s>
     </p>
     </div>
     <div type="commentary-block" n="49">
@@ -7632,7 +7631,7 @@
           <l>sā uttaramattāṇaṁ saṁkhāē ēsa niddēsō</l>
         </lg>
         <p xml:lang="pra-Latn">
-          <s>ēvaṁ ca [varṇa] vr̥ttē mātrāvr̥ttānāmanyathā bhavati ।</s>
+          <s>ēvaṁ ca <add resp="#HDV">varṇa</add> vr̥ttē mātrāvr̥ttānāmanyathā bhavati ।</s>
         </p>
         <note type="chāyā">
           <lg n="49">
@@ -7718,7 +7717,7 @@
         <note type="chāyā">
           <lg n="52">
             <l>sarvē pūrvavikalpā guṇayitvōttarēṣāṁ dātavyāḥ</l>
-            <l>gāthāsaṁkhyānayanaṁ [iti] pūrvēṣāṁ nirdiṣṭamē</l>
+            <l>gāthāsaṁkhyānayanaṁ <add resp="#HDV">iti</add> pūrvēṣāṁ nirdiṣṭamē</l>
           </lg>
         </note>
       </quote>
@@ -7746,7 +7745,7 @@
       </p>
       <quote type="base-text">
         <lg n="53">
-          <l>aṭṭhēva a kōḍīō [paraō] ēkūṇavīsalakkhāī</l>
+          <l>aṭṭhēva a kōḍīō <add resp="#HDV">paraō</add> ēkūṇavīsalakkhāī</l>
           <l>vīsasahassāī tahā gāhāṇaṁ ēttiā saṁkhā</l>
         </lg>
         <note type="chāyā">
@@ -7758,7 +7757,7 @@
       </quote>
     <p>
       <s>ēvaṁ sarvēṣāmapavisyaparādōḥ satvā (?) kartavyaṁ gāthārūpalakṣaṇam ।</s>
-      <s>anayā prakriyayā vaitālīyā<lb break="no"/>dīnāmativyāptirnāyātītyatō'smābhirgāthēyaṁ racitā - [ vaiōliya] iti ।</s>
+      <s>anayā prakriyayā vaitālīyā<lb break="no"/>dīnāmativyāptirnāyātītyatō'smābhirgāthēyaṁ racitā - <add resp="#HDV">vaiōliya</add> iti ।</s>
     </p>
     <app n="1" type="footnote"><lem wit="#A #B">asyaiva</lem></app>
     <app n="2" type="footnote"><rdg wit="#A #B">pūrvādāryanirdiṣṭaṁ</rdg></app>
@@ -7798,7 +7797,7 @@
       <s>anantaraṁ caturtha <lb break="no"/>pādasya prathamē dvayōḥ saṁkhyā ṣōḍaśaśatāni catuḥṣaṣṭyadhikāni jāyantē tairdvitīyē trayastriṁśacchatāni aṣṭāviṁśatyadhikāni bhavanti ।</s>
       <s>tairapi tr̥tīyē ṣaṭṣaṣṭiḥ śatāni ṣaṭpañcāśadadhikāni bhavanti ।</s>
       <s>tēṣāṁ mārgasthitacaraṇatrayamānamaṣṭaśatāni dvātriṁśadadhikāni ityanēna lupyā aṣṭapañcāśat śatāni caturviṁśatyadhi<lb break="no"/>kāni bhavanti ।</s>
-      <s>anantaraṁ caturthēpi tēṣāṁ guṇanānmārga<choice><orig>sya</orig><reg>sthi</reg></choice> [ta ] caraṇamānōnmārjanācca daśasahasrāṇi aṣṭau ca śatāni ṣōḍaśādhikāni yāni bhavanti</s>
+      <s>anantaraṁ caturthēpi tēṣāṁ guṇanānmārga<choice><orig>sya</orig><reg>sthi</reg></choice> <add resp="#HDV">ta</add> caraṇamānōnmārjanācca daśasahasrāṇi aṣṭau ca śatāni ṣōḍaśādhikāni yāni bhavanti</s>
     </p>
     <!-- OCR noise: I -->
     </div>
@@ -7808,7 +7807,7 @@
       </p>
       <quote type="base-text">
         <lg n="55">
-          <l>duvaīgaṇasavvā [mmā]ṇaṁ mattāaḍilāṇa taha a sammāṇaṁ</l>
+          <l>duvaīgaṇasavvā <add resp="#HDV">mmā</add>ṇaṁ mattāaḍilāṇa taha a sammāṇaṁ</l>
           <l>lahugaṇaṇaṁ cia vihaḍai <choice><orig>chā</orig><reg>cha</reg></choice> uōvari sīsaāṇaṁ ca</l>
         </lg>
         <note type="chāyā">
@@ -7848,8 +7847,8 @@
         </lg>
         <note type="chāyā">
           <lg n="56">
-            <l>dvē ēva dhanuḥsahasrē krōśasya [ bhavati ] parimāṇam</l>
-            <l>krōśā aṣṭau [tathaiva ] yōjanasaṁkhyā [vinirdiṣṭā ]</l>
+            <l>dvē ēva dhanuḥsahasrē krōśasya <add resp="#HDV">bhavati</add> parimāṇam</l>
+            <l>krōśā aṣṭau <add resp="#HDV">tathaiva</add> yōjanasaṁkhyā <add resp="#HDV">vinirdiṣṭā</add></l>
           </lg>
         </note>
       </quote>
@@ -7871,7 +7870,7 @@
         </lg>
         <note type="chāyā">
           <lg n="58">
-            <l>[ ēkāṅgulaṁ ca ruṇaddhi camaraḥ sparśōpyaṅgulaṁ caiva ।]</l>
+            <l><add resp="#HDV">ēkāṅgulaṁ ca ruṇaddhi camaraḥ sparśōpyaṅgulaṁ caiva ।</add></l>
             <l>camarasparśāntarālē ēkamēvāṅgulaṁ bhavati</l>
           </lg>
         </note>
@@ -7888,7 +7887,7 @@
       <s>yasmādaṣṭākṣarē ṣaṭpañcāśadadhikaṁ śatadvayaṁ vr̥ttānāṁ saṁbhavati ।</s>
       <s>tāvadēvāṅgula<lb break="no"/>parimāṇam ।</s>
       <s>tadantarālē ca tāvadēvaikēna nyūnam ।</s>
-      <s>ēvamēkādaśādhikāni pañcaśatānyagulānāmaṣṭākṣarē pā[ dē] bhavanti ।</s>
+      <s>ēvamēkādaśādhikāni pañcaśatānyagulānāmaṣṭākṣarē pā<add resp="#HDV">dē</add> bhavanti ।</s>
       <s>tēṣāṁ ca 'cauaṁgulō a rāma' iti caturbhāgē hr̥tē rāmāṇāṁ saptaviṁśatyadhikaṁ śataṁ bhavati aṅgulāni trīṇyavaśiṣyantē ।</s>
       <s>paścāt ' tihi rāmēhiṁ' iti tribhirapahr̥tabhāgē catvāriṁśadvi<choice><orig>ha</orig><reg>ta</reg></choice> <lb break="no"/>stayō bhavanti ।</s>
       <s>ēkaśca rāmaḥ śiṣyatē ।</s>
@@ -7918,7 +7917,7 @@
       <!-- CHECK: no chāyā found for verse 59 -->
       <quote type="base-text">
         <lg n="59">
-          <l>kiṁca । [burhaī] iti</l>
+          <l>kiṁca । <add resp="#HDV">burhaī</add> iti</l>
           <l>vihaī taṁōvi viṇā tattōṁ <choice><orig>ti</orig><reg>vi</reg></choice> uṇā vi paṁttitti</l>
         </lg>
       </quote>
@@ -7949,8 +7948,8 @@
         </note>
       </quote>
     <p>
-      <s>[ēvaṁ] dviguṇaṁdviguṇayā piṇḍaya tāvadyāvat ṣaḍviṁśatyakṣarā utkr̥tirāgacchati ।</s>
-      <s>atra sarvatraiva dviguṇē satyēkasya lōpaḥ kāryaḥ ityativyāptiparihārāyāsmābhirgāyārdhaṁ nivēśitaṁ ēkkēmi [iti ] | anēna gāthārdhēna sarvēṣāmanyuktirghaṭatē ।</s>
+      <s><add resp="#HDV">ēvaṁ</add> dviguṇaṁdviguṇayā piṇḍaya tāvadyāvat ṣaḍviṁśatyakṣarā utkr̥tirāgacchati ।</s>
+      <s>atra sarvatraiva dviguṇē satyēkasya lōpaḥ kāryaḥ ityativyāptiparihārāyāsmābhirgāyārdhaṁ nivēśitaṁ ēkkēmi <add resp="#HDV">iti</add> | anēna gāthārdhēna sarvēṣāmanyuktirghaṭatē ।</s>
       <s>ētadēvōktamanyairyathā ।</s>
     </p>
     </div>
@@ -8008,7 +8007,7 @@
       </p>
       <quote type="base-text">
         <lg n="62">
-          <l>jōiṇasattāsīī tiṣṇi [a] kōsā ghaṇūṇē ikvahiyaṁ</l>
+          <l>jōiṇasattāsīī tiṣṇi <add resp="#HDV">a</add> kōsā ghaṇūṇē ikvahiyaṁ</l>
           <l>amukiīa hatthō rāmō ēkkō a aṁgulā tiṇṇi</l>
         </lg>
         <note type="chāyā">
