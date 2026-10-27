@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/tei.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="san-Latn">Chandaḥśāstram</title>
+        <title xml:lang="san-Deva">छन्दःशास्त्रम्</title>
+        <author><persName>Piṅgala</persName></author>
+        <respStmt>
+          <persName xml:id="KS">Kedāranātha Śāstrī</persName>
+          <resp>editor of the printed edition (Kāvyamālā 91; third edition revised by Anant Yajneśvar Śāstrī Dhupkar)</resp>
+        </respStmt>
+        <respStmt>
+          <persName xml:id="AB">Ānandajoti Bhikkhu</persName>
+          <resp>typed the text (January 2004) in IAST transliteration, and added the section captions, metre names, metrical schemes and footnotes marked resp="#AB"</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Placeholder</p>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl>The Chhandas Śāstra by Śrī Piṁgalanāga. With the Commentary Mr̥itasañjīvanī, by Śrī Halāyudha Bhaṭṭa. With the Chhandonirukti by Samīkṣāchakravartī Śrī Madhusūdana Vidyāvāchaspati. Edited by Paṇḍit Kedāranāth of Jaipur. Third Edition. Revised with notes by Vidyālaṅkār Anant Yajneśvar Śāstrī Dhupkar. Kāvyamālā Series 91. Bombay, 1938.</bibl>
+          <bibl>Ānandajoti Bhikkhu. <title>Śrī Piṁgala's Chandaḥśāstram</title>, edited by Paṇḍit Kedāranāth of Jaypur. January 2004. (File Chandas-Sastra.pdf: a transliteration of the sūtras of the Kāvyamālā edition, with metrical markings and a few notes.)</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>The sūtra text is that of Ānandajoti Bhikkhu's typed edition of Kedāranātha's printed text, extracted from the text layer of his PDF. The transliteration has been converted from IAST to ISO 15919 (ṛ &gt; r̥, e &gt; ē, o &gt; ō; ṁ was already used); the text is otherwise as typed, including hyphens marking word boundaries within compounds and the typist's irregularities. The "// n:m //" sūtra numbers are encoded as the position of the sūtra within its adhyāya (@n and @xml:id). Two sūtras are numbered 6:7 in the source; they are Pi.6.7a (printed in square brackets in the original edition) and Pi.6.7b.</p>
+        <p>Everything that Ānandajoti Bhikkhu added is marked resp="#AB": captions between sūtras (the square-bracketed headings, here ab[@type="caption"]), metre names given after a sūtra number (note[@type="metre-name"]), metrical schemes (note[@type="scheme"], rows separated by lb), other square-bracketed remarks (note[@type="comment"]) and footnotes. His preface is in front. Page breaks (pb) follow the page numbers in the running head of his PDF.</p>
+      </editorialDecl>
+      <charDecl>
+        <glyph xml:id="g-f804">
+          <desc>Metrical symbol used by Ānandajoti Bhikkhu for the gaṇa positions of the Āryā family that are shown as ⏑ over a lowered −, followed by ⏑ (rendered as a ligature in his font); it has no Unicode character and is stored at U+F804 in the PDF.</desc>
+          <mapping type="PUA">U+F804</mapping>
+        </glyph>
+      </charDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text xml:lang="san-Latn">
+    <front>
+      <div type="preface" xml:lang="eng" resp="#AB">
+        <pb n="3"/>
+        <head>Preface to this Edition</head>
+        <p>This edition of Chandaḥśāstram is essentially a transliteration of the sūtras that are found in the Kāvyamālā Series, Vol 91 (Bombay, 1938), where the full title is given as:</p>
+        <quote>The Chhandas Śāstra<lb/>by Śrī Piṁgalanāga.<lb/>With the Commentary Mr̥itasañjīvanī,<lb/>by Śrī Halāyudha Bhaṭṭa.<lb/>With the Chhandonirukti by<lb/>Samīkṣāchakravartī Śrī Madhusūdana Vidyāvāchaspati.<lb/>Edited by Paṇḍit Kedāranāth of Jaipur.<lb/>Third Edition.<lb/>Revised with notes by<lb/>Vidyālaṅkār Anant Yajneśvar Śāstrī Dhupkar.</quote>
+        <p>The original work, as can be seen from the title, included the authorative commentary by Śrī Halāyudha, and what amounts to two sub-commentaries. At the moment the momumental commentaries have not been prepared, and in their place I have simply added the metrical markings, and one or two notes, when there are difficulties that need explaining.</p>
+        <p>As with Śrī Kedārabhaṭṭa’s Vr̥ttaratnākara, the immediate purpose in preparing this work has been to have a text to accompany the Pāḷi prosody Vuttodaya, which is currently in preparation, and so the amount of time I can dedicate to this work has been unfortunately limited. Even so it has thrown much light on some of the more intractable problems associated with the Pāḷi work, and a study of the text is recommended for anyone interested in Indian prosody.</p>
+        <closer><signed>Ānandajoti Bhikkhu</signed> <dateline><date>January 2004</date></dateline></closer>
+      </div>
+    </front>
+    <body>
+    <div type="adhyāya" n="1" xml:id="adh1">
+      <head>prathamō 'dhyāyaḥ</head>
+      <pb n="4"/>
+      <ab type="caption" resp="#AB">Paribhāṣā</ab>
+      <ab type="sūtra" n="1" xml:id="Pi.1.1">dhī-śrī-strī m<note type="scheme" resp="#AB">−−−</note></ab>
+      <ab type="sūtra" n="2" xml:id="Pi.1.2">varā sā y<note type="scheme" resp="#AB">⏑−−</note></ab>
+      <ab type="sūtra" n="3" xml:id="Pi.1.3">kā guhā r<note type="scheme" resp="#AB">−⏑−</note></ab>
+      <ab type="sūtra" n="4" xml:id="Pi.1.4">vasudhā s<note type="scheme" resp="#AB">⏑⏑−</note></ab>
+      <ab type="sūtra" n="5" xml:id="Pi.1.5">sā tē kva t<note type="scheme" resp="#AB">−−⏑</note></ab>
+      <ab type="sūtra" n="6" xml:id="Pi.1.6">kadā sa j<note type="scheme" resp="#AB">⏑−⏑</note></ab>
+      <ab type="sūtra" n="7" xml:id="Pi.1.7">kiṁ vada bh<note type="scheme" resp="#AB">−⏑⏑</note></ab>
+      <ab type="sūtra" n="8" xml:id="Pi.1.8">na hasa n<note type="scheme" resp="#AB">⏑⏑⏑</note></ab>
+      <ab type="sūtra" n="9" xml:id="Pi.1.9">gr̥ l</ab>
+      <ab type="sūtra" n="10" xml:id="Pi.1.10">gantē</ab>
+      <ab type="sūtra" n="11" xml:id="Pi.1.11">dhrādi-paraḥ</ab>
+      <ab type="sūtra" n="12" xml:id="Pi.1.12">hē</ab>
+      <ab type="sūtra" n="13" xml:id="Pi.1.13">lau saḥ</ab>
+      <ab type="sūtra" n="14" xml:id="Pi.1.14">glau</ab>
+      <ab type="sūtra" n="15" xml:id="Pi.1.15">aṣṭau vasava iti</ab>
+    </div>
+    <div type="adhyāya" n="2" xml:id="adh2">
+      <head>dvitīyō 'dhyāyaḥ</head>
+      <pb n="5"/>
+      <ab type="caption" resp="#AB">Dēvatā</ab>
+      <ab type="sūtra" n="1" xml:id="Pi.2.1">chandaḥ</ab>
+      <ab type="sūtra" n="2" xml:id="Pi.2.2">gāyatrī</ab>
+      <ab type="sūtra" n="3" xml:id="Pi.2.3">daivyēkam</ab>
+      <ab type="sūtra" n="4" xml:id="Pi.2.4">āsurī pañcadaśa</ab>
+      <ab type="sūtra" n="5" xml:id="Pi.2.5">prājāpatyāṣṭau</ab>
+      <ab type="sūtra" n="6" xml:id="Pi.2.6">yajuṣāṁ ṣad</ab>
+      <ab type="sūtra" n="7" xml:id="Pi.2.7">sāmnāṁ dviḥ</ab>
+      <ab type="sūtra" n="8" xml:id="Pi.2.8">r̥cāṁ triḥ</ab>
+      <ab type="sūtra" n="9" xml:id="Pi.2.9">dvau dvau sāmnāṁ vardhēta</ab>
+      <ab type="sūtra" n="10" xml:id="Pi.2.10">trīṁstrīnr̥cām</ab>
+      <ab type="sūtra" n="11" xml:id="Pi.2.11">caturaś-caturaḥ prājāpatyāyāḥ</ab>
+      <ab type="sūtra" n="12" xml:id="Pi.2.12">ēkaikaṁ śēṣē</ab>
+      <ab type="sūtra" n="13" xml:id="Pi.2.13">jahyādāsurī</ab>
+      <ab type="sūtra" n="14" xml:id="Pi.2.14">tāny-uṣṇig-anuṣṭub-br̥hatī-paṅkti-triṣṭub-jagatyaḥ</ab>
+      <ab type="sūtra" n="15" xml:id="Pi.2.15">tisrastisraḥ sanāmnya ēkaikā brāhmyaḥ</ab>
+      <ab type="sūtra" n="16" xml:id="Pi.2.16">prāgyajuṣāmārṣya iti</ab>
+    </div>
+    <div type="adhyāya" n="3" xml:id="adh3">
+      <head>tr̥tīyō 'dhyāyaḥ</head>
+      <ab type="caption" resp="#AB">Vaidikacchandas</ab>
+      <ab type="sūtra" n="1" xml:id="Pi.3.1">pādaḥ</ab>
+      <ab type="sūtra" n="2" xml:id="Pi.3.2">iyādi-purṇaḥ</ab>
+      <ab type="sūtra" n="3" xml:id="Pi.3.3">gāyatryā vasavaḥ</ab>
+      <ab type="sūtra" n="4" xml:id="Pi.3.4">jagatyā ādityāḥ</ab>
+      <ab type="sūtra" n="5" xml:id="Pi.3.5">virājō diśaḥ</ab>
+      <ab type="sūtra" n="6" xml:id="Pi.3.6">triṣṭubhō rudrāḥ</ab>
+      <ab type="sūtra" n="7" xml:id="Pi.3.7">ēka-dvi-tri-catuṣ-pād-utkapādam</ab>
+      <ab type="sūtra" n="8" xml:id="Pi.3.8">ādyaṁ catuṣ-pād-r̥tubhiḥ</ab>
+      <ab type="sūtra" n="9" xml:id="Pi.3.9">kvacin-tri-pād-r̥ṣibhiḥ</ab>
+      <pb n="6"/>
+      <ab type="sūtra" n="10" xml:id="Pi.3.10">sā pādanicr̥t</ab>
+      <ab type="sūtra" n="11" xml:id="Pi.3.11">saṭka-saptakayōr-madhyē 'ṣṭāv-atipādanicr̥t</ab>
+      <ab type="sūtra" n="12" xml:id="Pi.3.12">dvau navakau ṣaṭ-kaś-ca nāgī<note type="metre-name" resp="#AB">Nāgī</note></ab>
+      <ab type="sūtra" n="13" xml:id="Pi.3.13">viparītā vārāhī<note type="metre-name" resp="#AB">Vārāhī</note></ab>
+      <ab type="sūtra" n="14" xml:id="Pi.3.14">ṣaṭ-kasaptakāṣṭakair-vardhamānā<note type="metre-name" resp="#AB">Vardhamānā</note></ab>
+      <ab type="sūtra" n="15" xml:id="Pi.3.15">viparītā pratiṣṭhā<note type="metre-name" resp="#AB">Pratiṣṭhā</note></ab>
+      <ab type="sūtra" n="16" xml:id="Pi.3.16">tr̥tīyaṁ dvipāc-cāgata-gāyatrābhyām<note type="metre-name" resp="#AB">Dvipād Virāḍ</note></ab>
+      <ab type="sūtra" n="17" xml:id="Pi.3.17">tripān-traiṣṭubhaiḥ<note type="metre-name" resp="#AB">Tripād Virāḍ</note></ab>
+      <ab type="sūtra" n="18" xml:id="Pi.3.18">uṣṇig-gāyatrau jāgataś-ca<note type="metre-name" resp="#AB">Uṣṇiḥ</note></ab>
+      <ab type="sūtra" n="19" xml:id="Pi.3.19">kakum-madhyē cēd-antyaḥ<note type="metre-name" resp="#AB">Kakubh</note></ab>
+      <ab type="sūtra" n="20" xml:id="Pi.3.20">pura-uṣṇik-puraḥ<note type="metre-name" resp="#AB">Pura-uṣṇiḥ</note></ab>
+      <ab type="sūtra" n="21" xml:id="Pi.3.21">parōṣṇik-paraḥ<note type="metre-name" resp="#AB">Parōṣṇiḥ</note></ab>
+      <ab type="sūtra" n="22" xml:id="Pi.3.22">catuṣpād-r̥ṣibhīḥ</ab>
+      <ab type="sūtra" n="23" xml:id="Pi.3.23">anuṣṭubh-gāyatraiḥ<note type="metre-name" resp="#AB">Anuṣṭubh</note></ab>
+      <ab type="sūtra" n="24" xml:id="Pi.3.24">tripāt-kvacij-jāgatābhyāṁ ca<note type="metre-name" resp="#AB">Tripādanuṣṭubh</note></ab>
+      <ab type="sūtra" n="25" xml:id="Pi.3.25">madhyē 'ntē ca</ab>
+      <ab type="sūtra" n="26" xml:id="Pi.3.26">br̥hatī jāgatas-trayaś-ca gāyatrāḥ<note type="metre-name" resp="#AB">Br̥hatī</note></ab>
+      <ab type="sūtra" n="27" xml:id="Pi.3.27">pathyā purvaś-cēt-tr̥tīyaḥ<note type="metre-name" resp="#AB">Br̥hatī Pathyā</note></ab>
+      <ab type="sūtra" n="28" xml:id="Pi.3.28">nyaṅkusāriṇī dvītīyah<note type="metre-name" resp="#AB">Nyaṅkusāriṇī</note></ab>
+      <ab type="sūtra" n="29" xml:id="Pi.3.29">skandhōgrīvī krauṣṭukēḥ<note type="metre-name" resp="#AB">Skandhōgrīvī</note></ab>
+      <ab type="sūtra" n="30" xml:id="Pi.3.30">urōbr̥hatī yāskasya<note type="metre-name" resp="#AB">Urōbr̥hatī</note></ab>
+      <ab type="sūtra" n="31" xml:id="Pi.3.31">upariṣṭāṭbr̥hatyantē<note type="metre-name" resp="#AB">Upariṣṭāṭbr̥hatī</note></ab>
+      <ab type="sūtra" n="32" xml:id="Pi.3.32">purastāṭbr̥hatī puraḥ<note type="metre-name" resp="#AB">Purastāṭbr̥hatī</note></ab>
+      <ab type="sūtra" n="33" xml:id="Pi.3.33">kvacin-navakāś-catvāraḥ</ab>
+      <ab type="sūtra" n="34" xml:id="Pi.3.34">vairājau gāyatrau ca</ab>
+      <ab type="sūtra" n="35" xml:id="Pi.3.35">tribhir-jāgatair-mahābr̥hatī<note type="metre-name" resp="#AB">Mahābr̥hatī</note></ab>
+      <ab type="sūtra" n="36" xml:id="Pi.3.36">satōbr̥hatī tāṇḍinaḥ<note type="metre-name" resp="#AB">Satōbr̥hatī</note></ab>
+      <ab type="sūtra" n="37" xml:id="Pi.3.37">paṅktir-jāgatau gāyatrau ca<note type="metre-name" resp="#AB">Paṅkti</note></ab>
+      <ab type="sūtra" n="38" xml:id="Pi.3.38">purvau cēd-ayujau sataḥ paṅktiḥ<note type="metre-name" resp="#AB">Sataḥ Paṅkti</note></ab>
+      <pb n="7"/>
+      <ab type="sūtra" n="39" xml:id="Pi.3.39">viparītau ca</ab>
+      <ab type="sūtra" n="40" xml:id="Pi.3.40">prastārapaṅktiḥ purataḥ<note type="metre-name" resp="#AB">Prastārapaṅkti</note></ab>
+      <ab type="sūtra" n="41" xml:id="Pi.3.41">āstārapaṅktiḥ parataḥ<note type="metre-name" resp="#AB">Āstārapaṅkti</note></ab>
+      <ab type="sūtra" n="42" xml:id="Pi.3.42">viṣṇārapaṅktir-antaḥ<note type="metre-name" resp="#AB">Viṣṇārapaṅkti</note></ab>
+      <ab type="sūtra" n="43" xml:id="Pi.3.43">saṁstārapaṅktir-bahiḥ<note type="metre-name" resp="#AB">Saṁstārapaṅkti</note></ab>
+      <ab type="sūtra" n="44" xml:id="Pi.3.44">akṣarapaṅktiḥ pañcakāś-catvāraḥ<note type="metre-name" resp="#AB">Akṣarapaṅkti</note></ab>
+      <ab type="sūtra" n="45" xml:id="Pi.3.45">dvāvatyalpaśaḥ</ab>
+      <ab type="sūtra" n="46" xml:id="Pi.3.46">padapaṅktiḥ pañca<note type="metre-name" resp="#AB">Padapaṅkti</note></ab>
+      <ab type="sūtra" n="47" xml:id="Pi.3.47">catuṣ-kaṣaṭkau trayaś-ca</ab>
+      <ab type="sūtra" n="48" xml:id="Pi.3.48">pathyā pañcabhir-gāyatraiḥ<note type="metre-name" resp="#AB">Paṅkti Pathyā</note></ab>
+      <ab type="sūtra" n="49" xml:id="Pi.3.49">jagatī ṣaḍbhiḥ<note type="metre-name" resp="#AB">Paṅkti Jagatī</note></ab>
+      <ab type="sūtra" n="50" xml:id="Pi.3.50">ēkēna triṣṭubjyōtiṣmatī<note type="metre-name" resp="#AB">Triṣṭupjyōtiṣmatī</note></ab>
+      <ab type="sūtra" n="51" xml:id="Pi.3.51">tathā jagatī<note type="metre-name" resp="#AB">Jyōtiṣmatī</note></ab>
+      <ab type="sūtra" n="52" xml:id="Pi.3.52">purastājjyōtiḥ prathamēna<note type="metre-name" resp="#AB">Purastājjyōtis</note></ab>
+      <ab type="sūtra" n="53" xml:id="Pi.3.53">madhyējyōtir-madhyamēna<note type="metre-name" resp="#AB">Madhyējyōtis</note></ab>
+      <ab type="sūtra" n="54" xml:id="Pi.3.54">upariṣṭājyōtir-antyēna<note type="metre-name" resp="#AB">Upariṣṭājyōtis</note></ab>
+      <ab type="sūtra" n="55" xml:id="Pi.3.55">ēkasmin-pañcakē chandaḥ śaṅkumatī<note type="metre-name" resp="#AB">Śaṅkumatī</note></ab>
+      <ab type="sūtra" n="56" xml:id="Pi.3.56">ṣaṭkē kakudmatī<note type="metre-name" resp="#AB">Kakudmatī</note></ab>
+      <ab type="sūtra" n="57" xml:id="Pi.3.57">tripādaṇiṣṭha-madhyā pipīlikamadhyā<note type="metre-name" resp="#AB">Pipīlikamadhyā</note></ab>
+      <ab type="sūtra" n="58" xml:id="Pi.3.58">viparītā yavamadhyā<note type="metre-name" resp="#AB">Yavamadhyā</note></ab>
+      <ab type="sūtra" n="59" xml:id="Pi.3.59">ūnādhikēnaikēna nicr̥dbhurijau<note type="metre-name" resp="#AB">Nicr̥t</note></ab>
+      <ab type="sūtra" n="60" xml:id="Pi.3.60">dvābhyāṁ virāḍ-svarājau<note type="metre-name" resp="#AB">Virāḍ-svarāḍ</note></ab>
+      <ab type="sūtra" n="61" xml:id="Pi.3.61">āditaḥ saṁdigdhē</ab>
+      <ab type="sūtra" n="62" xml:id="Pi.3.62">dēvatāditaś-ca</ab>
+      <ab type="sūtra" n="63" xml:id="Pi.3.63">agniḥ savitā sōmō br̥haspatir-mitrā-varuṇāvindrō viśvēdēvā dēvatāḥ</ab>
+      <ab type="sūtra" n="64" xml:id="Pi.3.64">svarāḥ ṣaḍ-jarṣabhagāndhāra-madhyam-apacamadhaivataniṣādāḥ</ab>
+      <ab type="sūtra" n="65" xml:id="Pi.3.65">sita-sāraṅgapi-śaṅga-kr̥ṣṇa-nīla-lōhita-gaurā varṇāḥ</ab>
+      <ab type="sūtra" n="66" xml:id="Pi.3.66">āgnivēṣya-kāṣyapa-gautamāṅgirasa-bhārgava-kauśika-vāsiṣṭhāni gōtrāṇī</ab>
+    </div>
+    <div type="adhyāya" n="4" xml:id="adh4">
+      <head>caturthō 'dhyāyaḥ</head>
+      <pb n="8"/>
+      <ab type="sūtra" n="1" xml:id="Pi.4.1">catuḥ-śatam-utkr̥tiḥ<note type="metre-name" resp="#AB">Utkr̥ti</note></ab>
+      <ab type="sūtra" n="2" xml:id="Pi.4.2">caturaś-caturas-tyajēd-utkr̥tēḥ</ab>
+      <ab type="sūtra" n="3" xml:id="Pi.4.3">tānyabhisaṁvyāprēbhyaḥ kr̥tiḥ<note type="metre-name" resp="#AB">Abhikr̥ti</note></ab>
+      <ab type="sūtra" n="4" xml:id="Pi.4.4">prakr̥tyā cōpasarga-varjitaḥ<note type="metre-name" resp="#AB">Prakr̥ti</note></ab>
+      <ab type="sūtra" n="5" xml:id="Pi.4.5">dhr̥tyaṣṭi-śakvarī-jagatyaḥ<note type="metre-name" resp="#AB">Dhr̥tī Aṣṭi Śakvarī Jagatī</note></ab>
+      <ab type="sūtra" n="6" xml:id="Pi.4.6">pr̥thak-pr̥thak-purvata ētānyēvaiṣām</ab>
+      <ab type="sūtra" n="7" xml:id="Pi.4.7">dvitīyaṁ dvitīyam-atitaḥ</ab>
+      <ab type="caption" resp="#AB">Laukikacchandas</ab>
+      <ab type="sūtra" n="8" xml:id="Pi.4.8">atha laukikam</ab>
+      <ab type="sūtra" n="9" xml:id="Pi.4.9">ātraiṣṭubhāc-ca yadārṣam</ab>
+      <ab type="sūtra" n="10" xml:id="Pi.4.10">pādaś-catur-bhāgaḥ</ab>
+      <ab type="sūtra" n="11" xml:id="Pi.4.11">yathā-vr̥tta-samāptir-vā</ab>
+      <ab type="sūtra" n="12" xml:id="Pi.4.12">laḥ samudrā gaṇaḥ</ab>
+      <ab type="sūtra" n="13" xml:id="Pi.4.13">gau g-anta-madhyādir-nlaś-ca</ab>
+      <ab type="caption" resp="#AB">Āryā</ab>
+      <ab type="sūtra" n="14" xml:id="Pi.4.14">svarā ardha cāryārdham</ab>
+      <ab type="sūtra" n="15" xml:id="Pi.4.15">atrāyuṅ na j</ab>
+      <ab type="sūtra" n="16" xml:id="Pi.4.16">ṣaṣṭō j</ab>
+      <ab type="sūtra" n="17" xml:id="Pi.4.17">nlau vā</ab>
+      <ab type="sūtra" n="18" xml:id="Pi.4.18">nlau cēt-padaṁ dvitīyādi</ab>
+      <ab type="sūtra" n="19" xml:id="Pi.4.19">saptamaḥ prathamādi</ab>
+      <ab type="sūtra" n="20" xml:id="Pi.4.20">antyē pañcamaḥ</ab>
+      <ab type="sūtra" n="21" xml:id="Pi.4.21">ṣaṣṭaś-ca l</ab>
+      <ab type="sūtra" n="22" xml:id="Pi.4.22">triṣu gaṇēṣu pādaḥ pathyādhyē ca<note type="metre-name" resp="#AB">Āryā Pathyā</note><note type="scheme" resp="#AB">⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔, ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ ×<lb/>⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔, ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ ⏑ ¦ ⏔⏔ ¦ ×</note></ab>
+      <pb n="9"/>
+      <ab type="sūtra" n="23" xml:id="Pi.4.23">vipulānyā<note place="foot" n="1" xml:lang="eng" resp="#AB">The vipulā has the word break not at the end of the 3rd bar, but later (or not at all).</note><note type="metre-name" resp="#AB">Āryā Vipulā</note><note type="scheme" resp="#AB">⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ ×<lb/>⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ ⏑ ¦ ⏔⏔ ¦ ×</note></ab>
+      <ab type="sūtra" n="24" xml:id="Pi.4.24">capalā dvitīya-caturthau gmadhyē jau<note type="metre-name" resp="#AB">Ārya Capalā</note><note type="scheme" resp="#AB">⏔− ¦ ⏑−⏑ ¦ −− ¦ ⏑−⏑ ¦ −⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ ×<lb/>⏔− ¦ ⏑−⏑ ¦ −− ¦ ⏑−⏑ ¦ −⏔ ¦ ⏑ ¦ ⏔⏔ ¦ ×</note></ab>
+      <ab type="sūtra" n="25" xml:id="Pi.4.25">purvē mukha-purvā<note type="metre-name" resp="#AB">Āryā Mukhacapalā</note><note type="scheme" resp="#AB">⏔ − ¦ ⏑−⏑ ¦ − − ¦ ⏑−⏑ ¦ − ⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ ×<lb/>⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ ⏑ ¦ ⏔⏔ ¦ ×</note></ab>
+      <ab type="sūtra" n="26" xml:id="Pi.4.26">jaghana-purvētaratra<note type="metre-name" resp="#AB">Ārya Jaghanacapalā</note><note type="scheme" resp="#AB">⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ ×<lb/>⏔− ¦ ⏑−⏑ ¦ − − ¦ ⏑−⏑ ¦ − ⏔ ¦ ⏑ ¦ ⏔⏔ ¦ ×</note></ab>
+      <ab type="sūtra" n="27" xml:id="Pi.4.27">ubhayōr-mahācapalā<note type="metre-name" resp="#AB">Āryā Mahācapalā</note><note type="scheme" resp="#AB">⏔− ¦ ⏑−⏑ ¦ − − ¦ ⏑−⏑ ¦ −⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ ×<lb/>⏔− ¦ ⏑−⏑ ¦ − − ¦ ⏑−⏑ ¦ −⏔ ¦ ⏑ ¦ ⏔⏔ ¦ ×</note></ab>
+      <ab type="caption" resp="#AB">Gīti</ab>
+      <ab type="sūtra" n="28" xml:id="Pi.4.28">ādhyardha-samā gītiḥ<note type="scheme" resp="#AB">⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ ×<lb/>⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ ×</note></ab>
+      <ab type="caption" resp="#AB">Upagīti</ab>
+      <ab type="sūtra" n="29" xml:id="Pi.4.29">antyēnōpagītiḥ<note type="scheme" resp="#AB">⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ ⏑ ¦ ⏔⏔ ¦ ×<lb/>⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ ⏑ ¦ ⏔⏔ ¦ ×</note></ab>
+      <pb n="10"/>
+      <ab type="caption" resp="#AB">Udgīti</ab>
+      <ab type="sūtra" n="30" xml:id="Pi.4.30">utkramēṇōdgītiḥ<note type="scheme" resp="#AB">⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ ⏑ ¦ ⏔⏔ ¦ ×<lb/>⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ ×</note></ab>
+      <ab type="caption" resp="#AB">Āryāgīti</ab>
+      <ab type="sūtra" n="31" xml:id="Pi.4.31">ardhē vasugaṇa āryāgītiḥ<note type="scheme" resp="#AB">⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ ⏔×<lb/>⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ <g ref="#g-f804"/> ¦ ⏔⏔ ¦ ⏔×</note></ab>
+      <ab type="caption" resp="#AB">Vaitālīyaṁ</ab>
+      <ab type="caption" resp="#AB">Vaitālīya</ab>
+      <ab type="sūtra" n="32" xml:id="Pi.4.32">vaitālīyaṁ dviḥsvarā ayuk-pādē yug-vasavō 'ntē rlgaḥ<note type="scheme" resp="#AB">⏔⏔⏔¦−⏑−⏑−<lb/>⏔⏔⏔⏔¦−⏑−⏑− (x2)</note></ab>
+      <ab type="caption" resp="#AB">Aupacchandasaka</ab>
+      <ab type="sūtra" n="33" xml:id="Pi.4.33">gaupacchandasakam<note type="scheme" resp="#AB">⏔⏔⏔¦−⏑−⏑−−<lb/>⏔⏔⏔⏔¦−⏑−⏑−− (x2)</note></ab>
+      <ab type="caption" resp="#AB">Āpātalikā</ab>
+      <ab type="sūtra" n="34" xml:id="Pi.4.34">āpātalikā bhgau g<note type="scheme" resp="#AB">⏔⏔⏔¦−⏑⏑−−<lb/>⏔⏔⏔⏔¦−⏑⏑−− (x2)</note></ab>
+      <ab type="sūtra" n="35" xml:id="Pi.4.35">śēṣē parēṇa yuṅ na sākam</ab>
+      <ab type="sūtra" n="36" xml:id="Pi.4.36">ṣaḍ cāmiśrā yuji</ab>
+      <pb n="11"/>
+      <ab type="caption" resp="#AB">Prācyavr̥tti</ab>
+      <ab type="sūtra" n="37" xml:id="Pi.4.37">pañcamēna purvaḥ sākaṁ prācyavr̥ttiḥ<note type="scheme" resp="#AB">⏔⏔⏔¦−⏑−⏑−<lb/>−⏑−⏑⏔¦−⏑−⏑− (x2)</note></ab>
+      <ab type="caption" resp="#AB">Udīcyavr̥tti</ab>
+      <ab type="sūtra" n="38" xml:id="Pi.4.38">ayuk-tr̥tīyēnōdīcyavr̥ttiḥ<note type="scheme" resp="#AB">⏑−⏑⏔¦−⏑−⏑−<lb/>⏔⏔⏔⏔¦−⏑−⏑− (x2)</note></ab>
+      <ab type="caption" resp="#AB">Pravr̥ttaka</ab>
+      <ab type="sūtra" n="39" xml:id="Pi.4.39">ābhyāṁ yugapat-pravr̥ttakam<note type="scheme" resp="#AB">⏑−⏑⏔¦−⏑−⏑−<lb/>−⏑−⏑⏔¦−⏑−⏑− (x2)</note></ab>
+      <ab type="caption" resp="#AB">Cāruhāsinī</ab>
+      <ab type="sūtra" n="40" xml:id="Pi.4.40">ayuk-cāruhāsinī<note type="scheme" resp="#AB">⏑−⏑⏔¦−⏑−⏑− (x4)</note></ab>
+      <ab type="caption" resp="#AB">Aparāntikā</ab>
+      <ab type="sūtra" n="41" xml:id="Pi.4.41">yug-aparāntikā<note place="foot" n="1" xml:lang="eng" resp="#AB">Śrī Halāyudha’s example does not seem to fit the rule here, the example has the following scheme: ⏑⏑⏑−⏑⏔¦−⏑−⏑−.</note><note type="scheme" resp="#AB">−⏑−⏑⏔¦−⏑−⏑− (x4)</note></ab>
+      <pb n="12"/>
+      <ab type="caption" resp="#AB">Mātrāsamakaṁ</ab>
+      <ab type="caption" resp="#AB">Mātrāsamaka</ab>
+      <ab type="sūtra" n="42" xml:id="Pi.4.42">gantā dvir-vasavō mātrāsamakaṁ l navamaḥ<note type="scheme" resp="#AB">⏔⏔¦⏔⏔¦⏑⏒⏓¦⏔− (x 4)</note></ab>
+      <ab type="caption" resp="#AB">Vānavāsikā</ab>
+      <ab type="sūtra" n="43" xml:id="Pi.4.43">dvādaśaś-ca vānavāsikā<note type="scheme" resp="#AB">⏔⏔¦⏔⏔¦⏑⏔⏑¦⏔− (x 4)</note></ab>
+      <ab type="caption" resp="#AB">Viślōka</ab>
+      <ab type="sūtra" n="44" xml:id="Pi.4.44">viślōkaḥ pañcamāṣṭamau<note type="scheme" resp="#AB">⏔⏔¦⏑⏔⏑¦⏔⏔¦⏔− (x 4)</note></ab>
+      <ab type="caption" resp="#AB">Citrā</ab>
+      <ab type="sūtra" n="45" xml:id="Pi.4.45">citrā navamaś-ca<note type="scheme" resp="#AB">⏔⏔¦⏑⏔⏑¦⏑⏒⏓¦⏔− (x 4)</note></ab>
+      <ab type="caption" resp="#AB">Upacitrā</ab>
+      <ab type="sūtra" n="46" xml:id="Pi.4.46">parayut-kēnōpacitrā<note type="scheme" resp="#AB">⏔⏔¦⏔⏔¦−⏑⏑¦−− (x 4)</note></ab>
+      <ab type="caption" resp="#AB">Pādākulaka<note place="foot" n="1" xml:lang="eng" resp="#AB">This metre is made up of a mixture of the 5 previous metres.</note></ab>
+      <ab type="sūtra" n="47" xml:id="Pi.4.47">ēbhiḥ pādākulakam</ab>
+      <pb n="13"/>
+      <ab type="caption" resp="#AB">Gītyāryā</ab>
+      <ab type="caption" resp="#AB">Gītyāryā</ab>
+      <ab type="sūtra" n="48" xml:id="Pi.4.48">gītyāryā laḥ<note type="scheme" resp="#AB">⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑ (x 4)</note></ab>
+      <ab type="caption" resp="#AB">Śikhā</ab>
+      <ab type="sūtra" n="49" xml:id="Pi.4.49">śikhā viparyastārdhā</ab>
+      <ab type="caption" resp="#AB">Jyōtis</ab>
+      <ab type="sūtra" n="50" xml:id="Pi.4.50">laḥ purvaś-cēj-jyōtiḥ<note type="scheme" resp="#AB">⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑<lb/>−−¦−−¦−−¦−−¦¦−−¦−−¦−−¦−−</note></ab>
+      <ab type="caption" resp="#AB">Saumyā</ab>
+      <ab type="sūtra" n="51" xml:id="Pi.4.51">gaś-cēt-saumyā<note type="scheme" resp="#AB">−−¦−−¦−−¦−−¦¦−−¦−−¦−−¦−−<lb/>⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑</note></ab>
+      <ab type="caption" resp="#AB">Cūlikā</ab>
+      <ab type="sūtra" n="52" xml:id="Pi.4.52">cūlikaikōnatriṁśad-ēkatriṁśad-antē g<note type="scheme" resp="#AB">⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑<lb/>⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑− x 2</note></ab>
+      <ab type="sūtra" n="53" xml:id="Pi.4.53">sā g yēna na samā lāṁ gla iti</ab>
+    </div>
+    <div type="adhyāya" n="5" xml:id="adh5">
+      <head>pañcamō 'dhyāyaḥ</head>
+      <pb n="14"/>
+      <ab type="sūtra" n="1" xml:id="Pi.5.1">vr̥ttam</ab>
+      <ab type="sūtra" n="2" xml:id="Pi.5.2">samam-ardhasamaṁ viṣamaṁ ca</ab>
+      <ab type="sūtra" n="3" xml:id="Pi.5.3">samaṁ tāvat-kr̥tvaḥ kr̥tam-ardhasamam</ab>
+      <ab type="sūtra" n="4" xml:id="Pi.5.4">viṣamaṁ ca</ab>
+      <ab type="sūtra" n="5" xml:id="Pi.5.5">rāśyunam</ab>
+      <ab type="caption" resp="#AB">Samānī</ab>
+      <ab type="sūtra" n="6" xml:id="Pi.5.6">gliti samānī<note type="scheme" resp="#AB">−⏑−⏑−⏑−⏑</note></ab>
+      <ab type="caption" resp="#AB">Pramāṇī</ab>
+      <ab type="sūtra" n="7" xml:id="Pi.5.7">lgiti pramāṇī<note type="scheme" resp="#AB">⏑−⏑−⏑−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Vitāna</ab>
+      <ab type="sūtra" n="8" xml:id="Pi.5.8">vitānam-anyat<note place="foot" n="1" xml:lang="eng" resp="#AB">The rule is very vague here. Śrī Halāyudha illustrates the metre with verses having the following schemes: −−⏑⏑−−⏑⏑ x 4; ⏑⏑−−⏑⏑−−¦⏑⏑−−⏑⏑−− x 2; −−⏑−⏑−⏑− x 4; &amp; −⏑⏑−⏑⏑−− x 4. Vr̥ttaratnākara’s scheme is ⏑−⏑−−⏑−− x 4.</note></ab>
+      <ab type="caption" resp="#AB">Vaktraṁ</ab>
+      <ab type="caption" resp="#AB">Vaktra</ab>
+      <ab type="sūtra" n="9" xml:id="Pi.5.9">pādasyānuṣṭub-vaktram</ab>
+      <ab type="sūtra" n="10" xml:id="Pi.5.10">na prathamātsnau</ab>
+      <ab type="sūtra" n="11" xml:id="Pi.5.11">dvitīya-caturthayō raś-ca</ab>
+      <pb n="15"/>
+      <ab type="sūtra" n="12" xml:id="Pi.5.12">vānyat</ab>
+      <ab type="sūtra" n="13" xml:id="Pi.5.13">ya caturthāt<note type="scheme" resp="#AB">⏓⏓⏓⏓¦⏑−−× (x4)</note></ab>
+      <ab type="sūtra" n="14" xml:id="Pi.5.14">pathyā yujō j<note type="metre-name" resp="#AB">Pathyāvaktra</note><note type="scheme" resp="#AB">⏓⏓⏓⏓¦⏑−−×¦¦⏓⏓⏓⏓¦⏑−⏑× (x2)</note></ab>
+      <ab type="sūtra" n="15" xml:id="Pi.5.15">viparītaikīyam<note type="metre-name" resp="#AB">Viparītavaktra</note><note type="scheme" resp="#AB">⏓⏓⏓⏓¦⏑−⏑×¦¦⏓⏓⏓⏓¦⏑−−× (x2)</note></ab>
+      <ab type="sūtra" n="16" xml:id="Pi.5.16">capalāyujō n<note type="metre-name" resp="#AB">Capalāvaktra</note><note type="scheme" resp="#AB">⏓⏓⏓⏓¦⏑⏑⏑×¦¦⏓⏓⏓⏓¦⏑−−× (x2)</note></ab>
+      <ab type="sūtra" n="17" xml:id="Pi.5.17">vipulā yug-laḥ-saptamaḥ</ab>
+      <ab type="sūtra" n="18" xml:id="Pi.5.18">sarvataḥ saitavasya</ab>
+      <ab type="sūtra" n="19" xml:id="Pi.5.19">bhrau ntau ca<note type="metre-name" resp="#AB">Vaktra Bhavipulā, Ravipulā, Navipulā, Tavipulā</note><note type="scheme" resp="#AB">Bhavipulā (Piṁgala): ⏓⏓⏓⏓¦−⏑⏑×¦¦⏓⏓⏓⏓¦⏑−⏑× (x2)<lb/>or: (Saitava): ⏓⏓⏓⏓¦−⏑⏑× (x4)<lb/>Ravipulā (Piṁgala): ⏓⏓⏓⏓¦−⏑−×¦¦⏓⏓⏓⏓¦⏑−⏑× (x2)<lb/>or: (Saitava): ⏓⏓⏓⏓¦−⏑−× (x4)<lb/>Navipulā (Piṁgala): ⏓⏓⏓⏓¦⏑⏑⏑×¦¦⏓⏓⏓⏓¦⏑−⏑× (x2)<lb/>or: (Saitava): ⏓⏓⏓⏓¦⏑⏑⏑× (x4)<lb/>Tavipulā (Piṁgala): ⏓⏓⏓⏓¦−−⏑×¦¦⏓⏓⏓⏓¦⏑−⏑× (x2)<lb/>or: (Saitava): ⏓⏓⏓⏓¦−−⏑× (x4)</note></ab>
+      <pb n="16"/>
+      <ab type="caption" resp="#AB">Viṣamavr̥tta</ab>
+      <ab type="caption" resp="#AB">Padacaturūrdhva</ab>
+      <ab type="sūtra" n="20" xml:id="Pi.5.20">pratipādaṁ catur-vr̥ddhyā padacaturūrdhvam<note type="comment" resp="#AB">Padacaturūrdhva = 8 akṣara, 12 akṣara, 16 akṣara, 20 akṣara</note></ab>
+      <ab type="caption" resp="#AB">Āpīḍa</ab>
+      <ab type="sūtra" n="21" xml:id="Pi.5.21">gāvanta āpīḍaḥ<note place="foot" n="1" xml:lang="eng" resp="#AB">This metre and the two that follow are specific varieties of Padacaturārdhva.</note><note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑−−,<lb/>⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−−,<lb/>⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−−,<lb/>⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Pratyāpīḍa</ab>
+      <ab type="sūtra" n="22" xml:id="Pi.5.22">gāvādau cēt-pratyāpīḍaḥ<note type="scheme" resp="#AB">−−⏑⏑⏑⏑⏑⏑,<lb/>−−⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑,<lb/>−−⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑,<lb/>−−⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑</note></ab>
+      <ab type="caption" resp="#AB">Pratyāpīḍa</ab>
+      <ab type="sūtra" n="23" xml:id="Pi.5.23">pratyāpīḍō gāvādau ca<note type="scheme" resp="#AB">−−⏑⏑⏑⏑−−,<lb/>−−⏑⏑⏑⏑⏑⏑⏑⏑−−,<lb/>−−⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−−,<lb/>−−⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−−</note></ab>
+      <pb n="17"/>
+      <ab type="caption" resp="#AB">Mañjarī, Lavalī, Amr̥tadhārā</ab>
+      <ab type="sūtra" n="24" xml:id="Pi.5.24">prathamasya viparyāsē mañjarī-lavaly-amr̥tadhārāḥ<note type="comment" resp="#AB">Mañjarī = 12 akṣara, 8 akṣara, 16 akṣara, 20 akṣara<lb/>Lavalī = 16 akṣara, 12 akṣara, 8 akṣara, 20 akṣara<lb/>Amr̥tadhār̥ā = 20 akṣara, 12 akṣara, 16 akṣara, 8 akṣara</note></ab>
+      <ab type="caption" resp="#AB">Udgatā</ab>
+      <ab type="sūtra" n="25" xml:id="Pi.5.25">udgatām-ēkataḥ sjau slau, nsau jgau, bhnau jlau g, sjau sjau g<note type="scheme" resp="#AB">⏑⏑−⏑−⏑⏑⏑−⏑,<lb/>⏑⏑⏑⏑⏑−⏑−⏑−,<lb/>−⏑⏑⏑⏑⏑⏑−⏑⏑−,<lb/>⏑⏑−⏑−⏑⏑⏑−⏑−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Saurabhaka</ab>
+      <ab type="sūtra" n="26" xml:id="Pi.5.26">tr̥tīyasya saurabhakaṁ rnau bhgau<note type="scheme" resp="#AB">⏑⏑−⏑−⏑⏑⏑−⏑,<lb/>⏑⏑⏑⏑⏑−⏑−⏑−,<lb/>−⏑−⏑⏑⏑−⏑⏑−,<lb/>⏑⏑−⏑−⏑⏑⏑−⏑−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Lalita</ab>
+      <ab type="sūtra" n="27" xml:id="Pi.5.27">lalitaṁ nau sau<note type="scheme" resp="#AB">⏑⏑−⏑−⏑⏑⏑−−,<lb/>⏑⏑⏑⏑⏑−⏑−⏑−,<lb/>⏑⏑⏑⏑⏑⏑⏑⏑−⏑⏑−,<lb/>⏑⏑−⏑−⏑⏑⏑−⏑−⏑−</note></ab>
+      <pb n="18"/>
+      <ab type="caption" resp="#AB">Upasthitapracupita</ab>
+      <ab type="sūtra" n="28" xml:id="Pi.5.28">upasthitapracupitaṁ pr̥thag-ādhyaṁ msau jbhau gau, snau jrau g, nau s, nau n jyau<note type="scheme" resp="#AB">−−−⏑⏑−⏑−⏑−⏑⏑−−,<lb/>⏑⏑−⏑⏑⏑⏑−⏑−⏑−−,<lb/>⏑⏑⏑⏑⏑⏑⏑⏑−,<lb/>⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−⏑⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Vardhamāna</ab>
+      <ab type="sūtra" n="29" xml:id="Pi.5.29">vardhamānaṁ nau snau nsau<note type="scheme" resp="#AB">−−−⏑⏑−⏑−⏑−⏑⏑−−,<lb/>⏑⏑−⏑⏑⏑⏑−⏑−⏑−−,<lb/>⏑⏑⏑⏑⏑⏑⏑⏑−⏑⏑⏑⏑⏑⏑⏑⏑−,<lb/>⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−⏑⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Śuddhavirāḍr̥ṣabha</ab>
+      <ab type="sūtra" n="30" xml:id="Pi.5.30">śuddhavirāḍr̥ṣabhaṁ tajrāḥ<note type="scheme" resp="#AB">−−−⏑⏑−⏑−⏑−⏑⏑−−,<lb/>⏑⏑−⏑⏑⏑⏑−⏑−⏑−−,<lb/>−−⏑⏑−⏑−⏑−,<lb/>⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−⏑⏑−−</note></ab>
+      <pb n="19"/>
+      <ab type="caption" resp="#AB">Ardhasamavr̥tta</ab>
+      <ab type="sūtra" n="31" xml:id="Pi.5.31">ardhē</ab>
+      <ab type="caption" resp="#AB">Upacitrakaṁ</ab>
+      <ab type="sūtra" n="32" xml:id="Pi.5.32">upacitrakaṁ sau slau g, bhau bhgau g<note place="foot" n="1" xml:lang="eng" resp="#AB">From here on the names are only identified when there may be some confusion, otherwise when the rule is followed by metrical markings the name is as the first word in the rule.</note><note type="scheme" resp="#AB">⏑⏑−⏑⏑−⏑⏑−⏑−¦¦−⏑⏑−⏑⏑−⏑⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Drutamadhyā</ab>
+      <ab type="sūtra" n="33" xml:id="Pi.5.33">drutamadhyā bhau bhgau g, jgau jyau<note type="scheme" resp="#AB">−⏑⏑−⏑⏑¦−⏑⏑−−¦¦⏑−⏑−⏑¦−⏑⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Vēgavatī</ab>
+      <ab type="sūtra" n="34" xml:id="Pi.5.34">vēgavatī sau sgau, bhau bgau g<note type="scheme" resp="#AB">⏑⏑−⏑⏑¦−⏑⏑−−¦¦−⏑⏑−⏑⏑¦−⏑⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Bhadravirāḍ</ab>
+      <ab type="sūtra" n="35" xml:id="Pi.5.35">bhadravirāḍ tjau rgau, msau jgau g<note type="scheme" resp="#AB">−−⏑⏑¦−⏑−⏑−−¦¦−−−⏑⏑¦−⏑−⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Kētumatī</ab>
+      <ab type="sūtra" n="36" xml:id="Pi.5.36">kētumatī sjau sgau, bhrau ngau g<note type="scheme" resp="#AB">⏑⏑−⏑−⏑⏑⏑−−¦¦−⏑⏑−⏑−⏑⏑⏑−−</note></ab>
+      <pb n="20"/>
+      <ab type="caption" resp="#AB">Ākhyānakī</ab>
+      <ab type="sūtra" n="37" xml:id="Pi.5.37">ākhyānakī tau jgau g, jtau jgau g<note type="scheme" resp="#AB">−−⏑−−⏑⏑−⏑−−¦¦⏑−⏑−−⏑⏑−⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Viparītākhyānakī</ab>
+      <ab type="sūtra" n="38" xml:id="Pi.5.38">viparītākhyānakī jtau jgau g, tau jgau g<note type="scheme" resp="#AB">⏑−⏑−−⏑⏑−⏑−−¦¦−−⏑−−⏑⏑−⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Hariṇaplutā</ab>
+      <ab type="sūtra" n="39" xml:id="Pi.5.39">hariṇaplutā sau slau g, nbhau bhrau<note type="scheme" resp="#AB">⏑⏑−⏑⏑−⏑⏑−⏑−¦¦⏑⏑⏑−⏑⏑−⏑⏑−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Aparavaktraṁ</ab>
+      <ab type="sūtra" n="40" xml:id="Pi.5.40">aparavaktraṁ nau rlau g, njau jrau<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑¦−⏑−⏑−¦¦⏑⏑⏑⏑−⏑⏑¦−⏑−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Puṣpitagrā</ab>
+      <ab type="sūtra" n="41" xml:id="Pi.5.41">puṣpitagrā nau ryau, njau jrau g<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑¦−⏑−⏑−−¦¦⏑⏑⏑⏑−⏑⏑¦−⏑−⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Yavamatī</ab>
+      <ab type="sūtra" n="42" xml:id="Pi.5.42">yavamatī rjau rjau, jrau jrau g<note type="scheme" resp="#AB">−⏑−⏑−⏑−⏑−⏑−⏑¦¦⏑−⏑−⏑−⏑−⏑−⏑−−</note></ab>
+      <pb n="21"/>
+      <ab type="caption" resp="#AB">Śikhā</ab>
+      <ab type="sūtra" n="43" xml:id="Pi.5.43">śikhaikōnatriṁdaśadēktriṁdaśadantē g<note type="scheme" resp="#AB">⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦−<lb/>⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑−<lb/>x 2</note></ab>
+      <ab type="caption" resp="#AB">Khañjā</ab>
+      <ab type="sūtra" n="44" xml:id="Pi.5.44">khañjā mahatyayujīti<note type="scheme" resp="#AB">⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑−<lb/>⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦−<lb/>x 2</note></ab>
+    </div>
+    <div type="adhyāya" n="6" xml:id="adh6">
+      <head>ṣaṣṭhō 'dhyāyaḥ</head>
+      <pb n="22"/>
+      <ab type="sūtra" n="1" xml:id="Pi.6.1">yatir-vac-chēdaḥ</ab>
+      <ab type="caption" resp="#AB">Gāyatrī</ab>
+      <ab type="caption" resp="#AB">Tanumadhyā</ab>
+      <ab type="sūtra" n="2" xml:id="Pi.6.2">tanumadhyā tyau<note type="scheme" resp="#AB">−−⏑⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Uṣṇiḥ</ab>
+      <ab type="caption" resp="#AB">Kumāralalitā</ab>
+      <ab type="sūtra" n="3" xml:id="Pi.6.3">kumāralalitā jsau g<note type="scheme" resp="#AB">⏑−⏑⏑⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Anuṣṭubh</ab>
+      <ab type="caption" resp="#AB">Māṇavakākrīḍitakaṁ</ab>
+      <ab type="sūtra" n="4" xml:id="Pi.6.4">māṇavakākrīḍitakaṁ bhtau lgau<note type="scheme" resp="#AB">−⏑⏑−−⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Citrapadā</ab>
+      <ab type="sūtra" n="5" xml:id="Pi.6.5">citrapadā bhau gau<note type="scheme" resp="#AB">−⏑⏑−⏑⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Vidyunmālā</ab>
+      <ab type="sūtra" n="6" xml:id="Pi.6.6">vidyunmālā mau gau<note type="scheme" resp="#AB">−−−−−−−−</note></ab>
+      <ab type="caption" resp="#AB">Haṁsarutaṁ</ab>
+      <ab type="sūtra" n="7" xml:id="Pi.6.7a" rend="square-brackets">haṁsarutaṁ mnau gau<note place="foot" n="1" xml:lang="eng" resp="#AB">In square brackets in the original. As the number of the sūtra is not sequential it’s not clear why it has been added in here, or by whom.</note><note type="scheme" resp="#AB">−−−⏑⏑⏑−−</note></ab>
+      <pb n="23"/>
+      <ab type="caption" resp="#AB">Br̥hatī</ab>
+      <ab type="caption" resp="#AB">Bhujagaśiśusr̥tā</ab>
+      <ab type="sūtra" n="7" xml:id="Pi.6.7b">bhujagaśiśusr̥tā nau m<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑−−−</note></ab>
+      <ab type="caption" resp="#AB">Halamukhī</ab>
+      <ab type="sūtra" n="8" xml:id="Pi.6.8">halamukhī-rnau s<note type="scheme" resp="#AB">−⏑−⏑⏑⏑⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Paṅkti</ab>
+      <ab type="caption" resp="#AB">Śuddhavirāḍ</ab>
+      <ab type="sūtra" n="9" xml:id="Pi.6.9">śuddhavirāḍ msau jgau<note type="scheme" resp="#AB">−−−⏑⏑−⏑−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Paṇavō</ab>
+      <ab type="sūtra" n="10" xml:id="Pi.6.10">paṇavō mnau ygau<note type="scheme" resp="#AB">−−−⏑⏑⏑−−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Rukmavatī</ab>
+      <ab type="sūtra" n="11" xml:id="Pi.6.11">rukmavatī bhmau sgau<note type="scheme" resp="#AB">−⏑⏑−−−⏑⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Mayūrasāriṇī</ab>
+      <ab type="sūtra" n="12" xml:id="Pi.6.12">mayūrasāriṇī rjau rgau<note type="scheme" resp="#AB">−⏑−⏑−⏑−⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Mattā</ab>
+      <ab type="sūtra" n="13" xml:id="Pi.6.13">mattā mbhau sgau<note type="scheme" resp="#AB">−−−−⏑⏑⏑⏑−−</note></ab>
+      <pb n="24"/>
+      <ab type="caption" resp="#AB">Upasthitā</ab>
+      <ab type="sūtra" n="14" xml:id="Pi.6.14">upasthitā tjau jgau<note type="scheme" resp="#AB">−−⏑⏑−⏑⏑−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Triṣṭubh</ab>
+      <ab type="caption" resp="#AB">Indravajrā</ab>
+      <ab type="sūtra" n="15" xml:id="Pi.6.15">indravajrā tau jgau g<note type="scheme" resp="#AB">−−⏑−−⏑⏑−⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Upēndravajrā</ab>
+      <ab type="sūtra" n="16" xml:id="Pi.6.16">upēndravajrā jtau jgau g<note type="scheme" resp="#AB">⏑−⏑−−⏑⏑−⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Upajāti</ab>
+      <ab type="sūtra" n="17" xml:id="Pi.6.17">ādyantāvupajātayaḥ<note place="foot" n="1" xml:lang="eng" resp="#AB">It appears in the literature that a much wider interpretation was given to the rule than is given here (which restricts the mixing of lines to Indravajrā and Upendravajrā), so that even lines having either more or less than 11 syllables were allowed to be mixed into the verse, and still the name Upajāti would prevail.</note></ab>
+      <ab type="caption" resp="#AB">Dōdhakaṁ</ab>
+      <ab type="sūtra" n="18" xml:id="Pi.6.18">dōdhakaṁ bhau bhgau g<note type="scheme" resp="#AB">−⏑⏑−⏑⏑−⏑⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Śālini</ab>
+      <ab type="sūtra" n="19" xml:id="Pi.6.19">śālini mtau tgau g; samudra-r̥ṣayaḥ<note type="scheme" resp="#AB">−−−−,−⏑−−⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Vātōrmī</ab>
+      <ab type="sūtra" n="20" xml:id="Pi.6.20">vātōrmī mbhau tgau g ca<note type="scheme" resp="#AB">−−−−⏑⏑−−⏑−−</note></ab>
+      <pb n="25"/>
+      <ab type="caption" resp="#AB">Bhramaravilasitaṁ</ab>
+      <ab type="sūtra" n="21" xml:id="Pi.6.21">bhramaravilasitaṁ mbhau nlau g<note type="scheme" resp="#AB">−−−−⏑⏑⏑⏑⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Rathōddhatā</ab>
+      <ab type="sūtra" n="22" xml:id="Pi.6.22">rathōddhatā rnau rlau g<note type="scheme" resp="#AB">−⏑−⏑⏑⏑−⏑−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Svāgatā</ab>
+      <ab type="sūtra" n="23" xml:id="Pi.6.23">svāgatā rnau bhgau g<note type="scheme" resp="#AB">−⏑−⏑⏑⏑−⏑⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Vr̥ntā</ab>
+      <ab type="sūtra" n="24" xml:id="Pi.6.24">vr̥ntā nau sgau g<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑⏑⏑−−−</note></ab>
+      <ab type="caption" resp="#AB">Śyēnī</ab>
+      <ab type="sūtra" n="25" xml:id="Pi.6.25">śyēnī rjau rlau g<note type="scheme" resp="#AB">−⏑−⏑−⏑−⏑−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Vilāsinī</ab>
+      <ab type="sūtra" n="26" xml:id="Pi.6.26">vilāsinī jrau jgau g<note type="scheme" resp="#AB">⏑−⏑−⏑−⏑−⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Jagatī</ab>
+      <ab type="caption" resp="#AB">Jagatī</ab>
+      <ab type="sūtra" n="27" xml:id="Pi.6.27">jagatī</ab>
+      <ab type="caption" resp="#AB">Vaṁśasthā</ab>
+      <ab type="sūtra" n="28" xml:id="Pi.6.28">vaṁśasthā jtau jrau<note type="scheme" resp="#AB">⏑−⏑−−⏑⏑−⏑−⏑−</note></ab>
+      <pb n="26"/>
+      <ab type="caption" resp="#AB">Indravaṁśā</ab>
+      <ab type="sūtra" n="29" xml:id="Pi.6.29">indravaṁśā tau jrau<note type="scheme" resp="#AB">−−⏑−−⏑⏑−⏑−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Drutavilambitaṁ</ab>
+      <ab type="sūtra" n="30" xml:id="Pi.6.30">drutavilambitaṁ nbhau bhrau<note type="scheme" resp="#AB">⏑⏑⏑−⏑⏑−⏑⏑−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Tōṭakaṁ</ab>
+      <ab type="sūtra" n="31" xml:id="Pi.6.31">tōṭakaṁ saḥ<note type="scheme" resp="#AB">⏑⏑−⏑⏑−⏑⏑−⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Puṭō</ab>
+      <ab type="sūtra" n="32" xml:id="Pi.6.32">puṭō nau myau; vasu-samudrāḥ<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑−−,−⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Jalōddhatagati</ab>
+      <ab type="sūtra" n="33" xml:id="Pi.6.33">jalōddhatagatir-jsau jsau; rasartavaḥ<note type="scheme" resp="#AB">⏑−⏑⏑⏑−,⏑−⏑⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Tataṁ</ab>
+      <ab type="sūtra" n="34" xml:id="Pi.6.34">tataṁ nau mrau<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑−−−−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Kusumavicitrā</ab>
+      <ab type="sūtra" n="35" xml:id="Pi.6.35">kusumavicitrā nyau nyau<note type="scheme" resp="#AB">⏑⏑⏑⏑−−⏑⏑⏑⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Cañcalākṣikā</ab>
+      <ab type="sūtra" n="36" xml:id="Pi.6.36">cañcalākṣikā nau rau<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑−⏑−−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Bhujaṅgaprayātaṁ</ab>
+      <ab type="sūtra" n="37" xml:id="Pi.6.37">bhujaṅgaprayātaṁ yaḥ<note type="scheme" resp="#AB">⏑−−⏑−−⏑−−⏑−−</note></ab>
+      <pb n="27"/>
+      <ab type="caption" resp="#AB">Sragviṇī</ab>
+      <ab type="sūtra" n="38" xml:id="Pi.6.38">sragviṇī raḥ<note type="scheme" resp="#AB">−⏑−−⏑−−⏑−−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Pramitākṣarā</ab>
+      <ab type="sūtra" n="39" xml:id="Pi.6.39">pramitākṣarā sjau sau<note type="scheme" resp="#AB">⏑⏑−⏑−⏑⏑⏑−⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Kāntōtpīḍā</ab>
+      <ab type="sūtra" n="40" xml:id="Pi.6.40">kāntōtpīḍā bhmau smau<note type="scheme" resp="#AB">−⏑⏑−−−⏑⏑−−−−</note></ab>
+      <ab type="caption" resp="#AB">Vaiśvadēvī</ab>
+      <ab type="sūtra" n="41" xml:id="Pi.6.41">vaiśvadēvī mau, yāv-indriya-r̥ṣayaḥ<note type="scheme" resp="#AB">−−−−−,−⏑−−⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Vāhinī</ab>
+      <ab type="sūtra" n="42" xml:id="Pi.6.42">vāhinī tyau myāv-r̥ṣikāmaśarāḥ<note type="scheme" resp="#AB">−−⏑⏑−−−−−⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Navamālinī</ab>
+      <ab type="sūtra" n="43" xml:id="Pi.6.43">navamālinī njau bhyāv-iti<note type="scheme" resp="#AB">⏑⏑⏑⏑−⏑−⏑⏑⏑−−</note></ab>
+    </div>
+    <div type="adhyāya" n="7" xml:id="adh7">
+      <head>saptamō 'dhyāyaḥ</head>
+      <pb n="28"/>
+      <ab type="caption" resp="#AB">Atijagatī</ab>
+      <ab type="caption" resp="#AB">Prahārṣiṇī</ab>
+      <ab type="sūtra" n="1" xml:id="Pi.7.1">prahārṣiṇī mnau jrau g; trika-daśakau<note type="scheme" resp="#AB">−−−,⏑⏑⏑⏑−⏑−⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Rucirā</ab>
+      <ab type="sūtra" n="2" xml:id="Pi.7.2">rucirā jbhau sjau g; catur-navakau<note type="scheme" resp="#AB">⏑−⏑−,⏑⏑⏑⏑−⏑−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Mattamayūraṁ</ab>
+      <ab type="sūtra" n="3" xml:id="Pi.7.3">mattamayūraṁ mtau ysau g; samudra-navakau<note type="scheme" resp="#AB">−−−−,−⏑⏑−−⏑⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Gaurī</ab>
+      <ab type="sūtra" n="4" xml:id="Pi.7.4">gaurī nau nsau g<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Śakvarī</ab>
+      <ab type="caption" resp="#AB">Asaṁbādhā</ab>
+      <ab type="sūtra" n="5" xml:id="Pi.7.5">asaṁbādhā mtau nsau gāv-indriya-navakau<note type="scheme" resp="#AB">−−−−−,⏑⏑⏑⏑⏑⏑−−−</note></ab>
+      <ab type="caption" resp="#AB">Aparājitā</ab>
+      <ab type="sūtra" n="6" xml:id="Pi.7.6">aparājitā nau rsau lgau; svara-r̥ṣayaḥ<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑−,⏑−⏑⏑−⏑−</note></ab>
+      <pb n="29"/>
+      <ab type="caption" resp="#AB">Prahaṇakalitā</ab>
+      <ab type="sūtra" n="7" xml:id="Pi.7.7">prahaṇakalitā nau bhnau lgau ca<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑−⏑⏑⏑⏑⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Vasantatilakā</ab>
+      <ab type="sūtra" n="8" xml:id="Pi.7.8">vasantatilakā tbhau jau gau<note type="scheme" resp="#AB">−−⏑−⏑⏑⏑−⏑⏑−⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Siṁhōnnatā</ab>
+      <ab type="sūtra" n="9" xml:id="Pi.7.9">siṁhōnnatā kāśyapasya</ab>
+      <ab type="caption" resp="#AB">Uddharṣiṇī</ab>
+      <ab type="sūtra" n="10" xml:id="Pi.7.10">uddharṣiṇī saitavasya</ab>
+      <ab type="caption" resp="#AB">Atiśakvarī</ab>
+      <ab type="caption" resp="#AB">Candrāvartā</ab>
+      <ab type="sūtra" n="11" xml:id="Pi.7.11">candrāvartā nau nau s<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Mālartunavakau</ab>
+      <ab type="sūtra" n="12" xml:id="Pi.7.12">mālartunavakau cēt<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑,⏑⏑⏑⏑⏑⏑⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Maṇiguṇanikar</ab>
+      <ab type="sūtra" n="13" xml:id="Pi.7.13">maṇiguṇanikarō; vasvr̥ṣayaḥ<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑⏑,⏑⏑⏑⏑⏑⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Mālinī</ab>
+      <ab type="sūtra" n="14" xml:id="Pi.7.14">mālinī nau myau y<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑−−−⏑−−⏑−−</note></ab>
+      <pb n="30"/>
+      <ab type="caption" resp="#AB">Aṣṭi</ab>
+      <ab type="caption" resp="#AB">R̥ṣabhajavilasitaṁ</ab>
+      <ab type="sūtra" n="15" xml:id="Pi.7.15">r̥ṣabhajavilasitaṁ bhrau nau ngau; svara-navakau<note type="scheme" resp="#AB">−⏑⏑−⏑−⏑,⏑⏑⏑⏑⏑⏑⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Atyaṣṭi</ab>
+      <ab type="caption" resp="#AB">Hariṇī</ab>
+      <ab type="sūtra" n="16" xml:id="Pi.7.16">hariṇī nsau mrau slau g-r̥tu-samudra-r̥ṣayaḥ<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑−,−−−−, ⏑−⏑⏑−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Pr̥thvī</ab>
+      <ab type="sūtra" n="17" xml:id="Pi.7.17">pr̥thvī jsau jsau yalau g; vasu-navakau<note type="scheme" resp="#AB">⏑−⏑⏑⏑−⏑−,⏑⏑⏑−⏑−−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Vaṁśapantrapatitaṁ</ab>
+      <ab type="sūtra" n="18" xml:id="Pi.7.18">vaṁśapantrapatitaṁ bhrau nbhau nlau g; dig-r̥ṣayaḥ<note type="scheme" resp="#AB">−⏑⏑−⏑−⏑⏑⏑−,⏑⏑⏑⏑⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Mandākrāntā</ab>
+      <ab type="sūtra" n="19" xml:id="Pi.7.19">mandākrāntā mbhau ntau tgau g; samudra-rtu-svarāḥ<note type="scheme" resp="#AB">−−−−,⏑⏑⏑⏑⏑−,−⏑−−⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Śikhariṇī</ab>
+      <ab type="sūtra" n="20" xml:id="Pi.7.20">śikhariṇī ymau nsau bhlau g-r̥turudrāḥ<note type="scheme" resp="#AB">⏑−−−−−,⏑⏑⏑⏑⏑−−⏑⏑⏑−</note></ab>
+      <pb n="31"/>
+      <ab type="caption" resp="#AB">Dhr̥ti</ab>
+      <ab type="caption" resp="#AB">Kusumitalatāvēllitā</ab>
+      <ab type="sūtra" n="21" xml:id="Pi.7.21">kusumitalatāvēllitā mtau nyau yāv-indriya-rtu-svarāḥ<note type="scheme" resp="#AB">−−−−−,⏑⏑⏑⏑⏑−,−⏑−−⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Atidhr̥ti</ab>
+      <ab type="caption" resp="#AB">Śārdūlavikrīḍitaṁ</ab>
+      <ab type="sūtra" n="22" xml:id="Pi.7.22">śārdūlavikrīḍitaṁ msau jsau tau, gāditya-r̥ṣayaḥ<note type="scheme" resp="#AB">−−−⏑⏑−⏑−⏑⏑⏑−,−−⏑−−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Kr̥ti</ab>
+      <ab type="caption" resp="#AB">Suvadanā</ab>
+      <ab type="sūtra" n="23" xml:id="Pi.7.23">suvadanā mrau bhnau ybhau lgāv-r̥ṣi-svara-rtavaḥ<note type="scheme" resp="#AB">−−−−⏑−−,⏑⏑⏑⏑⏑⏑−,−−⏑⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Vr̥tta</ab>
+      <ab type="sūtra" n="24" xml:id="Pi.7.24">glitī vr̥ttam<note type="scheme" resp="#AB">−⏑−⏑−⏑−⏑−⏑−⏑−⏑−⏑−⏑−⏑</note></ab>
+      <ab type="caption" resp="#AB">Prakr̥ti</ab>
+      <ab type="caption" resp="#AB">Sragdharā</ab>
+      <ab type="sūtra" n="25" xml:id="Pi.7.25">sragdharā mrau bhnau yau y; triḥsaptakāḥ<note type="scheme" resp="#AB">−−−−⏑−−,⏑⏑⏑⏑⏑⏑−,−⏑−−⏑−−</note></ab>
+      <pb n="32"/>
+      <ab type="caption" resp="#AB">Ākr̥ti</ab>
+      <ab type="caption" resp="#AB">Madrakaṁ</ab>
+      <ab type="sūtra" n="26" xml:id="Pi.7.26">madrakaṁ bhrau nrau nrau ngau; dig-ādityāḥ<note type="scheme" resp="#AB">−⏑⏑−⏑−⏑⏑⏑−,⏑−⏑⏑⏑−⏑−⏑⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Vikr̥ti</ab>
+      <ab type="caption" resp="#AB">Aśvalalitā</ab>
+      <ab type="sūtra" n="27" xml:id="Pi.7.27">aśvalalitā njau bhjau bhjau bhlau g-rudrādityāḥ<note type="scheme" resp="#AB">⏑⏑⏑⏑−⏑−⏑⏑⏑−,⏑−⏑⏑⏑−⏑−⏑⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Mattākrīḍā</ab>
+      <ab type="sūtra" n="28" xml:id="Pi.7.28">mattākrīḍā mau tnau nau nlau g; vasu-pañca-daśakau<note type="scheme" resp="#AB">−−−−−−−−,⏑⏑⏑⏑⏑,⏑⏑⏑⏑⏑⏑⏑⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Saṅkr̥ti</ab>
+      <ab type="caption" resp="#AB">Tanvī</ab>
+      <ab type="sūtra" n="29" xml:id="Pi.7.29">tanvī bhtau nsau bhau nyāv-indriya-svara-māsāḥ<note type="scheme" resp="#AB">−⏑⏑−−,⏑⏑⏑⏑⏑⏑−,−⏑⏑−⏑⏑⏑⏑⏑⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Abhikr̥ti</ab>
+      <ab type="caption" resp="#AB">Krauñcapadā</ab>
+      <ab type="sūtra" n="30" xml:id="Pi.7.30">krauñcapadā bhmau sbhau nau nau g; bhūtēndriya-vasvr̥ṣayaḥ<note type="scheme" resp="#AB">−⏑⏑−−,−⏑⏑−−,⏑⏑⏑⏑⏑⏑⏑⏑,⏑⏑⏑⏑⏑⏑−</note></ab>
+      <pb n="33"/>
+      <ab type="caption" resp="#AB">Utkr̥ti</ab>
+      <ab type="caption" resp="#AB">Bhujaṅgavijr̥mbhitaṁ</ab>
+      <ab type="sūtra" n="31" xml:id="Pi.7.31">bhujaṅgavijr̥mbhitaṁ mau tnau nau rsau lgau; vasu-rudra-r̥ṣayaḥ<note type="scheme" resp="#AB">−−−−−−−−,⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−,⏑−⏑⏑−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Apavāhakō</ab>
+      <ab type="sūtra" n="32" xml:id="Pi.7.32">apavāhakō mnau nau nau nsau gau; nava-rtu-rasēndriyāṇi<note type="scheme" resp="#AB">−−−⏑⏑⏑⏑⏑⏑,⏑⏑⏑⏑⏑⏑,⏑⏑⏑⏑⏑⏑,⏑⏑−−−</note></ab>
+      <ab type="caption" resp="#AB">Daṇḍaka</ab>
+      <ab type="caption" resp="#AB">Daṇḍakō</ab>
+      <ab type="sūtra" n="33" xml:id="Pi.7.33">daṇḍakō nau raḥ</ab>
+      <ab type="caption" resp="#AB">Caṇḍavr̥ṣṭiprayāta</ab>
+      <ab type="sūtra" n="34" xml:id="Pi.7.34">prathamaś-caṇḍavr̥ṣṭiprayātaḥ<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑−⏑−−⏑−−⏑−−⏑−−⏑−−⏑−−⏑−</note></ab>
+      <ab type="sūtra" n="35" xml:id="Pi.7.35">anyatra rātamāṇḍavyābhyām</ab>
+      <ab type="caption" resp="#AB">Pracita</ab>
+      <ab type="sūtra" n="36" xml:id="Pi.7.36">śēṣaḥ pracita iti</ab>
+    </div>
+    <div type="adhyāya" n="8" xml:id="adh8">
+      <head>aṣṭamō 'dhyāyaḥ <supplied resp="#AB">pariśiṣṭā</supplied></head>
+      <pb n="34"/>
+      <ab type="sūtra" n="1" xml:id="Pi.8.1">atrānuktaṁ gāthā</ab>
+      <ab type="caption" resp="#AB">Triṣṭubh</ab>
+      <ab type="caption" resp="#AB">Kuḍmaladantī</ab>
+      <ab type="sūtra" n="2" xml:id="Pi.8.2">kuḍmaladantī bhtau ngau g-indriya-rasāḥ<note type="scheme" resp="#AB">−⏑⏑−−,⏑⏑⏑⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Jagatī</ab>
+      <ab type="caption" resp="#AB">Varatanu</ab>
+      <ab type="sūtra" n="3" xml:id="Pi.8.3">varatanur-njau jrau, ṣaḍ-rasāḥ<note type="scheme" resp="#AB">⏑⏑⏑⏑−⏑,⏑−⏑−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Jaladharamālā</ab>
+      <ab type="sūtra" n="4" xml:id="Pi.8.4">jaladharamālā mbhau smau samudra-vasuvaḥ<note type="scheme" resp="#AB">−−−−,⏑⏑⏑⏑−−−−</note></ab>
+      <ab type="caption" resp="#AB">Gaurī</ab>
+      <ab type="sūtra" n="5" xml:id="Pi.8.5">gaurī nau rau<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑−⏑−−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Lalanā</ab>
+      <ab type="sūtra" n="6" xml:id="Pi.8.6">lalanā bhtau nsāv-indriya-rṣayaḥ<note type="scheme" resp="#AB">−⏑⏑−−,⏑⏑⏑⏑⏑⏑−</note></ab>
+      <pb n="35"/>
+      <ab type="caption" resp="#AB">Atijagatī</ab>
+      <ab type="caption" resp="#AB">Kanakaprabhā</ab>
+      <ab type="sūtra" n="7" xml:id="Pi.8.7">kanakaprabhā sjau sjau g<note type="scheme" resp="#AB">⏑⏑−⏑−⏑⏑⏑−⏑−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Kuṭilagati</ab>
+      <ab type="sūtra" n="8" xml:id="Pi.8.8">kuṭilagatir-nau tau g, svara-rtavaḥ<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑−,−⏑−−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Śakvarī</ab>
+      <ab type="caption" resp="#AB">Varasundarī</ab>
+      <ab type="sūtra" n="9" xml:id="Pi.8.9">varasundarī bhjau snau gau<note type="scheme" resp="#AB">−⏑⏑⏑−⏑⏑⏑−⏑⏑⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Kuṭilā</ab>
+      <ab type="sūtra" n="10" xml:id="Pi.8.10">kuṭilā mbhau nyau gau, vēda-rasa-samudrāḥ<note type="scheme" resp="#AB">−−−−,⏑⏑⏑⏑⏑⏑,−−−−</note></ab>
+      <ab type="caption" resp="#AB">Aṣṭi</ab>
+      <ab type="caption" resp="#AB">Śailaśikhā</ab>
+      <ab type="sūtra" n="11" xml:id="Pi.8.11">śailaśikhā bhrau nnau bhgau, bhūta-rasēndriyāṇi<note type="scheme" resp="#AB">−⏑⏑−,⏑−⏑⏑⏑⏑,⏑⏑−⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Varayuvatī</ab>
+      <ab type="sūtra" n="12" xml:id="Pi.8.12">varayuvatī bhrau ynau ngau<note type="scheme" resp="#AB">−⏑⏑−⏑−⏑−−⏑⏑⏑⏑⏑⏑−</note></ab>
+      <pb n="36"/>
+      <ab type="caption" resp="#AB">Atyaṣṭi</ab>
+      <ab type="caption" resp="#AB">Atiśāyin</ab>
+      <ab type="sūtra" n="13" xml:id="Pi.8.13">atiśāyinī, sau jbhau jgau g, dik-svarāḥ<note type="scheme" resp="#AB">⏑⏑−⏑⏑−⏑−⏑−,⏑⏑⏑−⏑−−</note></ab>
+      <ab type="caption" resp="#AB">Avitathaṁ</ab>
+      <ab type="sūtra" n="14" xml:id="Pi.8.14">avitathaṁ njau bhjau jlau g<note type="scheme" resp="#AB">⏑⏑⏑⏑−⏑−⏑⏑⏑−⏑⏑−⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Kōkilaka</ab>
+      <ab type="sūtra" n="15" xml:id="Pi.8.15">vasv-indriya-samudrāś-cēt-kōkilakam<note type="scheme" resp="#AB">⏑⏑⏑⏑−⏑−⏑,⏑⏑−⏑⏑,−⏑⏑−</note></ab>
+      <ab type="caption" resp="#AB">Dhr̥ti</ab>
+      <ab type="caption" resp="#AB">Vibudhapriyā</ab>
+      <ab type="sūtra" n="16" xml:id="Pi.8.16">vibudhapriyā rsau jau bhrau, vasu-diśaḥ<note type="scheme" resp="#AB">−⏑−⏑⏑−⏑−,⏑⏑−⏑−⏑⏑−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Nārācakaṁ</ab>
+      <ab type="sūtra" n="17" xml:id="Pi.8.17">nārācakaṁ nau rau rau<note type="scheme" resp="#AB">⏑⏑⏑⏑⏑⏑−⏑−−⏑−−⏑−−⏑−</note></ab>
+      <ab type="caption" resp="#AB">Atidhr̥ti</ab>
+      <ab type="caption" resp="#AB">Vismitā</ab>
+      <ab type="sūtra" n="18" xml:id="Pi.8.18">vismitā ymau nsau rau g, rasa-rtu-svaraḥ<note type="scheme" resp="#AB">⏑−−−−−,⏑⏑⏑⏑⏑−,−⏑−−⏑−−</note></ab>
+      <pb n="37"/>
+      <ab type="caption" resp="#AB">Prakr̥ti<note place="foot" n="1" xml:lang="eng" resp="#AB">This metre is wrongly described as being Kr̥ti in the edition.</note></ab>
+      <ab type="caption" resp="#AB">Śaśivadanā</ab>
+      <ab type="sūtra" n="19" xml:id="Pi.8.19">śaśivadanā njau bhjau j jrau, rudra-diśaḥ<note type="scheme" resp="#AB">⏑⏑⏑⏑−⏑−⏑⏑⏑−,⏑⏑−⏑⏑−⏑−⏑−</note></ab>
+      <ab type="sūtra" n="20" xml:id="Pi.8.20">dvikau glau</ab>
+      <ab type="sūtra" n="21" xml:id="Pi.8.21">miśrau ca</ab>
+      <ab type="sūtra" n="22" xml:id="Pi.8.22">pr̥thaglā miśrāḥ</ab>
+      <ab type="sūtra" n="23" xml:id="Pi.8.23">vasuvas-trikāḥ</ab>
+      <ab type="sūtra" n="24" xml:id="Pi.8.24">lardhē</ab>
+      <ab type="sūtra" n="25" xml:id="Pi.8.25">saikē g</ab>
+      <ab type="sūtra" n="26" xml:id="Pi.8.26">pratilōma-gaṇaṁ dvir-lādyam</ab>
+      <ab type="sūtra" n="27" xml:id="Pi.8.27">tatōgyēkaṁ jahyāt</ab>
+      <ab type="sūtra" n="28" xml:id="Pi.8.28">dvir-ardhē</ab>
+      <ab type="sūtra" n="29" xml:id="Pi.8.29">rūpē śūnyam</ab>
+      <ab type="sūtra" n="30" xml:id="Pi.8.30">dviḥ śūnyē</ab>
+      <ab type="sūtra" n="31" xml:id="Pi.8.31">tāvad-ardhē tad-giṇitam</ab>
+      <ab type="sūtra" n="32" xml:id="Pi.8.32">dvir-dyūnaṁ tad-antānām</ab>
+      <ab type="sūtra" n="33" xml:id="Pi.8.33">ēkōnē 'dhvā<note place="foot" n="2" xml:lang="eng" resp="#AB">This sūtra is relegated to the notes (without explanation) in the original edition, though it is sequentially numbered as here.</note></ab>
+      <ab type="sūtra" n="34" xml:id="Pi.8.34">parē pūrṇam</ab>
+      <ab type="sūtra" n="35" xml:id="Pi.8.35">parē pūrṇam-iti</ab>
+    </div>
+    </body>
+  </text>
+</TEI>
