@@ -168,7 +168,8 @@ COLS = 'n serial pattern name text locus edition yati source_yati variant note v
 for ln, line in enumerate(open(SRC, encoding='utf8').read().split('\n'), 1):
     if not line:
         continue
-    sec, ser, dfn, yati, names = line.split('\t')
+    sec, ser, dfn, yati, names, *rest = line.split('\t')
+    rownote = ('Appendix I note: ' + rest[0]) if rest and rest[0] else ''
     via = 'Velankar I %s.%s' % (sec, ser)
     for tag in ('name', 'title'):
         if len(re.findall('<%s>' % tag, names)) != len(re.findall('</%s>' % tag, names)) or \
@@ -192,7 +193,7 @@ for ln, line in enumerate(open(SRC, encoding='utf8').read().split('\n'), 1):
         srcs = parse_sources(src, via) or [dict(text='', locus='', source_yati='', variant='', edition='', note='', raw='', titled=False)]
         for nm in nms or ['']:
             for d in srcs:
-                note = '; '.join(x for x in (d['note'], gnote) if x)
+                note = '; '.join(x for x in (d['note'], gnote, rownote) if x)
                 rows.append(dict(n=n, serial=serial, pattern=pat, name=nm, text=d['text'], locus=d['locus'], edition=d['edition'], yati=yati,
                                  source_yati=d['source_yati'], variant=d['variant'], note=note, via=via, raw=d['raw'],
                                  titled=d['titled']))

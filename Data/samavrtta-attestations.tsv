@@ -412,11 +412,10 @@ n	serial	pattern	name	text	locus	edition	yati	source_yati	variant	note	via	raw
 9	28	LLGLLGGGG	tāra	H.	2. 98						Velankar I 9.29	H. 2. 98.
 9	220	LLGLLGLLG	saumyā	H.	2. 99						Velankar I 9.30	H. 2. 99.
 10	366	LGLLGLLGLG	uṣitā	H.	2. 116						Velankar I 10.1	H. 2. 116.
-10	365	GGLLGLLGLG	upasthitā	H.	2. 120						Velankar I 10.2	H. 2. 120
-10	365	GGLLGLLGLG	upasthitā	Jd.	6. 15						Velankar I 10.2	Jd. 6. 15
-10	365	GGLLGLLGLG	upasthitā	P.	6. 14						Velankar I 10.2	P. 6. 14
-10	365	GGLLGLLGLG	upasthitā	Rm.	5. 21						Velankar I 10.2	Rm. 5. 21
-10	365	GGLLGLLGLG	upasthitā	Vr.	3. 28						Velankar I 10.2	Vr. 3. 28.
+10	365	GGLLGLLGLG	upasthitā	H.	2. 120					Appendix I note: Velankar cites Jd. 6. 15 here, but that sūtra defines the eleven-syllable upasthitā (row 11.6), not this ten-syllable one. Removed here.	Velankar I 10.2	H. 2. 120
+10	365	GGLLGLLGLG	upasthitā	P.	6. 14					Appendix I note: Velankar cites Jd. 6. 15 here, but that sūtra defines the eleven-syllable upasthitā (row 11.6), not this ten-syllable one. Removed here.	Velankar I 10.2	P. 6. 14
+10	365	GGLLGLLGLG	upasthitā	Rm.	5. 21					Appendix I note: Velankar cites Jd. 6. 15 here, but that sūtra defines the eleven-syllable upasthitā (row 11.6), not this ten-syllable one. Removed here.	Velankar I 10.2	Rm. 5. 21
+10	365	GGLLGLLGLG	upasthitā	Vr.	3. 28					Appendix I note: Velankar cites Jd. 6. 15 here, but that sūtra defines the eleven-syllable upasthitā (row 11.6), not this ten-syllable one. Removed here.	Velankar I 10.2	Vr. 3. 28.
 10	165	GGLGGLGLGG	āndōlikā	Mm.	16. 8		5,5				Velankar I 10.3	Mm. 16. 8.
 10	397	GGLLGGGLLG	suṣamā	Pp.	2. 96						Velankar I 10.4	Pp. 2. 96.
 10	205	GGLLGGLLGG	madirākṣī	Jk.	2. 88						Velankar I 10.5	Jk. 2. 88.
@@ -504,15 +503,15 @@ n	serial	pattern	name	text	locus	edition	yati	source_yati	variant	note	via	raw
 10	348	LLGLLGLGLG	ēkarūpa	Indische Studien VIII	370						Velankar I 10.34	<title>Indische Studien</title> VIII. p. 370.
 10	220	LLGLLGLLGG	mēghavitāna	Vr.	3. 28. 8						Velankar I 10.35	Vr. 3 28. 8
 10	220	LLGLLGLLGG	vitāna	Utpala	v. 46						Velankar I 10.35	Utpala, v. 46.
-11	358	LGLGGLLGLGG	upēndravajrā	H.	2. 155						Velankar I 11.1	H. 2. 155
-11	358	LGLGGLLGLGG	upēndravajrā	Jd.	6. 16						Velankar I 11.1	Jd. 6. 16
-11	358	LGLGGLLGLGG	upēndravajrā	Jk.	2. 115						Velankar I 11.1	Jk. 2. 115
-11	358	LGLGGLLGLGG	upēndravajrā	P.	6. 16						Velankar I 11.1	P. 6. 16
-11	358	LGLGGLLGLGG	upēndravajrā	Bh.	16. 28						Velankar I 11.1	Bh. 16. 28
-11	358	LGLGGLLGLGG	upēndravajrā	Rm.	5. 26						Velankar I 11.1	Rm. 5. 26
-11	358	LGLGGLLGLGG	upēndravajrā	Pp.	2. 116						Velankar I 11.1	Pp. 2. 116
-11	358	LGLGGLLGLGG	upēndravajrā	Vjs.	5. 20						Velankar I 11.1	Vjs. 5. 20
-11	358	LGLGGLLGLGG	upēndravajrā	Vr.	3. 30						Velankar I 11.1	Vr. 3. 30.
+11	358	LGLGGLLGLGG	upēndravajrā	H.	2. 155					Appendix I note: Velankar cites Jd. 6. 16 for upēndravajrā; the sūtra is Jd. 6. 17 (6. 16 is indravajrā). Corrected here.	Velankar I 11.1	H. 2. 155
+11	358	LGLGGLLGLGG	upēndravajrā	Jd.	6. 17					Appendix I note: Velankar cites Jd. 6. 16 for upēndravajrā; the sūtra is Jd. 6. 17 (6. 16 is indravajrā). Corrected here.	Velankar I 11.1	Jd. 6. 17
+11	358	LGLGGLLGLGG	upēndravajrā	Jk.	2. 115					Appendix I note: Velankar cites Jd. 6. 16 for upēndravajrā; the sūtra is Jd. 6. 17 (6. 16 is indravajrā). Corrected here.	Velankar I 11.1	Jk. 2. 115
+11	358	LGLGGLLGLGG	upēndravajrā	P.	6. 16					Appendix I note: Velankar cites Jd. 6. 16 for upēndravajrā; the sūtra is Jd. 6. 17 (6. 16 is indravajrā). Corrected here.	Velankar I 11.1	P. 6. 16
+11	358	LGLGGLLGLGG	upēndravajrā	Bh.	16. 28					Appendix I note: Velankar cites Jd. 6. 16 for upēndravajrā; the sūtra is Jd. 6. 17 (6. 16 is indravajrā). Corrected here.	Velankar I 11.1	Bh. 16. 28
+11	358	LGLGGLLGLGG	upēndravajrā	Rm.	5. 26					Appendix I note: Velankar cites Jd. 6. 16 for upēndravajrā; the sūtra is Jd. 6. 17 (6. 16 is indravajrā). Corrected here.	Velankar I 11.1	Rm. 5. 26
+11	358	LGLGGLLGLGG	upēndravajrā	Pp.	2. 116					Appendix I note: Velankar cites Jd. 6. 16 for upēndravajrā; the sūtra is Jd. 6. 17 (6. 16 is indravajrā). Corrected here.	Velankar I 11.1	Pp. 2. 116
+11	358	LGLGGLLGLGG	upēndravajrā	Vjs.	5. 20					Appendix I note: Velankar cites Jd. 6. 16 for upēndravajrā; the sūtra is Jd. 6. 17 (6. 16 is indravajrā). Corrected here.	Velankar I 11.1	Vjs. 5. 20
+11	358	LGLGGLLGLGG	upēndravajrā	Vr.	3. 30					Appendix I note: Velankar cites Jd. 6. 16 for upēndravajrā; the sūtra is Jd. 6. 17 (6. 16 is indravajrā). Corrected here.	Velankar I 11.1	Vr. 3. 30.
 11	342	LGLGLGLGLGG	vilāsinī	P.	6. 26						Velankar I 11.2	P. 6. 26.
 11	286	LGLLLGGGLGG	upasthita	H.	2. 134						Velankar I 11.3	H. 2. 134
 11	286	LGLLLGGGLGG	upasthita	Jd.	6. 41						Velankar I 11.3	Jd. 6. 41
@@ -520,21 +519,22 @@ n	serial	pattern	name	text	locus	edition	yati	source_yati	variant	note	via	raw
 11	286	LGLLLGGGLGG	śikhaṇḍita	Vr.	3. 43. 1						Velankar I 11.3	Vr. 3. 43. 1.
 11	606	LGLLLGLGGLG	sāriṇī	Rm.	5. 33						Velankar I 11.4	Rm. 5. 33.
 11	158	LGLLLGGLGGG	śikhaṇḍita	Vr.	3. 43. 2						Velankar I 11.5	Vr. 3. 43. 2.
-11	365	GGLLGLLGLGG	upasthitā	H.	2. 133						Velankar I 11.6	H. 2. 133
-11	365	GGLLGLLGLGG	upasthitā	Jk.	2. 103						Velankar I 11.6	Jk. 2. 103
-11	365	GGLLGLLGLGG	upasthitā	Vr.	3. 43. 3						Velankar I 11.6	Vr. 3. 43. 3.
+11	365	GGLLGLLGLGG	upasthitā	H.	2. 133					Appendix I note: Velankar omits Jd. 6. 15, which defines this eleven-syllable upasthitā (tjau jgau giti). Added here.	Velankar I 11.6	H. 2. 133
+11	365	GGLLGLLGLGG	upasthitā	Jd.	6. 15					Appendix I note: Velankar omits Jd. 6. 15, which defines this eleven-syllable upasthitā (tjau jgau giti). Added here.	Velankar I 11.6	Jd. 6. 15
+11	365	GGLLGLLGLGG	upasthitā	Jk.	2. 103					Appendix I note: Velankar omits Jd. 6. 15, which defines this eleven-syllable upasthitā (tjau jgau giti). Added here.	Velankar I 11.6	Jk. 2. 103
+11	365	GGLLGLLGLGG	upasthitā	Vr.	3. 43. 3					Appendix I note: Velankar omits Jd. 6. 15, which defines this eleven-syllable upasthitā (tjau jgau giti). Added here.	Velankar I 11.6	Vr. 3. 43. 3.
 11	877	GGLLGLLGLLG	mōṭaka	Bh.	16. 26						Velankar I 11.7	Bh. 16. 26
 11	877	GGLLGLLGLLG	mōṭaka	Jk.	2. 110						Velankar I 11.7	Jk. 2. 110
 11	877	GGLLGLLGLLG	mōṭanaka	H.	2. 147						Velankar I 11.7	H. 2. 147.
-11	869	GGLGGLLGLLG	indravajrā	Bh.	16. 28						Velankar I 11.8	Bh. 16. 28
-11	869	GGLGGLLGLLG	indravajrā	H.	2. 154						Velankar I 11.8	H. 2. 154
-11	869	GGLGGLLGLLG	indravajrā	Jd.	6. 16						Velankar I 11.8	Jd. 6. 16
-11	869	GGLGGLLGLLG	indravajrā	Jk.	2. 115						Velankar I 11.8	Jk 2. 115
-11	869	GGLGGLLGLLG	indravajrā	Vjs.	5. 19						Velankar I 11.8	Vjs. 5. 19
-11	869	GGLGGLLGLLG	indravajrā	P.	6. 15						Velankar I 11.8	P. 6. 15
-11	869	GGLGGLLGLLG	indravajrā	Pp.	2. 114						Velankar I 11.8	Pp. 2. 114
-11	869	GGLGGLLGLLG	indravajrā	Rm.	5. 25						Velankar I 11.8	Rm. 5. 25
-11	869	GGLGGLLGLLG	indravajrā	Vr.	3. 29						Velankar I 11.8	Vr. 3. 29.
+11	357	GGLGGLLGLGG	indravajrā	Bh.	16. 28					Appendix I note: Velankar prints the definition as tatajalaga, which is not indravajrā; Jd. 6. 16 (tau jgau guruḥ) gives tatajagaga. Corrected here.	Velankar I 11.8	Bh. 16. 28
+11	357	GGLGGLLGLGG	indravajrā	H.	2. 154					Appendix I note: Velankar prints the definition as tatajalaga, which is not indravajrā; Jd. 6. 16 (tau jgau guruḥ) gives tatajagaga. Corrected here.	Velankar I 11.8	H. 2. 154
+11	357	GGLGGLLGLGG	indravajrā	Jd.	6. 16					Appendix I note: Velankar prints the definition as tatajalaga, which is not indravajrā; Jd. 6. 16 (tau jgau guruḥ) gives tatajagaga. Corrected here.	Velankar I 11.8	Jd. 6. 16
+11	357	GGLGGLLGLGG	indravajrā	Jk.	2. 115					Appendix I note: Velankar prints the definition as tatajalaga, which is not indravajrā; Jd. 6. 16 (tau jgau guruḥ) gives tatajagaga. Corrected here.	Velankar I 11.8	Jk 2. 115
+11	357	GGLGGLLGLGG	indravajrā	Vjs.	5. 19					Appendix I note: Velankar prints the definition as tatajalaga, which is not indravajrā; Jd. 6. 16 (tau jgau guruḥ) gives tatajagaga. Corrected here.	Velankar I 11.8	Vjs. 5. 19
+11	357	GGLGGLLGLGG	indravajrā	P.	6. 15					Appendix I note: Velankar prints the definition as tatajalaga, which is not indravajrā; Jd. 6. 16 (tau jgau guruḥ) gives tatajagaga. Corrected here.	Velankar I 11.8	P. 6. 15
+11	357	GGLGGLLGLGG	indravajrā	Pp.	2. 114					Appendix I note: Velankar prints the definition as tatajalaga, which is not indravajrā; Jd. 6. 16 (tau jgau guruḥ) gives tatajagaga. Corrected here.	Velankar I 11.8	Pp. 2. 114
+11	357	GGLGGLLGLGG	indravajrā	Rm.	5. 25					Appendix I note: Velankar prints the definition as tatajalaga, which is not indravajrā; Jd. 6. 16 (tau jgau guruḥ) gives tatajagaga. Corrected here.	Velankar I 11.8	Rm. 5. 25
+11	357	GGLGGLLGLGG	indravajrā	Vr.	3. 29					Appendix I note: Velankar prints the definition as tatajalaga, which is not indravajrā; Jd. 6. 16 (tau jgau guruḥ) gives tatajagaga. Corrected here.	Velankar I 11.8	Vr. 3. 29.
 11	293	GGLGGLGGLGG	layagrāhi	H.	2. 129						Velankar I 11.9	H. 2. 129
 11	293	GGLGGLGGLGG	layagrāhi	Jk.	2. 108						Velankar I 11.9	Jk. 2. 108
 11	293	GGLGGLGGLGG	vidhyaṅgamālā	Vr.	3. 43. 4						Velankar I 11.9	Vr. 3. 43. 4.
@@ -1358,15 +1358,15 @@ n	serial	pattern	name	text	locus	edition	yati	source_yati	variant	note	via	raw
 17	37361	GGGGLLLLLGGGLGGLG	bhārākrāntā	Bh.	2. 291		4,6				Velankar I 17.16	Bh. 2. 291
 17	37361	GGGGLLLLLGGGLGGLG	bhārākrāntā	Sb.	1. 71		4,6				Velankar I 17.16	Sb. 1. 71.
 17	46578	LGGGLLLLLGLGLLGLG	kāntā	Vr.	3. 93. 4		4,6,7				Velankar I 17.17	Vr. 3. 93. 4.
-17	48578	LGGGGGLLLGLLLLGLG	śikhariṇī	Bh.	16. 76		6,11				Velankar I 17.18	Bh. 16. 76
-17	48578	LGGGGGLLLGLLLLGLG	śikhariṇī	H.	2. 286		6,11				Velankar I 17.18	H. 2. 286
-17	48578	LGGGGGLLLGLLLLGLG	śikhariṇī	Jd.	7. 13		6,11				Velankar I 17.18	Jd. 7. 13
-17	48578	LGGGGGLLLGLLLLGLG	śikhariṇī	Jk.	2. 209		6,11				Velankar I 17.18	Jk. 2. 209
-17	48578	LGGGGGLLLGLLLLGLG	śikhariṇī	P.	7. 20		6,11				Velankar I 17.18	P. 7. 20
-17	48578	LGGGGGLLLGLLLLGLG	śikhariṇī	Rm.	6. 36		6,11				Velankar I 17.18	Rm. 6. 36
-17	48578	LGGGGGLLLGLLLLGLG	śikhariṇī	Sb.	1. 56		6,11				Velankar I 17.18	Sb. 1. 56
-17	48578	LGGGGGLLLGLLLLGLG	śikhariṇī	Vjs.	5. 35		6,11				Velankar I 17.18	Vjs. 5. 35
-17	48578	LGGGGGLLLGLLLLGLG	śikhariṇī	Vr.	3. 87		6,11				Velankar I 17.18	Vr. 3. 87.
+17	59330	LGGGGGLLLLLGGLLLG	śikhariṇī	Bh.	16. 76		6,11			Appendix I note: Velankar prints the definition as yamanabhasalaga; Jd. 7. 13 (yamau nsau bhlau gantā) gives yamanasabhalaga. Corrected here.	Velankar I 17.18	Bh. 16. 76
+17	59330	LGGGGGLLLLLGGLLLG	śikhariṇī	H.	2. 286		6,11			Appendix I note: Velankar prints the definition as yamanabhasalaga; Jd. 7. 13 (yamau nsau bhlau gantā) gives yamanasabhalaga. Corrected here.	Velankar I 17.18	H. 2. 286
+17	59330	LGGGGGLLLLLGGLLLG	śikhariṇī	Jd.	7. 13		6,11			Appendix I note: Velankar prints the definition as yamanabhasalaga; Jd. 7. 13 (yamau nsau bhlau gantā) gives yamanasabhalaga. Corrected here.	Velankar I 17.18	Jd. 7. 13
+17	59330	LGGGGGLLLLLGGLLLG	śikhariṇī	Jk.	2. 209		6,11			Appendix I note: Velankar prints the definition as yamanabhasalaga; Jd. 7. 13 (yamau nsau bhlau gantā) gives yamanasabhalaga. Corrected here.	Velankar I 17.18	Jk. 2. 209
+17	59330	LGGGGGLLLLLGGLLLG	śikhariṇī	P.	7. 20		6,11			Appendix I note: Velankar prints the definition as yamanabhasalaga; Jd. 7. 13 (yamau nsau bhlau gantā) gives yamanasabhalaga. Corrected here.	Velankar I 17.18	P. 7. 20
+17	59330	LGGGGGLLLLLGGLLLG	śikhariṇī	Rm.	6. 36		6,11			Appendix I note: Velankar prints the definition as yamanabhasalaga; Jd. 7. 13 (yamau nsau bhlau gantā) gives yamanasabhalaga. Corrected here.	Velankar I 17.18	Rm. 6. 36
+17	59330	LGGGGGLLLLLGGLLLG	śikhariṇī	Sb.	1. 56		6,11			Appendix I note: Velankar prints the definition as yamanabhasalaga; Jd. 7. 13 (yamau nsau bhlau gantā) gives yamanasabhalaga. Corrected here.	Velankar I 17.18	Sb. 1. 56
+17	59330	LGGGGGLLLLLGGLLLG	śikhariṇī	Vjs.	5. 35		6,11			Appendix I note: Velankar prints the definition as yamanabhasalaga; Jd. 7. 13 (yamau nsau bhlau gantā) gives yamanasabhalaga. Corrected here.	Velankar I 17.18	Vjs. 5. 35
+17	59330	LGGGGGLLLLLGGLLLG	śikhariṇī	Vr.	3. 87		6,11			Appendix I note: Velankar prints the definition as yamanabhasalaga; Jd. 7. 13 (yamau nsau bhlau gantā) gives yamanasabhalaga. Corrected here.	Velankar I 17.18	Vr. 3. 87.
 17	23900	LLGLLGLGLGLLLGLGG	atiśāyinī	H.	2. 289		10,7				Velankar I 17.19	H. 2. 289
 17	23900	LLGLLGLGLGLLLGLGG	atiśāyinī	Jk.	2. 217		10,7				Velankar I 17.19	Jk. 2. 217
 17	23900	LLGLLGLGLGLLLGLGG	atiśāyinī	P.	8. 13		10,7				Velankar I 17.19	P. 8. 13
@@ -1717,15 +1717,15 @@ n	serial	pattern	name	text	locus	edition	yati	source_yati	variant	note	via	raw
 26	8388601	GGGLLLLLLLLLLLLLLLLLLLLGGG	apavāha	Rm.	7. 28		9,6,6				Velankar I 26.7	Rm. 7. 28
 26	8388601	GGGLLLLLLLLLLLLLLLLLLLLGGG	apavāha	Sb.	1. 131		9,6,6				Velankar I 26.7	Sb. 1. 131
 26	8388601	GGGLLLLLLLLLLLLLLLLLLLLGGG	apavāha	Vr.	3. 106		9,6,6				Velankar I 26.7	Vr. 3. 106.
-26	23854849	GGGGGGGGLLLLLLLLLLGLGLLGLG	sujaṁgavijr̥mbhita	Bh.	16. 109-110		8,11				Velankar I 26.8	Bh. 16. 109-110
-26	23854849	GGGGGGGGLLLLLLLLLLGLGLLGLG	sujaṁgavijr̥mbhita	H.	2. 376		8,11				Velankar I 26.8	H. 2. 376
-26	23854849	GGGGGGGGLLLLLLLLLLGLGLLGLG	sujaṁgavijr̥mbhita	Jd.	7. 30		8,11				Velankar I 26.8	Jd. 7. 30
-26	23854849	GGGGGGGGLLLLLLLLLLGLGLLGLG	sujaṁgavijr̥mbhita	Jk.	2. 260		8,11				Velankar I 26.8	Jk. 2. 260
-26	23854849	GGGGGGGGLLLLLLLLLLGLGLLGLG	sujaṁgavijr̥mbhita	P.	7. 31		8,11				Velankar I 26.8	P. 7. 31
-26	23854849	GGGGGGGGLLLLLLLLLLGLGLLGLG	sujaṁgavijr̥mbhita	Rm.	7. 31		8,11				Velankar I 26.8	Rm. 7. 31.
-26	23854849	GGGGGGGGLLLLLLLLLLGLGLLGLG	sujaṁgavijr̥mbhita	Sb.	1. 133		8,11				Velankar I 26.8	Sb. 1. 133
-26	23854849	GGGGGGGGLLLLLLLLLLGLGLLGLG	sujaṁgavijr̥mbhita	Vjs.	5. 50		8,11				Velankar I 26.8	Vjs. 5. 50
-26	23854849	GGGGGGGGLLLLLLLLLLGLGLLGLG	sujaṁgavijr̥mbhita	Vr.	3. 105		8,11				Velankar I 26.8	Vr. 3. 105.
+26	23854849	GGGGGGGGLLLLLLLLLLGLGLLGLG	bhujaṁgavijr̥mbhita	Bh.	16. 109-110		8,11				Velankar I 26.8	Bh. 16. 109-110
+26	23854849	GGGGGGGGLLLLLLLLLLGLGLLGLG	bhujaṁgavijr̥mbhita	H.	2. 376		8,11				Velankar I 26.8	H. 2. 376
+26	23854849	GGGGGGGGLLLLLLLLLLGLGLLGLG	bhujaṁgavijr̥mbhita	Jd.	7. 30		8,11				Velankar I 26.8	Jd. 7. 30
+26	23854849	GGGGGGGGLLLLLLLLLLGLGLLGLG	bhujaṁgavijr̥mbhita	Jk.	2. 260		8,11				Velankar I 26.8	Jk. 2. 260
+26	23854849	GGGGGGGGLLLLLLLLLLGLGLLGLG	bhujaṁgavijr̥mbhita	P.	7. 31		8,11				Velankar I 26.8	P. 7. 31
+26	23854849	GGGGGGGGLLLLLLLLLLGLGLLGLG	bhujaṁgavijr̥mbhita	Rm.	7. 31		8,11				Velankar I 26.8	Rm. 7. 31.
+26	23854849	GGGGGGGGLLLLLLLLLLGLGLLGLG	bhujaṁgavijr̥mbhita	Sb.	1. 133		8,11				Velankar I 26.8	Sb. 1. 133
+26	23854849	GGGGGGGGLLLLLLLLLLGLGLLGLG	bhujaṁgavijr̥mbhita	Vjs.	5. 50		8,11				Velankar I 26.8	Vjs. 5. 50
+26	23854849	GGGGGGGGLLLLLLLLLLGLGLLGLG	bhujaṁgavijr̥mbhita	Vr.	3. 105		8,11				Velankar I 26.8	Vr. 3. 105.
 26	19659209	GGGLGGLLLGGLLLLLLLGLGLGGLG	bhujaṁgērita	Vr.	3. 106. 2		8,11				Velankar I 26.9	Vr. 3. 106. 2.
 26	23853513	GGGLGGLLLGGLLLLLLLGLGLLGLG	bhujagērita	Vr.	3. 106. 1		8,11				Velankar I 26.10	Vr. 3. 106. 1.
 26	19173962	LGGLGGLGGLGGLGGLGGLGGLGGLG	cēṭīgati	Mm.	20. 1						Velankar I 26.11	Mm. 20. 1.

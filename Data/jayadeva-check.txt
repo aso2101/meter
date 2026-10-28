@@ -1,0 +1,51 @@
+CROSS-CHECK OF VELANKAR APPENDIX I AGAINST THE JAYADĒVACCHANDAS TEI
+Locus = adhyāya. sūtra.  Pattern, names and yati come from Data/jayadeva-reading.tsv (a hand reading of each
+sūtra: the gaṇa letters and the yati words); "scan" is the scansion of the sūtra itself, which is a line in the
+metre it defines.  The last syllable is ignored in comparisons.  Velankar row ids are section.serial.
+
+Velankar Jd. attestations: 78; pattern confirmed by the reading: 73; name not found: 2; no such sūtra: 0
+
+A. VELANKAR LOCI WITHOUT A SŪTRA IN THE TEI (0)
+
+B. VELANKAR NAME NOT FOUND IN THE SŪTRA AT HIS LOCUS (2)
+   8.3 pramāṇikā (Jd. 5. 4): name not in the sūtra "lagau pramāṇyanantaram" (read as: -)
+   16.8 acaladhr̥ti (Jd. 4. 28): name not in the sūtra "saśca dvitayādudadhēścitrā" (read as: -)
+
+C. PATTERN: THE SŪTRA (as read) DISAGREES WITH VELANKAR, OR GIVES NO PATTERN (5)
+   8.3 pramāṇikā (Jd. 5. 4): the sūtra gives no pattern (not read)
+   8.25 samānī (Jd. 5. 3): the sūtra gives no pattern (not read)
+   12.25 tata (Jd. 6. 44): Velankar LLLLLLGGGGLG (12) | reading LLLLLLLLGGLG (12) | scan LLLLLLGGGGLG (12) | sūtra "gaditamiha tatō nau mrau nāmataḥ"
+   16.8 acaladhr̥ti (Jd. 4. 28): the sūtra gives no pattern (not read)
+   20.11 suvadanā (Jd. 7. 22): Velankar GGGGLGGLLLLLLGGGLLLG (20) | reading GGGGLGGLLLLLLGGGGGLG (20) | scan GGGGLGGLLLLLLGGGLLLG (20) | sūtra "mrau bhnau ybhau lgau munibhyaḥ svararasaviratiḥ khyātā suvadanā"
+
+D. VELANKAR AND THE READING AGREE, BUT THE SCAN OF THE SŪTRA DIFFERS (1)
+   26.7 apavāha (Jd. 7. 31): Velankar and reading agree (GGGLLLLLLLLLLLLLLLLLLLLGGG) but the scan of the sūtra is GGGLLGLLLLLLLLLLLLLLLLLGGL | "mnau nāḥ pañca sagāgiti ca navarasavr̥ṣagativiramaṇamapavāhākhyam"
+
+E. YATI DIFFERS (Velankar column against the yati words of the sūtra) (8)
+   12.44 jaladharamālā (Jd. 6. 38): yati Velankar 4,8, sūtra 4,6 ("mbhau smau khyātā jaladharamālābdhyaṅgaiḥ")
+   17.13 hariṇī (Jd. 7. 16): yati Velankar 6,4, sūtra 6,4,7 ("bhavati hariṇī nsau mrau slau gō rasōdadhisaptakaiḥ")
+   17.15 mandākrāntā (Jd. 7. 17): yati Velankar 4,6, sūtra 4,6,7 ("mandākrāntā mabhanatatagā gaḥ samudrartulōkaiḥ")
+   18.18 kusumitalatāvēllitā (Jd. 7. 19): yati Velankar 5,6, sūtra 5,6,7 ("mtau nyau yau jñēyā kusumitalatāvēllitākṣartulōkaiḥ")
+   20.11 suvadanā (Jd. 7. 22): yati Velankar 7,7, sūtra 7,7,6 ("mrau bhnau ybhau lgau munibhyaḥ svararasaviratiḥ khyātā suvadanā")
+   24.5 tanvī (Jd. 7. 28): yati Velankar 12,12, sūtra 5,7,12 ("bhtau nasabhā bhnau śaramunitapanairyēna yutāpi ca bhavati hi tanvī")
+   25.4 krauñcapadā (Jd. 7. 29): yati Velankar 5,5,8, sūtra 5,5,8,7 ("krauñcapadā bhmau sbhau nacatuṣkaṁ guru ca śaraviṣayavasumuniviratiḥ")
+   26.8 bhujaṁgavijr̥mbhita (Jd. 7. 30): yati Velankar 8,11, sūtra 8,8,3,7 ("mau tnau nau raḥ salgāḥ prāhurvasumadanadahanamunibhirbhujaṅgavijr̥mbhitam")
+
+F. SŪTRAS (chapters 6, 7) NOT CITED BY VELANKAR (8)
+   Jd. 6. 14 not cited by Velankar: campakamālā | pattern GLLGGGLLGG | in the table as: campakamālā, puṣpasamr̥ddhi, rukmavatī, subhāvā | "campakamālā vānyamatēna"
+   Jd. 6. 18 not cited by Velankar: upajāti | pattern - | no pattern | "anantarāpāditalakṣmaśōbhau । pādau bhavētāṁ vividhaivikalpaiḥ ॥ yāsāmimau śravyayatiprapañcau । smr̥tāḥ smr̥tīśairupajātayastāḥ"
+   Jd. 7. 32 not cited by Velankar: caṇḍavr̥ṣṭiprayāta | pattern LLLLLLGLGGLGGLGGLGGLGGLGGLG | NOT IN THE TABLE | "prathamaka iha daṇḍakēścaṇḍavr̥ṣṭiprayātō bhavēnnadvayēnātha raiḥ saptabhiḥ"
+   Jd. 7. 33 not cited by Velankar: arṇa; arṇava; vyāla; jīmūta; līlākara; uddāma; śaṅkha | pattern - | no pattern | "pratipadamiha rēphavr̥dhyā syurarṇārṇavavyālajīmūtalīlākarōddāmaśaṅkhādayaḥ"
+   Jd. 7. 34 not cited by Velankar: pracita | pattern - | no pattern | "pracita iha kavibhirvarṇitō’smādihōpāttaśēṣatrikairuttarairnadvayādyaiḥ"
+   Jd. 7. 35 not cited by Velankar: vāṇinī | pattern LLLLGLGLLLGLLGLGG | in the table as: vāṇinī | "[ najabhajajēṣu gau yadi vadanti ca vāṇinīṁ tām"
+   Jd. 7. 36 not cited by Velankar: gāthā | pattern - | no pattern | "viṣamākṣarapādaṁ vā pādairasamaṁ daśadharmavat । tantrēsminyadasiddhaṁ gāthēti tatpaṇḍitairjñēyam"
+   Jd. 7. 37 not cited by Velankar: māṇḍūkī; citrā | pattern GGGGGGGGGLGGLGG | in the table as: cañcalā, citrā, maṇḍūkī | "māṇḍūkī citrā vā sadbhiḥ kīrtitā mau mayau yaḥ ]"
+
+G. THE READING AND THE SCAN OF THE SŪTRA DISAGREE (check the reading, and the scan) (5)
+   Jd. 6. 6 halamukhī: reading GLGLLLLLG (9) but scan GGLLLLLG (8) | "rānsau yadi halamukhī" | rānsau = ra na sa
+   Jd. 6. 44 tata: reading LLLLLLLLGGLG (12) but scan LLLLLLGGGGLG (12) | "gaditamiha tatō nau mrau nāmataḥ" | as written (nau srau) = na na sa ra, but the scan of the sūtra and Velankar both give na na ma ra: "srau" is probably a misprint or misreading for "mrau"
+   Jd. 7. 20 mēghavisphūrjitā: reading LGGGGGLLLLLGGLGGLGG (19) but scan GGGGGLLLLLGGLGGLGG (18) | "ymau nsau rau gaścēd dvirasaviratirmēghavisphūrjitāśvaiḥ" | dvirasa = 6, 6
+   Jd. 7. 22 suvadanā: reading GGGGLGGLLLLLLGGGGGLG (20) but scan GGGGLGGLLLLLLGGGLLLG (20) | "mrau bhnau ybhau lgau munibhyaḥ svararasaviratiḥ khyātā suvadanā" | as written (ymau) = ya ma, but the scan of the sūtra and Velankar both have bha as the sixth gaṇa: "ymau" is probably a misprint for "ybhau"
+   Jd. 7. 31 apavāha: reading GGGLLLLLLLLLLLLLLLLLLLLGGG (26) but scan GGGLLGLLLLLLLLLLLLLLLLLGGL (26) | "mnau nāḥ pañca sagāgiti ca navarasavr̥ṣagativiramaṇamapavāhākhyam" | nāḥ pañca = na five times; yati terms navarasavr̥ṣagati unclear
+
+H. A NAME IN THE SŪTRA IS NOT AMONG THE NAMES THE TABLE HAS FOR THAT PATTERN (0)
