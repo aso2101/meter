@@ -11,7 +11,7 @@
 3	6	ya		<name>kēśā</name> H. 2. 12; Vr. 3. 4. 1; <name>dhūḥ</name> H. 2. 12; <name>dhr̥ti</name> Bh. 32. 52; <name>vana</name> Jk 2. 9; <name>śaśī</name> Pp. 2. 15.
 3	7	ra		<name>taḍit</name> Bh. 32. 50; <name>priyā</name> Pp. 2. 13; <name>mr̥gī</name> H. 2. 13; Vr. 3. 4; <name>sudhī</name> Jk. 2. 10.
 3	8	sa		<name>pravara</name> Jk, 2. 11; <name>madana</name> H. 2. 14; <name>rajanī</name> Bh. 32. 54; <name>ramaṇa</name> Pp. 2. 17.
-4	1	jaga		<name>jayā</name> Bh. 32, 61; Jk. 2. 21; <name>nagānitā</name> (or <name>°ṇikā</name>) Pp. 2. 31; <name>lāsinī</name> Vr. 3. 5. 1; <name>vilāsinī</name> H. 2. 17.
+4	1	jaga		<name>jayā</name> Bh. 32, 61; Jk. 2. 21; <name>nagānitā</name> (or <name>nagāṇikā</name>) Pp. 2. 31; <name>lāsinī</name> Vr. 3. 5. 1; <name>vilāsinī</name> H. 2. 17.
 4	2	jala		<name>japā</name> Jk. 2. 29.
 4	3	taga		<name>tārā</name> Jk 2. 20; <name>sōmapriyā</name> H. 2. 22.
 4	4	tala		<name>trapu</name> Jk 2, 28,
@@ -92,10 +92,10 @@
 8	1	jatagaga		<name>vitāna</name> Vr. 3. 19.
 8	2	jaragala		<name>sucandraprabhā</name> Ckau. 2. 27.
 8	3	jaralaga		<name>nagasvarūpiṇī</name> Sham. 3. 8. 3; <name>nārācaka</name> Vjs. 4. 58; <name>pramāṇikā</name> H. 2. 82; Jd. 5. 4; Jk. 2. 65; P. 5. 7; Vr. 3. 18; <name>mattacēṣṭita</name> Bh. 16. 14; 32. 306 (Nsp.); <name>sthira</name> Utpala, v. 38.
-8	4	tajalaga		<name>anuṣṭubh</name> Jk. 2. 62; Br̥hajjātaka 6. 3--4.
+8	4	tajalaga		<name>anuṣṭubh</name> Jk. 2. 62; <title>Br̥hajjātaka</title> 6. 3-4.
 8	5	tatagaga		<name>kētumālā</name> Jk. 2. 71.
 8	6	taragaga		<name>vibhā</name> H. 2. 72.
-8	7	taralaga		<name>nārāca</name> (or <name>°cikā</name>) H. 2. 78; Jk. 2. 70; Vr. 3. 19. 2 (ab).
+8	7	taralaga		<name>nārāca</name> (or <name>nārācikā</name>) H. 2. 78; Jk. 2. 70; Vr. 3. 19. 2 (ab).
 8	8	tasagaga		<name>śyāmā</name> Vjs. 5. 10.
 8	9	najagaga		<name>cittavilāsita</name> Bh. (Gaek. ed.) 15. 26.
 8	10	najalaga		<name>lalitagati</name> Bh. 32. 130-31; H. 2 80.
@@ -125,7 +125,7 @@
 9	3	tabhaya		<name>rucirā</name> Bh. 32. 142; H. 2. 100.
 9	4	najaya		<name>śaśilēkhā</name> Bh. 32. 204; H. 2. 103.
 9	5	najara		<name>budbuda</name> Bh. (Nsp.) 32. 284.
-9	6	nanama		<name>madhukarikā</name> Bh. 16. 18; <name>bhujagaśiśusr̥tā</name> H. 2. 91; Jd. 6. 7; Jk. 2. 78; P. 6. 7; Rm. 5. 16; <name>°bhr̥tā</name> Vr. 3. 21.
+9	6	nanama		<name>madhukarikā</name> Bh. 16. 18; <name>bhujagaśiśusr̥tā</name> H. 2. 91; Jd. 6. 7; Jk. 2. 78; P. 6. 7; Rm. 5. 16; <name>bhujagaśiśubhr̥tā</name> Vr. 3. 21.
 9	7	nanara		<name>upacyuta</name> H. 2. 95; Jk. 2. 82.
 9	8	nanasa		<name>kamalā</name> Pp. 2. 82; <name>laghumaṇiguṇanikara</name> Bh. 32. 208; H. 2. 104.
 9	9	nayasa		<name>sāraṁgikā</name> Pp. 2. 78.
@@ -161,7 +161,7 @@
 10	9	narajaga		<name>manōramā</name> H. 2. 119; Vr. 3. 27.
 10	10	bhatanaga		<name>mr̥gacapalā</name> H. 2. 122; <name>suradayitā</name> Bh. 32. 213.
 10	11	bhanamaga		<name>bandhūka</name> H. 2. 118.
-10	12	bhabhabhaga		<name>citragati</name> H. 2. 113; Jk. 2. 89; <name>dōdhaka</name> Bb. 16. 24. <name>vr̥tta</name> Bh. 32. 217; <name>sāravatī</name> Pp. 2. 94.
+10	12	bhabhabhaga		<name>citragati</name> H. 2. 113; Jk. 2. 89; <name>dōdhaka</name> Bh. 16. 24. <name>vr̥tta</name> Bh. 32. 217; <name>sāravatī</name> Pp. 2. 94.
 10	13	bhabhamaga		<name>bandhūka</name> Jk. 2. 94.
 10	14	bhamajaga		<name>dīpakamālā</name> Vr. 3. 28. 2.
 10	15	bhamataga		<name>dīpakamālā</name> Vr. 3. 28. 3.
@@ -183,7 +183,7 @@
 10	31	sajajaga		<name>kamalā</name> Mm. 13. 10; <name>saṁyutā</name> Pp. 2. 90.
 10	32	sajasaga		<name>pramitā</name> Bh. 32. 144; <name>mālā</name> H. 2. 126.
 10	33	satayaga	5,5	<name>kalagīta</name> Mm. 13. 7.
-10	34	sasajaga		<name>ēkarūpa</name> Indishe Studien VIII. p. 370.
+10	34	sasajaga		<name>ēkarūpa</name> <title>Indische Studien</title> VIII. p. 370.
 10	35	sasasaga		<name>mēghavitāna</name> Vr. 3 28. 8; <name>vitāna</name> Utpala, v. 46.
 11	1	jatajagaga		<name>upēndravajrā</name> H. 2. 155; Jd. 6. 16; Jk. 2. 115; P. 6. 16; Bh. 16. 28; Rm. 5. 26; Pp. 2. 116; Vjs. 5. 20; Vr. 3. 30.
 11	2	jarajagaga		<name>vilāsinī</name> P. 6. 26.
@@ -206,7 +206,7 @@
 11	19	nanasagaga		<name>vr̥ntā</name> H. 2. 139; Jd. 6. 25; Jk, 2. 106; P. 6. 24; Rm. 5. 34; Vr. 3. 40 (v. l. <name>vr̥ttā</name> or <name>pr̥thvī</name>).
 11	20	nayanalaga		<name>kamaladalākṣī</name> H. 2. 150; Bh. 32. 231; <name>ruciramukhī</name> Bh. 32. 225.
 11	21	nayabhagaga	6,5	<name>anavasitā</name> Vr. 3. 43. 8; <name>patitā</name> H. 2. 140; <name>patitā</name> or <name>śrī</name> Jk. 2. 114; <name>māṇikyamālā</name> Mm. 14. 10.
-11	21A	nayasagaga		Br̥hatsamhitā 33. 29; 35. 8.
+11	21A	nayasagaga		<title>Br̥hatsamhitā</title> 33. 29; 35. 8.
 11	22	nararalaga		<name>rājahaṁsī</name> (6, 5) Mm. 9. 11; <name>vibhūṣaṇā</name> Vjs. 4. 94.
 11	23	nasanagaga		<name>aśōkā</name> H. 2. 152; <name>gataviśōkā</name> Bh. 32. 146.
 11	24	bhatanagaga		<name>anukūlā</name> Chm. 2. 11. 8; <name>pratyavabōdha</name> H. 2. 132; <name>mauktikamālā</name> Vr. 3. 43. 10; <name>śrī</name> Mm. 16. 14.
@@ -236,11 +236,11 @@
 12	4	jabhasaya	4,8	<name>smr̥ti</name> Jk. 2. 147.
 12	5	jarajara		<name>pañcacāmara</name> Vr. 3. 64. 4 (a); <name>pramāṇa</name> Rm. 5. 2; <name>vasantacatvara</name> Kd. 4. 53; <name>vasantacāmara</name> Vr. 3. 64. 4 (c); <name>vibhāvarī</name> H. 2. 184; Vr. 3. 64. 4(b).
 12	6	jarabhara		<name>haṁsāsya</name> Bh. 32. 321.
-12	7	jasajasa	6,6	<name>jalōddhatagati</name> H. 2. 169; Jd. 6. 32; Jk. 2. 127; P. 6° 33; Rm. 6. 11; Vr. 3. 52.
+12	7	jasajasa	6,6	<name>jalōddhatagati</name> H. 2. 169; Jd. 6. 32; Jk. 2. 127; P. 6. 33; Rm. 6. 11; Vr. 3. 52.
 12	8	jasasaya		<name>kōla</name> H. 2. 193.
 12	9	tatajara		<name>indravaṁśā</name> H. 2. 158; Jd. 6. 29; Jk. 2. 144; P. 6. 29; Rm. 6. 5; Vr. 3. 46.
 12	10	tatatata		<name>kāmāvatāra</name> H. 2. 167; Jk. 2. 119; <name>sāraṁgarūpaka</name> Pp. 2. 131.
-12	11	tananaya		Haravijaya, 46. 51.
+12	11	tananaya		? <title>Haravijaya</title>, 46. 51.
 12	12	tabhajara		<name>lalitā</name> Bh. 32. 148-49; H. 2. 175; Vr. 3. 57.
 12	13	tabhasaya	4,8	<name>śruti</name> Jk. 2. 146.
 12	14	tayataya		<name>abjavicitrā</name> or <name>maṇimālā</name> Jk. 2. 138; <name>puṣpavicitrā</name> H. 2. 189; Jd. 6. 45; Vr. 3. 64. 5.
@@ -258,7 +258,7 @@
 12	26	nanaraya		<name>kāmadattā</name> Bh. 16. 50; H. 2. 187; Jk. 2. 141.
 12	27	nanarara		<name>gaurī</name> Vr. 3. 64. 9; P. 8. 5; <name>cañcalākṣī</name> P. 6. 36; <name>pramuditavadanā</name> H. 2. 181; Jk. 2 130; Vr. 3. 50; <name>mandākinī</name> Chm. 2. 12. 11; Ckau. 2. 71.
 12	28	nanarara	7,5	<name>prabhā</name> H. 2. 182; Vr. 3. 64. 10.
-12	29	nabhajaya		<name>kalahaṁsā</name> H. 2. 160; Jk. 2. 132; <name>drutapada</name> Vr. 3. 64. 11, Utpala, v. 20; <name>mukhara</name> H. 2. 160.
+12	29	nabhajaya		<name>kalahaṁsā</name> H. 2. 160; Jk. 2. 132; <name>drutapada</name> Vr. 3. 64. 11; Utpala, v. 20; <name>mukhara</name> H. 2. 160.
 12	30	nabhajaya	4,8	<name>drutapadā</name> Jk. 2. 142.
 12	31	nabhajara		<name>priyaṁvadā</name> H. 2. 174; Vr. 3. 55; <name>mattakōkila</name> Jk. 2. 133.
 12	32	nabhanaya		<name>drutapada</name> Vr. 3. 64. 12.
@@ -269,7 +269,7 @@
 12	37	bhatanasa	5,7	<name>rati</name> Jk. 2. 140; <name>lalanā</name> H. 2. 186; P. 8. 6.
 12	38	bhabhabhabha		<name>bhāminī</name> Mm. 9. 5; <name>mōdaka</name> Pp. 2. 135.
 12	39	bhabhamasa	4,8	<name>jalamālā</name> Mm. 17. 13.
-12	40	bhabharaya	?	Bhatti Kavya, 22. 85.
+12	40	bhabharaya	?	<title>Bhaṭṭi Kavya</title>, 22. 85.
 12	41	bhamasasa	5,7	<name>lalanā</name> Vr. 3. 64. 13 (V. l. <name>lalitā</name>).
 12	42	mabharaya		<name>puṇḍarīka</name> Jk. 2. 136.
 12	43	mabhasama		<name>kāntōtpīḍā</name> P. 6. 40.
@@ -292,7 +292,7 @@
 13	5	tabharajaga	4,9	<name>prabhāvatī</name> Vr. 3. 70. 3.
 13	6	tabhasajaga	4,9	<name>prabhāvatī</name> Vr. 3. 70. 4; <name>ruci</name> Jk. 2. 164; <name>lakṣmī</name> H. 2. 214; Jk. 2. 154; Utpala, v. 36.
 13	7	najajaraga		<name>mr̥gēndramukha</name> Vr. 3. 70. 5; <name>suvaktrā</name> H. 2. 195; <name>suvaktrā</name> or <name>acala</name> Jk. 2. 160.
-13	8	najatataga		<name>kuṭila</name>-(or <name>kuṭaja</name>-) <name>gati</name> Vr. 3. 70. 6.
+13	8	najatataga		<name>kuṭilagati</name> or <name>kuṭajagati</name> Vr. 3. 70. 6.
 13	9	najanasaga		<name>madakalitā</name> Bh. 32. 239; H. 2. 211; Jk. 2. 155.
 13	10	najasajaga		<name>mañjubhāṣiṇī</name> Jk. 2 156.
 13	11	natatataga		<name>ūrvaśī</name> H. 2. 194; <name>kaumudī</name> Jk. 2. 149.
@@ -311,19 +311,19 @@
 13	24	nasatataga	6,7	<name>vidyut</name> Vr. 3. 70. 9.
 13	25	nasararaga		<name>candralēkhā</name> H. 2. 207; Vr. 3. 70. 10 (6, 7).
 13	26	bhanajajala		<name>paṅkāvalī</name> Pp. 2. 148.
-13	27	bhananajaga	?	Haravijaya, 31. 54.
+13	27	bhananajaga	 	? <title>Haravijaya</title>, 31. 54.
 13	28	bhabhabhabhaga		<name>aṅgaruci</name> H. 2. 196; Jk. 2. 161.
 13	29	matayasaga	4,9	<name>mattamayūra</name> Bh. 16. 62; H. 2. 199; Jd. 7. 3; Jk. 2. 151; P. 7. 3; Rm. 6. 16; Vr. 3. 68; <name>māyā</name> Pp. 2. 141.
 13	30	matasaraga	5,8	<name>kōḍumbha</name> H. 2. 216.
 13	31	manajaraga	3,10	<name>praharṣiṇī</name> Bh. 16. 60; H. 2. 197; Jd. 7. 1; Jk. 2. 150; P. 7. 1; Rm. 6. 14; Vr. 3. 66; <name>mayūrapiccha</name> Vjs. 5. 29.
-13	32	mabhanayaga		(?) Haravijaya, 5. 35; Kapphiṇābhyudaya, 6. 51.
+13	32	mabhanayaga		? <title>Haravijaya</title>, 5. 35; <title>Kapphiṇābhyudaya</title>, 6. 51.
 13	33	mabhabhabhaga		<name>mōhapralāpa</name> Mm. 18. 1.
 13	34	mamajajaga	4,9	<name>śrēyōmālā</name> H. 2. 201.
 13	35	mamatanaga		<name>vidyunmālā</name> Bh. 32. 164.
 13	36	yamararaga		<name>cañcarīkāvalī</name> Vr. 3. 70. 11; <name>candrikā</name> Jk. 2. 153; <name>candriṇī</name> H. 2 204.
 13	37	yayayayala		<name>kanda</name> Pp. 2. 145.
 13	38	sajasajaga		<name>kanakaprabhā</name> P. 8. 7; H. 2. 210; <name>jayā</name> H. 2. 210; <name>jayā</name> or <name>nandinī</name> Jk. 2. 159; <name>nandinī</name> H. 2. 210; Sb. 1. 8; <name>prabōdhitā</name> Ckau. 2. 93; Chm. 2. 13. 5; <name>mañjubhāṣiṇī</name> Vr. 3. 69; <name>manōvatī</name> H. 2. 210; <name>vilambitā</name> Bh. 32. 151; <name>sunandinī</name> Vr. 3. 70. 12; <name>sumaṅgalī</name> H. 2. 210.
-13	39	sajasasaga		<name>kalahaṁsa</name> or <name>siṁhanāda</name> Ckau. 2. 96; Chm. 2. 13. 7; <name>kuṭaja</name> H. 2. 212; Jk. 2. 152; Vr. 3. 70. 13 (b); <name>nandinī</name> Vr. 3. 70. 13 (a); <name>navanāndinī</name> Vr. 3. 70. 13 (a); <name>bhramarī</name> Jk. 2. 157; <name>sumaṅgalikā</name> Ram. on <name>bhāratacampū</name> 5. 87.
+13	39	sajasasaga		<name>kalahaṁsa</name> or <name>siṁhanāda</name> Ckau. 2. 96; Chm. 2. 13. 7; <name>kuṭaja</name> H. 2. 212; Jk. 2. 152; Vr. 3. 70. 13 (b); <name>nandinī</name> Vr. 3. 70. 13 (a); <name>navanāndinī</name> Vr. 3. 70. 13 (a); <name>bhramarī</name> Jk. 2. 157; <name>sumaṅgalikā</name> Ram. on <title>Bhāratacampū</title> 5. 87.
 13	40	sanasataga		<name>budbudaka</name> Bh. 32. 310.
 13	41	sabhanasaga	4,9	<name>rati</name> Mm. 17. 26.
 13	42	sayasajaga		<name>maṇikuṇḍala</name> Jk. 2. 158; <name>sudanta</name> H. 2. 217.
@@ -331,14 +331,14 @@
 14	1	jabhanayagaga	4,10	<name>kuṭila</name> Vr. 3. 77. 1.
 14	2	jasaranagaga	7,7	<name>rājaramaṇīya</name> H. 2. 229; Rm. 6. 21.
 14	3	tabhajajagaga		<name>uddharṣiṇī</name> P. 7. 10; Vr. 3. 75. 1; <name>karṇōtpalā</name> or <name>madhumādhavī</name> or <name>śōbhāvatī</name> Vr. 3. 75. 2-4; <name>vasantatilaka</name> Bh. 16. 64; H. 2. 231; Jd. 7. 7; Jk. 2. 169; P. 7. 8; Pp. 2. 150; Rm. 6. 18; Vr. 3. 74; Sb. 1. 5; <name>siṁhōddhatā</name> or <name>nnatā</name> P. 7. 9; H. 2. 231; Vjs. 5. 31; Vr. 3. 75.
-14	3A	tabhasajagaga		Br̥hajjātaka, 23. 4.
+14	3A	tabhasajagaga		<title>Br̥hajjātaka</title>, 23. 4.
 14	4	tayasabhagaga	6,8	<name>kalahaṁsī</name> Mm. 18. 2.
 14	5	najabhajagaga	8,8	<name>kumārī</name> Vr. 3. 77. 3.
 14	6	najabhajalaga		<name>dhr̥ti</name> H. 2. 235; Vr. 3. 77. 4 (a); <name>pramadā</name> Vr. 3. 77. 4 (b); <name>maṇikaṇṭaka</name> Jk. 2. 175.
 14	7	nanatajagaga	7,7	<name>nadī</name> Vr. 3. 77. 2.
 14	8	nanatatagaga		<name>nandīmukhī</name> Sb. 1. 11; Chm. 2. 14. 7; Ckau. 2. 105; <name>vasanta</name> H. 2. 224; Jk. 2. 170; Ckau. 2. 105.
 14	9	nanananagaga		<name>upacitra</name> H. 2. 234; Jk. 2. 177; Sb. 1. 19; <name>supavitra</name> Vr. 3. 77. 5 (8, 6).
-14	10	nanabhanalaga	7,7	<name>praharaṇakalitā</name> H. 2. 222; Jd. 7. 6; P. 7. 7; Vr. 3. 73; Sb. 1. 15; <name>°kalikā</name> Jk. 2. 173; Rm. 6. 22.
+14	10	nanabhanalaga	7,7	<name>praharaṇakalitā</name> H. 2. 222; Jd. 7. 6; P. 7. 7; Vr. 3. 73; Sb. 1. 15; <name>praharaṇakalikā</name> Jk. 2. 173; Rm. 6. 22.
 14	11	nanamayalaga	7,7	<name>karimakarabhujā</name> H. 2. 223; Sb. 1. 17.
 14	12	nanarasalaga	7,7	<name>aparājitā</name> H. 2. 220; Jd. 7. 5; Jk. 2. 172; P. 7. 6; Rm. 6. 20; Vr. 3. 72; Sb. 1. 13.
 14	13	nanasasagaga		<name>vibhramā</name> Bh. 32. 168.
@@ -353,7 +353,7 @@
 14	22	bhabharasalaga		<name>darduraka</name> H. 2. 236; Jk. 2. 178.
 14	23	bhasatatagaga		<name>lakṣmī</name> Jk. 2. 168.
 14	24	matanamagaga		<name>vāsantī</name> Chm. 2. 14. 5; Ckau. 2. 102.
-14	25	matanasagaga	5,9	<name>asaṁbādhā</name> Bb. 16. 66; H. 2. 230; Jd. 7. 4; Jk. 2. 176; P. 7. 5; Rm. 6. 19; Sb. 1. 8; Vr. 3. 71.
+14	25	matanasagaga	5,9	<name>asaṁbādhā</name> Bh. 16. 66; H. 2. 230; Jd. 7. 4; Jk. 2. 176; P. 7. 5; Rm. 6. 19; Sb. 1. 8; Vr. 3. 71.
 14	26	matayanalaga		<name>bhūtalatanvī</name> Bh. 32. 166 (v. l. <name>kusumavatī</name>-Nsp.).
 14	27	mabhanatagaga		<name>śarabhalalita</name> Bh. 16. 68.
 14	28	mabhanayagaga	4,6,4	<name>kuṭilā</name> H. 2. 241; P. 8. 10; <name>kuṭila</name> Vr. 3. 77. 7 (b); <name>haṁsaśyāmā</name> (4, 10) Jk. 2. 167; <name>haṁsaśyēnī</name> or <name>madhyakṣāmā</name> (4, 10) Vr. 3. 77. 7 (a, c.).
@@ -392,7 +392,7 @@
 15	21	mamamayaya	8,7	<name>cañcalā</name> H. 2. 249; <name>citrā</name> H. 2. 249; Sb. 1. 39; <name>maṇḍūkī</name> Jk. 2. 193.
 15	22	maramayaya	7,8	<name>candralēkhā</name> H. 2. 250; Vr. 3. 84.
 15	23	rajarajara		<name>utsava</name> or <name>utsāha</name> Jk. 6. 30; <name>cāmara</name> Pp. 2. 158; <name>tūṇaka</name> H. 2. 254; Sb. 1. 33; <name>mahōtsava</name> Jk. 2. 190.
-15	24	ranabhabhara		<name>ramaṇīyaka</name> Vr. 3. 84. 5; Jk. 2. 196 (3, 12); <name>sundara</name> H. 2. 256; or <name>maṇibhūṣaṇa</name> Jk. 2. 191; <name>utsara</name> Zdmg., 44, P. 75, No. 9.
+15	24	ranabhabhara		<name>ramaṇīyaka</name> Vr. 3. 84. 5; Jk. 2. 196 (3, 12); <name>sundara</name> H. 2. 256; or <name>maṇibhūṣaṇa</name> Jk. 2. 191; <name>utsara</name> ZDMG 44 p. 75 (no. 9).
 15	25	raratatama	8,7	<name>candralēkhā</name> Jk. 2. 195.
 15	26	raratayaya	7,8	<name>candrakāntā</name> Ckau. 2. 120.
 15	27	raramayaya	7,8	<name>candrakāntā</name> Vr. 3. 84. 6; or <name>candralēkhā</name> H. 2. 251; Vr. 3. 84. 6.
@@ -414,7 +414,7 @@
 16	11	nayanayasaga	12,4	<name>kānta</name> Jk. 2. 206.
 16	12	bhabhabhabhabhaga		<name>aśvagati</name> Kd. 4. 76; (or <name>khagati</name>, <name>svagati</name> Wrongly) Vr. 3. 86. 4; <name>aśvākrāntā</name> Vjs. 3. 32; <name>nīla</name> Pp. 2. 170; <name>padmamukhī</name> Jk. 2. 199; <name>saṁgata</name> H. 2. 265.
 16	13	bhabhabhabhasaga		<name>śaramālā</name> H. 2. 264; <name>smaraśaramālā</name> Jk. 2. 198.
-16	14	bharanananaga	7,9	<name>r̥ṣabhagajavilasita</name> H. 2. 271; Jd. 7. 12; Jk. 2. 202; <name>gajaturagavilasita</name> Ckau. 2. 124; <name>gajavaravi</name>° Sb. 1. 47; <name>mattagajavi</name>° P. 7. 15; Vr. 3. 85; <name>vr̥ṣabha</name>° Bh. 16. 72; Rm. 6. 31.
+16	14	bharanananaga	7,9	<name>r̥ṣabhagajavilasita</name> H. 2. 271; Jd. 7. 12; Jk. 2. 202; <name>gajaturagavilasita</name> Ckau. 2. 124; <name>gajavaravilasita</name> Sb. 1. 47; <name>mattagajavilasita</name> P. 7. 15; Vr. 3. 85; <name>vr̥ṣabhagajavilasita</name> Bh. 16. 72; Rm. 6. 31.
 16	15	bharanabhabhaga	5,6,5	<name>bhāminī</name> Jk. 2. 208; <name>śailaśikhā</name> H. 2. 281; P. 8. 11.
 16	16	bharanaranaga	10,6	<name>dhīralalitā</name> Vr. 3. 86. 3; <name>pramuditā</name> Vjs. 5. 33; <name>māhiṣī</name> H. 2. 274; <name>lalitā</name> Utpala, v. 41.
 16	17	bharayananaga		<name>varayuvati</name> H. 2, 282; P. 8. 12.
@@ -451,8 +451,8 @@
 17	17	yabhanarasalaga	4,6,7	<name>kāntā</name> Vr. 3. 93. 4.
 17	18	yamanabhasalaga	6,11	<name>śikhariṇī</name> Bh. 16. 76; H. 2. 286; Jd. 7. 13; Jk. 2. 209; P. 7. 20; Rm. 6. 36; Sb. 1. 56; Vjs. 5. 35; Vr. 3. 87.
 17	19	sasajabhajagaga	10,7	<name>atiśāyinī</name> H. 2. 289; Jk. 2. 217; P. 8. 13; Vr. 3. 93. 5 (No Yati); <name>citralēkhā</name> or <name>drutā</name> Vr. 3. 93. 6; <name>yādavī</name> H. 2. 289.
-18	1	najabhajajara		? Haravijaya, 46. 65.
-18	2	najabhajanasa		? Haravijaya, 14. 60.
+18	1	najabhajajara		? <title>Haravijaya</title>, 46. 65.
+18	2	najabhajanasa		? <title>Haravijaya</title>, 14. 60.
 18	3	najabhajarara	11,7	<name>nandana</name> Chm. 2. 18. 2; Ckau 2. 145.
 18	4	nanamatabhara	7,4	<name>lalita</name> H. 2. 308; Sb. 1. 83.
 18	5	nanamamayaya	7,4	<name>candramālā</name> H. 2. 307; Sb. 1. 75.
@@ -483,7 +483,7 @@
 18	30	yamanasatasa	6,6	<name>krīḍā</name> H. 2. 317; <name>muktāmālā</name> Jk. 2. 218; <name>sudhā</name> Vr. 3. 94. 12.
 18	31	yayayayayaya		<name>krīḍācakra</name> Pp. 2. 182.
 18	32	ratajajabhara	8,5	<name>haranartana</name> Mm. 19. 2.
-18	33	rasajajabhara	8,5	<name>ujjvala</name> H. 2. 313; <name>carcarī</name> Pp. 2. 184; <name>mālikōttaramālikā</name> Jk. 2. 220; <name>vibudhapriyā</name> P. 8. 16; <name>haranartana</name> (<name>°ka</name>) Vr. 3. 94. 14.
+18	33	rasajajabhara	8,5	<name>ujjvala</name> H. 2. 313; <name>carcarī</name> Pp. 2. 184; <name>mālikōttaramālikā</name> Jk. 2. 220; <name>vibudhapriyā</name> P. 8. 16; <name>haranartana</name> (<name>haranartanaka</name>) Vr. 3. 94. 14.
 18	34	rasajayabhara	6,4,8	<name>varakr̥ttana</name> Vr. 3. 94. 15.
 18	35	sajasajatara		<name>budbuda</name> H. 2. 320.
 18	36	satanayayaya	5,6	<name>mandāramālā</name> Jk. 2. 221.
@@ -502,7 +502,7 @@
 19	11	matanasararaga	5,7	<name>puṣpadāma</name> H. 2. 327; Sb. 1. 98; Vr. 3, 96. 6.
 19	12	marabhanayanaga	7,7,5	<name>surasā</name> Chm. 2. 19, 4; Ckau. 2. 155.
 19	13	marabhasasajaga	7,12	<name>mādhavīlatā</name> H. 2. 332; Rm. 7. 7.
-19	14	masajasatataga	12,7	<name>śārdūlavikrīḍita</name> Bh. 16. 88. 89; H. 2. 321; Jd. 7. 21; Jk. 2. 228; P. 7. 22; Rm. 7. 5; Sb. 1. 95; Vjs. 5. 40; Vr. 3. 96.
+19	14	masajasatataga	12,7	<name>śārdūlavikrīḍita</name> Bh. 16. 88-89; H. 2. 321; Jd. 7. 21; Jk. 2. 228; P. 7. 22; Rm. 7. 5; Sb. 1. 95; Vjs. 5. 40; Vr. 3. 96.
 19	15	masajasanajaga	12,7	<name>vāyuvēgā</name> H. 2. 322; Rm. 7. 6.
 19	16	yabhanayajajaga	12,7	<name>maṇimañjarī</name> Vr. 3. 96. 7.
 19	17	yamananararaga	6,7	<name>mugdhaka</name> H. 2. 329.
@@ -533,7 +533,7 @@
 20	17	sabharanamayalaga	13,7	<name>mattēbhavikrīḍita</name> H. 2. 336; Jk. 2. 233; Vr. 3. 98. 4.
 21	1	tarabhanajabhara	7,7	<name>kathāgati</name> H. 2. 346; Rm. 7. 13.
 21	2	najajajajabhara		<name>vanamañjarī</name> H. 2. 351; Jk. 2. 240.
-21	3	najabhajajajara		<name>citralatā</name> or <name>campakamālikā</name> Jk. 2. 239; <name>rucirā</name> H. 2. 350; <name>sarasī</name> Chm. 2. 21. 2; <name>salilanidhi</name> Vr. 3. 99. 1; <name>siddhi</name> H. 2. 350; Sb. 1. 114; Vr. 3. 99. 1; <name>dhr̥taśrī</name> Zdmg., 44, p. 77.
+21	3	najabhajajajara		<name>citralatā</name> or <name>campakamālikā</name> Jk. 2. 239; <name>rucirā</name> H. 2. 350; <name>sarasī</name> Chm. 2. 21. 2; <name>salilanidhi</name> Vr. 3. 99. 1; <name>siddhi</name> H. 2. 350; Sb. 1. 114; Vr. 3. 99. 1; <name>dhr̥taśrī</name> ZDMG 44 p. 77.
 21	4	najabhajajajara	11,10	<name>pañcakāvalī</name> Vr. 3. 99. 2; <name>śaśivadanā</name> P. 8. 19.
 21	5	bhabhabhabhabhabhara		<name>mattavilāsinī</name> Vr. 3. 99. 3.
 21	6	bharananajajaya		<name>narēndra</name> Pp. 2. 202.

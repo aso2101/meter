@@ -1,0 +1,97 @@
+REMAINING PROBLEMS in Data/samavrtta-attestations.tsv (written by build_samavrtta_attestations.py)
+Row ids are Velankar Appendix I section.serial.
+
+1. MALFORMED MARKUP in Jayadāman/appendix-I.tsv
+   none
+
+2. ABBREVIATIONS NOT IDENTIFIED (not in the table in Texts/OVERVIEW.md, and not given as <title>)
+   Chau. (1): 17.4 nardaṭaka 2. 135
+   Ckm. (1): 9.27 bhujaṅgasaṁgatā 2. 9. 3
+   Cku. (1): 4.5 satī 2. 6
+   Mu. (4): 9.15 maṇibandha 3. 109; 11.16 damanaka 3. 133; 11.36 tāla 3. 135; 13.2 kalāvatī 3. 186
+   Sham. (1): 8.3 nagasvarūpiṇī 3. 8. 3
+   ZDMG (2): 15.24 utsara 44. 75; 21.3 dhr̥taśrī 44. 77
+
+2b. EDITIONS NOT IDENTIFIED (not given as "| Bh (X) |" in Texts/OVERVIEW.md)
+   none
+
+3. NAMES WITH A SOURCE ABBREVIATION BUT NO LOCUS, OR NO SOURCE AT ALL
+   12.45 kāñcana: 'H.' (nothing else printed)
+   14.35 latā: 'H.' (nothing else printed)
+   22.5 prabhadraka: 'Vr. (v. l.)' (v. l.)
+   22.5 bhadraka: 'Vr (v. l.)' (v. l.)
+
+4. FRAGMENTS THE PARSER COULD NOT READ
+   none
+
+5. UNNAMED ATTESTATIONS (pattern cited from a text, no name printed)
+   11.21A Br̥hatsamhitā 33. 29
+   11.21A Br̥hatsamhitā 35. 8
+   12.11 Haravijaya 46. 51  [printed ?]
+   12.40 Bhaṭṭi Kavya 22. 85
+   13.27 Haravijaya 31. 54  [printed ?]
+   13.32 Haravijaya 5. 35  [printed ?]
+   13.32 Kapphiṇābhyudaya 6. 51
+   14.3A Br̥hajjātaka 23. 4
+   18.1 Haravijaya 46. 65  [printed ?]
+   18.2 Haravijaya 14. 60  [printed ?]
+
+6. TO CHECK AGAINST THE TEXTS
+   a. Letters (a)(b)(c) on Vr. loci, stored in column "variant" as printed (assumed variant readings of Vr.):
+      6.12 vidyullēkhā Vr. 3. 9. 2 (b)
+      6.12 sāvitrī Vr. 3. 9. 2 (a)
+      8.7 nārāca Vr. 3. 19. 2 (a,b)
+      8.7 nārācikā Vr. 3. 19. 2 (a,b)
+      12.2 vasantamañjarī Vr. 3. 64. 2 (b)
+      12.2 śuddhavirāṭ Vr. 3. 64. 2 (a)
+      12.5 pañcacāmara Vr. 3. 64. 4 (a)
+      12.5 vasantacāmara Vr. 3. 64. 4 (c)
+      12.5 vibhāvarī Vr. 3. 64. 4 (b)
+      12.18 tati Vr. 3. 64. 6 (a)
+      12.18 varatanu Vr. 3. 64. 6 (b)
+      13.39 kuṭaja Vr. 3. 70. 13 (b)
+      13.39 nandinī Vr. 3. 70. 13 (a)
+      13.39 navanāndinī Vr. 3. 70. 13 (a)
+      14.6 dhr̥ti Vr. 3. 77. 4 (a)
+      14.6 pramadā Vr. 3. 77. 4 (b)
+      14.28 kuṭila Vr. 3. 77. 7 (b)
+      14.28 haṁsaśyēnī Vr. 3. 77. 7 (a,c)
+      14.28 madhyakṣāmā Vr. 3. 77. 7 (a,c)
+      14.37 pathyā Vr. 3. 77. 11 (b)
+      14.37 mañjarī Vr. 3. 77. 11 (a,c)
+      14.37 vasudhā Vr. 3. 77. 11 (a,c)
+      18.7 nārāca Vr. 3. 94. 2 (a,b,c)
+      18.7 mahāmālikā Vr. 3. 94. 2 (a,b,c)
+      18.7 siṁhavikrīḍita Vr. 3. 94. 2 (a,b,c)
+      18.8 tārakā Vr. 3. 94. 4 (a,b,c)
+      18.8 priyā Vr. 3. 94. 4 (a,b,c)
+      18.8 niśā Vr. 3. 94. 4 (a,b,c)
+   b. Variant readings "v. l." or names in parentheses after a locus (column "variant"):
+      6.15 vīthī Vr. 3. 9. 4: v. l. anukūla, sōmakula
+      11.18 bhadrikā Vr. 3. 41: v. l. candrikā
+      11.19 vr̥ntā Vr. 3. 40: v. l. vr̥ttā or pr̥thvī
+      11.36 śyēnī Vr. 3. 42: v. l. vaitikā
+      12.41 lalanā Vr. 3. 64. 13: v. l. lalitā
+      13.2 rucirā Vr. 3. 67: v. l. atirucirā
+      14.26 bhūtalatanvī Bh. 32. 166: v. l. kusumavatī-Nsp.
+      15.29 atirēkhā Vr. 3. 83: v. l.
+      16.3 vāṇinī Vr. 3. 86: v. l.
+      17.4 narkuṭaka Vr. 3. 92: v. l. kuṭaka
+      18.22 kēsara Vr. 3. 94. 9: kēśara
+      22.5 prabhadraka Vr. : v. l.
+      22.5 bhadraka Vr. : v. l.
+   c. Yati given for one source only (column "source_yati"); a number in parentheses before a source was assigned to the
+      source that follows, one after a locus to the source it follows;
+      the last word says where the number was printed:
+      11.22 rājahaṁsī Mm. 9. 11: 6,5   (before the source)
+      11.35 ēkarūpa Jk. 2. 113: 6,5   (after the source)
+      13.25 candralēkhā Vr. 3. 70. 10: 6,7   (after the source)
+      14.9 supavitra Vr. 3. 77. 5: 8,6   (after the source)
+      14.28 haṁsaśyāmā Jk. 2. 167: 4,10   (before the source)
+      14.28 haṁsaśyēnī Vr. 3. 77. 7: 4,10   (before the source)
+      14.28 madhyakṣāmā Vr. 3. 77. 7: 4,10   (before the source)
+      15.24 ramaṇīyaka Jk. 2. 196: 3,12   (after the source)
+      17.19 atiśāyinī Vr. 3. 93. 5: none   (after the source)
+      21.11 suranartakī Mm. 19. 17: 6,6,6   (before the source)
+      26.6 āpīḍa Rm. 7. 30: 13,13   (after the source)
+   d. Names given as alternatives ("X or Y Src.", "X (or Y) Src."): both get the source; check the source uses both.
